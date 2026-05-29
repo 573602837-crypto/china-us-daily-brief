@@ -156,7 +156,7 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
 
   for (const provider of providers) {
     try {
-      const result = await provider.fetch({});
+      const result = await provider.fetch([]);
       providerLogs.push(...result.logs);
       totalFetched += result.candidates.length;
 
