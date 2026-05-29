@@ -50,6 +50,11 @@ function toArticleView(article: StoredArticle): ArticleView {
     importanceLevel: article.importanceLevel,
     chinaRelated: article.chinaRelated,
     sourceReliability: 3
+    relatedOrganizationTags: article.relatedOrganizationTags ?? [],
+    relatedEntityTags: article.relatedEntityTags ?? [],
+    providersSeen: article.providersSeen ?? [article.providerName].filter(Boolean),
+    discoveryLayers: article.discoveryLayers ?? [],
+    matchedQueries: article.matchedQueries ?? [],
   };
 }
 
