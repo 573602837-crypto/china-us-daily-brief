@@ -82,14 +82,14 @@ async function processCandidate(candidate: RawArticleCandidate): Promise<Process
     chinaRelated
   });
 
-  return {
+return {
     ...normalizedCandidate,
     ...summary,
     id: buildArticleId(normalizedCandidate.originalUrl),
     topicTags,
-    peopleMatches,
-    peopleTags: peopleMatches.map((match) => match.personName),
-    entityMatches: entityMatches ?? [],
+    peopleMatches: personMatches,
+    peopleTags,
+    entityMatches: [],
     relatedOrganizationTags: normalizedCandidate.relatedOrganizationTags ?? [],
     relatedEntityTags: normalizedCandidate.relatedEntityTags ?? [],
     providersSeen: normalizedCandidate.providersSeen ?? [normalizedCandidate.providerName].filter(Boolean),
