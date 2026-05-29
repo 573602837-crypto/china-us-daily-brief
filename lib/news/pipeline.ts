@@ -82,7 +82,7 @@ async function processCandidate(candidate: RawArticleCandidate): Promise<Process
     chinaRelated
   });
 
-return {
+  return {
     ...normalizedCandidate,
     ...summary,
     id: buildArticleId(normalizedCandidate.originalUrl),
@@ -90,11 +90,11 @@ return {
     peopleMatches: personMatches,
     peopleTags,
     entityMatches: [],
-    relatedOrganizationTags: normalizedCandidate.relatedOrganizationTags ?? [],
-    relatedEntityTags: normalizedCandidate.relatedEntityTags ?? [],
-    providersSeen: normalizedCandidate.providersSeen ?? [normalizedCandidate.providerName].filter(Boolean),
-    discoveryLayers: normalizedCandidate.discoveryLayers ?? [],
-    matchedQueries: normalizedCandidate.matchedQueries ?? [],
+    relatedOrganizationTags: [],
+    relatedEntityTags: [],
+    providersSeen: [normalizedCandidate.providerName].filter(Boolean),
+    discoveryLayers: normalizedCandidate.discoveryLayer ? [normalizedCandidate.discoveryLayer] : [],
+    matchedQueries: normalizedCandidate.providerQuery ? [normalizedCandidate.providerQuery] : [],
     importanceLevel,
     chinaRelated,
     titleFingerprint: fingerprintTitle(normalizedCandidate.originalTitle),
