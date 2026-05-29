@@ -97,7 +97,11 @@ async function processCandidate(candidate: RawArticleCandidate): Promise<Process
     matchedQueries: normalizedCandidate.providerQuery ? [normalizedCandidate.providerQuery] : [],
     importanceLevel,
     chinaRelated,
-    titleFingerprint: fingerprintTitle(normalizedCandidate.originalTitle),
+    titleFingerprint: buildTitleFingerprint(
+      normalizedCandidate.originalTitle,
+      normalizedCandidate.sourceName,
+      toDateKey(normalizedCandidate.publishedAt)
+    ),
   };
 }
 
