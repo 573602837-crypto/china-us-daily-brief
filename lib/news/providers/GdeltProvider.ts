@@ -89,7 +89,7 @@ export class GdeltProvider implements NewsProvider {
               targetEntityIds: job.targetEntityIds,
               targetEntityNames: job.targetEntityNames,
               originalTitle: cleanHtmlToText(article.title || ""),
-              originalUrl: normalizeUrl(article.url || `https://${domain}`),
+              originalUrl: normalizeUrl(article.url || "https://api.gdeltproject.org"),
               publishedAt: parseDate(article.seendate) || new Date(),
               rawDescription: trimText(cleanHtmlToText(article.snippet || ""), 800),
               contentSnippet: trimText(cleanHtmlToText(article.snippet || article.title || ""), 800)
