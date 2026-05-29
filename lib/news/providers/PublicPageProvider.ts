@@ -60,7 +60,7 @@ function isLikelyContentLink(source: SourceConfig | ContentSource, url: string, 
 
   try {
     const pathName = new URL(url).pathname;
-    const fallbackUrls = "fallbackPageUrls" in source ? source.fallbackPageUrls || [] : source.indexPageUrls || [];
+    const fallbackUrls = ("fallbackPageUrls" in source ? source.fallbackPageUrls : (source as ContentSource).indexPageUrls) || [];
     const fallbackPaths = new Set(fallbackUrls.map((item) => new URL(item).pathname));
 
     if (fallbackPaths.has(pathName) || pathName === "/" || /\.(jpg|jpeg|png|gif|webp|svg|mp4|zip)$/i.test(pathName)) {
