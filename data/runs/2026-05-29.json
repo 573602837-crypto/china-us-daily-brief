@@ -1,0 +1,1411 @@
+{
+  "runDate": "2026-05-29",
+  "startedAt": "2026-05-29T12:35:51.503Z",
+  "endedAt": "2026-05-29T12:39:43.768Z",
+  "status": "partial",
+  "totalFetched": 142,
+  "totalSaved": 38,
+  "totalSkipped": 104,
+  "providerLogs": [
+    {
+      "providerName": "RssProvider",
+      "query": "the-hill https://thehill.com/policy/international/feed/",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 2,
+      "totalSkipped": 10
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "the-hill-technology https://thehill.com/policy/technology/feed/",
+      "status": "success",
+      "totalFetched": 8,
+      "totalSaved": 0,
+      "totalSkipped": 8
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "the-hill-house https://thehill.com/homenews/house/feed/",
+      "status": "success",
+      "totalFetched": 8,
+      "totalSaved": 0,
+      "totalSkipped": 8
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "the-hill-senate https://thehill.com/homenews/senate/feed/",
+      "status": "success",
+      "totalFetched": 8,
+      "totalSaved": 2,
+      "totalSkipped": 6
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "axios https://www.axios.com/feeds/feed.rss",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "axios https://api.axios.com/feed/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "politico https://rss.politico.com/politics-news.xml",
+      "status": "success",
+      "totalFetched": 16,
+      "totalSaved": 2,
+      "totalSkipped": 14
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "politico-congress https://rss.politico.com/congress.xml",
+      "status": "success",
+      "totalFetched": 14,
+      "totalSaved": 0,
+      "totalSkipped": 14
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "politico-white-house https://rss.politico.com/whitehouse.xml",
+      "status": "success",
+      "totalFetched": 14,
+      "totalSaved": 0,
+      "totalSkipped": 14
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "politico-defense https://rss.politico.com/defense.xml",
+      "status": "success",
+      "totalFetched": 10,
+      "totalSaved": 0,
+      "totalSkipped": 10
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "cnn-politics https://rss.cnn.com/rss/cnn_allpolitics.rss",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "boston-globe https://www.bostonglobe.com/rss/nation",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "wall-street-journal https://feeds.a.dj.com/rss/RSSPoliticsAndPolicy.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+      "status": "success",
+      "totalFetched": 16,
+      "totalSaved": 0,
+      "totalSkipped": 16
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/arcio/rss/category/politics/",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/arcio/rss/category/world/",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/arcio/rss/category/business/technology/",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://feeds.washingtonpost.com/rss/politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/politics/?outputType=rss",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "new-york-times-world https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/feeds/region/Asia/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/feeds/topic/Trade/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-policy https://foreignpolicy.com/feed/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "the-atlantic https://www.theatlantic.com/feed/all/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "axios https://www.axios.com/politics-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "axios https://www.axios.com/world",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "axios https://www.axios.com/technology",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/politics/",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/world/asia-pacific/",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/business/technology/",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/china",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/united-states",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/resource-hub",
+      "status": "success",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/issue-papers-main",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 12,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/talking-points-main",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 10,
+      "totalSkipped": 2
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/polling-research-main",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 10,
+      "totalSkipped": 2
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com/issues",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com/newsroom",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "thehill.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "thehill.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "thehill.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "thehill.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "thehill.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "axios.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "axios.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "axios.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "axios.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "axios.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "politico.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "politico.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "politico.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "politico.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "politico.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foxnews.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foxnews.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foxnews.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foxnews.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foxnews.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "cnn.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "cnn.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "cnn.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "cnn.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "cnn.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "bostonglobe.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "bostonglobe.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "bostonglobe.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "bostonglobe.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "bostonglobe.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "wsj.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "wsj.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "wsj.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "wsj.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "wsj.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "washingtonpost.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "washingtonpost.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "washingtonpost.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "washingtonpost.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "washingtonpost.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nytimes.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nytimes.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nytimes.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nytimes.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nytimes.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignaffairs.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignaffairs.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignaffairs.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignaffairs.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignaffairs.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignpolicy.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignpolicy.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignpolicy.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignpolicy.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "foreignpolicy.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "theatlantic.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "theatlantic.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "theatlantic.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "theatlantic.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "theatlantic.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nationalsecurityaction.org core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nationalsecurityaction.org trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nationalsecurityaction.org us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nationalsecurityaction.org republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "nationalsecurityaction.org democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "americafirstpolicy.com core",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "americafirstpolicy.com trade-tech",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "americafirstpolicy.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "americafirstpolicy.com republican-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GoogleNewsRssProvider",
+      "query": "americafirstpolicy.com democratic-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "thehill.com china-policy",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "thehill.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "thehill.com tracked-people",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "axios.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "axios.com us-politics",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "axios.com tracked-people",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "politico.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "politico.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "politico.com tracked-people",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "foxnews.com china-policy",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "foxnews.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "foxnews.com tracked-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "cnn.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "cnn.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "cnn.com tracked-people",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "bostonglobe.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "bostonglobe.com us-politics",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "bostonglobe.com tracked-people",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "wsj.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "wsj.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "wsj.com tracked-people",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "washingtonpost.com china-policy",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "washingtonpost.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "washingtonpost.com tracked-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "nytimes.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "nytimes.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "nytimes.com tracked-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "foreignaffairs.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "foreignaffairs.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "foreignaffairs.com tracked-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "foreignpolicy.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "foreignpolicy.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "foreignpolicy.com tracked-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "theatlantic.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "theatlantic.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "theatlantic.com tracked-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "nationalsecurityaction.org china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "nationalsecurityaction.org us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "nationalsecurityaction.org tracked-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "americafirstpolicy.com china-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "americafirstpolicy.com us-politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "GdeltProvider",
+      "query": "americafirstpolicy.com tracked-people",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    }
+  ]
+}

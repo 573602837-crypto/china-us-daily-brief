@@ -1,0 +1,101 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Article {
+  id                String        @id @default(cuid())
+  sourceId          String?
+  sourceName        String
+  sourceType        String
+  originalTitle     String
+  chineseTitle      String
+  originalUrl       String        @unique
+  publishedAt       DateTime
+  fetchedAt         DateTime      @default(now())
+  author            String?
+  summaryZh         String
+  summaryBasis      String
+  contentSnippet    String?
+  topicTags         String        @default("[]")
+  peopleTags        String        @default("[]")
+  importanceLevel   Int           @default(1)
+  chinaRelated      Boolean       @default(false)
+  sourceReliability Int           @default(3)
+  rawDescription    String?
+  titleFingerprint  String
+  createdAt         DateTime      @default(now())
+  updatedAt         DateTime      @updatedAt
+  personMatches     PersonMatch[]
+
+  @@index([publishedAt])
+  @@index([sourceName, publishedAt])
+  @@index([titleFingerprint])
+  @@index([chinaRelated, publishedAt])
+}
+
+model Source {
+  id            String    @id
+  name          String
+  type          String
+  homepageUrl   String
+  rssUrl        String?
+  enabled       Boolean   @default(true)
+  lastFetchedAt DateTime?
+  lastFetchStatus  String?
+  lastFetchMessage String?
+  lastItemCount    Int       @default(0)
+  reliability   Int       @default(3)
+  notes         String?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+}
+
+model Person {
+  id        String        @id
+  nameEn    String
+  nameZh    String
+  team      String
+  aliases   String        @default("[]")
+  priority  Boolean       @default(false)
+  enabled   Boolean       @default(true)
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @updatedAt
+  matches   PersonMatch[]
+}
+
+model PersonMatch {
+  id             String   @id @default(cuid())
+  articleId      String
+  personId       String
+  matchedAlias   String
+  confidence     String
+  contextSnippet String?
+  createdAt      DateTime @default(now())
+  article        Article  @relation(fields: [articleId], references: [id], onDelete: Cascade)
+  person         Person   @relation(fields: [personId], references: [id], onDelete: Cascade)
+
+  @@unique([articleId, personId, matchedAlias])
+  @@index([personId])
+  @@index([articleId])
+}
+
+model DailyRun {
+  id           String    @id @default(cuid())
+  runDate      String
+  startedAt    DateTime  @default(now())
+  endedAt      DateTime?
+  status       String
+  totalFetched Int       @default(0)
+  totalSaved   Int       @default(0)
+  totalSkipped Int       @default(0)
+  errorMessage String?
+  createdAt    DateTime  @default(now())
+
+  @@index([runDate])
+  @@index([startedAt])
+}

@@ -1,0 +1,37 @@
+{
+  "name": "china-us-daily-brief",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "dev": "DATABASE_URL=\"file:./dev.db\" next dev",
+    "build": "DATABASE_URL=\"file:./dev.db\" next build",
+    "start": "DATABASE_URL=\"file:./dev.db\" next start",
+    "typecheck": "tsc --noEmit",
+    "db:generate": "DATABASE_URL=\"file:./dev.db\" prisma generate",
+    "db:push": "DATABASE_URL=\"file:./dev.db\" prisma db push",
+    "fetch:daily": "tsx scripts/fetch-daily.ts",
+    "scheduler": "tsx scripts/scheduler.ts",
+    "postinstall": "DATABASE_URL=\"file:./dev.db\" prisma generate"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "fast-xml-parser": "^5.0.8",
+    "next": "^15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.15",
+    "prisma": "^5.22.0",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.20.5",
+    "typescript": "^5.8.2"
+  }
+}

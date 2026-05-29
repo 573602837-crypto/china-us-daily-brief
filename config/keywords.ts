@@ -1,0 +1,60 @@
+export const RELEVANCE_KEYWORDS = [
+  "china",
+  "u.s.-china",
+  "us-china",
+  "chinese communist party",
+  "ccp",
+  "taiwan",
+  "tariffs",
+  "tariff",
+  "trade",
+  "technology",
+  "ai",
+  "artificial intelligence",
+  "semiconductor",
+  "chip",
+  "chips",
+  "export controls",
+  "congress",
+  "national security",
+  "election",
+  "trump",
+  "democrats",
+  "republicans",
+  "white house",
+  "state department",
+  "treasury",
+  "pentagon",
+  "supply chain"
+];
+
+export const NEGATIVE_KEYWORDS = [
+  "sports",
+  "football",
+  "basketball",
+  "baseball",
+  "celebrity",
+  "movie",
+  "music",
+  "restaurant",
+  "travel",
+  "weather"
+];
+
+export const CHINA_RELATED_KEYWORDS = [
+  "china",
+  "chinese",
+  "beijing",
+  "u.s.-china",
+  "us-china",
+  "ccp",
+  "chinese communist party",
+  "taiwan",
+  "hong kong",
+  "xinjiang",
+  "huawei",
+  "tiktok",
+  "bytedance",
+  "semiconductor",
+  "export controls"
+];
