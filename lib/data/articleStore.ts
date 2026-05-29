@@ -49,7 +49,7 @@ function toArticleView(article: StoredArticle): ArticleView {
     peopleMatches: article.peopleMatches,
     importanceLevel: article.importanceLevel,
     chinaRelated: article.chinaRelated,
-    sourceReliability: 3
+    sourceReliability: 3,
     relatedOrganizationTags: article.relatedOrganizationTags ?? [],
     relatedEntityTags: article.relatedEntityTags ?? [],
     providersSeen: article.providersSeen ?? [article.providerName].filter(Boolean),
