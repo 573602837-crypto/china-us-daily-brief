@@ -1,5 +1,4 @@
 import type { ContentSource } from "@/config/content-sources";
-import type { SourceConfig } from "@/config/sources";
 import type { NewsProvider, ProviderFetchResult } from "@/lib/news/providers/types";
 import { buildProviderLog, fetchText, getSourceDomain, runWithConcurrency } from "@/lib/news/providers/providerUtils";
 import { cleanHtmlToText, normalizeUrl, parseDate, trimText } from "@/lib/news/text";
@@ -39,14 +38,14 @@ function extractDate(text: string): Date | null {
   return match ? parseDate(match[0]) : null;
 }
 
-function isSameSourceDomain(url: string, source: SourceConfig | ContentSource): boolean {
+function isSameSourceDomain(url: string, source: ContentSource): boolean {
   const sourceDomain = getSourceDomain(source.homepageUrl);
   const linkDomain = getSourceDomain(url);
 
   return linkDomain === sourceDomain || linkDomain.endsWith(`.${sourceDomain}`);
 }
 
-function isLikelyContentLink(source: SourceConfig | ContentSource, url: string, text: string, pageUrl: string): boolean {
+function isLikelyContentLink(source: ContentSource, url: string, text: string, pageUrl: string): boolean {
   if (!isSameSourceDomain(url, source) || url === pageUrl) {
     return false;
   }
@@ -60,7 +59,7 @@ function isLikelyContentLink(source: SourceConfig | ContentSource, url: string, 
 
   try {
     const pathName = new URL(url).pathname;
-    const fallbackUrls = ("fallbackPageUrls" in source ? source.fallbackPageUrls : (source as ContentSource).indexPageUrls) || [];
+    const fallbackUrls = source.indexPageUrls || [];
     const fallbackPaths = new Set(fallbackUrls.map((item) => new URL(item).pathname));
 
     if (fallbackPaths.has(pathName) || pathName === "/" || /\.(jpg|jpeg|png|gif|webp|svg|mp4|zip)$/i.test(pathName)) {
@@ -93,7 +92,7 @@ function isLikelyContentLink(source: SourceConfig | ContentSource, url: string, 
   }
 }
 
-function extractPageCandidates(source: SourceConfig | ContentSource, pageUrl: string, html: string) {
+function extractPageCandidates(source: ContentSource, pageUrl: string, html: string) {
   const sourceDomain = getSourceDomain(source.homepageUrl);
   const candidates: ProviderFetchResult["candidates"] = [];
   const seenUrls = new Set<string>();
