@@ -87,11 +87,17 @@ async function processCandidate(candidate: RawArticleCandidate): Promise<Process
     ...summary,
     id: buildArticleId(normalizedCandidate.originalUrl),
     topicTags,
-    peopleMatches: personMatches,
-    peopleTags,
+    peopleMatches,
+    peopleTags: peopleMatches.map((match) => match.personName),
+    entityMatches: entityMatches ?? [],
+    relatedOrganizationTags: normalizedCandidate.relatedOrganizationTags ?? [],
+    relatedEntityTags: normalizedCandidate.relatedEntityTags ?? [],
+    providersSeen: normalizedCandidate.providersSeen ?? [normalizedCandidate.providerName].filter(Boolean),
+    discoveryLayers: normalizedCandidate.discoveryLayers ?? [],
+    matchedQueries: normalizedCandidate.matchedQueries ?? [],
     importanceLevel,
     chinaRelated,
-    titleFingerprint: dedupeKey(normalizedCandidate)
+    titleFingerprint: fingerprintTitle(normalizedCandidate.originalTitle),
   };
 }
 
