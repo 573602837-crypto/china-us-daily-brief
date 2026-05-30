@@ -1,0 +1,47 @@
+name: Daily News
+
+on:
+  schedule:
+    # GitHub Actions cron uses UTC. 23:00 UTC is 07:00 in Asia/Shanghai.
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-daily-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch daily news
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          BRIEF_TIMEZONE: Asia/Shanghai
+        run: npm run fetch:daily
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- data/articles data/runs data/source-health; then
+            echo "No news data changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          DATE=$(TZ=Asia/Shanghai date +%F)
+          git add data/articles data/runs data/source-health
+          git commit -m "chore: update daily news ${DATE}"
+          git push
