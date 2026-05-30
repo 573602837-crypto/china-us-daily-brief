@@ -12,7 +12,7 @@
     "typecheck": "tsc --noEmit",
     "db:generate": "DATABASE_URL=\"file:./dev.db\" prisma generate",
     "db:push": "DATABASE_URL=\"file:./dev.db\" prisma db push",
-    "fetch:daily": "tsx scripts/fetch-daily.ts",
+    "fetch:daily": "if [ -f .env.local ]; then tsx --env-file=.env.local scripts/fetch-daily.ts; else tsx scripts/fetch-daily.ts; fi",
     "scheduler": "tsx scripts/scheduler.ts",
     "postinstall": "DATABASE_URL=\"file:./dev.db\" prisma generate"
   },
