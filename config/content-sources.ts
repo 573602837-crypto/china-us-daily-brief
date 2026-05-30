@@ -1,6 +1,6 @@
 import { SOURCES as LEGACY_SOURCES } from "@/config/sources";
 
-export type ContentSourceType = "media" | "journal" | "think_tank" | "official" | "government";
+export type ContentSourceType = "media" | "journal" | "think_tank" | "official" | "government" | "social";
 
 export type ContentSource = {
   id: string;
@@ -204,4 +204,41 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
   }
 ];
 
-export const CONTENT_SOURCES: ContentSource[] = [...LEGACY_CONTENT_SOURCES, ...OFFICIAL_CONTENT_SOURCES];
+const SOCIAL_CONTENT_SOURCES: ContentSource[] = [
+  {
+    id: "truth-social",
+    name: "Truth Social",
+    domain: "truthsocial.com",
+    type: "social",
+    homepageUrl: "https://truthsocial.com",
+    rssUrls: [],
+    sitemapUrls: ["https://truthsocial.com/sitemap.xml"],
+    robotsUrl: "https://truthsocial.com/robots.txt",
+    indexPageUrls: ["https://truthsocial.com/@realDonaldTrump"],
+    googleNewsQueries: [
+      "site:truthsocial.com/@realDonaldTrump China",
+      "site:truthsocial.com/@realDonaldTrump Taiwan",
+      "site:truthsocial.com/@realDonaldTrump tariffs",
+      "site:truthsocial.com/@realDonaldTrump trade",
+      "site:truthsocial.com/@realDonaldTrump \"national security\"",
+      "\"Truth Social\" \"Donald Trump\" China",
+      "\"Truth Social\" Trump Taiwan",
+      "\"Truth Social\" Trump tariffs",
+      "\"Truth Social\" Trump \"national security\""
+    ],
+    gdeltQueries: [
+      "domain:truthsocial.com (Trump OR China OR Taiwan OR tariffs OR trade OR national security)",
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    enabled: true,
+    reliability: 3,
+    maxItemsPerRun: 12,
+    notes: "优先通过公开个人页、Google News RSS 和 GDELT 发现；不绕过登录、Cloudflare 或受限接口。"
+  }
+];
+
+export const CONTENT_SOURCES: ContentSource[] = [
+  ...LEGACY_CONTENT_SOURCES,
+  ...OFFICIAL_CONTENT_SOURCES,
+  ...SOCIAL_CONTENT_SOURCES
+];

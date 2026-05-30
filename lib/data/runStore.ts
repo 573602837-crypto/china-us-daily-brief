@@ -1,4 +1,4 @@
-import { SOURCES } from "@/config/sources";
+import { CONTENT_SOURCES } from "@/config/content-sources";
 import { getAllStoredArticles } from "@/lib/data/articleStore";
 import { getDataPath, listJsonDates, readJsonFile, writeJsonFile } from "@/lib/data/jsonStore";
 import type { DailyRunLog } from "@/lib/news/types";
@@ -21,14 +21,14 @@ export async function getSourceStatus() {
   const [articles, runs] = await Promise.all([getAllStoredArticles(), getRecentRuns()]);
   const latestRun = runs[0];
 
-  return SOURCES.map((source) => {
+  return CONTENT_SOURCES.map((source) => {
     const sourceArticles = articles.filter(
-      (article) => article.sourceName === source.name || article.sourceDomain === new URL(source.homepageUrl).hostname.replace(/^www\./, "")
+      (article) => article.sourceName === source.name || article.sourceDomain === source.domain
     );
     const providerLogs = latestRun?.providerLogs.filter((log) =>
       log.query.includes(source.id) ||
       log.query.includes(source.name) ||
-      log.query.includes(new URL(source.homepageUrl).hostname.replace(/^www\./, ""))
+      log.query.includes(source.domain)
     ) || [];
     const failed = providerLogs.filter((log) => log.status === "failed");
     const fetched = providerLogs.reduce((sum, log) => sum + log.totalFetched, 0);
@@ -38,7 +38,7 @@ export async function getSourceStatus() {
       name: source.name,
       type: source.type,
       homepageUrl: source.homepageUrl,
-      rssUrl: source.rssUrl || null,
+      rssUrl: source.rssUrls[0] || null,
       enabled: source.enabled,
       notes: source.notes || null,
       lastFetchedAt: latestRun ? new Date(latestRun.endedAt) : null,
@@ -47,7 +47,7 @@ export async function getSourceStatus() {
           ? "failed"
           : "success"
         : "未运行",
-      lastFetchMessage: failed[0]?.errorMessage || source.notes || source.rssUrl || "公开来源",
+      lastFetchMessage: failed[0]?.errorMessage || source.notes || source.rssUrls[0] || "公开来源",
       lastItemCount: fetched || sourceArticles.length,
       savedCount: sourceArticles.length
     };

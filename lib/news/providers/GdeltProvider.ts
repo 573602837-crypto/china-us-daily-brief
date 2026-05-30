@@ -28,7 +28,8 @@ function sourceNameFromDomain(domain: string, fallback?: string): string {
     "foreignpolicy.com": "Foreign Policy",
     "theatlantic.com": "The Atlantic",
     "nationalsecurityaction.org": "National Security Action",
-    "americafirstpolicy.com": "America First Policy Institute"
+    "americafirstpolicy.com": "America First Policy Institute",
+    "truthsocial.com": "Truth Social"
   };
 
   return known[domain] || fallback || domain;

@@ -38,6 +38,17 @@ data/runs/YYYY-MM-DD.json
 
 如果本地网络无法访问 Google News 或 GDELT，网站仍然可以运行；云端 GitHub Actions 会在 GitHub 网络环境里定时抓取。
 
+首页“手动更新”按钮在本地会直接调用 `/api/fetch` 运行抓取。部署到 EdgeOne 后，推荐让按钮触发 GitHub Actions，而不是在边缘环境里直接抓取和写文件；需要在 EdgeOne 环境变量里配置：
+
+```text
+GITHUB_ACTIONS_TRIGGER_TOKEN=你的 GitHub fine-grained token 或 PAT
+GITHUB_ACTIONS_REPOSITORY=owner/repo
+GITHUB_ACTIONS_WORKFLOW=daily-news.yml
+GITHUB_ACTIONS_REF=main
+```
+
+没有这些变量时，线上按钮会返回明确错误提示；GitHub Actions 的定时抓取仍然照常工作。
+
 ## GitHub Actions
 
 工作流文件：
@@ -58,8 +69,10 @@ data/runs/YYYY-MM-DD.json
 
 ## 配置文件
 
-- `config/sources.ts`：公开 RSS 来源
-- `config/providers.ts`：Google News RSS / GDELT 查询域名、查询组、公开 sitemap 和公开索引页来源
+- `config/content-sources.ts`：真实内容来源，包括媒体、智库、官方来源和 Truth Social
+- `config/tracked-entities.ts`：人物、机构、团队、议题等追踪实体
+- `config/query-matrix.ts`：source/entity/issue 三层自动发现查询组合
+- `config/sources.ts`：旧版公开 RSS 来源，仍会映射进 ContentSource
 - `config/people.ts`：重点人物与别名
 - `config/keywords.ts`：相关性关键词
 - `config/topics.ts`：主题分类规则

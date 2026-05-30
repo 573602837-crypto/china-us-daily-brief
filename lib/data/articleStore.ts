@@ -94,7 +94,11 @@ function matchesSearch(article: StoredArticle, query: string): boolean {
     article.sourceName,
     article.sourceDomain,
     article.rawDescription || "",
-    article.contentSnippet || ""
+    article.contentSnippet || "",
+    ...(article.relatedOrganizationTags || []),
+    ...(article.relatedEntityTags || []),
+    ...(article.providersSeen || []),
+    ...(article.matchedQueries || [])
   ]
     .join(" ")
     .toLowerCase()

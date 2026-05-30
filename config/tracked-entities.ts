@@ -45,6 +45,15 @@ export const TRACKED_ENTITIES: TrackedEntity[] = [
     priority: true
   },
   {
+    id: "truth-social",
+    name: "Truth Social",
+    type: "organization",
+    aliases: ["Truth Social", "truthsocial.com", "@realDonaldTrump"],
+    relatedTopics: ["us_domestic", "key_figures"],
+    enabled: true,
+    priority: true
+  },
+  {
     id: "trump-team",
     name: "Trump team",
     type: "team",

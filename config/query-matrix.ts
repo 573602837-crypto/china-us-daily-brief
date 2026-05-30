@@ -27,7 +27,9 @@ export const PERSON_ORGANIZATION_QUERIES = [
   ["Mike Needham", "America First Policy Institute"],
   ["Jake Sullivan", "National Security Action"],
   ["Gavin Newsom", "Trump"],
-  ["JD Vance", "Michael Needham"]
+  ["JD Vance", "Michael Needham"],
+  ["Donald Trump", "Truth Social"],
+  ["Stephen Miller", "Truth Social"]
 ];
 
 export const ISSUE_QUERIES = [
@@ -84,5 +86,18 @@ export const PRIORITY_SOURCE_QUERIES: Record<string, string[]> = {
     "AFPI \"national security\"",
     "\"Stephen Miller\" \"America First Policy Institute\"",
     "\"Michael Needham\" \"America First Policy Institute\""
+  ],
+  "truth-social": [
+    "site:truthsocial.com/@realDonaldTrump China",
+    "site:truthsocial.com/@realDonaldTrump Taiwan",
+    "site:truthsocial.com/@realDonaldTrump tariffs",
+    "site:truthsocial.com/@realDonaldTrump trade",
+    "site:truthsocial.com/@realDonaldTrump \"national security\"",
+    "\"Truth Social\" \"Donald Trump\" China",
+    "\"Truth Social\" Trump Taiwan",
+    "\"Truth Social\" Trump tariffs",
+    "\"Truth Social\" Trump \"national security\"",
+    "\"Donald Trump\" \"Truth Social\" \"China\"",
+    "\"Donald Trump\" \"Truth Social\" \"Taiwan\""
   ]
 };

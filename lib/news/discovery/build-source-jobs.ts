@@ -1,5 +1,6 @@
 import { CONTENT_SOURCES } from "@/config/content-sources";
 import { PRIORITY_SOURCE_QUERIES, SOURCE_TOPIC_TERMS } from "@/config/query-matrix";
+import { TRACKED_ENTITIES } from "@/config/tracked-entities";
 import type { DiscoveryJob } from "@/lib/news/discovery/types";
 import { buildStableHash } from "@/lib/news/text";
 
@@ -11,11 +12,18 @@ function sourceTargetNames(sourceName: string): string[] {
   return [sourceName];
 }
 
+function sourceTargetIds(sourceId: string, sourceName: string): string[] {
+  return TRACKED_ENTITIES.filter(
+    (entity) => entity.id === sourceId || entity.name === sourceName || entity.aliases.includes(sourceName)
+  ).map((entity) => entity.id);
+}
+
 export function buildSourceDiscoveryJobs(): DiscoveryJob[] {
   const jobs: DiscoveryJob[] = [];
 
   for (const source of CONTENT_SOURCES.filter((item) => item.enabled)) {
     const targetEntityNames = sourceTargetNames(source.name);
+    const targetEntityIds = sourceTargetIds(source.id, source.name);
 
     for (const url of source.rssUrls) {
       jobs.push({
@@ -27,7 +35,7 @@ export function buildSourceDiscoveryJobs(): DiscoveryJob[] {
         source,
         sourceName: source.name,
         sourceDomain: source.domain,
-        targetEntityIds: [],
+        targetEntityIds,
         targetEntityNames
       });
     }
@@ -42,7 +50,7 @@ export function buildSourceDiscoveryJobs(): DiscoveryJob[] {
         source,
         sourceName: source.name,
         sourceDomain: source.domain,
-        targetEntityIds: [],
+        targetEntityIds,
         targetEntityNames
       });
     }
@@ -57,7 +65,7 @@ export function buildSourceDiscoveryJobs(): DiscoveryJob[] {
         source,
         sourceName: source.name,
         sourceDomain: source.domain,
-        targetEntityIds: [],
+        targetEntityIds,
         targetEntityNames
       });
     }
@@ -72,7 +80,7 @@ export function buildSourceDiscoveryJobs(): DiscoveryJob[] {
         source,
         sourceName: source.name,
         sourceDomain: source.domain,
-        targetEntityIds: [],
+        targetEntityIds,
         targetEntityNames
       });
     }
@@ -92,7 +100,7 @@ export function buildSourceDiscoveryJobs(): DiscoveryJob[] {
         source,
         sourceName: source.name,
         sourceDomain: source.domain,
-        targetEntityIds: [],
+        targetEntityIds,
         targetEntityNames
       });
     }
@@ -106,7 +114,7 @@ export function buildSourceDiscoveryJobs(): DiscoveryJob[] {
         source,
         sourceName: source.name,
         sourceDomain: source.domain,
-        targetEntityIds: [],
+        targetEntityIds,
         targetEntityNames
       });
     }

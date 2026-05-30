@@ -42,6 +42,11 @@ export function ArticleCard({ article }: { article: ArticleView }) {
             {person.nameZh} · {person.matchedAlias} · {person.confidence}
           </span>
         ))}
+        {article.relatedEntityTags.map((entity) => (
+          <span className="rounded-md bg-violet-50 px-2 py-1 text-xs font-semibold text-violet-700" key={entity}>
+            {entity}
+          </span>
+        ))}
       </div>
 
       <a

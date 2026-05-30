@@ -31,6 +31,9 @@ export class RssProvider implements NewsProvider {
             .slice(0, source.maxItemsPerRun || 24)
             .map((candidate) => ({
               ...candidate,
+              source,
+              sourceName: job.sourceName || candidate.sourceName,
+              sourceDomain: job.sourceDomain || candidate.sourceDomain,
               discoveryLayer: job.layer,
               matchedQuery: job.query,
               targetEntityIds: job.targetEntityIds,

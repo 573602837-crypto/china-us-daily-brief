@@ -1,6 +1,9 @@
 import { readArticlesForDate, writeArticlesForDate, getArticlesFilePath } from "@/lib/data/articleStore";
 import { writeRunLog, getRunLogFilePath } from "@/lib/data/runStore";
+import { TRACKED_ENTITIES, type TrackedEntity } from "@/config/tracked-entities";
 import { classifyTopics, getCandidateText, isChinaRelated, isRelevantCandidate } from "@/lib/news/classify";
+import { buildDiscoveryJobs } from "@/lib/news/discovery/build-discovery-jobs";
+import { matchEntities } from "@/lib/news/entityMatcher";
 import { scoreImportance } from "@/lib/news/importance";
 import { matchPeople } from "@/lib/news/peopleMatcher";
 import { getNewsProviders } from "@/lib/news/providers";
@@ -55,9 +58,56 @@ function toStoredArticle(article: ProcessedArticle): StoredArticle {
     topicTags: article.topicTags,
     peopleTags: article.peopleTags,
     peopleMatches: article.peopleMatches,
+    entityMatches: article.entityMatches,
+    relatedOrganizationTags: article.relatedOrganizationTags,
+    relatedEntityTags: article.relatedEntityTags,
+    providersSeen: article.providersSeen,
+    discoveryLayers: article.discoveryLayers,
+    matchedQueries: article.matchedQueries,
     importanceLevel: article.importanceLevel,
     chinaRelated: article.chinaRelated
   };
+}
+
+function uniqueStrings(values: Array<string | undefined | null>): string[] {
+  return Array.from(new Set(values.filter((value): value is string => Boolean(value && value.trim()))));
+}
+
+function mergeStringArrays(existing: string[] | undefined, incoming: string[] | undefined): string[] {
+  return uniqueStrings([...(existing || []), ...(incoming || [])]);
+}
+
+function mergeStoredArticle(existing: StoredArticle, incoming: StoredArticle): void {
+  existing.peopleTags = mergeStringArrays(existing.peopleTags, incoming.peopleTags);
+  existing.relatedOrganizationTags = mergeStringArrays(existing.relatedOrganizationTags, incoming.relatedOrganizationTags);
+  existing.relatedEntityTags = mergeStringArrays(existing.relatedEntityTags, incoming.relatedEntityTags);
+  existing.providersSeen = mergeStringArrays(existing.providersSeen || [existing.providerName], incoming.providersSeen);
+  existing.discoveryLayers = mergeStringArrays(existing.discoveryLayers, incoming.discoveryLayers) as StoredArticle["discoveryLayers"];
+  existing.matchedQueries = mergeStringArrays(existing.matchedQueries, incoming.matchedQueries);
+
+  const peopleMatchKeys = new Set(
+    existing.peopleMatches.map((match) => `${match.personId}|${match.matchedAlias}|${match.confidence}`)
+  );
+  for (const match of incoming.peopleMatches) {
+    const key = `${match.personId}|${match.matchedAlias}|${match.confidence}`;
+    if (!peopleMatchKeys.has(key)) {
+      existing.peopleMatches.push(match);
+      peopleMatchKeys.add(key);
+    }
+  }
+
+  const entityMatches = existing.entityMatches || [];
+  const entityMatchKeys = new Set(
+    entityMatches.map((match) => `${match.entityId}|${match.matchedAlias}|${match.confidence}`)
+  );
+  for (const match of incoming.entityMatches || []) {
+    const key = `${match.entityId}|${match.matchedAlias}|${match.confidence}`;
+    if (!entityMatchKeys.has(key)) {
+      entityMatches.push(match);
+      entityMatchKeys.add(key);
+    }
+  }
+  existing.entityMatches = entityMatches;
 }
 
 async function processCandidate(candidate: RawArticleCandidate): Promise<ProcessedArticle | null> {
@@ -65,9 +115,24 @@ async function processCandidate(candidate: RawArticleCandidate): Promise<Process
     ...candidate,
     originalUrl: normalizeUrl(candidate.originalUrl)
   };
-  const personMatches = matchPeople(getCandidateText(normalizedCandidate));
+  const text = getCandidateText(normalizedCandidate);
+  const personMatches = matchPeople(text);
+  const entityMatches = matchEntities(text);
+  const targetEntityIds = normalizedCandidate.targetEntityIds || [];
+  const targetEntityNames = normalizedCandidate.targetEntityNames || [];
+  const targetEntities = targetEntityIds
+    .map((id) => TRACKED_ENTITIES.find((entity) => entity.id === id))
+    .filter((entity): entity is TrackedEntity => Boolean(entity));
+  const targetEntitiesByName = targetEntityNames
+    .map((name) => TRACKED_ENTITIES.find((entity) => entity.name === name || entity.aliases.includes(name)))
+    .filter((entity): entity is TrackedEntity => Boolean(entity));
 
-  if (!isRelevantCandidate(normalizedCandidate) && personMatches.length === 0) {
+  if (
+    !isRelevantCandidate(normalizedCandidate) &&
+    personMatches.length === 0 &&
+    entityMatches.length === 0 &&
+    targetEntityNames.length === 0
+  ) {
     return null;
   }
 
@@ -75,6 +140,21 @@ async function processCandidate(candidate: RawArticleCandidate): Promise<Process
   const chinaRelated = isChinaRelated(normalizedCandidate);
   const summary = await buildChineseSummary(normalizedCandidate);
   const peopleTags = Array.from(new Set(personMatches.map((match) => match.nameZh || match.nameEn)));
+  const relatedEntityTags = uniqueStrings([
+    ...entityMatches.map((match) => match.name),
+    ...targetEntityNames
+  ]);
+  const relatedOrganizationTags = uniqueStrings([
+    ...entityMatches
+      .filter((match) => match.type === "organization" || match.type === "team")
+      .map((match) => match.name),
+    ...targetEntities
+      .filter((entity) => entity.type === "organization" || entity.type === "team")
+      .map((entity) => entity.name),
+    ...targetEntitiesByName
+      .filter((entity) => entity.type === "organization" || entity.type === "team")
+      .map((entity) => entity.name)
+  ]);
   const importanceLevel = scoreImportance({
     sourceReliability: normalizedCandidate.source?.reliability || 3,
     topicTags,
@@ -89,12 +169,14 @@ async function processCandidate(candidate: RawArticleCandidate): Promise<Process
     topicTags,
     peopleMatches: personMatches,
     peopleTags,
-    entityMatches: [],
-    relatedOrganizationTags: [],
-    relatedEntityTags: [],
+    entityMatches,
+    relatedOrganizationTags,
+    relatedEntityTags,
     providersSeen: [normalizedCandidate.providerName].filter(Boolean),
     discoveryLayers: normalizedCandidate.discoveryLayer ? [normalizedCandidate.discoveryLayer] : [],
-    matchedQueries: normalizedCandidate.providerQuery ? [normalizedCandidate.providerQuery] : [],
+    matchedQueries: [normalizedCandidate.matchedQuery || normalizedCandidate.providerQuery].filter(
+      (query): query is string => Boolean(query)
+    ),
     importanceLevel,
     chinaRelated,
     titleFingerprint: buildTitleFingerprint(
@@ -139,16 +221,18 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
   const runDate = toDateKey(now);
   const startedAt = new Date();
   const existingArticles = await readArticlesForDate(runDate);
-  const existingUrls = new Set(existingArticles.map((article) => normalizeUrl(article.originalUrl)));
-  const existingFingerprints = new Set(
-    existingArticles.map((article) =>
-      buildTitleFingerprint(article.originalTitle, article.sourceName, toDateKey(new Date(article.publishedAt)))
-    )
+  const existingByUrl = new Map(existingArticles.map((article) => [normalizeUrl(article.originalUrl), article]));
+  const existingByFingerprint = new Map(
+    existingArticles.map((article) => [
+      buildTitleFingerprint(article.originalTitle, article.sourceName, toDateKey(new Date(article.publishedAt))),
+      article
+    ])
   );
   const newArticles: StoredArticle[] = [];
   const providerLogs: ProviderLog[] = [];
   const statsByQuery = new Map<string, { saved: number; skipped: number }>();
   const providers = getNewsProviders();
+  const discoveryJobs = buildDiscoveryJobs();
 
   let totalFetched = 0;
   let totalSaved = 0;
@@ -156,7 +240,7 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
 
   for (const provider of providers) {
     try {
-      const result = await provider.fetch([]);
+      const result = await provider.fetch(discoveryJobs);
       providerLogs.push(...result.logs);
       totalFetched += result.candidates.length;
 
@@ -167,7 +251,16 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
         const fingerprint = dedupeKey({ ...candidate, originalUrl: normalizedUrl });
         const processed = await processCandidate({ ...candidate, originalUrl: normalizedUrl });
 
-        if (!processed || existingUrls.has(normalizedUrl) || existingFingerprints.has(fingerprint)) {
+        if (!processed) {
+          totalSkipped += 1;
+          stats.skipped += 1;
+          statsByQuery.set(statsKey, stats);
+          continue;
+        }
+
+        const duplicate = existingByUrl.get(normalizedUrl) || existingByFingerprint.get(fingerprint);
+        if (duplicate) {
+          mergeStoredArticle(duplicate, toStoredArticle(processed));
           totalSkipped += 1;
           stats.skipped += 1;
           statsByQuery.set(statsKey, stats);
@@ -175,8 +268,8 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
         }
 
         const stored = toStoredArticle(processed);
-        existingUrls.add(normalizedUrl);
-        existingFingerprints.add(fingerprint);
+        existingByUrl.set(normalizedUrl, stored);
+        existingByFingerprint.set(fingerprint, stored);
         newArticles.push(stored);
         totalSaved += 1;
         stats.saved += 1;

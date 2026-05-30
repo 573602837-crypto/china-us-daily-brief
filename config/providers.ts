@@ -15,7 +15,8 @@ export const NEWS_DOMAINS = [
   "foreignpolicy.com",
   "theatlantic.com",
   "nationalsecurityaction.org",
-  "americafirstpolicy.com"
+  "americafirstpolicy.com",
+  "truthsocial.com"
 ];
 
 export const GOOGLE_NEWS_QUERY_GROUPS = [
@@ -87,7 +88,8 @@ export const PUBLIC_PAGE_SOURCE_IDS = [
   "washington-post-politics",
   "foreign-affairs",
   "national-security-action",
-  "america-first-policy-institute"
+  "america-first-policy-institute",
+  "truth-social"
 ];
 
 export const SITEMAP_SOURCE_IDS = [
@@ -95,5 +97,6 @@ export const SITEMAP_SOURCE_IDS = [
   "washington-post-politics",
   "foreign-affairs",
   "national-security-action",
-  "america-first-policy-institute"
+  "america-first-policy-institute",
+  "truth-social"
 ];

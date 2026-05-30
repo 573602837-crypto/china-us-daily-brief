@@ -108,6 +108,10 @@ function isLikelyArticleUrl(source: ContentSource, url: string): boolean {
       return pathName.split("/").filter(Boolean).length >= 2;
     }
 
+    if (source.id === "truth-social") {
+      return pathName.startsWith("/@realDonaldTrump/") || pathName.startsWith("/@realDonaldTrump/posts/");
+    }
+
     return true;
   } catch {
     return false;

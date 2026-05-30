@@ -86,6 +86,10 @@ function isLikelyContentLink(source: ContentSource, url: string, text: string, p
       return !pathName.endsWith("-main") && pathName.split("/").filter(Boolean).length >= 1;
     }
 
+    if (source.id === "truth-social") {
+      return pathName.startsWith("/@realDonaldTrump/") || pathName.startsWith("/@realDonaldTrump/posts/");
+    }
+
     return true;
   } catch {
     return false;
