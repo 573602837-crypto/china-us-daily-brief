@@ -23,7 +23,15 @@ npm run dev
 http://localhost:3000
 ```
 
-## 手动抓取
+## 自动抓取
+
+GitHub Actions 已配置为每天北京时间 07:00 自动运行。GitHub Actions 的 cron 使用 UTC，因此工作流里对应的是：
+
+```yaml
+cron: "0 23 * * *"
+```
+
+抓取任务会运行：
 
 ```bash
 npm run fetch:daily
@@ -38,16 +46,7 @@ data/runs/YYYY-MM-DD.json
 
 如果本地网络无法访问 Google News 或 GDELT，网站仍然可以运行；云端 GitHub Actions 会在 GitHub 网络环境里定时抓取。
 
-首页“手动更新”按钮在本地会直接调用 `/api/fetch` 运行抓取。部署到 EdgeOne 后，推荐让按钮触发 GitHub Actions，而不是在边缘环境里直接抓取和写文件；需要在 EdgeOne 环境变量里配置：
-
-```text
-GITHUB_ACTIONS_TRIGGER_TOKEN=你的 GitHub fine-grained token 或 PAT
-GITHUB_ACTIONS_REPOSITORY=owner/repo
-GITHUB_ACTIONS_WORKFLOW=daily-news.yml
-GITHUB_ACTIONS_REF=main
-```
-
-没有这些变量时，线上按钮会返回明确错误提示；GitHub Actions 的定时抓取仍然照常工作。
+首页不再直接调用 EdgeOne 上的 `/api/fetch`，避免静态部署环境返回 HTML 导致“接口没有返回 JSON”。需要临时测试时，可以在本地运行 `npm run fetch:daily`，或在 GitHub Actions 页面手动触发 `workflow_dispatch`。
 
 ## GitHub Actions
 
@@ -59,7 +58,7 @@ GITHUB_ACTIONS_REF=main
 
 功能：
 
-- 每天北京时间早上自动运行一次
+- 每天北京时间 07:00 自动运行一次
 - 支持手动 `workflow_dispatch`
 - 安装依赖
 - 运行 `npm run fetch:daily`

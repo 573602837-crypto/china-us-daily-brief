@@ -30,7 +30,7 @@ export default async function HomePage() {
           articles.map((article) => <ArticleCard article={article} key={article.id} />)
         ) : (
           <div className="rounded-lg border border-dashed border-slate-300 bg-white p-8 text-center text-slate-600">
-            暂无今日新闻。可以点击“手动更新”，或运行 npm run fetch:daily。
+            暂无今日新闻。系统会在每天北京时间 07:00 自动更新；本地测试可运行 npm run fetch:daily。
           </div>
         )}
       </section>
