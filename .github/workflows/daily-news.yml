@@ -27,10 +27,13 @@ jobs:
         run: npm install
 
       - name: Fetch daily news
+        timeout-minutes: 15
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           BRIEF_TIMEZONE: Asia/Shanghai
+          DISCOVERY_JOB_LIMIT: "250"
+          GDELT_MIN_INTERVAL_MS: "2000"
         run: npm run fetch:daily
 
       - name: Commit updated data
