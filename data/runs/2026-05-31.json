@@ -1,0 +1,1196 @@
+{
+  "runDate": "2026-05-31",
+  "startedAt": "2026-05-31T06:17:50.460Z",
+  "endedAt": "2026-05-31T06:21:23.209Z",
+  "status": "partial",
+  "totalFetched": 437,
+  "totalSaved": 30,
+  "totalSkipped": 407,
+  "providerLogs": [
+    {
+      "providerName": "TruthSocialProvider",
+      "query": "truth-social @realDonaldTrump",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "the-hill https://thehill.com/policy/international/feed/",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 3,
+      "totalSkipped": 9
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "the-hill-technology https://thehill.com/policy/technology/feed/",
+      "status": "success",
+      "totalFetched": 8,
+      "totalSaved": 0,
+      "totalSkipped": 8
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "the-hill-house https://thehill.com/homenews/house/feed/",
+      "status": "success",
+      "totalFetched": 8,
+      "totalSaved": 0,
+      "totalSkipped": 8
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "the-hill-senate https://thehill.com/homenews/senate/feed/",
+      "status": "success",
+      "totalFetched": 8,
+      "totalSaved": 0,
+      "totalSkipped": 8
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "axios https://www.axios.com/feeds/feed.rss",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "axios https://api.axios.com/feed/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "politico https://rss.politico.com/politics-news.xml",
+      "status": "success",
+      "totalFetched": 16,
+      "totalSaved": 3,
+      "totalSkipped": 13
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "politico-congress https://rss.politico.com/congress.xml",
+      "status": "success",
+      "totalFetched": 14,
+      "totalSaved": 0,
+      "totalSkipped": 14
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "politico-white-house https://rss.politico.com/whitehouse.xml",
+      "status": "success",
+      "totalFetched": 14,
+      "totalSaved": 0,
+      "totalSkipped": 14
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "politico-defense https://rss.politico.com/defense.xml",
+      "status": "success",
+      "totalFetched": 10,
+      "totalSaved": 0,
+      "totalSkipped": 10
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 3,
+      "totalSkipped": 17
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "cnn-politics https://rss.cnn.com/rss/cnn_allpolitics.rss",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "boston-globe https://www.bostonglobe.com/rss/nation",
+      "status": "failed",
+      "errorMessage": "HTTP 404",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "wall-street-journal https://feeds.a.dj.com/rss/RSSPoliticsAndPolicy.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+      "status": "success",
+      "totalFetched": 16,
+      "totalSaved": 3,
+      "totalSkipped": 13
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/arcio/rss/category/politics/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/arcio/rss/category/world/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/arcio/rss/category/business/technology/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://feeds.washingtonpost.com/rss/politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/politics/?outputType=rss",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "new-york-times-world https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/feeds/region/Asia/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/feeds/topic/Trade/rss.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "foreign-policy https://foreignpolicy.com/feed/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "the-atlantic https://www.theatlantic.com/feed/all/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "white-house https://www.whitehouse.gov/feed/",
+      "status": "failed",
+      "errorMessage": "HTTP 404",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "RssProvider",
+      "query": "truth-social https://truthsocial.com/@realDonaldTrump.rss",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "the-hill https://thehill.com/robots.txt",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "the-hill-technology https://thehill.com/robots.txt",
+      "status": "success",
+      "totalFetched": 8,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "the-hill-house https://thehill.com/robots.txt",
+      "status": "success",
+      "totalFetched": 8,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "the-hill-senate https://thehill.com/robots.txt",
+      "status": "success",
+      "totalFetched": 8,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "axios https://www.axios.com/sitemaps/last200.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "axios https://www.axios.com/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "axios https://www.axios.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "politico https://www.politico.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "politico-congress https://www.politico.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "politico-white-house https://www.politico.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "politico-defense https://www.politico.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "fox-news-politics https://www.foxnews.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "cnn-politics https://www.cnn.com/robots.txt",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "boston-globe https://www.bostonglobe.com/robots.txt",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "wall-street-journal https://www.wsj.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/news-sitemap.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/arcio/news-sitemap/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "new-york-times-world https://www.nytimes.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/sitemap-news.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "foreign-policy https://foreignpolicy.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "the-atlantic https://www.theatlantic.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 3,
+      "totalSkipped": 21
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/robots.txt",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com/server-sitemap.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com/sitemap-0.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "white-house https://www.whitehouse.gov/sitemap.xml",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "white-house https://www.whitehouse.gov/news-sitemap.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 404",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "white-house https://www.whitehouse.gov/robots.txt",
+      "status": "success",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "state-department https://www.state.gov/sitemap.xml",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "state-department https://www.state.gov/robots.txt",
+      "status": "success",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "department-of-defense https://www.defense.gov/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "department-of-defense https://www.defense.gov/robots.txt",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "department-of-commerce https://www.commerce.gov/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "department-of-commerce https://www.commerce.gov/robots.txt",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "treasury https://home.treasury.gov/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "treasury https://home.treasury.gov/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "ustr https://ustr.gov/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 404",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "ustr https://ustr.gov/robots.txt",
+      "status": "success",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "congress-gov https://www.congress.gov/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "congress-gov https://www.congress.gov/robots.txt",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "govinfo https://www.govinfo.gov/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "HTTP 404",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "govinfo https://www.govinfo.gov/robots.txt",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "federal-register https://www.federalregister.gov/sitemap.xml",
+      "status": "success",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "federal-register https://www.federalregister.gov/robots.txt",
+      "status": "success",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "truth-social https://truthsocial.com/sitemap.xml",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "SitemapProvider",
+      "query": "truth-social https://truthsocial.com/robots.txt",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "the-hill https://thehill.com/policy/international/",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "the-hill-technology https://thehill.com/policy/technology/",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "the-hill-house https://thehill.com/homenews/house/",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "the-hill-senate https://thehill.com/homenews/senate/",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "axios https://www.axios.com/politics-policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "axios https://www.axios.com/world",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "axios https://www.axios.com/technology",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "politico https://www.politico.com/news/politics",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "politico-congress https://www.politico.com/news/congress",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "politico-white-house https://www.politico.com/news/white-house",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "politico-defense https://www.politico.com/news/defense",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "fox-news-politics https://www.foxnews.com/politics",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "fox-news-politics https://www.foxnews.com/category/world/conflicts/china",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "cnn-politics https://www.cnn.com/politics",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 0,
+      "totalSkipped": 20
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "cnn-politics https://www.cnn.com/world/china",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 0,
+      "totalSkipped": 20
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "boston-globe https://www.bostonglobe.com/nation/",
+      "status": "success",
+      "totalFetched": 11,
+      "totalSaved": 3,
+      "totalSkipped": 8
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "boston-globe https://www.bostonglobe.com/metro/",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 0,
+      "totalSkipped": 12
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "wall-street-journal https://www.wsj.com/politics/policy",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "wall-street-journal https://www.wsj.com/world/china",
+      "status": "failed",
+      "errorMessage": "fetch failed",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/politics/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/world/asia-pacific/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "washington-post-politics https://www.washingtonpost.com/business/technology/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "new-york-times-politics https://www.nytimes.com/section/politics",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "new-york-times-world https://www.nytimes.com/section/world/asia",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "new-york-times-world https://www.nytimes.com/section/business",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/china",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "foreign-affairs https://www.foreignaffairs.com/united-states",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "foreign-policy https://foreignpolicy.com/channel/china/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "foreign-policy https://foreignpolicy.com/projects/china-brief/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "foreign-policy https://foreignpolicy.com/channel/united-states/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "the-atlantic https://www.theatlantic.com/politics/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "the-atlantic https://www.theatlantic.com/international/",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/resource-hub",
+      "status": "success",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/issue-papers-main",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 0,
+      "totalSkipped": 12
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/talking-points-main",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 0,
+      "totalSkipped": 12
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "national-security-action https://nationalsecurityaction.org/polling-research-main",
+      "status": "success",
+      "totalFetched": 12,
+      "totalSaved": 0,
+      "totalSkipped": 12
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com/issues",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com/newsroom",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "america-first-policy-institute https://www.americafirstpolicy.com",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "white-house https://www.whitehouse.gov/briefing-room/",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 1,
+      "totalSkipped": 19
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "state-department https://www.state.gov/press-releases/",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 2,
+      "totalSkipped": 18
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "department-of-defense https://www.defense.gov/News/Releases/",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "department-of-defense https://www.defense.gov/News/News-Stories/",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "department-of-commerce https://www.commerce.gov/news/press-releases",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "treasury https://home.treasury.gov/news/press-releases",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "ustr https://ustr.gov/about-us/policy-offices/press-office/press-releases",
+      "status": "success",
+      "totalFetched": 20,
+      "totalSaved": 3,
+      "totalSkipped": 17
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "congress-gov https://www.congress.gov/search",
+      "status": "failed",
+      "errorMessage": "HTTP 403",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "govinfo https://www.govinfo.gov/app/collection/FR",
+      "status": "success",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "federal-register https://www.federalregister.gov/documents/search",
+      "status": "success",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    },
+    {
+      "providerName": "PublicPageProvider",
+      "query": "truth-social https://truthsocial.com/@realDonaldTrump",
+      "status": "failed",
+      "errorMessage": "This operation was aborted",
+      "totalFetched": 0,
+      "totalSaved": 0,
+      "totalSkipped": 0
+    }
+  ]
+}
