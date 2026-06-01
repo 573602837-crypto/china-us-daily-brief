@@ -40,6 +40,20 @@ function dedupeKey(candidate: RawArticleCandidate): string {
   );
 }
 
+function getMaxArticlesPerSource(): number {
+  const value = Number(process.env.MAX_ARTICLES_PER_SOURCE || "3");
+  return Number.isFinite(value) && value > 0 ? value : 3;
+}
+
+function getMaxArticlesPerQuery(): number {
+  const value = Number(process.env.MAX_ARTICLES_PER_QUERY || "3");
+  return Number.isFinite(value) && value > 0 ? value : 3;
+}
+
+function shouldResetDailyArticles(): boolean {
+  return ["1", "true", "yes"].includes((process.env.RESET_DAILY_ARTICLES || "").toLowerCase());
+}
+
 function toStoredArticle(article: ProcessedArticle): StoredArticle {
   return {
     id: article.id,
@@ -130,8 +144,7 @@ async function processCandidate(candidate: RawArticleCandidate): Promise<Process
   if (
     !isRelevantCandidate(normalizedCandidate) &&
     personMatches.length === 0 &&
-    entityMatches.length === 0 &&
-    targetEntityNames.length === 0
+    entityMatches.length === 0
   ) {
     return null;
   }
@@ -220,7 +233,8 @@ function logRunToConsole(log: DailyRunLog): void {
 export async function runDailyPipeline(now = new Date()): Promise<PipelineResult> {
   const runDate = toDateKey(now);
   const startedAt = new Date();
-  const existingArticles = await readArticlesForDate(runDate);
+  process.stderr.write(`\n🚀 Starting daily pipeline for ${runDate}\n`);
+  const existingArticles = shouldResetDailyArticles() ? [] : await readArticlesForDate(runDate);
   const existingByUrl = new Map(existingArticles.map((article) => [normalizeUrl(article.originalUrl), article]));
   const existingByFingerprint = new Map(
     existingArticles.map((article) => [
@@ -228,6 +242,16 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
       article
     ])
   );
+  const maxArticlesPerSource = getMaxArticlesPerSource();
+  const maxArticlesPerQuery = getMaxArticlesPerQuery();
+  const sourceCounts = new Map<string, number>();
+  const queryCounts = new Map<string, number>();
+  for (const article of existingArticles) {
+    sourceCounts.set(article.sourceName, (sourceCounts.get(article.sourceName) || 0) + 1);
+    for (const query of article.matchedQueries || []) {
+      queryCounts.set(query, (queryCounts.get(query) || 0) + 1);
+    }
+  }
   const newArticles: StoredArticle[] = [];
   const providerLogs: ProviderLog[] = [];
   const statsByQuery = new Map<string, { saved: number; skipped: number }>();
@@ -238,9 +262,14 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
   let totalSaved = 0;
   let totalSkipped = 0;
 
+  const totalProviders = providers.length;
+  let providerIdx = 0;
   for (const provider of providers) {
+    providerIdx++;
+    process.stderr.write(`[${providerIdx}/${totalProviders}] Fetching: ${provider.name} ...\n`);
     try {
       const result = await provider.fetch(discoveryJobs);
+      process.stderr.write(`  ✓ ${provider.name}: ${result.candidates.length} candidates\n`);
       providerLogs.push(...result.logs);
       totalFetched += result.candidates.length;
 
@@ -268,8 +297,26 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
         }
 
         const stored = toStoredArticle(processed);
+        const queryKey = stored.matchedQueries[0] || candidate.providerQuery || candidate.providerName;
+        const sourceCount = sourceCounts.get(stored.sourceName) || 0;
+        if (sourceCount >= maxArticlesPerSource) {
+          totalSkipped += 1;
+          stats.skipped += 1;
+          statsByQuery.set(statsKey, stats);
+          continue;
+        }
+        const queryCount = queryCounts.get(queryKey) || 0;
+        if (queryCount >= maxArticlesPerQuery) {
+          totalSkipped += 1;
+          stats.skipped += 1;
+          statsByQuery.set(statsKey, stats);
+          continue;
+        }
+
         existingByUrl.set(normalizedUrl, stored);
         existingByFingerprint.set(fingerprint, stored);
+        sourceCounts.set(stored.sourceName, sourceCount + 1);
+        queryCounts.set(queryKey, queryCount + 1);
         newArticles.push(stored);
         totalSaved += 1;
         stats.saved += 1;
@@ -291,6 +338,7 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
   const mergedProviderLogs = mergeProviderLogs(providerLogs, statsByQuery);
   const mergedArticles = [...existingArticles, ...newArticles];
   await writeArticlesForDate(runDate, mergedArticles);
+  process.stderr.write(`\n✅ Done! ${totalSaved} saved, ${totalSkipped} skipped, total ${mergedArticles.length} articles for ${runDate}\n`);
 
   const failures = mergedProviderLogs
     .filter((log) => log.status === "failed")
