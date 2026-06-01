@@ -135,8 +135,17 @@ export async function getArticles(filters: ArticleFilters = {}): Promise<Article
 }
 
 export async function getTodayArticles(): Promise<ArticleView[]> {
-  const dateKey = formatDateKey(new Date(), appConfig.timezone);
-  const articles = await getArticles({ date: dateKey, limit: 500 });
+  const todayDateKey = formatDateKey(new Date(), appConfig.timezone);
+  let articles = await getArticles({ date: todayDateKey, limit: 500 });
+
+  // 今天还没数据时，回退到最近一天
+  if (!articles.length) {
+    const availableDates = await getAvailableDates();
+    if (availableDates.length > 0) {
+      articles = await getArticles({ date: availableDates[0], limit: 500 });
+    }
+  }
+
   const sourceCounts = new Map<string, number>();
   const perSourceLimit = Number(process.env.SOURCE_DISPLAY_LIMIT || "2");
   const limit = Number.isFinite(perSourceLimit) && perSourceLimit > 0 ? perSourceLimit : 2;
