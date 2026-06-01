@@ -297,7 +297,7 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
         }
 
         const stored = toStoredArticle(processed);
-        const queryKey = stored.matchedQueries[0] || candidate.providerQuery || candidate.providerName;
+        const queryKey = (stored.matchedQueries ?? [])[0] || candidate.providerQuery || candidate.providerName;
         const sourceCount = sourceCounts.get(stored.sourceName) || 0;
         if (sourceCount >= maxArticlesPerSource) {
           totalSkipped += 1;
