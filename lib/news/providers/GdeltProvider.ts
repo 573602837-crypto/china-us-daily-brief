@@ -52,13 +52,37 @@ function wait(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+let lastGdeltRequestAt = 0;
+
+async function waitForGdeltSlot(): Promise<void> {
+  const minIntervalMs = Number(process.env.GDELT_MIN_INTERVAL_MS || "5500");
+  const interval = Number.isFinite(minIntervalMs) && minIntervalMs > 0 ? minIntervalMs : 5500;
+  const elapsed = Date.now() - lastGdeltRequestAt;
+
+  if (lastGdeltRequestAt > 0 && elapsed < interval) {
+    await wait(interval - elapsed);
+  }
+
+  lastGdeltRequestAt = Date.now();
+}
+
 async function fetchGdeltJson(url: string): Promise<string> {
   try {
-    return await fetchText(url, 9000);
+    await waitForGdeltSlot();
+    const text = await fetchText(url, 20000);
+
+    if (text.includes("Please limit requests")) {
+      await wait(5500);
+      await waitForGdeltSlot();
+      return fetchText(url, 25000);
+    }
+
+    return text;
   } catch (error) {
     if (error instanceof Error && error.message.includes("HTTP 429")) {
-      await wait(1500);
-      return fetchText(url, 12000);
+      await wait(5500);
+      await waitForGdeltSlot();
+      return fetchText(url, 25000);
     }
 
     throw error;
@@ -70,7 +94,8 @@ export class GdeltProvider implements NewsProvider {
 
   async fetch(discoveryJobs: DiscoveryJob[]): Promise<ProviderFetchResult> {
     const jobs = discoveryJobs.filter((job) => job.method === "gdelt");
-    const results = await runWithConcurrency(jobs, 2, async (job) => {
+    const concurrency = Number(process.env.GDELT_CONCURRENCY || "1");
+    const results = await runWithConcurrency(jobs, Number.isFinite(concurrency) && concurrency > 0 ? concurrency : 1, async (job) => {
         const query = job.query;
 
         try {

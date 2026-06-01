@@ -153,4 +153,5 @@ export type PipelineResult = {
   failures: Array<{ providerName: string; query: string; message: string }>;
   articlesPath?: string;
   runLogPath?: string;
+  sourceHealthPath?: string;
 };

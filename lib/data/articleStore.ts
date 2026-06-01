@@ -138,11 +138,13 @@ export async function getTodayArticles(): Promise<ArticleView[]> {
   const dateKey = formatDateKey(new Date(), appConfig.timezone);
   const articles = await getArticles({ date: dateKey, limit: 500 });
   const sourceCounts = new Map<string, number>();
+  const perSourceLimit = Number(process.env.SOURCE_DISPLAY_LIMIT || "2");
+  const limit = Number.isFinite(perSourceLimit) && perSourceLimit > 0 ? perSourceLimit : 2;
 
   return articles.filter((article) => {
-    const key = article.sourceName;
+    const key = (article.sourceDomain || article.sourceName).toLowerCase();
     const count = sourceCounts.get(key) || 0;
-    if (count >= 16) {
+    if (count >= limit) {
       return false;
     }
 

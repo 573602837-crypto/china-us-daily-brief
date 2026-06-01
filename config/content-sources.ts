@@ -211,7 +211,7 @@ const SOCIAL_CONTENT_SOURCES: ContentSource[] = [
     domain: "truthsocial.com",
     type: "social",
     homepageUrl: "https://truthsocial.com",
-    rssUrls: [],
+    rssUrls: ["https://truthsocial.com/@realDonaldTrump.rss"],
     sitemapUrls: ["https://truthsocial.com/sitemap.xml"],
     robotsUrl: "https://truthsocial.com/robots.txt",
     indexPageUrls: ["https://truthsocial.com/@realDonaldTrump"],

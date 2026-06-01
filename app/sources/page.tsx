@@ -37,7 +37,9 @@ export default async function SourcesPage() {
                 <th className="px-4 py-3">启用</th>
                 <th className="px-4 py-3">最近抓取</th>
                 <th className="px-4 py-3">状态</th>
-                <th className="px-4 py-3">候选</th>
+                <th className="px-4 py-3">直接</th>
+                <th className="px-4 py-3">索引</th>
+                <th className="px-4 py-3">相关</th>
                 <th className="px-4 py-3">说明</th>
               </tr>
             </thead>
@@ -65,7 +67,9 @@ export default async function SourcesPage() {
                       {source.lastFetchStatus || "未运行"}
                     </span>
                   </td>
-                  <td className="px-4 py-3 text-slate-600">{source.lastItemCount}</td>
+                  <td className="px-4 py-3 text-slate-600">{source.directSourceHits}</td>
+                  <td className="px-4 py-3 text-slate-600">{source.indexedSourceHits}</td>
+                  <td className="px-4 py-3 text-slate-600">{source.relatedEntityHits}</td>
                   <td className="max-w-md px-4 py-3 text-slate-600">
                     {source.lastFetchMessage || source.notes || source.rssUrl || "公开来源"}
                   </td>

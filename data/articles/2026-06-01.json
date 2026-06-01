@@ -203,102 +203,6 @@
     "chinaRelated": false
   },
   {
-    "id": "art_o83a1g",
-    "sourceName": "Boston Globe",
-    "sourceDomain": "bostonglobe.com",
-    "providerName": "SitemapProvider",
-    "originalTitle": "US bombs Iranian military sites and Kuwait is hit by drone and missile fire",
-    "chineseTitle": "US bombs Iranian military sites and Kuwait is hit by dron…",
-    "originalUrl": "https://www.bostonglobe.com/2026/06/01/world/iran-us-war/",
-    "publishedAt": "2026-06-01T05:31:11.713Z",
-    "fetchedAt": "2026-06-01T07:12:29.986Z",
-    "rawDescription": "公开 sitemap 条目：US bombs Iranian military sites and Kuwait is hit by drone and missile fire",
-    "contentSnippet": "公开 sitemap 条目：US bombs Iranian military sites and Kuwait is hit by drone and missile fire",
-    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：US bombs Iranian military sites and Kuwait is hit by drone and missile fire",
-    "summaryBasis": "基于标题/摘要生成",
-    "topicTags": [
-      "china_tech_policy"
-    ],
-    "peopleTags": [],
-    "peopleMatches": [],
-    "entityMatches": [],
-    "relatedOrganizationTags": [],
-    "relatedEntityTags": [
-      "Boston Globe"
-    ],
-    "providersSeen": [
-      "SitemapProvider"
-    ],
-    "discoveryLayers": [
-      "source"
-    ],
-    "matchedQueries": [
-      "boston-globe https://www.bostonglobe.com/robots.txt"
-    ],
-    "importanceLevel": 3,
-    "chinaRelated": false
-  },
-  {
-    "id": "art_l52st7",
-    "sourceName": "CNN Politics",
-    "sourceDomain": "cnn.com",
-    "providerName": "SitemapProvider",
-    "originalTitle": "Trump’s second term risks stalling on multiple fronts",
-    "chineseTitle": "Trump’s second term risks stalling on multiple fronts",
-    "originalUrl": "https://www.cnn.com/2026/06/01/politics/trump-weaponization-fund-ufc-fight-iran-america-250-analysis",
-    "publishedAt": "2026-06-01T04:00:08.002Z",
-    "fetchedAt": "2026-06-01T07:12:29.962Z",
-    "rawDescription": "公开 sitemap 条目：Trump’s second term risks stalling on multiple fronts",
-    "contentSnippet": "公开 sitemap 条目：Trump’s second term risks stalling on multiple fronts",
-    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump’s second term risks stalling on multiple fronts",
-    "summaryBasis": "基于标题/摘要生成",
-    "topicTags": [
-      "key_figures"
-    ],
-    "peopleTags": [
-      "唐纳德·特朗普"
-    ],
-    "peopleMatches": [
-      {
-        "personId": "donald-trump",
-        "nameEn": "Donald Trump",
-        "nameZh": "唐纳德·特朗普",
-        "team": "特朗普团队 / 共和党政策网络",
-        "matchedAlias": "Trump",
-        "confidence": "low",
-        "contextSnippet": "Trump’s second term risks stalling on multiple fronts 公开 sitemap 条目：Trump’s second term risks"
-      }
-    ],
-    "entityMatches": [
-      {
-        "entityId": "donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "matchedAlias": "Trump",
-        "confidence": "medium",
-        "contextSnippet": "Trump's second term risks stalling on multiple fronts 公开 sitemap 条目：Trump's second term risks s"
-      }
-    ],
-    "relatedOrganizationTags": [],
-    "relatedEntityTags": [
-      "Donald Trump",
-      "CNN Politics"
-    ],
-    "providersSeen": [
-      "SitemapProvider",
-      "PublicPageProvider"
-    ],
-    "discoveryLayers": [
-      "source"
-    ],
-    "matchedQueries": [
-      "cnn-politics https://www.cnn.com/robots.txt",
-      "cnn-politics https://www.cnn.com/politics"
-    ],
-    "importanceLevel": 3,
-    "chinaRelated": false
-  },
-  {
     "id": "art_h2cjw9",
     "sourceName": "The Hill",
     "sourceDomain": "thehill.com",
@@ -435,77 +339,6 @@
     "chinaRelated": false
   },
   {
-    "id": "art_r1ylnv",
-    "sourceName": "The Hill",
-    "sourceDomain": "thehill.com",
-    "providerName": "RssProvider",
-    "originalTitle": "Cindy McCain to Trump administration: &#039;We need help&#039; with food aid",
-    "chineseTitle": "Cindy McCain to Trump administration：&#039;We need help&#…",
-    "originalUrl": "https://thehill.com/policy/international/5902945-wfp-cindy-mccain-trump-food-aid/",
-    "publishedAt": "2026-05-31T13:22:14.000Z",
-    "fetchedAt": "2026-06-01T07:11:23.281Z",
-    "rawDescription": "World Food Program (WFP) Executive Director Cindy McCain pressed the Trump administration for more food aid, saying her organization needs “help.” “When you look at the places you operate, do you think there has been an impact from the dismantling of [the U.S. Agency for International Development (USAID)]?” CBS News’s Margaret Brennan asked McCain on...",
-    "contentSnippet": "World Food Program (WFP) Executive Director Cindy McCain pressed the Trump administration for more food aid, saying her organization needs “help.” “When you look at the places you operate, do you think there has been an impact from the dismantling of [the U.S. Agency for International Development (USAID)]?” CBS News’s Margaret Brennan asked McCain on...",
-    "summaryZh": "基于标题/摘要生成：World Food Program (WFP) Executive Director Cindy McCain pressed the Trump administration for more food aid，saying her organization needs “help.” “Wh…",
-    "summaryBasis": "基于标题/摘要生成",
-    "topicTags": [
-      "us_domestic",
-      "china_tech_policy",
-      "key_figures"
-    ],
-    "peopleTags": [
-      "唐纳德·特朗普"
-    ],
-    "peopleMatches": [
-      {
-        "personId": "donald-trump",
-        "nameEn": "Donald Trump",
-        "nameZh": "唐纳德·特朗普",
-        "team": "特朗普团队 / 共和党政策网络",
-        "matchedAlias": "Trump",
-        "confidence": "low",
-        "contextSnippet": "Cindy McCain to Trump administration: &#039;We need help&#039; with food aid Tara Suter World Food Program (WFP"
-      }
-    ],
-    "entityMatches": [
-      {
-        "entityId": "donald-trump",
-        "name": "Donald Trump",
-        "type": "person",
-        "matchedAlias": "Trump",
-        "confidence": "medium",
-        "contextSnippet": "Cindy McCain to Trump administration: &#039;We need help&#039; with food aid Tara Suter World Food Program (WFP"
-      },
-      {
-        "entityId": "trump-team",
-        "name": "Trump team",
-        "type": "team",
-        "matchedAlias": "Trump administration",
-        "confidence": "high",
-        "contextSnippet": "Cindy McCain to Trump administration: &#039;We need help&#039; with food aid Tara Suter World Food Program (WFP) Executive Dir"
-      }
-    ],
-    "relatedOrganizationTags": [
-      "Trump team"
-    ],
-    "relatedEntityTags": [
-      "Donald Trump",
-      "Trump team",
-      "The Hill"
-    ],
-    "providersSeen": [
-      "RssProvider"
-    ],
-    "discoveryLayers": [
-      "source"
-    ],
-    "matchedQueries": [
-      "the-hill https://thehill.com/policy/international/feed/"
-    ],
-    "importanceLevel": 3,
-    "chinaRelated": false
-  },
-  {
     "id": "art_841y88",
     "sourceName": "Politico",
     "sourceDomain": "politico.com",
@@ -587,54 +420,6 @@
     "entityMatches": [],
     "relatedOrganizationTags": [],
     "relatedEntityTags": [
-      "Politico"
-    ],
-    "providersSeen": [
-      "RssProvider"
-    ],
-    "discoveryLayers": [
-      "source"
-    ],
-    "matchedQueries": [
-      "politico https://rss.politico.com/politics-news.xml"
-    ],
-    "importanceLevel": 3,
-    "chinaRelated": false
-  },
-  {
-    "id": "art_w2umb8",
-    "sourceName": "Politico",
-    "sourceDomain": "politico.com",
-    "providerName": "RssProvider",
-    "originalTitle": "Louisiana Republicans pass gerrymandered map that eliminates majority-Black district",
-    "chineseTitle": "Louisiana 共和党人 pass gerrymandered map that eliminates maj…",
-    "originalUrl": "https://www.politico.com/news/2026/05/29/louisiana-republicans-pass-gerrymander-landry-00942820",
-    "publishedAt": "2026-05-29T17:03:07.000Z",
-    "fetchedAt": "2026-06-01T07:11:23.329Z",
-    "rawDescription": "The new map has five of the state’s six House districts as GOP-leaning.",
-    "contentSnippet": "The new map has five of the state’s six House districts as GOP-leaning.",
-    "summaryZh": "基于标题/摘要生成：The new map has five of the state’s six 众议院 districts as GOP-leaning",
-    "summaryBasis": "基于标题/摘要生成",
-    "topicTags": [
-      "us_domestic"
-    ],
-    "peopleTags": [],
-    "peopleMatches": [],
-    "entityMatches": [
-      {
-        "entityId": "republican-party",
-        "name": "Republican Party",
-        "type": "team",
-        "matchedAlias": "Republicans",
-        "confidence": "medium",
-        "contextSnippet": "Louisiana Republicans pass gerrymandered map that eliminates majority-Black district By Andrew Howard The new m"
-      }
-    ],
-    "relatedOrganizationTags": [
-      "Republican Party"
-    ],
-    "relatedEntityTags": [
-      "Republican Party",
       "Politico"
     ],
     "providersSeen": [
@@ -741,43 +526,6 @@
     "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
     "summaryBasis": "基于标题/摘要生成",
     "topicTags": [
-      "china_tech_policy"
-    ],
-    "peopleTags": [],
-    "peopleMatches": [],
-    "entityMatches": [],
-    "relatedOrganizationTags": [],
-    "relatedEntityTags": [
-      "Wall Street Journal"
-    ],
-    "providersSeen": [
-      "RssProvider"
-    ],
-    "discoveryLayers": [
-      "source"
-    ],
-    "matchedQueries": [
-      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
-    ],
-    "importanceLevel": 4,
-    "chinaRelated": false
-  },
-  {
-    "id": "art_ce6ea8",
-    "sourceName": "Wall Street Journal",
-    "sourceDomain": "wsj.com",
-    "providerName": "RssProvider",
-    "originalTitle": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
-    "chineseTitle": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-…",
-    "originalUrl": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-    "publishedAt": "2025-01-27T16:22:00.000Z",
-    "fetchedAt": "2026-06-01T07:11:23.364Z",
-    "rawDescription": "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.",
-    "contentSnippet": "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.",
-    "summaryZh": "基于标题/摘要生成：The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed…",
-    "summaryBasis": "基于标题/摘要生成",
-    "topicTags": [
-      "us_domestic",
       "china_tech_policy"
     ],
     "peopleTags": [],
@@ -914,54 +662,5 @@
     ],
     "importanceLevel": 2,
     "chinaRelated": false
-  },
-  {
-    "id": "art_9b0wvn",
-    "sourceName": "National Security Action",
-    "sourceDomain": "nationalsecurityaction.org",
-    "providerName": "SitemapProvider",
-    "originalTitle": "American Public Opinion On Us China Policy",
-    "chineseTitle": "American Public Opinion On Us 中国 政策",
-    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
-    "publishedAt": "2024-07-26T00:00:00.000Z",
-    "fetchedAt": "2026-06-01T07:12:29.988Z",
-    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
-    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
-    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
-    "summaryBasis": "基于标题/摘要生成",
-    "topicTags": [
-      "us_china_relations"
-    ],
-    "peopleTags": [],
-    "peopleMatches": [],
-    "entityMatches": [
-      {
-        "entityId": "china-policy",
-        "name": "China policy",
-        "type": "issue",
-        "matchedAlias": "China policy",
-        "confidence": "high",
-        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
-      }
-    ],
-    "relatedOrganizationTags": [
-      "National Security Action"
-    ],
-    "relatedEntityTags": [
-      "China policy",
-      "National Security Action"
-    ],
-    "providersSeen": [
-      "SitemapProvider"
-    ],
-    "discoveryLayers": [
-      "source"
-    ],
-    "matchedQueries": [
-      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
-      "national-security-action https://nationalsecurityaction.org/robots.txt"
-    ],
-    "importanceLevel": 3,
-    "chinaRelated": true
   }
 ]

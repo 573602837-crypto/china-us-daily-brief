@@ -20,11 +20,19 @@ export async function getRecentRuns(): Promise<DailyRunLog[]> {
 export async function getSourceStatus() {
   const [articles, runs] = await Promise.all([getAllStoredArticles(), getRecentRuns()]);
   const latestRun = runs[0];
+  const indexedProviders = new Set(["GoogleNewsRssProvider", "GdeltProvider"]);
 
   return CONTENT_SOURCES.map((source) => {
     const sourceArticles = articles.filter(
       (article) => article.sourceName === source.name || article.sourceDomain === source.domain
     );
+    const directSourceHits = sourceArticles.filter((article) => !indexedProviders.has(article.providerName)).length;
+    const indexedSourceHits = sourceArticles.filter((article) => indexedProviders.has(article.providerName)).length;
+    const relatedArticles = articles.filter((article) => {
+      const tags = [...(article.relatedOrganizationTags || []), ...(article.relatedEntityTags || [])];
+      const isSameSource = article.sourceName === source.name || article.sourceDomain === source.domain;
+      return !isSameSource && tags.some((tag) => tag.toLowerCase() === source.name.toLowerCase());
+    });
     const providerLogs = latestRun?.providerLogs.filter((log) =>
       log.query.includes(source.id) ||
       log.query.includes(source.name) ||
@@ -32,6 +40,7 @@ export async function getSourceStatus() {
     ) || [];
     const failed = providerLogs.filter((log) => log.status === "failed");
     const fetched = providerLogs.reduce((sum, log) => sum + log.totalFetched, 0);
+    const coverageCount = directSourceHits + indexedSourceHits + relatedArticles.length;
 
     return {
       id: source.id,
@@ -46,10 +55,26 @@ export async function getSourceStatus() {
         ? failed.length === providerLogs.length
           ? "failed"
           : "success"
-        : "未运行",
-      lastFetchMessage: failed[0]?.errorMessage || source.notes || source.rssUrls[0] || "公开来源",
-      lastItemCount: fetched || sourceArticles.length,
-      savedCount: sourceArticles.length
+        : coverageCount > 0
+          ? "success"
+          : "未运行",
+      lastFetchMessage:
+        relatedArticles.length > 0 && directSourceHits + indexedSourceHits === 0
+          ? "covered by related entity discovery"
+          : failed[0]?.errorMessage || source.notes || source.rssUrls[0] || "公开来源",
+      lastItemCount: fetched || coverageCount,
+      savedCount: sourceArticles.length,
+      directSourceHits,
+      indexedSourceHits,
+      relatedEntityHits: relatedArticles.length,
+      coverageStatus:
+        directSourceHits > 0
+          ? "direct"
+          : indexedSourceHits > 0
+            ? "indexed"
+            : relatedArticles.length > 0
+              ? "related"
+              : "none"
     };
   });
 }

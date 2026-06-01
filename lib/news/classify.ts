@@ -4,7 +4,12 @@ import { countKeywordHits, includesKeyword } from "@/lib/news/text";
 import type { RawArticleCandidate } from "@/lib/news/types";
 
 export function getCandidateText(candidate: RawArticleCandidate): string {
-  return [candidate.originalTitle, candidate.rawDescription || "", candidate.contentSnippet || ""].join(" ");
+  return [
+    candidate.originalTitle,
+    candidate.author || "",
+    candidate.rawDescription || "",
+    candidate.contentSnippet || ""
+  ].join(" ");
 }
 
 export function isRelevantCandidate(candidate: RawArticleCandidate): boolean {

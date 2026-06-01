@@ -27,13 +27,20 @@ jobs:
         run: npm install
 
       - name: Fetch daily news
-        timeout-minutes: 15
+        timeout-minutes: 25
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           BRIEF_TIMEZONE: Asia/Shanghai
           DISCOVERY_JOB_LIMIT: "250"
-          GDELT_MIN_INTERVAL_MS: "2000"
+          DISCOVERY_METHODS: "rss,sitemap,robots-sitemap,public-page,google-news"
+          MAX_ARTICLES_PER_SOURCE: "2"
+          MAX_ARTICLES_PER_QUERY: "2"
+          SOURCE_DISPLAY_LIMIT: "2"
+          SOURCE_COVERAGE_ENABLED: "1"
+          SOURCE_COVERAGE_TIMESPAN: "3d"
+          SOURCE_COVERAGE_MAX_RECORDS: "5"
+          GDELT_MIN_INTERVAL_MS: "5500"
         run: npm run fetch:daily
 
       - name: Commit updated data
@@ -46,6 +53,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           DATE=$(TZ=Asia/Shanghai date +%F)
-          git add data/articles data/runs data/source-health
           git commit -m "chore: update daily news ${DATE}"
           git push

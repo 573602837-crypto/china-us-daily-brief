@@ -1,5 +1,6 @@
 import { readArticlesForDate, writeArticlesForDate, getArticlesFilePath } from "@/lib/data/articleStore";
 import { writeRunLog, getRunLogFilePath } from "@/lib/data/runStore";
+import { writeSourceHealthLog, getSourceHealthFilePath } from "@/lib/data/sourceHealthStore";
 import { TRACKED_ENTITIES, type TrackedEntity } from "@/config/tracked-entities";
 import { classifyTopics, getCandidateText, isChinaRelated, isRelevantCandidate } from "@/lib/news/classify";
 import { buildDiscoveryJobs } from "@/lib/news/discovery/build-discovery-jobs";
@@ -41,17 +42,21 @@ function dedupeKey(candidate: RawArticleCandidate): string {
 }
 
 function getMaxArticlesPerSource(): number {
-  const value = Number(process.env.MAX_ARTICLES_PER_SOURCE || "3");
-  return Number.isFinite(value) && value > 0 ? value : 3;
+  const value = Number(process.env.MAX_ARTICLES_PER_SOURCE || "2");
+  return Number.isFinite(value) && value > 0 ? value : 2;
 }
 
 function getMaxArticlesPerQuery(): number {
-  const value = Number(process.env.MAX_ARTICLES_PER_QUERY || "3");
-  return Number.isFinite(value) && value > 0 ? value : 3;
+  const value = Number(process.env.MAX_ARTICLES_PER_QUERY || "2");
+  return Number.isFinite(value) && value > 0 ? value : 2;
 }
 
 function shouldResetDailyArticles(): boolean {
   return ["1", "true", "yes"].includes((process.env.RESET_DAILY_ARTICLES || "").toLowerCase());
+}
+
+function sourceLimitKey(article: Pick<StoredArticle, "sourceName" | "sourceDomain">): string {
+  return (article.sourceDomain || article.sourceName).toLowerCase();
 }
 
 function toStoredArticle(article: ProcessedArticle): StoredArticle {
@@ -247,7 +252,8 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
   const sourceCounts = new Map<string, number>();
   const queryCounts = new Map<string, number>();
   for (const article of existingArticles) {
-    sourceCounts.set(article.sourceName, (sourceCounts.get(article.sourceName) || 0) + 1);
+    const key = sourceLimitKey(article);
+    sourceCounts.set(key, (sourceCounts.get(key) || 0) + 1);
     for (const query of article.matchedQueries || []) {
       queryCounts.set(query, (queryCounts.get(query) || 0) + 1);
     }
@@ -298,7 +304,8 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
 
         const stored = toStoredArticle(processed);
         const queryKey = (stored.matchedQueries ?? [])[0] || candidate.providerQuery || candidate.providerName;
-        const sourceCount = sourceCounts.get(stored.sourceName) || 0;
+        const sourceKey = sourceLimitKey(stored);
+        const sourceCount = sourceCounts.get(sourceKey) || 0;
         if (sourceCount >= maxArticlesPerSource) {
           totalSkipped += 1;
           stats.skipped += 1;
@@ -315,7 +322,7 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
 
         existingByUrl.set(normalizedUrl, stored);
         existingByFingerprint.set(fingerprint, stored);
-        sourceCounts.set(stored.sourceName, sourceCount + 1);
+        sourceCounts.set(sourceKey, sourceCount + 1);
         queryCounts.set(queryKey, queryCount + 1);
         newArticles.push(stored);
         totalSaved += 1;
@@ -361,6 +368,7 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
   };
 
   await writeRunLog(runDate, runLog);
+  await writeSourceHealthLog(runDate, mergedArticles, runLog);
   logRunToConsole(runLog);
 
   return {
@@ -371,6 +379,7 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
     totalSkipped,
     failures,
     articlesPath: getArticlesFilePath(runDate),
-    runLogPath: getRunLogFilePath(runDate)
+    runLogPath: getRunLogFilePath(runDate),
+    sourceHealthPath: getSourceHealthFilePath(runDate)
   };
 }
