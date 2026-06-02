@@ -1,4 +1,5 @@
-import { CONTENT_SOURCES, type ContentSource } from "@/config/content-sources";
+import type { ContentSource } from "@/config/content-sources";
+import { getPrimaryContentSources } from "@/config/primary-sources";
 import type { DiscoveryJob } from "@/lib/news/discovery/types";
 import type { NewsProvider, ProviderFetchResult } from "@/lib/news/providers/types";
 import { buildProviderLog, fetchText } from "@/lib/news/providers/providerUtils";
@@ -51,7 +52,7 @@ function uniqueSources(): ContentSource[] {
   const seenDomains = new Set<string>();
   const sources: ContentSource[] = [];
 
-  for (const source of CONTENT_SOURCES.filter((item) => item.enabled)) {
+  for (const source of getPrimaryContentSources().filter((item) => item.enabled)) {
     if (seenDomains.has(source.domain)) {
       continue;
     }

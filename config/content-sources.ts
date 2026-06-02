@@ -28,6 +28,10 @@ function sourceQuery(domain: string, terms: string): string {
   return `site:${domain} ${terms}`;
 }
 
+const officialSourcesEnabled = ["1", "true", "yes"].includes(
+  (process.env.ENABLE_OFFICIAL_SOURCES || "").toLowerCase()
+);
+
 const LEGACY_CONTENT_SOURCES: ContentSource[] = LEGACY_SOURCES.map((source) => {
   const domain = getDomain(source.homepageUrl);
 
@@ -70,7 +74,7 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
     gdeltQueries: [
       "domain:whitehouse.gov (China OR Taiwan OR tariffs OR national security OR semiconductor)"
     ],
-    enabled: true,
+    enabled: officialSourcesEnabled,
     reliability: 5,
     maxItemsPerRun: 20
   },
@@ -86,7 +90,7 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
     indexPageUrls: ["https://www.state.gov/press-releases/"],
     googleNewsQueries: [sourceQuery("state.gov", "China OR Taiwan OR U.S.-China OR national security")],
     gdeltQueries: ["domain:state.gov (China OR Taiwan OR U.S.-China OR national security)"],
-    enabled: true,
+    enabled: officialSourcesEnabled,
     reliability: 5,
     maxItemsPerRun: 20
   },
@@ -102,7 +106,7 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
     indexPageUrls: ["https://www.defense.gov/News/Releases/", "https://www.defense.gov/News/News-Stories/"],
     googleNewsQueries: [sourceQuery("defense.gov", "China OR Taiwan OR Indo-Pacific OR national security")],
     gdeltQueries: ["domain:defense.gov (China OR Taiwan OR Indo-Pacific OR national security)"],
-    enabled: true,
+    enabled: officialSourcesEnabled,
     reliability: 5,
     maxItemsPerRun: 20
   },
@@ -118,7 +122,7 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
     indexPageUrls: ["https://www.commerce.gov/news/press-releases"],
     googleNewsQueries: [sourceQuery("commerce.gov", "China OR export controls OR semiconductor OR chips")],
     gdeltQueries: ["domain:commerce.gov (China OR export controls OR semiconductor OR chips)"],
-    enabled: true,
+    enabled: officialSourcesEnabled,
     reliability: 5,
     maxItemsPerRun: 20
   },
@@ -134,7 +138,7 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
     indexPageUrls: ["https://home.treasury.gov/news/press-releases"],
     googleNewsQueries: [sourceQuery("home.treasury.gov", "China OR sanctions OR tariffs OR trade")],
     gdeltQueries: ["domain:home.treasury.gov (China OR sanctions OR tariffs OR trade)"],
-    enabled: true,
+    enabled: officialSourcesEnabled,
     reliability: 5,
     maxItemsPerRun: 20
   },
@@ -150,7 +154,7 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
     indexPageUrls: ["https://ustr.gov/about-us/policy-offices/press-office/press-releases"],
     googleNewsQueries: [sourceQuery("ustr.gov", "China OR tariffs OR trade OR supply chain")],
     gdeltQueries: ["domain:ustr.gov (China OR tariffs OR trade OR supply chain)"],
-    enabled: true,
+    enabled: officialSourcesEnabled,
     reliability: 5,
     maxItemsPerRun: 20
   },
@@ -166,7 +170,7 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
     indexPageUrls: ["https://www.congress.gov/search"],
     googleNewsQueries: [sourceQuery("congress.gov", "China OR Taiwan OR semiconductor OR national security")],
     gdeltQueries: ["domain:congress.gov (China OR Taiwan OR semiconductor OR national security)"],
-    enabled: true,
+    enabled: officialSourcesEnabled,
     reliability: 5,
     maxItemsPerRun: 20
   },
@@ -182,7 +186,7 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
     indexPageUrls: ["https://www.govinfo.gov/app/collection/FR"],
     googleNewsQueries: [sourceQuery("govinfo.gov", "China OR Taiwan OR export controls OR tariffs")],
     gdeltQueries: ["domain:govinfo.gov (China OR Taiwan OR export controls OR tariffs)"],
-    enabled: true,
+    enabled: officialSourcesEnabled,
     reliability: 5,
     maxItemsPerRun: 20
   },
@@ -198,7 +202,7 @@ const OFFICIAL_CONTENT_SOURCES: ContentSource[] = [
     indexPageUrls: ["https://www.federalregister.gov/documents/search"],
     googleNewsQueries: [sourceQuery("federalregister.gov", "China OR export controls OR tariffs OR semiconductor")],
     gdeltQueries: ["domain:federalregister.gov (China OR export controls OR tariffs OR semiconductor)"],
-    enabled: true,
+    enabled: officialSourcesEnabled,
     reliability: 5,
     maxItemsPerRun: 20
   }

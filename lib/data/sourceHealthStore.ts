@@ -1,4 +1,9 @@
-import { CONTENT_SOURCES } from "@/config/content-sources";
+import {
+  PRIMARY_SOURCES,
+  getContentSourcesForPrimary,
+  getPrimarySourceNames,
+  normalizeSourceDomain
+} from "@/config/primary-sources";
 import { getDataPath, writeJsonFile } from "@/lib/data/jsonStore";
 import type { DailyRunLog, StoredArticle } from "@/lib/news/types";
 
@@ -26,30 +31,33 @@ export type SourceHealthLog = {
   entries: SourceHealthEntry[];
 };
 
-function sourceMatchesArticle(sourceName: string, sourceDomain: string, article: StoredArticle): boolean {
-  return article.sourceName === sourceName || article.sourceDomain === sourceDomain;
+function sourceMatchesArticle(sourceNames: string[], sourceDomains: string[], article: StoredArticle): boolean {
+  return (
+    sourceNames.includes(article.sourceName.toLowerCase()) ||
+    sourceDomains.includes(normalizeSourceDomain(article.sourceDomain))
+  );
 }
 
-function sourceRelatedToArticle(sourceName: string, sourceDomain: string, article: StoredArticle): boolean {
-  if (sourceMatchesArticle(sourceName, sourceDomain, article)) {
+function sourceRelatedToArticle(sourceNames: string[], sourceDomains: string[], article: StoredArticle): boolean {
+  if (sourceMatchesArticle(sourceNames, sourceDomains, article)) {
     return false;
   }
 
   const tags = [...(article.relatedOrganizationTags || []), ...(article.relatedEntityTags || [])];
-  const normalizedName = sourceName.toLowerCase();
-  const normalizedDomain = sourceDomain.toLowerCase();
 
   return tags.some((tag) => {
     const normalizedTag = tag.toLowerCase();
-    return normalizedTag === normalizedName || normalizedTag === normalizedDomain;
+    return sourceNames.includes(normalizedTag) || sourceDomains.includes(normalizeSourceDomain(normalizedTag));
   });
 }
 
-function logMatchesSource(logQuery: string, sourceId: string, sourceName: string, sourceDomain: string): boolean {
+function logMatchesSource(logQuery: string, sourceId: string, sourceNames: string[], sourceDomains: string[]): boolean {
+  const normalizedQuery = logQuery.toLowerCase();
+
   return (
     logQuery.includes(sourceId) ||
-    logQuery.includes(sourceName) ||
-    logQuery.includes(sourceDomain)
+    sourceNames.some((name) => normalizedQuery.includes(name)) ||
+    sourceDomains.some((domain) => normalizedQuery.includes(domain))
   );
 }
 
@@ -62,13 +70,18 @@ export async function writeSourceHealthLog(
   articles: StoredArticle[],
   runLog: DailyRunLog
 ): Promise<void> {
-  const entries = CONTENT_SOURCES.map((source) => {
-    const sourceArticles = articles.filter((article) => sourceMatchesArticle(source.name, source.domain, article));
-    const relatedArticles = articles.filter((article) => sourceRelatedToArticle(source.name, source.domain, article));
+  const entries = PRIMARY_SOURCES.map((source) => {
+    const configuredSources = getContentSourcesForPrimary(source);
+    const sourceNames = getPrimarySourceNames(source).map((name) => name.toLowerCase());
+    const sourceDomains = Array.from(
+      new Set([source.domain, ...configuredSources.map((item) => item.domain)].map(normalizeSourceDomain))
+    );
+    const sourceArticles = articles.filter((article) => sourceMatchesArticle(sourceNames, sourceDomains, article));
+    const relatedArticles = articles.filter((article) => sourceRelatedToArticle(sourceNames, sourceDomains, article));
     const directSourceHits = sourceArticles.filter((article) => !INDEXED_PROVIDERS.has(article.providerName)).length;
     const indexedSourceHits = sourceArticles.filter((article) => INDEXED_PROVIDERS.has(article.providerName)).length;
     const providerLogs = runLog.providerLogs.filter((log) =>
-      logMatchesSource(log.query, source.id, source.name, source.domain)
+      logMatchesSource(log.query, source.id, sourceNames, sourceDomains)
     );
     const providerFailed = providerLogs.filter((log) => log.status === "failed").length;
     const providerFetched = providerLogs.reduce((sum, log) => sum + log.totalFetched, 0);
@@ -89,7 +102,7 @@ export async function writeSourceHealthLog(
       name: source.name,
       domain: source.domain,
       type: source.type,
-      enabled: source.enabled,
+      enabled: configuredSources.some((item) => item.enabled),
       directSourceHits,
       indexedSourceHits,
       relatedEntityHits: relatedArticles.length,
@@ -100,7 +113,9 @@ export async function writeSourceHealthLog(
       message:
         status === "related"
           ? "covered by related entity discovery"
-          : providerLogs.find((log) => log.status === "failed")?.errorMessage || source.notes || "公开来源"
+          : providerLogs.find((log) => log.status === "failed")?.errorMessage ||
+            configuredSources.find((item) => item.notes)?.notes ||
+            "公开来源"
     };
   });
 

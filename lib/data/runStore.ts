@@ -1,7 +1,12 @@
-import { CONTENT_SOURCES } from "@/config/content-sources";
+import {
+  PRIMARY_SOURCES,
+  getContentSourcesForPrimary,
+  getPrimarySourceNames,
+  normalizeSourceDomain
+} from "@/config/primary-sources";
 import { getAllStoredArticles } from "@/lib/data/articleStore";
 import { getDataPath, listJsonDates, readJsonFile, writeJsonFile } from "@/lib/data/jsonStore";
-import type { DailyRunLog } from "@/lib/news/types";
+import type { DailyRunLog, StoredArticle } from "@/lib/news/types";
 
 export function getRunLogFilePath(dateKey: string): string {
   return getDataPath("runs", `${dateKey}.json`);
@@ -22,34 +27,52 @@ export async function getSourceStatus() {
   const latestRun = runs[0];
   const indexedProviders = new Set(["GoogleNewsRssProvider", "GdeltProvider"]);
 
-  return CONTENT_SOURCES.map((source) => {
+  return PRIMARY_SOURCES.map((source) => {
+    const configuredSources = getContentSourcesForPrimary(source);
+    const sourceNames = getPrimarySourceNames(source).map((name) => name.toLowerCase());
+    const sourceDomains = Array.from(
+      new Set([source.domain, ...configuredSources.map((item) => item.domain)].map(normalizeSourceDomain))
+    );
     const sourceArticles = articles.filter(
-      (article) => article.sourceName === source.name || article.sourceDomain === source.domain
+      (article) =>
+        sourceNames.includes(article.sourceName.toLowerCase()) ||
+        sourceDomains.includes(normalizeSourceDomain(article.sourceDomain))
     );
     const directSourceHits = sourceArticles.filter((article) => !indexedProviders.has(article.providerName)).length;
     const indexedSourceHits = sourceArticles.filter((article) => indexedProviders.has(article.providerName)).length;
-    const relatedArticles = articles.filter((article) => {
+    const relatedArticles = articles.filter((article: StoredArticle) => {
       const tags = [...(article.relatedOrganizationTags || []), ...(article.relatedEntityTags || [])];
-      const isSameSource = article.sourceName === source.name || article.sourceDomain === source.domain;
-      return !isSameSource && tags.some((tag) => tag.toLowerCase() === source.name.toLowerCase());
+      const isSameSource =
+        sourceNames.includes(article.sourceName.toLowerCase()) ||
+        sourceDomains.includes(normalizeSourceDomain(article.sourceDomain));
+      return (
+        !isSameSource &&
+        tags.some((tag) => {
+          const normalizedTag = tag.toLowerCase();
+          return sourceNames.includes(normalizedTag) || sourceDomains.includes(normalizeSourceDomain(normalizedTag));
+        })
+      );
     });
     const providerLogs = latestRun?.providerLogs.filter((log) =>
       log.query.includes(source.id) ||
-      log.query.includes(source.name) ||
-      log.query.includes(source.domain)
+      sourceNames.some((name) => log.query.toLowerCase().includes(name)) ||
+      sourceDomains.some((domain) => log.query.toLowerCase().includes(domain))
     ) || [];
     const failed = providerLogs.filter((log) => log.status === "failed");
     const fetched = providerLogs.reduce((sum, log) => sum + log.totalFetched, 0);
     const coverageCount = directSourceHits + indexedSourceHits + relatedArticles.length;
+    const enabled = configuredSources.some((item) => item.enabled);
+    const firstConfiguredSource = configuredSources[0];
 
     return {
       id: source.id,
       name: source.name,
       type: source.type,
       homepageUrl: source.homepageUrl,
-      rssUrl: source.rssUrls[0] || null,
-      enabled: source.enabled,
-      notes: source.notes || null,
+      domain: source.domain,
+      rssUrl: firstConfiguredSource?.rssUrls[0] || null,
+      enabled,
+      notes: firstConfiguredSource?.notes || null,
       lastFetchedAt: latestRun ? new Date(latestRun.endedAt) : null,
       lastFetchStatus: providerLogs.length
         ? failed.length === providerLogs.length
@@ -61,7 +84,7 @@ export async function getSourceStatus() {
       lastFetchMessage:
         relatedArticles.length > 0 && directSourceHits + indexedSourceHits === 0
           ? "covered by related entity discovery"
-          : failed[0]?.errorMessage || source.notes || source.rssUrls[0] || "公开来源",
+          : failed[0]?.errorMessage || firstConfiguredSource?.notes || firstConfiguredSource?.rssUrls[0] || "公开来源",
       lastItemCount: fetched || coverageCount,
       savedCount: sourceArticles.length,
       directSourceHits,

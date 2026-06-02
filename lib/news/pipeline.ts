@@ -1,6 +1,7 @@
 import { readArticlesForDate, writeArticlesForDate, getArticlesFilePath } from "@/lib/data/articleStore";
 import { writeRunLog, getRunLogFilePath } from "@/lib/data/runStore";
 import { writeSourceHealthLog, getSourceHealthFilePath } from "@/lib/data/sourceHealthStore";
+import { PRIMARY_SOURCES, getPrimarySourceNames, normalizeSourceDomain } from "@/config/primary-sources";
 import { TRACKED_ENTITIES, type TrackedEntity } from "@/config/tracked-entities";
 import { classifyTopics, getCandidateText, isChinaRelated, isRelevantCandidate } from "@/lib/news/classify";
 import { buildDiscoveryJobs } from "@/lib/news/discovery/build-discovery-jobs";
@@ -51,12 +52,30 @@ function getMaxArticlesPerQuery(): number {
   return Number.isFinite(value) && value > 0 ? value : 2;
 }
 
+function restrictToPrimarySources(): boolean {
+  return !["0", "false", "no"].includes((process.env.RESTRICT_TO_PRIMARY_SOURCES || "1").toLowerCase());
+}
+
 function shouldResetDailyArticles(): boolean {
   return ["1", "true", "yes"].includes((process.env.RESET_DAILY_ARTICLES || "").toLowerCase());
 }
 
 function sourceLimitKey(article: Pick<StoredArticle, "sourceName" | "sourceDomain">): string {
-  return (article.sourceDomain || article.sourceName).toLowerCase();
+  return normalizeSourceDomain(article.sourceDomain || article.sourceName);
+}
+
+function isPrimarySourceCandidate(article: Pick<RawArticleCandidate, "sourceName" | "sourceDomain">): boolean {
+  if (!restrictToPrimarySources()) {
+    return true;
+  }
+
+  const sourceName = article.sourceName.toLowerCase();
+  const sourceDomain = normalizeSourceDomain(article.sourceDomain);
+
+  return PRIMARY_SOURCES.some((source) => {
+    const sourceNames = getPrimarySourceNames(source).map((name) => name.toLowerCase());
+    return sourceDomain === normalizeSourceDomain(source.domain) || sourceNames.includes(sourceName);
+  });
 }
 
 function toStoredArticle(article: ProcessedArticle): StoredArticle {
@@ -239,7 +258,10 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
   const runDate = toDateKey(now);
   const startedAt = new Date();
   process.stderr.write(`\n🚀 Starting daily pipeline for ${runDate}\n`);
-  const existingArticles = shouldResetDailyArticles() ? [] : await readArticlesForDate(runDate);
+  const rawExistingArticles = shouldResetDailyArticles() ? [] : await readArticlesForDate(runDate);
+  const existingArticles = restrictToPrimarySources()
+    ? rawExistingArticles.filter((article) => isPrimarySourceCandidate(article))
+    : rawExistingArticles;
   const existingByUrl = new Map(existingArticles.map((article) => [normalizeUrl(article.originalUrl), article]));
   const existingByFingerprint = new Map(
     existingArticles.map((article) => [
@@ -284,6 +306,14 @@ export async function runDailyPipeline(now = new Date()): Promise<PipelineResult
         const stats = statsByQuery.get(statsKey) || { saved: 0, skipped: 0 };
         const normalizedUrl = normalizeUrl(candidate.originalUrl);
         const fingerprint = dedupeKey({ ...candidate, originalUrl: normalizedUrl });
+
+        if (!isPrimarySourceCandidate(candidate)) {
+          totalSkipped += 1;
+          stats.skipped += 1;
+          statsByQuery.set(statsKey, stats);
+          continue;
+        }
+
         const processed = await processCandidate({ ...candidate, originalUrl: normalizedUrl });
 
         if (!processed) {

@@ -1,5 +1,5 @@
 import { TRACKED_PEOPLE } from "@/config/people";
-import { CONTENT_SOURCES } from "@/config/content-sources";
+import { PRIMARY_SOURCES } from "@/config/primary-sources";
 import {
   getArticles,
   getAvailableDates,
@@ -38,5 +38,12 @@ export async function getPerson(personId: string) {
 }
 
 export async function getSourceNames() {
-  return Array.from(new Set(CONTENT_SOURCES.map((source) => source.name))).sort();
+  return PRIMARY_SOURCES.map((source) => source.name).sort();
+}
+
+export async function getSourceOptions() {
+  return PRIMARY_SOURCES.map((source) => ({
+    label: source.name,
+    value: source.domain
+  }));
 }

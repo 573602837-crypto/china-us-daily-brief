@@ -109,6 +109,10 @@ function matchesPerson(article: StoredArticle, personId: string): boolean {
   return article.peopleMatches.some((match: PersonMatchCandidate) => match.personId === personId);
 }
 
+function normalizeSourceFilter(value: string): string {
+  return value.toLowerCase().replace(/^www\./, "");
+}
+
 export async function getArticles(filters: ArticleFilters = {}): Promise<ArticleView[]> {
   const rows = filters.date ? await readArticlesForDate(filters.date) : await getAllStoredArticles();
   const filtered = rows.filter((article) => {
@@ -116,8 +120,15 @@ export async function getArticles(filters: ArticleFilters = {}): Promise<Article
       return false;
     }
 
-    if (filters.source && article.sourceName !== filters.source && article.sourceDomain !== filters.source) {
-      return false;
+    if (filters.source) {
+      const requestedSource = filters.source.toLowerCase();
+      const requestedDomain = normalizeSourceFilter(filters.source);
+      const articleDomain = normalizeSourceFilter(article.sourceDomain);
+      const articleName = article.sourceName.toLowerCase();
+
+      if (articleName !== requestedSource && articleDomain !== requestedDomain) {
+        return false;
+      }
     }
 
     if (filters.person && !matchesPerson(article, filters.person)) {

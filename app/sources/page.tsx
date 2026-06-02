@@ -1,4 +1,7 @@
+import Link from "next/link";
 import { getRecentRuns, getSourceStatus } from "@/lib/news/queries";
+import { appConfig } from "@/lib/settings";
+import { formatDateKey } from "@/lib/news/text";
 
 export const dynamic = "force-dynamic";
 
@@ -17,13 +20,14 @@ function formatDate(value: Date | null): string {
 
 export default async function SourcesPage() {
   const [sources, runs] = await Promise.all([getSourceStatus(), getRecentRuns()]);
+  const todayDate = formatDateKey(new Date(), appConfig.timezone);
 
   return (
     <main className="mx-auto flex max-w-7xl flex-col gap-6 px-4 py-6">
       <section className="rounded-lg border border-slate-200 bg-white p-5 shadow-sm">
         <h1 className="text-2xl font-bold text-slate-950">来源状态</h1>
         <p className="mt-2 text-sm text-slate-600">
-          只使用公开 RSS、Google News RSS 和 GDELT 公开接口，不绕过付费墙或访问限制。
+          当前只展示主来源清单；抓取仍只使用公开 RSS、Google News RSS 和 GDELT 公开接口。
         </p>
       </section>
 
@@ -34,7 +38,7 @@ export default async function SourcesPage() {
               <tr>
                 <th className="px-4 py-3">来源</th>
                 <th className="px-4 py-3">类型</th>
-                <th className="px-4 py-3">启用</th>
+                <th className="px-4 py-3">今日</th>
                 <th className="px-4 py-3">最近抓取</th>
                 <th className="px-4 py-3">状态</th>
                 <th className="px-4 py-3">直接</th>
@@ -46,13 +50,36 @@ export default async function SourcesPage() {
             <tbody className="divide-y divide-slate-100">
               {sources.map((source) => (
                 <tr key={source.id}>
-                  <td className="px-4 py-3 font-semibold text-slate-900">
-                    <a href={source.homepageUrl} rel="noreferrer" target="_blank">
+                  <td className="px-4 py-3">
+                    <Link
+                      className="font-semibold text-slate-900 hover:text-slate-600"
+                      href={{
+                        pathname: "/search",
+                        query: {
+                          date: todayDate,
+                          source: source.domain
+                        }
+                      }}
+                    >
                       {source.name}
-                    </a>
+                    </Link>
+                    <div className="mt-1 text-xs text-slate-500">{source.domain}</div>
                   </td>
                   <td className="px-4 py-3 text-slate-600">{source.type}</td>
-                  <td className="px-4 py-3 text-slate-600">{source.enabled ? "是" : "否"}</td>
+                  <td className="px-4 py-3">
+                    <Link
+                      className="rounded-md border border-slate-200 px-2 py-1 text-xs font-semibold text-slate-700 hover:bg-slate-50"
+                      href={{
+                        pathname: "/search",
+                        query: {
+                          date: todayDate,
+                          source: source.domain
+                        }
+                      }}
+                    >
+                      今日新闻
+                    </Link>
+                  </td>
                   <td className="px-4 py-3 text-slate-600">{formatDate(source.lastFetchedAt)}</td>
                   <td className="px-4 py-3">
                     <span
@@ -71,7 +98,10 @@ export default async function SourcesPage() {
                   <td className="px-4 py-3 text-slate-600">{source.indexedSourceHits}</td>
                   <td className="px-4 py-3 text-slate-600">{source.relatedEntityHits}</td>
                   <td className="max-w-md px-4 py-3 text-slate-600">
-                    {source.lastFetchMessage || source.notes || source.rssUrl || "公开来源"}
+                    <div>{source.lastFetchMessage || source.notes || source.rssUrl || "公开来源"}</div>
+                    <a className="mt-1 inline-block text-xs font-semibold text-slate-500" href={source.homepageUrl} rel="noreferrer" target="_blank">
+                      官网
+                    </a>
                   </td>
                 </tr>
               ))}
