@@ -1,6 +1,6 @@
 {
   "runDate": "2026-06-02",
-  "generatedAt": "2026-06-02T00:05:57.612Z",
+  "generatedAt": "2026-06-02T00:21:50.356Z",
   "entries": [
     {
       "id": "the-hill",
@@ -12,8 +12,8 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 112,
-      "providerSaved": 2,
-      "providerFailed": 5,
+      "providerSaved": 0,
+      "providerFailed": 4,
       "status": "direct",
       "message": "HTTP 403"
     },
@@ -27,8 +27,8 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 112,
-      "providerSaved": 2,
-      "providerFailed": 5,
+      "providerSaved": 0,
+      "providerFailed": 4,
       "status": "direct",
       "message": "HTTP 403"
     },
@@ -42,8 +42,8 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 112,
-      "providerSaved": 2,
-      "providerFailed": 5,
+      "providerSaved": 0,
+      "providerFailed": 4,
       "status": "direct",
       "message": "HTTP 403"
     },
@@ -57,8 +57,8 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 112,
-      "providerSaved": 2,
-      "providerFailed": 5,
+      "providerSaved": 0,
+      "providerFailed": 4,
       "status": "direct",
       "message": "HTTP 403"
     },
@@ -72,10 +72,10 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 80,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 1,
       "status": "direct",
-      "message": "fetch failed"
+      "message": "HTTP 429"
     },
     {
       "id": "politico",
@@ -87,7 +87,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 94,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 9,
       "status": "direct",
       "message": "HTTP 403"
@@ -102,7 +102,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 94,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 9,
       "status": "direct",
       "message": "HTTP 403"
@@ -117,7 +117,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 94,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 9,
       "status": "direct",
       "message": "HTTP 403"
@@ -132,7 +132,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 94,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 9,
       "status": "direct",
       "message": "HTTP 403"
@@ -147,7 +147,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 57,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 2,
       "status": "direct",
       "message": "HTTP 404"
@@ -162,7 +162,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 58,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 2,
       "status": "direct",
       "message": "fetch failed"
@@ -192,8 +192,8 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 32,
-      "providerSaved": 2,
-      "providerFailed": 3,
+      "providerSaved": 0,
+      "providerFailed": 2,
       "status": "direct",
       "message": "HTTP 403"
     },
@@ -206,7 +206,7 @@
       "directSourceHits": 0,
       "indexedSourceHits": 2,
       "relatedEntityHits": 0,
-      "providerFetched": 0,
+      "providerFetched": 5,
       "providerSaved": 0,
       "providerFailed": 4,
       "status": "indexed",
@@ -221,8 +221,8 @@
       "directSourceHits": 2,
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
-      "providerFetched": 114,
-      "providerSaved": 2,
+      "providerFetched": 113,
+      "providerSaved": 0,
       "providerFailed": 1,
       "status": "direct",
       "message": "HTTP 429"
@@ -236,8 +236,8 @@
       "directSourceHits": 2,
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
-      "providerFetched": 114,
-      "providerSaved": 2,
+      "providerFetched": 113,
+      "providerSaved": 0,
       "providerFailed": 1,
       "status": "direct",
       "message": "HTTP 429"
@@ -252,10 +252,10 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
       "providerFetched": 64,
-      "providerSaved": 2,
-      "providerFailed": 1,
+      "providerSaved": 0,
+      "providerFailed": 0,
       "status": "direct",
-      "message": "HTTP 429"
+      "message": "公开来源"
     },
     {
       "id": "foreign-policy",
@@ -266,8 +266,8 @@
       "directSourceHits": 2,
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
-      "providerFetched": 24,
-      "providerSaved": 2,
+      "providerFetched": 25,
+      "providerSaved": 0,
       "providerFailed": 3,
       "status": "direct",
       "message": "HTTP 404"
@@ -281,11 +281,11 @@
       "directSourceHits": 2,
       "indexedSourceHits": 0,
       "relatedEntityHits": 0,
-      "providerFetched": 50,
-      "providerSaved": 2,
+      "providerFetched": 34,
+      "providerSaved": 0,
       "providerFailed": 1,
       "status": "direct",
-      "message": "HTTP 429"
+      "message": "fetch failed"
     },
     {
       "id": "national-security-action",
@@ -297,7 +297,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 9,
       "providerFetched": 75,
-      "providerSaved": 10,
+      "providerSaved": 0,
       "providerFailed": 2,
       "status": "direct",
       "message": "HTTP 429"
@@ -312,8 +312,8 @@
       "indexedSourceHits": 2,
       "relatedEntityHits": 2,
       "providerFetched": 40,
-      "providerSaved": 4,
-      "providerFailed": 6,
+      "providerSaved": 0,
+      "providerFailed": 5,
       "status": "indexed",
       "message": "HTTP 403"
     },
@@ -327,7 +327,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 14,
       "providerFetched": 74,
-      "providerSaved": 5,
+      "providerSaved": 0,
       "providerFailed": 5,
       "status": "direct",
       "message": "HTTP 404"
@@ -342,7 +342,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 9,
       "providerFetched": 80,
-      "providerSaved": 9,
+      "providerSaved": 0,
       "providerFailed": 1,
       "status": "direct",
       "message": "Unexpected token 'O', \"One or mor\"... is not valid JSON"
@@ -372,7 +372,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 2,
       "providerFetched": 10,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 4,
       "status": "related",
       "message": "covered by related entity discovery"
@@ -386,9 +386,9 @@
       "directSourceHits": 0,
       "indexedSourceHits": 2,
       "relatedEntityHits": 0,
-      "providerFetched": 10,
-      "providerSaved": 2,
-      "providerFailed": 4,
+      "providerFetched": 30,
+      "providerSaved": 0,
+      "providerFailed": 3,
       "status": "indexed",
       "message": "This operation was aborted"
     },
@@ -402,7 +402,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 6,
       "providerFetched": 60,
-      "providerSaved": 8,
+      "providerSaved": 0,
       "providerFailed": 2,
       "status": "direct",
       "message": "HTTP 404"
@@ -417,7 +417,7 @@
       "indexedSourceHits": 2,
       "relatedEntityHits": 0,
       "providerFetched": 10,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 3,
       "status": "indexed",
       "message": "HTTP 403"
@@ -432,7 +432,7 @@
       "indexedSourceHits": 2,
       "relatedEntityHits": 0,
       "providerFetched": 30,
-      "providerSaved": 2,
+      "providerSaved": 0,
       "providerFailed": 2,
       "status": "indexed",
       "message": "HTTP 404"
@@ -447,7 +447,7 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 2,
       "providerFetched": 30,
-      "providerSaved": 4,
+      "providerSaved": 0,
       "providerFailed": 2,
       "status": "direct",
       "message": "HTTP 404"
@@ -462,8 +462,8 @@
       "indexedSourceHits": 0,
       "relatedEntityHits": 8,
       "providerFetched": 45,
-      "providerSaved": 10,
-      "providerFailed": 6,
+      "providerSaved": 0,
+      "providerFailed": 5,
       "status": "direct",
       "message": "HTTP 403"
     }

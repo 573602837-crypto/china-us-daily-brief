@@ -1,11 +1,11 @@
 {
   "runDate": "2026-06-02",
-  "startedAt": "2026-06-02T00:00:06.505Z",
-  "endedAt": "2026-06-02T00:05:57.602Z",
+  "startedAt": "2026-06-02T00:17:35.161Z",
+  "endedAt": "2026-06-02T00:21:50.346Z",
   "status": "partial",
-  "totalFetched": 2187,
-  "totalSaved": 285,
-  "totalSkipped": 1902,
+  "totalFetched": 2206,
+  "totalSaved": 3,
+  "totalSkipped": 2203,
   "providerLogs": [
     {
       "providerName": "TruthSocialProvider",
@@ -30,8 +30,8 @@
       "query": "axios https://www.axios.com/feeds/feed.rss",
       "status": "success",
       "totalFetched": 20,
-      "totalSaved": 2,
-      "totalSkipped": 18
+      "totalSaved": 0,
+      "totalSkipped": 20
     },
     {
       "providerName": "RssProvider",
@@ -47,16 +47,16 @@
       "query": "foreign-affairs https://www.foreignaffairs.com/rss.xml",
       "status": "success",
       "totalFetched": 16,
-      "totalSaved": 2,
-      "totalSkipped": 14
+      "totalSaved": 0,
+      "totalSkipped": 16
     },
     {
       "providerName": "RssProvider",
       "query": "the-hill https://thehill.com/policy/international/feed/",
       "status": "success",
       "totalFetched": 12,
-      "totalSaved": 2,
-      "totalSkipped": 10
+      "totalSaved": 0,
+      "totalSkipped": 12
     },
     {
       "providerName": "RssProvider",
@@ -87,8 +87,8 @@
       "query": "politico https://rss.politico.com/politics-news.xml",
       "status": "success",
       "totalFetched": 16,
-      "totalSaved": 2,
-      "totalSkipped": 14
+      "totalSaved": 0,
+      "totalSkipped": 16
     },
     {
       "providerName": "RssProvider",
@@ -119,16 +119,16 @@
       "query": "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
       "status": "success",
       "totalFetched": 20,
-      "totalSaved": 2,
-      "totalSkipped": 18
+      "totalSaved": 0,
+      "totalSkipped": 20
     },
     {
       "providerName": "RssProvider",
       "query": "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss",
       "status": "success",
       "totalFetched": 18,
-      "totalSaved": 2,
-      "totalSkipped": 16
+      "totalSaved": 0,
+      "totalSkipped": 18
     },
     {
       "providerName": "RssProvider",
@@ -153,8 +153,8 @@
       "query": "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
       "status": "success",
       "totalFetched": 16,
-      "totalSaved": 2,
-      "totalSkipped": 14
+      "totalSaved": 0,
+      "totalSkipped": 16
     },
     {
       "providerName": "RssProvider",
@@ -169,16 +169,16 @@
       "query": "foreign-policy https://foreignpolicy.com/feed/",
       "status": "success",
       "totalFetched": 16,
-      "totalSaved": 2,
-      "totalSkipped": 14
+      "totalSaved": 0,
+      "totalSkipped": 16
     },
     {
       "providerName": "RssProvider",
       "query": "the-atlantic https://www.theatlantic.com/feed/all/",
       "status": "success",
       "totalFetched": 16,
-      "totalSaved": 2,
-      "totalSkipped": 14
+      "totalSaved": 0,
+      "totalSkipped": 16
     },
     {
       "providerName": "RssProvider",
@@ -228,8 +228,8 @@
       "query": "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml",
       "status": "success",
       "totalFetched": 16,
-      "totalSaved": 2,
-      "totalSkipped": 14
+      "totalSaved": 0,
+      "totalSkipped": 16
     },
     {
       "providerName": "RssProvider",
@@ -251,11 +251,10 @@
     {
       "providerName": "RssProvider",
       "query": "washington-post-politics https://feeds.washingtonpost.com/rss/politics",
-      "status": "failed",
-      "errorMessage": "This operation was aborted",
-      "totalFetched": 0,
+      "status": "success",
+      "totalFetched": 5,
       "totalSaved": 0,
-      "totalSkipped": 0
+      "totalSkipped": 5
     },
     {
       "providerName": "RssProvider",
@@ -279,8 +278,8 @@
       "query": "national-security-action https://nationalsecurityaction.org/sitemap.xml",
       "status": "success",
       "totalFetched": 12,
-      "totalSaved": 2,
-      "totalSkipped": 22
+      "totalSaved": 0,
+      "totalSkipped": 24
     },
     {
       "providerName": "SitemapProvider",
@@ -475,7 +474,7 @@
       "providerName": "SitemapProvider",
       "query": "foreign-policy https://foreignpolicy.com/robots.txt",
       "status": "success",
-      "totalFetched": 8,
+      "totalFetched": 9,
       "totalSaved": 0,
       "totalSkipped": 0
     },
@@ -483,7 +482,7 @@
       "providerName": "SitemapProvider",
       "query": "the-atlantic https://www.theatlantic.com/robots.txt",
       "status": "success",
-      "totalFetched": 16,
+      "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
     },
@@ -738,9 +737,9 @@
       "providerName": "PublicPageProvider",
       "query": "new-york-times-politics https://www.nytimes.com/section/politics",
       "status": "success",
-      "totalFetched": 13,
+      "totalFetched": 12,
       "totalSaved": 0,
-      "totalSkipped": 13
+      "totalSkipped": 12
     },
     {
       "providerName": "PublicPageProvider",
@@ -780,8 +779,8 @@
       "query": "state-department https://www.state.gov/press-releases/",
       "status": "success",
       "totalFetched": 20,
-      "totalSaved": 1,
-      "totalSkipped": 19
+      "totalSaved": 0,
+      "totalSkipped": 20
     },
     {
       "providerName": "PublicPageProvider",
@@ -804,19 +803,18 @@
     {
       "providerName": "PublicPageProvider",
       "query": "treasury https://home.treasury.gov/news/press-releases",
-      "status": "failed",
-      "errorMessage": "This operation was aborted",
-      "totalFetched": 0,
+      "status": "success",
+      "totalFetched": 20,
       "totalSaved": 0,
-      "totalSkipped": 0
+      "totalSkipped": 20
     },
     {
       "providerName": "PublicPageProvider",
       "query": "ustr https://ustr.gov/about-us/policy-offices/press-office/press-releases",
       "status": "success",
       "totalFetched": 20,
-      "totalSaved": 2,
-      "totalSkipped": 18
+      "totalSaved": 0,
+      "totalSkipped": 20
     },
     {
       "providerName": "PublicPageProvider",
@@ -840,8 +838,8 @@
       "query": "federal-register https://www.federalregister.gov/documents/search",
       "status": "success",
       "totalFetched": 20,
-      "totalSaved": 2,
-      "totalSkipped": 18
+      "totalSaved": 0,
+      "totalSkipped": 20
     },
     {
       "providerName": "PublicPageProvider",
@@ -933,272 +931,272 @@
       "query": "\"Truth Social\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"America First Policy Institute\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Donald Trump\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"JD Vance\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Marco Rubio\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Pete Hegseth\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Scott Bessent\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Howard Lutnick\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Mike Johnson\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"John Thune\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Elise Stefanik\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Robert Lighthizer\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Stephen Miller\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Michael Needham\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Susie Wiles\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Gavin Newsom\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Jake Sullivan\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Joe Biden\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Kamala Harris\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Antony Blinken\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Chuck Schumer\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Hakeem Jeffries\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Nancy Pelosi\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"National Security Action\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Trump team\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Democratic Party\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Republican Party\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"White House\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 1,
-      "totalSkipped": 9
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"State Department\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Commerce Department\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "USTR",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "Congress",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"China policy\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"export controls\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
@@ -1213,16 +1211,16 @@
       "query": "\"U.S.-China\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Truth Social\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
@@ -1237,576 +1235,576 @@
       "query": "\"Donald Trump\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"JD Vance\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Marco Rubio\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Pete Hegseth\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Scott Bessent\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Howard Lutnick\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Mike Johnson\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"John Thune\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Elise Stefanik\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Robert Lighthizer\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Stephen Miller\" China",
       "status": "success",
-      "totalFetched": 0,
-      "totalSaved": 0,
-      "totalSkipped": 0
+      "totalFetched": 10,
+      "totalSaved": 2,
+      "totalSkipped": 8
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Michael Needham\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Susie Wiles\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Gavin Newsom\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Jake Sullivan\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Joe Biden\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Kamala Harris\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Antony Blinken\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Chuck Schumer\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Hakeem Jeffries\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Nancy Pelosi\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"National Security Action\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Trump team\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Democratic Party\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Republican Party\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"White House\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"State Department\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Commerce Department\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "USTR China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "Congress China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"China policy\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"export controls\" China",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Jake Sullivan\" \"National Security Action\"",
       "status": "success",
       "totalFetched": 9,
-      "totalSaved": 2,
-      "totalSkipped": 7
+      "totalSaved": 0,
+      "totalSkipped": 9
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "China Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Truth Social\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"America First Policy Institute\" trade",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 1,
-      "totalSkipped": 9
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Donald Trump\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"JD Vance\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Marco Rubio\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Pete Hegseth\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Scott Bessent\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Howard Lutnick\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Mike Johnson\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"John Thune\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Elise Stefanik\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Robert Lighthizer\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Stephen Miller\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Michael Needham\" Taiwan",
       "status": "success",
       "totalFetched": 7,
-      "totalSaved": 2,
-      "totalSkipped": 5
+      "totalSaved": 0,
+      "totalSkipped": 7
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Susie Wiles\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Gavin Newsom\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Jake Sullivan\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Joe Biden\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Kamala Harris\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Antony Blinken\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Chuck Schumer\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Hakeem Jeffries\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Nancy Pelosi\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"National Security Action\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Trump team\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Democratic Party\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Republican Party\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"White House\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"State Department\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Commerce Department\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "USTR Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "Congress Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"China policy\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"export controls\" Taiwan",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Gavin Newsom\" \"Trump\"",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "China tariffs",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Truth Social\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"America First Policy Institute\" technology",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 1,
-      "totalSkipped": 9
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
@@ -1885,24 +1883,24 @@
       "query": "site:state.gov China OR Taiwan OR U.S.-China OR national security",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "site:commerce.gov China OR export controls OR semiconductor OR chips",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "site:home.treasury.gov China OR sanctions OR tariffs OR trade",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
@@ -1917,48 +1915,48 @@
       "query": "site:congress.gov China OR Taiwan OR semiconductor OR national security",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "site:govinfo.gov China OR Taiwan OR export controls OR tariffs",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "site:federalregister.gov China OR export controls OR tariffs OR semiconductor",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Donald Trump\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"JD Vance\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Marco Rubio\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
@@ -1973,72 +1971,72 @@
       "query": "\"Scott Bessent\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Howard Lutnick\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Mike Johnson\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"John Thune\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Elise Stefanik\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Robert Lighthizer\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Stephen Miller\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 1,
-      "totalSkipped": 9
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Michael Needham\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Susie Wiles\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
@@ -2053,22 +2051,21 @@
       "query": "\"Jake Sullivan\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "GoogleNewsRssProvider",
       "query": "\"Joe Biden\" Trump",
       "status": "success",
       "totalFetched": 10,
-      "totalSaved": 2,
-      "totalSkipped": 8
+      "totalSaved": 0,
+      "totalSkipped": 10
     },
     {
       "providerName": "SourceCoverageProvider",
       "query": "domain:thehill.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)",
-      "status": "failed",
-      "errorMessage": "fetch failed",
+      "status": "success",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2077,7 +2074,7 @@
       "providerName": "SourceCoverageProvider",
       "query": "domain:axios.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)",
       "status": "failed",
-      "errorMessage": "fetch failed",
+      "errorMessage": "HTTP 429",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2086,7 +2083,7 @@
       "providerName": "SourceCoverageProvider",
       "query": "domain:politico.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)",
       "status": "failed",
-      "errorMessage": "fetch failed",
+      "errorMessage": "HTTP 429",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2104,7 +2101,7 @@
       "providerName": "SourceCoverageProvider",
       "query": "domain:cnn.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)",
       "status": "failed",
-      "errorMessage": "fetch failed",
+      "errorMessage": "HTTP 429",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2121,8 +2118,7 @@
     {
       "providerName": "SourceCoverageProvider",
       "query": "domain:wsj.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)",
-      "status": "failed",
-      "errorMessage": "HTTP 429",
+      "status": "success",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2130,7 +2126,8 @@
     {
       "providerName": "SourceCoverageProvider",
       "query": "domain:washingtonpost.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)",
-      "status": "success",
+      "status": "failed",
+      "errorMessage": "HTTP 429",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2147,8 +2144,7 @@
     {
       "providerName": "SourceCoverageProvider",
       "query": "domain:foreignaffairs.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)",
-      "status": "failed",
-      "errorMessage": "HTTP 429",
+      "status": "success",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2166,7 +2162,7 @@
       "providerName": "SourceCoverageProvider",
       "query": "domain:theatlantic.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)",
       "status": "failed",
-      "errorMessage": "HTTP 429",
+      "errorMessage": "fetch failed",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2201,8 +2197,7 @@
     {
       "providerName": "SourceCoverageProvider",
       "query": "domain:americafirstpolicy.com (Congress OR national security OR election OR Trump)",
-      "status": "failed",
-      "errorMessage": "HTTP 429",
+      "status": "success",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2211,7 +2206,7 @@
       "providerName": "SourceCoverageProvider",
       "query": "domain:whitehouse.gov (China OR Taiwan OR tariffs OR national security OR semiconductor)",
       "status": "failed",
-      "errorMessage": "fetch failed",
+      "errorMessage": "HTTP 429",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2291,8 +2286,7 @@
     {
       "providerName": "SourceCoverageProvider",
       "query": "domain:truthsocial.com (Trump OR China OR Taiwan OR tariffs OR trade OR national security)",
-      "status": "failed",
-      "errorMessage": "HTTP 429",
+      "status": "success",
       "totalFetched": 0,
       "totalSaved": 0,
       "totalSkipped": 0
@@ -2302,8 +2296,8 @@
       "query": "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)",
       "status": "success",
       "totalFetched": 5,
-      "totalSaved": 2,
-      "totalSkipped": 3
+      "totalSaved": 0,
+      "totalSkipped": 5
     }
   ]
 }

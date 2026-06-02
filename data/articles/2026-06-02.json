@@ -512,7 +512,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Donald Trump\" Trump"
+      "\"Donald Trump\" Trump",
+      "\"Donald Trump\""
     ],
     "importanceLevel": 2,
     "chinaRelated": false
@@ -778,7 +779,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Truth Social\" Trump"
+      "\"Truth Social\" Trump",
+      "\"Truth Social\""
     ],
     "importanceLevel": 2,
     "chinaRelated": false
@@ -974,7 +976,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Scott Bessent\" Trump"
+      "\"Scott Bessent\" Trump",
+      "\"Scott Bessent\""
     ],
     "importanceLevel": 2,
     "chinaRelated": false
@@ -1116,7 +1119,8 @@
     ],
     "providersSeen": [
       "RssProvider",
-      "SitemapProvider"
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
     ],
     "discoveryLayers": [
       "source"
@@ -1126,7 +1130,8 @@
       "the-hill https://thehill.com/robots.txt",
       "the-hill-technology https://thehill.com/robots.txt",
       "the-hill-house https://thehill.com/robots.txt",
-      "the-hill-senate https://thehill.com/robots.txt"
+      "the-hill-senate https://thehill.com/robots.txt",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress"
     ],
     "importanceLevel": 4,
     "chinaRelated": false
@@ -1519,7 +1524,8 @@
     ],
     "matchedQueries": [
       "the-atlantic https://www.theatlantic.com/feed/all/",
-      "\"Donald Trump\" Trump"
+      "\"Donald Trump\" Trump",
+      "\"Donald Trump\""
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -1635,13 +1641,15 @@
       "Foreign Policy"
     ],
     "providersSeen": [
-      "RssProvider"
+      "RssProvider",
+      "SitemapProvider"
     ],
     "discoveryLayers": [
       "source"
     ],
     "matchedQueries": [
-      "foreign-policy https://foreignpolicy.com/feed/"
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -2370,7 +2378,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Marco Rubio\""
+      "\"Marco Rubio\"",
+      "\"JD Vance\""
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -2753,6 +2762,83 @@
     "chinaRelated": true
   },
   {
+    "id": "art_4u9sul",
+    "sourceName": "Mediaite",
+    "sourceDomain": "mediaite.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Appeals Court Blocks Trump’s Transgender Military Ban, Says Hegseth Policy Is ‘Arbitrary and Based in Animus’",
+    "chineseTitle": "Appeals Court Blocks Trump’s Transgender Military Ban，Say…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWWZMcVU2TW5HY3NIVm15VTJzYnpfM3ZpUnQtc1pHSXhrVkdBXzF2WElHb2NnbTZfQUdCMm1WWTI4Q3Yxbmx1cTFiRVJQcm44RVU4c0h3T25PenBJWTVYdjFZd1IxQnpnNUtiWUpEZDRTNGxuS2ZzUFBmQW51X0dQenBWc2VPNEtpYmJJVzJEdjlPYW56a3Zubm0zQ3pWendvbGVPSlVDZkZIWklla3FjeWNNS25wTkRwbUxMamxjN0tCLWJGRGxKS0wtUXBDRXB6dkd3ZmJTQQ?oc=5",
+    "publishedAt": "2026-06-01T20:05:00.000Z",
+    "fetchedAt": "2026-06-02T00:18:27.427Z",
+    "rawDescription": "Appeals Court Blocks Trump’s Transgender Military Ban, Says Hegseth Policy Is ‘Arbitrary and Based in Animus’ Mediaite",
+    "contentSnippet": "Appeals Court Blocks Trump’s Transgender Military Ban, Says Hegseth Policy Is ‘Arbitrary and Based in Animus’ Mediaite",
+    "summaryZh": "基于标题/摘要生成：Appeals Court Blocks Trump’s Transgender Military Ban，Says Hegseth 政策 Is ‘Arbitrary and Based in Animus’ Mediaite",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Appeals Court Blocks Trump’s Transgender Military Ban, Says Hegseth Policy Is ‘Arbitrary and Based in Animus’ Appea"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Appeals Court Blocks Trump’s Transgender Military Ban, Says Hegseth Policy Is ‘Arbitrary and Based in Animus’ Appeals Court Blocks Trump’s Transgender Milit"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Appeals Court Blocks Trump's Transgender Military Ban, Says Hegseth Policy Is 'Arbitrary and Based in Animus' Appeal"
+      },
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Appeals Court Blocks Trump's Transgender Military Ban, Says Hegseth Policy Is 'Arbitrary and Based in Animus' Appeals Court Blocks Trump's Transgender Milita"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Pete Hegseth"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Pete Hegseth\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
     "id": "art_fs8jb2",
     "sourceName": "10tv.com",
     "sourceDomain": "10tv.com",
@@ -3006,7 +3092,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Donald Trump\" Trump"
+      "\"Donald Trump\" Trump",
+      "\"Donald Trump\""
     ],
     "importanceLevel": 2,
     "chinaRelated": false
@@ -3075,7 +3162,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"John Thune\" Trump"
+      "\"John Thune\" Trump",
+      "\"John Thune\""
     ],
     "importanceLevel": 2,
     "chinaRelated": false
@@ -3145,7 +3233,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"export controls\" China"
+      "\"export controls\" China",
+      "\"export controls\""
     ],
     "importanceLevel": 3,
     "chinaRelated": true
@@ -3581,7 +3670,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Commerce Department\" China"
+      "\"Commerce Department\" China",
+      "\"Commerce Department\""
     ],
     "importanceLevel": 3,
     "chinaRelated": true
@@ -5118,7 +5208,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Commerce Department\" China"
+      "\"Commerce Department\" China",
+      "\"Commerce Department\""
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -5420,7 +5511,8 @@
     ],
     "matchedQueries": [
       "China Taiwan",
-      "\"Pete Hegseth\" Taiwan"
+      "\"Pete Hegseth\" Taiwan",
+      "\"Pete Hegseth\" China"
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -6249,7 +6341,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Pete Hegseth\" Taiwan"
+      "\"Pete Hegseth\" Taiwan",
+      "\"Donald Trump\" Taiwan"
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -6317,7 +6410,8 @@
     ],
     "matchedQueries": [
       "\"Pete Hegseth\" China",
-      "\"Pete Hegseth\" Taiwan"
+      "\"Pete Hegseth\" Taiwan",
+      "\"Pete Hegseth\""
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -6363,7 +6457,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"export controls\" China"
+      "\"export controls\" China",
+      "\"export controls\""
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -8304,7 +8399,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Trump team\" Taiwan"
+      "\"Trump team\" Taiwan",
+      "\"Trump team\" China"
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -8455,7 +8551,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Trump team\" Taiwan"
+      "\"Trump team\" Taiwan",
+      "\"Trump team\" China"
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -10121,7 +10218,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Stephen Miller\" Taiwan"
+      "\"Stephen Miller\" Taiwan",
+      "\"Stephen Miller\" China"
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -10735,7 +10833,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"China policy\" China"
+      "\"China policy\" China",
+      "\"China policy\""
     ],
     "importanceLevel": 3,
     "chinaRelated": true
@@ -10892,7 +10991,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Susie Wiles\" Trump"
+      "\"Susie Wiles\" Trump",
+      "\"Susie Wiles\""
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -11338,7 +11438,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Howard Lutnick\""
+      "\"Howard Lutnick\"",
+      "\"Howard Lutnick\" Trump"
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -11850,7 +11951,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Stephen Miller\" Trump"
+      "\"Stephen Miller\" Trump",
+      "\"Stephen Miller\""
     ],
     "importanceLevel": 4,
     "chinaRelated": false
@@ -12141,7 +12243,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Susie Wiles\" China"
+      "\"Susie Wiles\" China",
+      "\"Susie Wiles\" Taiwan"
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -12712,10 +12815,68 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Nancy Pelosi\" Taiwan"
+      "\"Nancy Pelosi\" Taiwan",
+      "\"Nancy Pelosi\" China"
     ],
     "importanceLevel": 5,
     "chinaRelated": true
+  },
+  {
+    "id": "art_k5avav",
+    "sourceName": "Latin Times",
+    "sourceDomain": "latintimes.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Stephen Miller Argues Birthright Citizenship 'Steals the Actual Birthright of Every American'",
+    "chineseTitle": "Stephen Miller Argues Birthright Citizenship 'Steals the…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0dqLS05VkE2c1c0REtISm5ZelFCUXhqZ1Rka21LVDNmN0RYbFk1REU5d1ZYdGpKdDMzME9SVFRlVTMxYnp4cW1kM2ROUXhoRkNYVmhBWkNZdTk2aGxZX1NEQ3pJWGdNUFAwZzZYQW1xZnFEU3A1U0ZnYVVIZ1ZSRlFYLXYxa2piMWszM2xYelhZQktGMVZEazJ5S3hKWWJaRlpqWmpvMUxiTmVZeXBpMVBteG5uNjNrMHc?oc=5",
+    "publishedAt": "2026-03-15T07:00:00.000Z",
+    "fetchedAt": "2026-06-02T00:18:26.775Z",
+    "rawDescription": "Stephen Miller Argues Birthright Citizenship 'Steals the Actual Birthright of Every American' Latin Times",
+    "contentSnippet": "Stephen Miller Argues Birthright Citizenship 'Steals the Actual Birthright of Every American' Latin Times",
+    "summaryZh": "基于标题/摘要生成：Stephen Miller Argues Birthright Citizenship 'Steals the Actual Birthright of Every American' Latin Times",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "斯蒂芬·米勒"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "Stephen Miller Argues Birthright Citizenship 'Steals the Actual Birthright of Every American' Stephen M"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "stephen-miller",
+        "name": "Stephen Miller",
+        "type": "person",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "Stephen Miller Argues Birthright Citizenship 'Steals the Actual Birthright of Every American' Stephen Mi"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Stephen Miller"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Stephen Miller\" China"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
   },
   {
     "id": "art_rhfet2",
@@ -12839,7 +13000,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Robert Lighthizer\" Trump"
+      "\"Robert Lighthizer\" Trump",
+      "\"Robert Lighthizer\""
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -13031,7 +13193,8 @@
     ],
     "matchedQueries": [
       "\"Jake Sullivan\" China",
-      "\"Jake Sullivan\" Trump"
+      "\"Jake Sullivan\" Trump",
+      "\"Jake Sullivan\""
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -13206,7 +13369,8 @@
     ],
     "matchedQueries": [
       "\"Jake Sullivan\" China",
-      "\"Jake Sullivan\" Trump"
+      "\"Jake Sullivan\" Trump",
+      "\"Jake Sullivan\""
     ],
     "importanceLevel": 2,
     "chinaRelated": false
@@ -13742,6 +13906,63 @@
     ],
     "matchedQueries": [
       "site:state.gov China OR Taiwan OR U.S.-China OR national security"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_m4lgfg",
+    "sourceName": "The National Interest",
+    "sourceDomain": "nationalinterest.org",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Stephen Miller Channels Hans Morgenthau",
+    "chineseTitle": "Stephen Miller Channels Hans Morgenthau",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdS1GU0oxRy1VLU9GWXZnSE1JU1J5bnFrV01Na3JiTkp1a2VDMEhhZGZIeFJKc1c4T1BGWUw4SUV3Q0RxWU5iMlJsWTRQeE9ObTdYR2dpZlBiX1pBeVNqaUFWbDcxRE5ETDFieWVsaG9pd1RBODNqdDJ0YU9qam41SE1n?oc=5",
+    "publishedAt": "2026-01-20T08:00:00.000Z",
+    "fetchedAt": "2026-06-02T00:18:26.773Z",
+    "rawDescription": "Stephen Miller Channels Hans Morgenthau The National Interest",
+    "contentSnippet": "Stephen Miller Channels Hans Morgenthau The National Interest",
+    "summaryZh": "基于标题/摘要生成：Stephen Miller Channels Hans Morgenthau The National Interest",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "斯蒂芬·米勒"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "Stephen Miller Channels Hans Morgenthau Stephen Miller Channels Hans Morgenthau The National Interest S"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "stephen-miller",
+        "name": "Stephen Miller",
+        "type": "person",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "Stephen Miller Channels Hans Morgenthau Stephen Miller Channels Hans Morgenthau The National Interest St"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Stephen Miller"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Stephen Miller\" China"
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -14689,7 +14910,8 @@
     ],
     "matchedQueries": [
       "\"Robert Lighthizer\" China",
-      "\"Robert Lighthizer\" Trump"
+      "\"Robert Lighthizer\" Trump",
+      "\"Robert Lighthizer\""
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -14865,7 +15087,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"National Security Action\" China"
+      "\"National Security Action\" China",
+      "\"National Security Action\""
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -15487,7 +15710,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Robert Lighthizer\" Trump"
+      "\"Robert Lighthizer\" Trump",
+      "\"Robert Lighthizer\""
     ],
     "importanceLevel": 3,
     "chinaRelated": false
@@ -15966,7 +16190,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Kamala Harris\" Taiwan"
+      "\"Kamala Harris\" Taiwan",
+      "\"Kamala Harris\" China"
     ],
     "importanceLevel": 4,
     "chinaRelated": true
@@ -16666,7 +16891,8 @@
       "entity"
     ],
     "matchedQueries": [
-      "\"Nancy Pelosi\" Taiwan"
+      "\"Nancy Pelosi\" Taiwan",
+      "\"Nancy Pelosi\" China"
     ],
     "importanceLevel": 4,
     "chinaRelated": true
