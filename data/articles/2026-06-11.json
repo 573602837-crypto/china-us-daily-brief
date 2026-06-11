@@ -1,0 +1,1732 @@
+[
+  {
+    "id": "art_9ysuw7",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump says he may not renew USMCA with Mexico and Canada",
+    "chineseTitle": "Trump says he may not renew USMCA with Mexico and Canada",
+    "originalUrl": "https://thehill.com/homenews/administration/5919295-trump-usmca-trade-agreement/",
+    "publishedAt": "2026-06-11T00:13:37.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.412Z",
+    "rawDescription": "President Trump on Wednesday said he may not renew the free trade agreement between the U.S., Canada and Mexico six years after he implemented it in his first term to replace the North American Free Trade Agreement (NAFTA). “Well, I’m not looking to renew it,” Trump told reporters in regard to the United States-Mexico-Canada Agreement...",
+    "contentSnippet": "President Trump on Wednesday said he may not renew the free trade agreement between the U.S., Canada and Mexico six years after he implemented it in his first term to replace the North American Free Trade Agreement (NAFTA). “Well, I’m not looking to renew it,” Trump told reporters in regard to the United States-Mexico-Canada Agreement...",
+    "summaryZh": "基于标题/摘要生成：President Trump on Wednesday said he may not renew the free 贸易 agreement between the U.S.，Canada and Mexico six years after he implemented it in his…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump says he may not renew USMCA with Mexico and Canada Ashleigh Fields President Trump on Wed"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump says he may not renew USMCA with Mexico and Canada Ashleigh Fields President Trump on Wed"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dj1e4o",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Top Pentagon Official Worked Closely With C.I.A. Officer Later Found With Gold Bars",
+    "chineseTitle": "Top 五角大楼 Official Worked Closely With C.I.A. Officer Late…",
+    "originalUrl": "https://www.nytimes.com/2026/06/10/us/politics/pentagon-cia-officer-gold-bars.html",
+    "publishedAt": "2026-06-10T23:57:57.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.566Z",
+    "rawDescription": "David Rush, the C.I.A. employee, worked on a highly classified China spying program with Stephen A. Feinberg, the Pentagon’s second-ranking official.",
+    "contentSnippet": "David Rush, the C.I.A. employee, worked on a highly classified China spying program with Stephen A. Feinberg, the Pentagon’s second-ranking official.",
+    "summaryZh": "基于标题/摘要生成：David Rush，the C.I.A. employee，worked on a highly classified 中国 spying program with Stephen A. Feinberg，the 五角大楼’s second-ranking official",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_gmf25r",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House Dem lashes out at GOP efforts to probe foreign donations with stunning claim on motive",
+    "chineseTitle": "众议院 Dem lashes out at GOP efforts to probe foreign donati…",
+    "originalUrl": "https://www.foxnews.com/politics/house-dem-lashes-out-gop-efforts-probe-foreign-donations-stunning-claim-motive",
+    "publishedAt": "2026-06-10T23:57:50.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.533Z",
+    "rawDescription": "Rep. Terri Sewell claims the GOP probe into ActBlue and CEO Regina Wallace-Jones is part of a pattern of Trump DOJ harassment of Black women in power.",
+    "contentSnippet": "Rep. Terri Sewell claims the GOP probe into ActBlue and CEO Regina Wallace-Jones is part of a pattern of Trump DOJ harassment of Black women in power.",
+    "summaryZh": "基于标题/摘要生成：Rep. Terri Sewell claims the GOP probe into ActBlue and CEO Regina Wallace-Jones is part of a pattern of Trump DOJ harassment of Black women in power",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ell claims the GOP probe into ActBlue and CEO Regina Wallace-Jones is part of a pattern of Trump DOJ harassment of Black women in power. Rep. Terri Sewell claims the GOP probe into ActB"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "ll claims the GOP probe into ActBlue and CEO Regina Wallace-Jones is part of a pattern of Trump DOJ harassment of Black women in power. Rep. Terri Sewell claims the GOP probe into ActBl"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "House Dem lashes out at GOP efforts to probe foreign donations with stunning claim on motive Rep. Terri Sewell claims"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wzju1n",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Private AI school approved by Boston School Committee",
+    "chineseTitle": "Private AI school approved",
+    "originalUrl": "https://www.bostonglobe.com/2026/06/10/metro/private-ai-school-alpha-approved-in-boston/",
+    "publishedAt": "2026-06-10T23:36:14.979Z",
+    "fetchedAt": "2026-06-11T00:20:14.000Z",
+    "rawDescription": "公开 sitemap 条目：Private AI school approved by Boston School Committee",
+    "contentSnippet": "公开 sitemap 条目：Private AI school approved by Boston School Committee",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Private AI school approved",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1yohqv",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Chloe Smith, who dedicated her life to riding and training horses, dies in a riding accident at 25",
+    "chineseTitle": "Chloe Smith，who dedicated her life to riding and training…",
+    "originalUrl": "https://www.bostonglobe.com/2026/06/10/metro/chloe-smith-living-her-true-dream-riding-and-training-horses-dies-at-25/",
+    "publishedAt": "2026-06-10T23:10:46.624Z",
+    "fetchedAt": "2026-06-11T00:20:14.002Z",
+    "rawDescription": "公开 sitemap 条目：Chloe Smith, who dedicated her life to riding and training horses, dies in a riding accident at 25",
+    "contentSnippet": "公开 sitemap 条目：Chloe Smith, who dedicated her life to riding and training horses, dies in a riding accident at 25",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Chloe Smith，who dedicated her life to riding and training horses，dies in a riding accident at 25",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7fnlqx",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump sees 22 medical specialists, appearing to set new bar for presidents",
+    "chineseTitle": "Trump sees 22 medical specialists，appearing to set new ba…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/06/10/trump-sees-22-medical-specialists-white-house-hasnt-said-why/",
+    "publishedAt": "2026-06-10T22:34:55.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.705Z",
+    "rawDescription": "Trump saw about a dozen specialists for prior check-ups, per past statements. The White House has declined to identify which specialists assessed the president.",
+    "contentSnippet": "Trump saw about a dozen specialists for prior check-ups, per past statements. The White House has declined to identify which specialists assessed the president.",
+    "summaryZh": "基于标题/摘要生成：Trump saw about a dozen specialists for prior check-ups，per past statements. 白宫 has declined to identify which specialists assessed the president",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump sees 22 medical specialists, appearing to set new bar for presidents Dan Diamond, Isaac A"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump sees 22 medical specialists, appearing to set new bar for presidents Dan Diamond, Isaac A"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "rnsdorf Trump saw about a dozen specialists for prior check-ups, per past statements. The White House has declined to identify which specialists assessed the president. Trump saw about a doze"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_lbx1ws",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Divided World Cup",
+    "chineseTitle": "The Divided World Cup",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/06/fifa-world-cup-divided-continent-us-mexico-canada/687505/",
+    "publishedAt": "2026-06-10T22:05:00.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.609Z",
+    "rawDescription": "This year’s World Cup was framed as a festival of North American unity. Instead, the tournament is testing how much of that unity remains.",
+    "contentSnippet": "This year’s World Cup was framed as a festival of North American unity. Instead, the tournament is testing how much of that unity remains.",
+    "summaryZh": "基于标题/摘要生成：This year’s World Cup was framed as a festival of North American unity. Instead，the tournament is testing how much of that unity remains",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_szmrio",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "US military launches fresh round of Iran strikes",
+    "chineseTitle": "US military launches fresh round of Iran strikes",
+    "originalUrl": "https://thehill.com/policy/defense/5919086-us-military-launches-strikes-iran/",
+    "publishedAt": "2026-06-10T21:56:06.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.414Z",
+    "rawDescription": "The U.S. military began launching another round of strikes Wednesday evening against multiple targets in Iran, less than an hour after Defense Secretary Pete Hegseth warned that forthcoming attacks would be \"strong and clear.\" The U.S. Central Command (Centcom) began launching strikes at 5:15 p.m. ET at President Trump’s direction, it said. “The strikes are...",
+    "contentSnippet": "The U.S. military began launching another round of strikes Wednesday evening against multiple targets in Iran, less than an hour after Defense Secretary Pete Hegseth warned that forthcoming attacks would be \"strong and clear.\" The U.S. Central Command (Centcom) began launching strikes at 5:15 p.m. ET at President Trump’s direction, it said. “The strikes are...",
+    "summaryZh": "基于标题/摘要生成：The U.S. military began launching another round of strikes Wednesday evening against multiple targets in Iran，less than an hour after Defense Secreta…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": ".\" The U.S. Central Command (Centcom) began launching strikes at 5:15 p.m. ET at President Trump’s direction, it said. “The strikes are... The U.S. military began launching another roun"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "nesday evening against multiple targets in Iran, less than an hour after Defense Secretary Pete Hegseth warned that forthcoming attacks would be \"strong and clear.\" The U.S. Central Command (C"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "y evening against multiple targets in Iran, less than an hour after Defense Secretary Pete Hegseth warned that forthcoming attacks would be \"strong and clear.\" The U.S. Central Command (C"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "\" The U.S. Central Command (Centcom) began launching strikes at 5:15 p.m. ET at President Trump's direction, it said. \"The strikes are... The U.S. military began launching another round"
+      },
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "esday evening against multiple targets in Iran, less than an hour after Defense Secretary Pete Hegseth warned that forthcoming attacks would be \"strong and clear.\" The U.S. Central Command (Ce"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Pete Hegseth",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bwdsrr",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats Are Starting to Worry About California",
+    "chineseTitle": "民主党人 Are Starting to Worry About California",
+    "originalUrl": "https://www.theatlantic.com/politics/2026/06/california-election-2026-governor/687494/",
+    "publishedAt": "2026-06-10T21:44:41.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.610Z",
+    "rawDescription": "California’s slow vote-count is spawning conspiracy theories.",
+    "contentSnippet": "California’s slow vote-count is spawning conspiracy theories.",
+    "summaryZh": "基于标题/摘要生成：California’s slow vote-count is spawning conspiracy theories",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Are Starting to Worry About California California's slow vote-count is spawning conspirac"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "domain:theatlantic.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_w8bx86",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Maine Senate Race Heats Up as Trump Attacks Platner",
+    "chineseTitle": "Maine 参议院 Race Heats Up as Trump Attacks Platner",
+    "originalUrl": "https://www.nytimes.com/2026/06/10/us/politics/maine-senate-graham-platner-susan-collins.html",
+    "publishedAt": "2026-06-10T21:37:13.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.567Z",
+    "rawDescription": "With Graham Platner now the Democratic nominee against Senator Susan Collins, signs of how hostile the race will be have quickly emerged.",
+    "contentSnippet": "With Graham Platner now the Democratic nominee against Senator Susan Collins, signs of how hostile the race will be have quickly emerged.",
+    "summaryZh": "基于标题/摘要生成：With Graham Platner now the Democratic nominee against Senator Susan Collins，signs of how hostile the race will be have quickly emerged",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Maine Senate Race Heats Up as Trump Attacks Platner Lisa Lerer and Bayliss Wagner With Graham Platner now the Democratic nomi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Maine Senate Race Heats Up as Trump Attacks Platner Lisa Lerer and Bayliss Wagner With Graham Platner now the Democratic nomi"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Maine Senate Race Heats Up as Trump Attacks Platner Lisa Lerer and Bayliss Wagner With Graham Platner"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_f8vokp",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "U.S. bombing Iran for second straight night",
+    "chineseTitle": "U.S. bombing Iran for second straight night",
+    "originalUrl": "https://www.axios.com/2026/06/10/trump-iran-strike-situation-room-meeting",
+    "publishedAt": "2026-06-10T21:35:46.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.341Z",
+    "rawDescription": "The U.S. military launched strikes on Iran for the second consecutive evening. U.S. officials say the intent is to pressure Tehran to sign a deal, but the strikes also carry a risk of military escalation. The big picture: U.S. officials expect an Iranian response, possibly targeting U.S. bases, as took place on Tuesday night. President Trump has accused Tehran of \"playing us for suckers\" in negotiations, and decided something had to give. U.S. Central Command said the strikes began at 5:15 p.m. ET \"against multiple targets in Iran ... in response to Iran's unwarranted and continued aggression.\" A U.S. official told Axios all the targets were in southern Iran and include air defense systems, radars and drone command and control units. Driving the news: Defense Secretary Pete Hegseth told r…",
+    "contentSnippet": "The U.S. military launched strikes on Iran for the second consecutive evening. U.S. officials say the intent is to pressure Tehran to sign a deal, but the strikes also carry a risk of military escalation. The big picture: U.S. officials expect an Iranian response, possibly targeting U.S. bases, as took place on Tuesday night. President Trump has accused Tehran of \"playing us for suckers\" in negotiations, and decided something had to give. U.S. Central Command said the strikes began at 5:15 p.m. ET \"against multiple targets in Iran ... in response to Iran's unwarranted and continued aggression.\" A U.S. official told Axios all the targets were in southern Iran and include air defense systems, radars and drone command and control units. Driving the news: Defense Secretary Pete Hegseth told r…",
+    "summaryZh": "基于标题/摘要生成：The U.S. military launched strikes on Iran for the second consecutive evening. U.S. officials say the intent is to pressure Tehran to sign a deal，but…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ranian response, possibly targeting U.S. bases, as took place on Tuesday night. President Trump has accused Tehran of \"playing us for suckers\" in negotiations, and decided something had"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "systems, radars and drone command and control units. Driving the news: Defense Secretary Pete Hegseth told r… The U.S. military launched strikes on Iran for the second consecutive evening. U."
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "ems, radars and drone command and control units. Driving the news: Defense Secretary Pete Hegseth told r… The U.S. military launched strikes on Iran for the second consecutive evening. U."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "ranian response, possibly targeting U.S. bases, as took place on Tuesday night. President Trump has accused Tehran of \"playing us for suckers\" in negotiations, and decided something had"
+      },
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "systems, radars and drone command and control units. Driving the news: Defense Secretary Pete Hegseth told r… The U.S. military launched strikes on Iran for the second consecutive evening. U."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Pete Hegseth",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u3t0ll",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Some Senate Dems still won’t commit to Graham Platner",
+    "chineseTitle": "Some 参议院 Dems still won’t commit to Graham Platner",
+    "originalUrl": "https://www.politico.com/news/2026/06/10/graham-platner-senate-democrats-divided-00957515",
+    "publishedAt": "2026-06-10T21:18:51.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.474Z",
+    "rawDescription": "Even as progressives and party leaders rally around the Maine Democrat, senators like Catherine Cortez Masto and Mark Kelly are wary.",
+    "contentSnippet": "Even as progressives and party leaders rally around the Maine Democrat, senators like Catherine Cortez Masto and Mark Kelly are wary.",
+    "summaryZh": "基于标题/摘要生成：Even as progressives and party leaders rally around the Maine Democrat，senators like Catherine Cortez Masto and Mark Kelly are wary",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Some Senate Dems still won't commit to Graham Platner By Lisa Kashinsky, Jessica Piper, William Steak"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_45ejeg",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Says More Strikes on Iran Are Coming",
+    "chineseTitle": "Trump Says More Strikes on Iran Are Coming",
+    "originalUrl": "https://foreignpolicy.com/2026/06/10/trump-us-strikes-iran-apache-helicopter-negotiations/",
+    "publishedAt": "2026-06-10T21:10:51.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.597Z",
+    "rawDescription": "Tehran will “pay the price” for stalling negotiations, the U.S. president warned.",
+    "contentSnippet": "Tehran will “pay the price” for stalling negotiations, the U.S. president warned.",
+    "summaryZh": "基于标题/摘要生成：Tehran will “pay the price” for stalling negotiations，the U.S. president warned",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Says More Strikes on Iran Are Coming Alexandra Sharp Tehran will “pay the price” for stal"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Says More Strikes on Iran Are Coming Alexandra Sharp Tehran will \"pay the price\" for stal"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_j4p0cn",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "WATCH: Hearing turmoil as Jasmine Crockett unloads on MLK's niece in wild racially-charged rant",
+    "chineseTitle": "WATCH：Hearing turmoil as Jasmine Crockett unloads on MLK'…",
+    "originalUrl": "https://www.foxnews.com/politics/watch-hearing-turmoil-jasmine-crockett-unloads-mlks-niece-wild-racially-charged-rant",
+    "publishedAt": "2026-06-10T21:02:38.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.535Z",
+    "rawDescription": "Rep. Jasmine Crockett accused Republicans of using Alveda King as a prop to shield racism allegations during an SPLC hearing on hate group funding.",
+    "contentSnippet": "Rep. Jasmine Crockett accused Republicans of using Alveda King as a prop to shield racism allegations during an SPLC hearing on hate group funding.",
+    "summaryZh": "基于标题/摘要生成：Rep. Jasmine Crockett accused 共和党人 of using Alveda King as a prop to shield racism allegations during an SPLC hearing on hate group funding",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "ockett unloads on MLK's niece in wild racially-charged rant Rep. Jasmine Crockett accused Republicans of using Alveda King as a prop to shield racism allegations during an SPLC hearing on hat"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hlu99c",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Albany Democrats poised for biggest leadership shake-up in years",
+    "chineseTitle": "Albany 民主党人 poised for biggest leadership shake-up in yea…",
+    "originalUrl": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/06/10/albany-democrats-poised-for-biggest-leadership-shake-up-in-years-00957141",
+    "publishedAt": "2026-06-10T20:37:46.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.478Z",
+    "rawDescription": "MAJOR SHIFT: Last week’s conclusion of Albany’s legislative session left Democratic state lawmakers poised for the biggest shakeup in their ranks since they assumed one-party control in 2019. Assembly Majority Leader Crystal Peoples-Stokes is retiring at the end of the year, opening up the No. 2 job for only the second time since Carl Heastie became speaker 11 years ago. State Sen. Mike Gianaris is on his way out too. His departure will leave open the role of Democratic Senate Campaign Committee chair, which he’s held since he was a senator-elect in 2010. It will also pave the way for a new floor leader and Majority Leader Andrea Stewart-Cousins’ deputy. On top of that, Senate Democrats are about to become the first conference in state history to bump up against term limits. Rules enacted…",
+    "contentSnippet": "MAJOR SHIFT: Last week’s conclusion of Albany’s legislative session left Democratic state lawmakers poised for the biggest shakeup in their ranks since they assumed one-party control in 2019. Assembly Majority Leader Crystal Peoples-Stokes is retiring at the end of the year, opening up the No. 2 job for only the second time since Carl Heastie became speaker 11 years ago. State Sen. Mike Gianaris is on his way out too. His departure will leave open the role of Democratic Senate Campaign Committee chair, which he’s held since he was a senator-elect in 2010. It will also pave the way for a new floor leader and Majority Leader Andrea Stewart-Cousins’ deputy. On top of that, Senate Democrats are about to become the first conference in state history to bump up against term limits. Rules enacted…",
+    "summaryZh": "基于标题/摘要生成：MAJOR SHIFT：Last week’s conclusion of Albany’s legislative session left Democratic state lawmakers poised for the biggest shakeup in their ranks sinc…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Albany Democrats poised for biggest leadership shake-up in years By Bill Mahoney MAJOR SHIFT: Last week's"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Mike Gianaris is on his way out too. His departure will leave open the role of Democratic Senate Campaign Committee chair, which he's held since he was a senator-elect in 2010. It will a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_apcah3",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "\"Regime Change\": New book reveals Trump team's Epstein leak fears",
+    "chineseTitle": "\"Regime Change\"：New book reveals Trump team's Epstein lea…",
+    "originalUrl": "https://www.axios.com/2026/06/10/trump-epstein-files-regime-change-book-swan-haberman",
+    "publishedAt": "2026-06-10T20:04:53.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.344Z",
+    "rawDescription": "President Trump's top aides so feared leaks about their handling of the Jeffrey Epstein files that they held multiple damage-control meetings in the classified confines of the Situation Room, Maggie Haberman and Jonathan Swan write in \" Regime Change ,\" their hotly awaited book about Trump's second term. In a New York Times Magazine excerpt , posted today ahead of the book's publication on June 23, the two Times reporters describe in cinematic detail how top Trump officials, including Vice President JD Vance and Chief of Staff Susie Wiles, gathered in the Situation Room last summer to debate how to manage the growing scandal. The White House is now abuzz over the leak about leak control. Behind the scenes: Vance had \"floated to colleagues an extraordinary P.R. gambit — that the White Hous…",
+    "contentSnippet": "President Trump's top aides so feared leaks about their handling of the Jeffrey Epstein files that they held multiple damage-control meetings in the classified confines of the Situation Room, Maggie Haberman and Jonathan Swan write in \" Regime Change ,\" their hotly awaited book about Trump's second term. In a New York Times Magazine excerpt , posted today ahead of the book's publication on June 23, the two Times reporters describe in cinematic detail how top Trump officials, including Vice President JD Vance and Chief of Staff Susie Wiles, gathered in the Situation Room last summer to debate how to manage the growing scandal. The White House is now abuzz over the leak about leak control. Behind the scenes: Vance had \"floated to colleagues an extraordinary P.R. gambit — that the White Hous…",
+    "summaryZh": "基于标题/摘要生成：President Trump's top aides so feared leaks about their handling of the Jeffrey Epstein files that they held multiple damage-control meetings in the…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "JD·万斯",
+      "苏茜·怀尔斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "\"Regime Change\": New book reveals Trump team's Epstein leak fears Mike Allen President Trump's top aides so feared leaks about th"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "reporters describe in cinematic detail how top Trump officials, including Vice President JD Vance and Chief of Staff Susie Wiles, gathered in the Situation Room last summer to debate how"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "porters describe in cinematic detail how top Trump officials, including Vice President JD Vance and Chief of Staff Susie Wiles, gathered in the Situation Room last summer to debate how"
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "atic detail how top Trump officials, including Vice President JD Vance and Chief of Staff Susie Wiles, gathered in the Situation Room last summer to debate how to manage the growing scandal."
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Wiles",
+        "confidence": "low",
+        "contextSnippet": "etail how top Trump officials, including Vice President JD Vance and Chief of Staff Susie Wiles, gathered in the Situation Room last summer to debate how to manage the growing scandal."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "\"Regime Change\": New book reveals Trump team's Epstein leak fears Mike Allen President Trump's top aides so feared leaks about th"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "reporters describe in cinematic detail how top Trump officials, including Vice President JD Vance and Chief of Staff Susie Wiles, gathered in the Situation Room last summer to debate how"
+      },
+      {
+        "entityId": "susie-wiles",
+        "name": "Susie Wiles",
+        "type": "person",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "atic detail how top Trump officials, including Vice President JD Vance and Chief of Staff Susie Wiles, gathered in the Situation Room last summer to debate how to manage the growing scandal."
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump team",
+        "confidence": "high",
+        "contextSnippet": "\"Regime Change\": New book reveals Trump team's Epstein leak fears Mike Allen President Trump's top aides so feared leaks about their h"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "thered in the Situation Room last summer to debate how to manage the growing scandal. The White House is now abuzz over the leak about leak control. Behind the scenes: Vance had \"floated to c"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "Susie Wiles",
+      "Trump team",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Trump team\"",
+      "\"White House\"",
+      "\"Susie Wiles\" Trump",
+      "\"Trump team\" Trump",
+      "\"White House\" Trump"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jminp8",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Europe Plans to Crack Down on Russia—but for Real This Time",
+    "chineseTitle": "Europe Plans to Crack Down on Russia—but for Real This Ti…",
+    "originalUrl": "https://foreignpolicy.com/2026/06/10/europe-russia-sanctions-package-trump-putin/",
+    "publishedAt": "2026-06-10T16:45:31.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.598Z",
+    "rawDescription": "Trump and the Iran war gave Russia a boost. Brussels is fed up.",
+    "contentSnippet": "Trump and the Iran war gave Russia a boost. Brussels is fed up.",
+    "summaryZh": "基于标题/摘要生成：Trump and the Iran war gave Russia a boost. Brussels is fed up",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Europe Plans to Crack Down on Russia—but for Real This Time Keith Johnson Trump and the Iran war gave Russia a boost. Brussels is fed up. Trump and the Iran war gave Rus"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Europe Plans to Crack Down on Russia—but for Real This Time Keith Johnson Trump and the Iran war gave Russia a boost. Brussels is fed up. Trump and the Iran war gave Rus"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6roihl",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Nancy Mace’s thrashing in South Carolina governor’s race caps a rough downfall",
+    "chineseTitle": "Nancy Mace’s thrashing in South Carolina governor’s race…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/06/10/nancy-maces-trashing-south-carolina-governors-race-caps-rough-downfall/",
+    "publishedAt": "2026-06-10T09:00:00.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.706Z",
+    "rawDescription": "The congresswoman finished fifth in the state’s GOP gubernatorial primary, according to unofficial returns, solidly losing even her own home county and district.",
+    "contentSnippet": "The congresswoman finished fifth in the state’s GOP gubernatorial primary, according to unofficial returns, solidly losing even her own home county and district.",
+    "summaryZh": "基于标题/摘要生成：The congresswoman finished fifth in the state’s GOP gubernatorial primary，according to unofficial returns，solidly losing even her own home county and…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "ace caps a rough downfall Natalie Allison The congresswoman finished fifth in the state's GOP gubernatorial primary, according to unofficial returns, solidly losing even her own home"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_50kfk7",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Fault Lines in China’s Power",
+    "chineseTitle": "The Fault Lines in 中国’s Power",
+    "originalUrl": "https://www.foreignaffairs.com/china/fault-lines-chinas-power-ratner-danby",
+    "publishedAt": "2026-06-10T04:00:00.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.399Z",
+    "rawDescription": "America must build—and use—leverage against Beijing.",
+    "contentSnippet": "America must build—and use—leverage against Beijing.",
+    "summaryZh": "基于标题/摘要生成：America must build—and use—leverage against 北京",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_q054y6",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Turkey’s Quiet Realignment",
+    "chineseTitle": "Turkey’s Quiet Realignment",
+    "originalUrl": "https://www.foreignaffairs.com/turkey/turkeys-quiet-realignment",
+    "publishedAt": "2026-06-10T04:00:00.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.402Z",
+    "rawDescription": "Russia’s loss is NATO’s gain.",
+    "contentSnippet": "Russia’s loss is NATO’s gain.",
+    "summaryZh": "基于标题/摘要生成：Russia’s loss is NATO’s gain",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_thdkw",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security",
+    "chineseTitle": "New Report：FY27 NDAA as Blueprint for Rebuilding America’…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcG1mYUtiQnBsZGsxQm5uSzQwc0JaOWR5QTVDYXZXSS11bUM4SENEaVVQOWNWT21xUC04TVBZYzg3b0NaVGJwdUdMVkc5TWhjNzdJb1h6THhlb2c3c0t5UzJYczNIdlM5WlNGdkJXVXFobERXSUJGN3FqdDRWWTBtMFF0ZEJkRndzeDk1MHloSzNHYjlaUmk4bm90ODR6SlJMT1RXcUpZa1Nxc3FtWXRfUU02YWg3QWxtVEE?oc=5",
+    "publishedAt": "2026-06-09T16:47:50.000Z",
+    "fetchedAt": "2026-06-11T00:20:33.216Z",
+    "rawDescription": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security America First Policy Institute",
+    "contentSnippet": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：New Report：FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "as Blueprint for Rebuilding America's Arsenal of Freedom | Statement | National Security America First Policy Institute New Report: FY27 NDAA as Blueprint for Rebuilding America's Arsenal of Freedom | Statemen"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_idw203",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55MXBnbW5fOVMwMnhmVm1tVmNDZ282OFVVRU0xel80ZjhHMkppMGcwNHRLTWg1RVl4TTVyOTZKZXhOZ3VSamZZRlZrMUlaU0hTM0J0aGt2SXhPREZJUEpaUmx2T21PUG5nUWc4?oc=5",
+    "publishedAt": "2026-06-08T10:58:56.000Z",
+    "fetchedAt": "2026-06-11T00:20:33.693Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gm7kct",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRUpCOUp2VTN0Umc1WERaTHNpb1VGcGpndHpEZ2g3Q0tOZzBSWjVsTUdOOTdlVkVBMWZIOUdpakptelRETElsRnRMcl8tYjJGWXhPMDY1S1ppM3YwTXpTUnNEX3lTcmRaUU40?oc=5",
+    "publishedAt": "2026-05-29T15:04:05.000Z",
+    "fetchedAt": "2026-06-11T00:20:33.692Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5x5axo",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First Is Restoring U.S. Strength and Global Security | | National Security",
+    "chineseTitle": "America First Is Restoring U.S. Strength and Global Secur…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE1CSmItSTNKLXFzdGd4bHdrWktMM1JSVmY2cDZXQVd4UnoxVGVtbVE0Mm5BRnN3MTZnY3BSMkIwM2tHMUlvcmRrUzZtTEFqV0pzMnB4aFRXNDZISGVYZEprXzFHNWNFVmMyYlpzc1h2anF5d1lHY2lCMzA5MW5EanBzYy1mNGkzS1VqVmpiVENTelJuS1NlS1VvWXgwVWhFdGlJ?oc=5",
+    "publishedAt": "2025-12-18T21:52:14.000Z",
+    "fetchedAt": "2026-06-11T00:20:33.217Z",
+    "rawDescription": "America First Is Restoring U.S. Strength and Global Security | | National Security America First Policy Institute",
+    "contentSnippet": "America First Is Restoring U.S. Strength and Global Security | | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：America First Is Restoring U.S. Strength and Global Security | | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "curity America First Is Restoring U.S. Strength and Global Security | | National Security America First Policy Institute America First Is Restoring U.S. Strength and Global Security | | National Security Americ"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-06-11T00:20:13.952Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.679Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.680Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-06-11T00:20:13.952Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.554Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-06-11T00:20:11.553Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
