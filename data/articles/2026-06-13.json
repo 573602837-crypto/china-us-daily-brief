@@ -1,0 +1,1548 @@
+[
+  {
+    "id": "art_85sq74",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Judge Blocks National Parks From Removing ‘Negative’ Signs and Depictions of Slavery",
+    "chineseTitle": "Judge Blocks National Parks From Removing ‘Negative’ Sign…",
+    "originalUrl": "https://www.nytimes.com/2026/06/12/us/politics/judge-national-parks-trump.html",
+    "publishedAt": "2026-06-13T00:13:04.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.916Z",
+    "rawDescription": "The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the country.",
+    "contentSnippet": "The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the country.",
+    "summaryZh": "基于标题/摘要生成：The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the country",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Removing ‘Negative’ Signs and Depictions of Slavery Maxine Joselow The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the cou"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Removing 'Negative' Signs and Depictions of Slavery Maxine Joselow The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the cou"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Removing 'Negative' Signs and Depictions of Slavery Maxine Joselow The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the country. The rulin"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5t2601",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Deja vu for Alyana DeJesus as she powers Joseph Case to fourth straight softball title, but first in D3",
+    "chineseTitle": "Deja vu for Alyana DeJesus as she powers Joseph Case to f…",
+    "originalUrl": "https://www.bostonglobe.com/2026/06/12/sports/joseph-case-miaa-softball-championship-apponequet/",
+    "publishedAt": "2026-06-13T00:03:56.136Z",
+    "fetchedAt": "2026-06-13T00:22:36.215Z",
+    "rawDescription": "公开 sitemap 条目：Deja vu for Alyana DeJesus as she powers Joseph Case to fourth straight softball title, but first in D3",
+    "contentSnippet": "公开 sitemap 条目：Deja vu for Alyana DeJesus as she powers Joseph Case to fourth straight softball title, but first in D3",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Deja vu for Alyana DeJesus as she powers Joseph Case to fourth straight softball title，but first in D3",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_pwzud2",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "FIFA does pregame land acknowledgment",
+    "chineseTitle": "FIFA does pregame land acknowledgment",
+    "originalUrl": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/fifa-does-native-american-land-acknowledgment-california-00961212",
+    "publishedAt": "2026-06-12T23:55:56.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.828Z",
+    "rawDescription": "The World Cup host paid tribute to California’s Native American tribes before its first match on U.S. soil.",
+    "contentSnippet": "The World Cup host paid tribute to California’s Native American tribes before its first match on U.S. soil.",
+    "summaryZh": "基于标题/摘要生成：The World Cup host paid tribute to California’s Native American tribes before its first match on U.S. soil",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_b09noj",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Opponents of Blue Hill Ave. bus lane ask Trump administration to rescind $80m",
+    "chineseTitle": "Opponents of Blue Hill Ave. bus lane ask Trump administra…",
+    "originalUrl": "https://www.bostonglobe.com/2026/06/12/metro/blue-hill-ave-bus-lane-funding-opposition/",
+    "publishedAt": "2026-06-12T23:46:32.139Z",
+    "fetchedAt": "2026-06-13T00:22:36.218Z",
+    "rawDescription": "公开 sitemap 条目：Opponents of Blue Hill Ave. bus lane ask Trump administration to rescind $80m",
+    "contentSnippet": "公开 sitemap 条目：Opponents of Blue Hill Ave. bus lane ask Trump administration to rescind $80m",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Opponents of Blue Hill Ave. bus lane ask Trump administration to rescind $80m",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Opponents of Blue Hill Ave. bus lane ask Trump administration to rescind $80m 公开 sitemap 条目：Opponents of Blue Hill Ave. bus lane ask Tr"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Opponents of Blue Hill Ave. bus lane ask Trump administration to rescind $80m 公开 sitemap 条目：Opponents of Blue Hill Ave. bus lane ask Tru"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Opponents of Blue Hill Ave. bus lane ask Trump administration to rescind $80m 公开 sitemap 条目：Opponents of Blue Hill Ave. bus lane ask Trump administrati"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt",
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qwbzzv",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Todd Young talks World Cup geopolitics, Section 702 — and 2028",
+    "chineseTitle": "Todd Young talks World Cup geopolitics，Section 702 — and…",
+    "originalUrl": "https://www.politico.com/live-updates/2026/06/12/world-cup-2026/todd-young-section-702-2028-00961203",
+    "publishedAt": "2026-06-12T23:06:45.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.829Z",
+    "rawDescription": "Between World Cup matches, Young weighs a looming surveillance fight and the GOP's next generation of leaders.",
+    "contentSnippet": "Between World Cup matches, Young weighs a looming surveillance fight and the GOP's next generation of leaders.",
+    "summaryZh": "基于标题/摘要生成：Between World Cup matches，Young weighs a looming surveillance fight and the GOP's next generation of leaders",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "By Adam Wren Between World Cup matches, Young weighs a looming surveillance fight and the GOP's next generation of leaders. Between World Cup matches, Young weighs a looming surveilla"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_brhd2e",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Administration Says It Will Restart Asylum and Immigration Processing",
+    "chineseTitle": "Trump Administration Says It Will Restart Asylum and Immi…",
+    "originalUrl": "https://www.nytimes.com/2026/06/12/us/politics/trump-uscis-asylum-immigration.html",
+    "publishedAt": "2026-06-12T22:56:06.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.917Z",
+    "rawDescription": "The response came after a federal judge rebuked officials for failing to immediately comply with the order he issued last week.",
+    "contentSnippet": "The response came after a federal judge rebuked officials for failing to immediately comply with the order he issued last week.",
+    "summaryZh": "基于标题/摘要生成：The response came after a federal judge rebuked officials for failing to immediately comply with the order he issued last week",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Administration Says It Will Restart Asylum and Immigration Processing Madeleine Ngo and Z"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Administration Says It Will Restart Asylum and Immigration Processing Madeleine Ngo and Z"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Trump Administration Says It Will Restart Asylum and Immigration Processing Madeleine Ngo and Zach Montague Th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xs0uxk",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "California Dems accused of putting sanctuary law over migrant child welfare checks: 'Real children'",
+    "chineseTitle": "California Dems accused of putting sanctuary law over mig…",
+    "originalUrl": "https://www.foxnews.com/politics/california-dems-accused-putting-sanctuary-law-over-migrant-child-welfare-checks-these-real-children",
+    "publishedAt": "2026-06-12T22:33:37.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.883Z",
+    "rawDescription": "El Cajon sues California AG Rob Bonta, claiming sanctuary laws prevent local police from checking on unaccompanied migrant children's safety.",
+    "contentSnippet": "El Cajon sues California AG Rob Bonta, claiming sanctuary laws prevent local police from checking on unaccompanied migrant children's safety.",
+    "summaryZh": "基于标题/摘要生成：El Cajon sues California AG Rob Bonta，claiming sanctuary laws prevent local police from checking on unaccompanied migrant children's safety",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1rxc0p",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump's pending Iran deal is bitter pill for Netanyahu",
+    "chineseTitle": "Trump's pending Iran deal is bitter pill for Netanyahu",
+    "originalUrl": "https://www.axios.com/2026/06/12/netanyahu-trump-iran-deal-israel-lebanon",
+    "publishedAt": "2026-06-12T22:00:06.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.709Z",
+    "rawDescription": "On Thursday evening, President Trump called Israeli Prime Minister Benjamin Netanyahu with news he did not want to hear: He expected to sign a deal with Iran within days. \"This is the deal. It's a great deal, and it's time to end this war,\" Trump told Netanyahu, according to a senior U.S. official. Why it matters: When Netanyahu went to war alongside Trump, this is not how he envisioned it ending. Flashback: Netanyahu made clear from the beginning that he believed the war could spur regime change in Tehran. Now, four months out from an election, Netanyahu's rivals are accusing him of making Israel a \"vassal state\" by simply accepting Trump's terms for peace. Some in Washington think Netanyahu might play a spoiler role even if the deal takes hold. But in the call with Trump, Netanyahu seem…",
+    "contentSnippet": "On Thursday evening, President Trump called Israeli Prime Minister Benjamin Netanyahu with news he did not want to hear: He expected to sign a deal with Iran within days. \"This is the deal. It's a great deal, and it's time to end this war,\" Trump told Netanyahu, according to a senior U.S. official. Why it matters: When Netanyahu went to war alongside Trump, this is not how he envisioned it ending. Flashback: Netanyahu made clear from the beginning that he believed the war could spur regime change in Tehran. Now, four months out from an election, Netanyahu's rivals are accusing him of making Israel a \"vassal state\" by simply accepting Trump's terms for peace. Some in Washington think Netanyahu might play a spoiler role even if the deal takes hold. But in the call with Trump, Netanyahu seem…",
+    "summaryZh": "基于标题/摘要生成：On Thursday evening，President Trump called Israeli Prime Minister Benjamin Netanyahu with news he did not want to hear：He expected to sign a deal wit…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump's pending Iran deal is bitter pill for Netanyahu Barak Ravid On Thursday evening, Preside"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's pending Iran deal is bitter pill for Netanyahu Barak Ravid On Thursday evening, Preside"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uszusv",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump's name remains on Kennedy Center as appeals court weighs emergency request",
+    "chineseTitle": "Trump's name remains on Kennedy Center as appeals court w…",
+    "originalUrl": "https://www.foxnews.com/politics/trumps-name-remains-kennedy-center-appeals-court-weighs-emergency-request",
+    "publishedAt": "2026-06-12T21:39:44.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.884Z",
+    "rawDescription": "The Kennedy Center board filed an emergency appeal to block a judge's order requiring Trump's name to be removed from the building's signage and materials.",
+    "contentSnippet": "The Kennedy Center board filed an emergency appeal to block a judge's order requiring Trump's name to be removed from the building's signage and materials.",
+    "summaryZh": "基于标题/摘要生成：The Kennedy Center board filed an emergency appeal to block a judge's order requiring Trump's name to be removed from the building's signage and mate…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump's name remains on Kennedy Center as appeals court weighs emergency request The Kennedy C"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's name remains on Kennedy Center as appeals court weighs emergency request The Kennedy Ce"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tq24hm",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+    "chineseTitle": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+    "originalUrl": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
+    "publishedAt": "2026-06-12T20:49:52.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.946Z",
+    "rawDescription": "He promised Israelis “total victory” but has fallen short on three fronts.",
+    "contentSnippet": "He promised Israelis “total victory” but has fallen short on three fronts.",
+    "summaryZh": "基于标题/摘要生成：He promised Israelis “total victory” but has fallen short on three fronts",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ffmudb",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "SpaceX shoots 19% higher in first day of trading",
+    "chineseTitle": "SpaceX shoots 19% higher in first day of trading",
+    "originalUrl": "https://www.axios.com/2026/06/12/spacex-shares-rocket-first-trades",
+    "publishedAt": "2026-06-12T20:48:03.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.713Z",
+    "rawDescription": "SpaceX shares rose 11% in initial trades Friday, placing the company in the top 10 largest companies in the U.S. Why it matters: The $150 price indicates a $1.97 trillion market cap, putting it immediately among the top 10 largest U.S. companies. Driving the news: SpaceX shares priced late Thursday afternoon at $135. If SpaceX were included in the S&P 500 today, it would be over 5% of the overall index based on its current valuation. What they're saying: \"I gave SpaceX less than a 10% chance of succeeding at all to be clear,\" Elon Musk said in remarks ahead of the company's debut, adding that it was worth the try to create a \"space-faring civilization.\" Friction point: SpaceX went into its IPO trading at 90 times its sales (not profits. Sales.) That indicates a valuation that is divorced…",
+    "contentSnippet": "SpaceX shares rose 11% in initial trades Friday, placing the company in the top 10 largest companies in the U.S. Why it matters: The $150 price indicates a $1.97 trillion market cap, putting it immediately among the top 10 largest U.S. companies. Driving the news: SpaceX shares priced late Thursday afternoon at $135. If SpaceX were included in the S&P 500 today, it would be over 5% of the overall index based on its current valuation. What they're saying: \"I gave SpaceX less than a 10% chance of succeeding at all to be clear,\" Elon Musk said in remarks ahead of the company's debut, adding that it was worth the try to create a \"space-faring civilization.\" Friction point: SpaceX went into its IPO trading at 90 times its sales (not profits. Sales.) That indicates a valuation that is divorced…",
+    "summaryZh": "基于标题/摘要生成：SpaceX shares rose 11% in initial trades Friday，placing the company in the top 10 largest companies in the U.S. Why it matters：The $150 price indicat…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ysiby6",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Big Weekend Could Derail the G-7",
+    "chineseTitle": "Trump’s Big Weekend Could Derail the G-7",
+    "originalUrl": "https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/",
+    "publishedAt": "2026-06-12T20:29:41.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.947Z",
+    "rawDescription": "With or without a deal, the Iran war looms large over the three-day leaders’ summit.",
+    "contentSnippet": "With or without a deal, the Iran war looms large over the three-day leaders’ summit.",
+    "summaryZh": "基于标题/摘要生成：With or without a deal，the Iran war looms large over the three-day leaders’ summit",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Big Weekend Could Derail the G-7 Alexandra Sharp With or without a deal, the Iran war l"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Big Weekend Could Derail the G-7 Alexandra Sharp With or without a deal, the Iran war l"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ni2r46",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Pakistan: &#039;Final, agreed upon text&#039; of deal to end Iran war reached",
+    "chineseTitle": "Pakistan：&#039;Final，agreed upon text&#039; of deal to en…",
+    "originalUrl": "https://thehill.com/policy/international/5922005-pakistan-us-iran-peace-deal-text-agreement/",
+    "publishedAt": "2026-06-12T17:20:48.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.774Z",
+    "rawDescription": "The prime minister of Pakistan said Friday the U.S. and Iran reached an agreement on a peace framework to end the more than 100-day war. The country has been leading the mediation efforts between the two sides to bring the Middle East hostilities to an end and reopen the Strait of Hormuz. The effective closure...",
+    "contentSnippet": "The prime minister of Pakistan said Friday the U.S. and Iran reached an agreement on a peace framework to end the more than 100-day war. The country has been leading the mediation efforts between the two sides to bring the Middle East hostilities to an end and reopen the Strait of Hormuz. The effective closure...",
+    "summaryZh": "基于标题/摘要生成：The prime minister of Pakistan said Friday the U.S. and Iran reached an agreement on a peace framework to end the more than 100-day war. The country…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k703jg",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Vance: Iran will get no cash from deal with US",
+    "chineseTitle": "Vance：Iran will get no cash from deal with US",
+    "originalUrl": "https://thehill.com/homenews/administration/5921887-vance-iran-deal-strait-of-hormuz/",
+    "publishedAt": "2026-06-12T16:39:46.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.775Z",
+    "rawDescription": "The Trump administration is pushing back against reported details regarding the proposed deal with Iran, with Vice President Vance insisting Tehran would not be \"receiving any cash\" under the agreement. Vance on Friday morning reupped President Trump’s dismissal of details leaked by Tehran about a possible memorandum of understanding between the two sides. “I'm seeing...",
+    "contentSnippet": "The Trump administration is pushing back against reported details regarding the proposed deal with Iran, with Vice President Vance insisting Tehran would not be \"receiving any cash\" under the agreement. Vance on Friday morning reupped President Trump’s dismissal of details leaked by Tehran about a possible memorandum of understanding between the two sides. “I'm seeing...",
+    "summaryZh": "基于标题/摘要生成：The Trump administration is pushing back against reported details regarding the proposed deal with Iran，with Vice President Vance insisting Tehran wo…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Vance: Iran will get no cash from deal with US Sarah Davis The Trump administration is pushing back against reported details regarding the proposed deal with"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Vance: Iran will get no cash from deal with US Sarah Davis The Trump administration is pushing"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Vance: Iran will get no cash from deal with US Sarah Davis The Trump administration is pushing back against reported details regarding the proposed deal with"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "Vance",
+        "confidence": "medium",
+        "contextSnippet": "Vance: Iran will get no cash from deal with US Sarah Davis The Trump administration is pushing"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Vance: Iran will get no cash from deal with US Sarah Davis The Trump administration is pushing back against reported details regarding the proposed deal with Iran, with Vice"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "\"JD Vance\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ecxl7z",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Tracking who Trump is appointing to fill key administration roles",
+    "chineseTitle": "Tracking who Trump is appointing to fill key administrati…",
+    "originalUrl": "https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/",
+    "publishedAt": "2026-06-12T15:32:14.000Z",
+    "fetchedAt": "2026-06-13T00:22:25.056Z",
+    "rawDescription": "Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.",
+    "contentSnippet": "Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service.",
+    "summaryZh": "基于标题/摘要生成：Follow President Trump’s progress filling over 800 positions，among about 1，300 that require 参议院 confirmation，in this tracker from The Washington Post…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Tracking who Trump is appointing to fill key administration roles Chris Alcantara, Eric Lau, Nick Mourtoupal"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Tracking who Trump is appointing to fill key administration roles Chris Alcantara, Eric Lau, Nick Mourtoupal"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "low President Trump's progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Ser"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_899fo7",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Photos of the Week: Basilica Blessing, Tree Tunnel, Parrot Prediction",
+    "chineseTitle": "Photos of the Week：Basilica Blessing，Tree Tunnel，Parrot P…",
+    "originalUrl": "https://www.theatlantic.com/photography/2026/06/photos-of-the-week-basilica-blessing-tree-tunnel-parrot-prediction/687524/",
+    "publishedAt": "2026-06-12T13:00:00.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.964Z",
+    "rawDescription": "Scenes from the French Open in Paris; a pro-wrestling match at a public library in California; celebrations in Brazil for the start of the 2026 FIFA World Cup; a congressional baseball game in Washington, D.C.; and much more",
+    "contentSnippet": "Scenes from the French Open in Paris; a pro-wrestling match at a public library in California; celebrations in Brazil for the start of the 2026 FIFA World Cup; a congressional baseball game in Washington, D.C.; and much more",
+    "summaryZh": "基于标题/摘要生成：Scenes from the French Open in Paris; a pro-wrestling match at a public library in California; celebrations in Brazil for the start of the 2026 FIFA…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z1f8rb",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Whimsy and Heartbreak of America’s Garage Sales",
+    "chineseTitle": "The Whimsy and Heartbreak of America’s Garage Sales",
+    "originalUrl": "https://www.theatlantic.com/magazine/2026/07/secondhand-shopping-garage-sales/687307/",
+    "publishedAt": "2026-06-12T12:00:00.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.965Z",
+    "rawDescription": "For $100, I bought bric-a-brac that explains a nation.",
+    "contentSnippet": "For $100, I bought bric-a-brac that explains a nation.",
+    "summaryZh": "基于标题/摘要生成：For $100，I bought bric-a-brac that explains a nation",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ketev",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China’s Edifice Complex",
+    "chineseTitle": "中国’s Edifice Complex",
+    "originalUrl": "https://www.foreignaffairs.com/china/chinas-edifice-complex",
+    "publishedAt": "2026-06-12T04:00:00.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.761Z",
+    "rawDescription": "Why Beijing can’t stop wasteful spending.",
+    "contentSnippet": "Why Beijing can’t stop wasteful spending.",
+    "summaryZh": "基于标题/摘要生成：Why 北京 can’t stop wasteful spending",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_kkb5w8",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56c2xVQUpzZ3hkeFdXUVF5RjNZVnFkTzQ3VkR3bGpCckEzaXdQbHItdlJkRjlYeUg1SVhJMkpGUy15NHYwNnhzM3hIOUsxT0hTcG5UVUV4Vi1oSGYtLTY3V3hYRnBPUVRFZ3hN?oc=5",
+    "publishedAt": "2026-06-11T17:33:16.000Z",
+    "fetchedAt": "2026-06-13T00:22:53.531Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g8850w",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Oil executives warn White House that gas prices will get worse",
+    "chineseTitle": "Oil executives warn White 众议院 that gas prices will get wo…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/06/11/oil-executives-warn-white-house-that-gas-prices-will-get-worse/",
+    "publishedAt": "2026-06-11T10:01:00.000Z",
+    "fetchedAt": "2026-06-13T00:22:25.057Z",
+    "rawDescription": "Grim predictions add to the problems of a president already facing a sharp rise in inflation.",
+    "contentSnippet": "Grim predictions add to the problems of a president already facing a sharp rise in inflation.",
+    "summaryZh": "基于标题/摘要生成：Grim predictions add to the problems of a president already facing a sharp rise in inflation",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Oil executives warn White House that gas prices will get worse Evan Halper, Cat Zakrzewski Grim predictions add to the pr"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tsjpmp",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Real Problem With Global Trade",
+    "chineseTitle": "The Real Problem With Global 贸易",
+    "originalUrl": "https://www.foreignaffairs.com/china/real-problem-global-trade",
+    "publishedAt": "2026-06-11T04:00:00.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.763Z",
+    "rawDescription": "How China’s currency manipulation is warping the world economy.",
+    "contentSnippet": "How China’s currency manipulation is warping the world economy.",
+    "summaryZh": "基于标题/摘要生成：How 中国’s currency manipulation is warping the world economy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/topic/Trade/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_thdkw",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security",
+    "chineseTitle": "New Report：FY27 NDAA as Blueprint for Rebuilding America’…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcG1mYUtiQnBsZGsxQm5uSzQwc0JaOWR5QTVDYXZXSS11bUM4SENEaVVQOWNWT21xUC04TVBZYzg3b0NaVGJwdUdMVkc5TWhjNzdJb1h6THhlb2c3c0t5UzJYczNIdlM5WlNGdkJXVXFobERXSUJGN3FqdDRWWTBtMFF0ZEJkRndzeDk1MHloSzNHYjlaUmk4bm90ODR6SlJMT1RXcUpZa1Nxc3FtWXRfUU02YWg3QWxtVEE?oc=5",
+    "publishedAt": "2026-06-09T16:47:50.000Z",
+    "fetchedAt": "2026-06-13T00:22:53.020Z",
+    "rawDescription": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security America First Policy Institute",
+    "contentSnippet": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：New Report：FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "as Blueprint for Rebuilding America's Arsenal of Freedom | Statement | National Security America First Policy Institute New Report: FY27 NDAA as Blueprint for Rebuilding America's Arsenal of Freedom | Statemen"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gm7kct",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRUpCOUp2VTN0Umc1WERaTHNpb1VGcGpndHpEZ2g3Q0tOZzBSWjVsTUdOOTdlVkVBMWZIOUdpakptelRETElsRnRMcl8tYjJGWXhPMDY1S1ppM3YwTXpTUnNEX3lTcmRaUU40?oc=5",
+    "publishedAt": "2026-05-29T15:04:05.000Z",
+    "fetchedAt": "2026-06-13T00:22:53.531Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5x5axo",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First Is Restoring U.S. Strength and Global Security | | National Security",
+    "chineseTitle": "America First Is Restoring U.S. Strength and Global Secur…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE1CSmItSTNKLXFzdGd4bHdrWktMM1JSVmY2cDZXQVd4UnoxVGVtbVE0Mm5BRnN3MTZnY3BSMkIwM2tHMUlvcmRrUzZtTEFqV0pzMnB4aFRXNDZISGVYZEprXzFHNWNFVmMyYlpzc1h2anF5d1lHY2lCMzA5MW5EanBzYy1mNGkzS1VqVmpiVENTelJuS1NlS1VvWXgwVWhFdGlJ?oc=5",
+    "publishedAt": "2025-12-18T21:52:14.000Z",
+    "fetchedAt": "2026-06-13T00:22:53.021Z",
+    "rawDescription": "America First Is Restoring U.S. Strength and Global Security | | National Security America First Policy Institute",
+    "contentSnippet": "America First Is Restoring U.S. Strength and Global Security | | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：America First Is Restoring U.S. Strength and Global Security | | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "curity America First Is Restoring U.S. Strength and Global Security | | National Security America First Policy Institute America First Is Restoring U.S. Strength and Global Security | | National Security Americ"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-06-13T00:22:36.168Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-06-13T00:22:25.029Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-06-13T00:22:25.030Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-06-13T00:22:36.167Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.904Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-06-13T00:22:24.903Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
