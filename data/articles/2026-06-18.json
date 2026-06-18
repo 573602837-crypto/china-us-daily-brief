@@ -1,0 +1,1915 @@
+[
+  {
+    "id": "art_ezac4m",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "U.S. and Iran sign deal ahead of schedule",
+    "chineseTitle": "U.S. and Iran sign deal ahead of schedule",
+    "originalUrl": "https://www.axios.com/2026/06/17/iran-deal-signing-text-release",
+    "publishedAt": "2026-06-18T00:11:31.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.044Z",
+    "rawDescription": "The U.S. and Iran have remotely signed their memorandum of understanding to end the war and open the Strait of Hormuz, and the agreement is now in effect, two U.S. officials told Axios. President Trump himself signed, one official said and the president later confirmed. Why it matters: The signing was supposed to happen in Switzerland on Friday, but a diplomat from a mediating country and a second source familiar told Axios earlier on Wednesday that there had been discussions about signing and implementing it earlier. The diplomatic source said the discussions around accelerating the timetable were intended to open the strait sooner than Friday, as both parties were in agreement on that issue. Another factor may have been the political pressure on the White House to release the text of th…",
+    "contentSnippet": "The U.S. and Iran have remotely signed their memorandum of understanding to end the war and open the Strait of Hormuz, and the agreement is now in effect, two U.S. officials told Axios. President Trump himself signed, one official said and the president later confirmed. Why it matters: The signing was supposed to happen in Switzerland on Friday, but a diplomat from a mediating country and a second source familiar told Axios earlier on Wednesday that there had been discussions about signing and implementing it earlier. The diplomatic source said the discussions around accelerating the timetable were intended to open the strait sooner than Friday, as both parties were in agreement on that issue. Another factor may have been the political pressure on the White House to release the text of th…",
+    "summaryZh": "基于标题/摘要生成：The U.S. and Iran have remotely signed their memorandum of understanding to end the war and open the Strait of Hormuz，and the agreement is now in eff…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "taiwan",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "t of Hormuz, and the agreement is now in effect, two U.S. officials told Axios. President Trump himself signed, one official said and the president later confirmed. Why it matters: The"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "t of Hormuz, and the agreement is now in effect, two U.S. officials told Axios. President Trump himself signed, one official said and the president later confirmed. Why it matters: The"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "re in agreement on that issue. Another factor may have been the political pressure on the White House to release the text of th… The U.S. and Iran have remotely signed their memorandum of und"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vqc4yp",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump switches support in Oklahoma congressional race as formerly endorsed pastor candidate suspends campaign",
+    "chineseTitle": "Trump switches support in Oklahoma congressional race as…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-switches-support-oklahoma-congressional-race-formerly-endorsed-pastor-candidate-suspends-campaign",
+    "publishedAt": "2026-06-17T23:56:17.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.190Z",
+    "rawDescription": "Trump withdrew his endorsement of Oklahoma GOP congressional candidate and pastor Jackson Lahmeyer to back rival Mark Tedford in a dramatic 2026 midterm reversal.",
+    "contentSnippet": "Trump withdrew his endorsement of Oklahoma GOP congressional candidate and pastor Jackson Lahmeyer to back rival Mark Tedford in a dramatic 2026 midterm reversal.",
+    "summaryZh": "基于标题/摘要生成：Trump withdrew his endorsement of Oklahoma GOP congressional candidate and pastor Jackson Lahmeyer to back rival Mark Tedford in a dramatic 2026 midt…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump switches support in Oklahoma congressional race as formerly endorsed pastor candidate sus"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump switches support in Oklahoma congressional race as formerly endorsed pastor candidate sus"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "ly endorsed pastor candidate suspends campaign Trump withdrew his endorsement of Oklahoma GOP congressional candidate and pastor Jackson Lahmeyer to back rival Mark Tedford in a drama"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bwbp0n",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump-endorsed congressional candidate pledges entire $174K salary to wounded Iraq War veteran's family",
+    "chineseTitle": "Trump-endorsed congressional candidate pledges entire $17…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-endorsed-congressional-candidate-pledges-entire-174k-salary-wounded-iraq-war-veterans-family",
+    "publishedAt": "2026-06-17T23:42:48.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.190Z",
+    "rawDescription": "Trump-endorsed candidate Anthony Constantino has pledged to donate his full $174,000 congressional salary to wounded Iraq War veteran Sgt. Eddie Ryan's family.",
+    "contentSnippet": "Trump-endorsed candidate Anthony Constantino has pledged to donate his full $174,000 congressional salary to wounded Iraq War veteran Sgt. Eddie Ryan's family.",
+    "summaryZh": "基于标题/摘要生成：Trump-endorsed candidate Anthony Constantino has pledged to donate his full $174，000 congressional salary to wounded Iraq War veteran Sgt. Eddie Ryan…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump-endorsed congressional candidate pledges entire $174K salary to wounded Iraq War veteran'"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump-endorsed congressional candidate pledges entire $174K salary to wounded Iraq War veteran'"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_t2y6c3",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Golden Knights promote Ryan Craig to head coach from AHL",
+    "chineseTitle": "Golden Knights promote Ryan Craig to head coach from AHL",
+    "originalUrl": "https://www.bostonglobe.com/2026/06/17/sports/nhl-golden-knights-ryan-craig/",
+    "publishedAt": "2026-06-17T23:22:01.527Z",
+    "fetchedAt": "2026-06-18T00:18:57.838Z",
+    "rawDescription": "公开 sitemap 条目：Golden Knights promote Ryan Craig to head coach from AHL",
+    "contentSnippet": "公开 sitemap 条目：Golden Knights promote Ryan Craig to head coach from AHL",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Golden Knights promote Ryan Craig to head coach from AHL",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dyuw2d",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Details of deal to end Iran war emerge as Trump issues fiery defense",
+    "chineseTitle": "Details of deal to end Iran war emerge as Trump issues fi…",
+    "originalUrl": "https://www.bostonglobe.com/2026/06/17/world/details-deal-end-iran-war-emerge-trump-issues-fiery-defense/",
+    "publishedAt": "2026-06-17T23:01:54.225Z",
+    "fetchedAt": "2026-06-18T00:18:57.839Z",
+    "rawDescription": "公开 sitemap 条目：Details of deal to end Iran war emerge as Trump issues fiery defense",
+    "contentSnippet": "公开 sitemap 条目：Details of deal to end Iran war emerge as Trump issues fiery defense",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Details of deal to end Iran war emerge as Trump issues fiery defense",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Details of deal to end Iran war emerge as Trump issues fiery defense 公开 sitemap 条目：Details of deal to end Iran war emerge as Trump issue"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Details of deal to end Iran war emerge as Trump issues fiery defense 公开 sitemap 条目：Details of deal to end Iran war emerge as Trump issues"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_m0lolf",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Did You Expect?",
+    "chineseTitle": "What Did You Expect",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/06/trump-iran-war-reversals/687590/",
+    "publishedAt": "2026-06-17T22:59:15.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.253Z",
+    "rawDescription": "Perhaps this was always how Trump’s ill-conceived war was destined to end.",
+    "contentSnippet": "Perhaps this was always how Trump’s ill-conceived war was destined to end.",
+    "summaryZh": "基于标题/摘要生成：Perhaps this was always how Trump’s ill-conceived war was destined to end",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "What Did You Expect? Daniel B. Shapiro Perhaps this was always how Trump’s ill-conceived war was destined to end. Perhaps this was always how Trump’s ill-conceive"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "What Did You Expect? Daniel B. Shapiro Perhaps this was always how Trump's ill-conceived war was destined to end. Perhaps this was always how Trump's ill-conceive"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_f1lw97",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Senate targets Hegseth’s travel in standoff over apparent Iran school attack, boat strikes",
+    "chineseTitle": "参议院 targets Hegseth’s travel in standoff over apparent Ir…",
+    "originalUrl": "https://www.washingtonpost.com/national-security/2026/06/17/senate-targets-hegseths-travel-standoff-over-iran-school-attack-boat-strikes/",
+    "publishedAt": "2026-06-17T22:55:18.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.328Z",
+    "rawDescription": "Frustrated lawmakers are increasing pressure on the defense secretary to get answers they’ve sought for months.",
+    "contentSnippet": "Frustrated lawmakers are increasing pressure on the defense secretary to get answers they’ve sought for months.",
+    "summaryZh": "基于标题/摘要生成：Frustrated lawmakers are increasing pressure on the defense secretary to get answers they’ve sought for months",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Senate targets Hegseth’s travel in standoff over apparent Iran school attack, boat strikes Tara Copp, Noah Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Senate targets Hegseth's travel in standoff over apparent Iran school attack, boat strikes Tara Copp, Noah Rober"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senate targets Hegseth's travel in standoff over apparent Iran school attack, boat strikes Tara"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Pete Hegseth",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ohgmj",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends",
+    "chineseTitle": "Trump defends his Iran deal，criticizes longtime ally Isra…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/06/17/trump-defends-iran-deal-white-house-unveils-details/",
+    "publishedAt": "2026-06-17T22:39:01.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.329Z",
+    "rawDescription": "In a sprawling news conference at the G-7 summit in France, the president touted the economic benefits of the ceasefire and threatened force if it fails.",
+    "contentSnippet": "In a sprawling news conference at the G-7 summit in France, the president touted the economic benefits of the ceasefire and threatened force if it fails.",
+    "summaryZh": "基于标题/摘要生成：In a sprawling news conference at the G-7 summit in France，the president touted the economic benefits of the ceasefire and threatened force if it fai…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends Dan Diamond, Natalie A"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends Dan Diamond, Natalie A"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_w5lt1l",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "NATO chief downplays US military cutbacks",
+    "chineseTitle": "NATO chief downplays US military cutbacks",
+    "originalUrl": "https://thehill.com/policy/international/5929316-us-drawdown-nato-allies/",
+    "publishedAt": "2026-06-17T22:07:44.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.097Z",
+    "rawDescription": "NATO Secretary-General Mark Rutte said Wednesday the U.S. cutting the number of troops and equipment it would provide to traditional allies in the event of an attack will not have an immediate impact. “This is not about where forces and assets are currently located,” Rutte told reporters in Brussels, according to The Associated Press. “It’s...",
+    "contentSnippet": "NATO Secretary-General Mark Rutte said Wednesday the U.S. cutting the number of troops and equipment it would provide to traditional allies in the event of an attack will not have an immediate impact. “This is not about where forces and assets are currently located,” Rutte told reporters in Brussels, according to The Associated Press. “It’s...",
+    "summaryZh": "基于标题/摘要生成：NATO Secretary-General Mark Rutte said Wednesday the U.S. cutting the number of troops and equipment it would provide to traditional allies in the ev…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s9p8sv",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Pope welcomes US-Iran deal, hopes for strengthened &#039;trust, security, and stability&#039;",
+    "chineseTitle": "Pope welcomes US-Iran deal，hopes for strengthened &#039;t…",
+    "originalUrl": "https://thehill.com/policy/international/5929326-pope-leo-xiv-welcomes-us-iran-deal/",
+    "publishedAt": "2026-06-17T22:07:09.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.098Z",
+    "rawDescription": "Pope Leo XIV on Wednesday morning welcomed the new deal between the U.S. and Iran ending the war between the two countries and said he hoped for bolstered “mutual trust, security, and stability in the Middle East.” “I welcome with satisfaction the reaching of an agreement between the Islamic Republic of Iran and the United States...",
+    "contentSnippet": "Pope Leo XIV on Wednesday morning welcomed the new deal between the U.S. and Iran ending the war between the two countries and said he hoped for bolstered “mutual trust, security, and stability in the Middle East.” “I welcome with satisfaction the reaching of an agreement between the Islamic Republic of Iran and the United States...",
+    "summaryZh": "基于标题/摘要生成：Pope Leo XIV on Wednesday morning welcomed the new deal between the U.S. and Iran ending the war between the two countries and said he hoped for bols…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_34kdf6",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Defends Deal to End the War With Iran as Details Emerge",
+    "chineseTitle": "Trump Defends Deal to End the War With Iran as Details Em…",
+    "originalUrl": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
+    "publishedAt": "2026-06-17T22:04:41.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.216Z",
+    "rawDescription": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
+    "contentSnippet": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
+    "summaryZh": "基于标题/摘要生成：President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015，and he threatened to bom…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Defends Deal to End the War With Iran as Details Emerge Erica L. Green, Zolan Kanno-Young"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Defends Deal to End the War With Iran as Details Emerge Erica L. Green, Zolan Kanno-Young"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_l03z0c",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Defends His Iran Deal",
+    "chineseTitle": "Trump Defends His Iran Deal",
+    "originalUrl": "https://foreignpolicy.com/2026/06/17/us-iran-peace-deal-draft-text-mou-trump-g7-lebanon-war-israel/",
+    "publishedAt": "2026-06-17T22:02:00.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.242Z",
+    "rawDescription": "The White House detailed the deal’s terms after Trump defended it at the G-7.",
+    "contentSnippet": "The White House detailed the deal’s terms after Trump defended it at the G-7.",
+    "summaryZh": "基于标题/摘要生成：白宫 detailed the deal’s terms after Trump defended it at the G-7",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Defends His Iran Deal Alexandra Sharp The White House detailed the deal’s terms after Tru"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Defends His Iran Deal Alexandra Sharp The White House detailed the deal's terms after Tru"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Trump Defends His Iran Deal Alexandra Sharp The White House detailed the deal's terms after Trump defended it at the G-7. The White House detailed th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_j5ok5c",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "U.S.-Iran Memorandum of Understanding: Full Text",
+    "chineseTitle": "U.S.-Iran Memorandum of Understanding：Full Text",
+    "originalUrl": "https://foreignpolicy.com/2026/06/17/trump-us-iran-memorandum-of-understanding-mou-deal-read-full-text/",
+    "publishedAt": "2026-06-17T21:59:35.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.243Z",
+    "rawDescription": "Read the agreement that the Trump administration has agreed to with Iran’s leaders to end the war.",
+    "contentSnippet": "Read the agreement that the Trump administration has agreed to with Iran’s leaders to end the war.",
+    "summaryZh": "基于标题/摘要生成：Read the agreement that the Trump administration has agreed to with Iran’s leaders to end the war",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "U.S.-Iran Memorandum of Understanding: Full Text FP Staff Read the agreement that the Trump administration has agreed to with Iran’s leaders to end the war. Read the agreement that"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "U.S.-Iran Memorandum of Understanding: Full Text FP Staff Read the agreement that the Trump administration has agreed to with Iran's leaders to end the war. Read the agreement that"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "U.S.-Iran Memorandum of Understanding: Full Text FP Staff Read the agreement that the Trump administration has agreed to with Iran's leaders to end the war. Read the agreement that the Trump admin"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_r9wjqp",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Top House Democrats demand \"immediate\" Rubio briefing on U.S.-Iran deal",
+    "chineseTitle": "Top 众议院 民主党人 demand \"immediate\" Rubio briefing on U.S.-Ir…",
+    "originalUrl": "https://www.axios.com/2026/06/17/iran-deal-us-trump-rubio-democrats-congress-war",
+    "publishedAt": "2026-06-17T21:46:14.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.047Z",
+    "rawDescription": "The top Democrats on congressional committees overseeing foreign, defense and intelligence policy are demanding Secretary of State Marco Rubio provide a briefing on the U.S.-Iran memorandum of understanding . Why it matters: Unlike some of Congress' hawkish Republicans , these lawmakers aren't dismissing the deal out of hand. \"While we welcome the Administration's turn toward diplomacy and its decision to end this war of choice, the Administration must provide Congress with greater details,\" they wrote in a three-page letter to Rubio. State Department spokesperson Tommy Pigott told Axios: \"The Trump administration has routinely briefed Congress and provided transparent updates directly to the American people.\" \"President Trump's actions to prevent the Iranian regime from obtaining a nucle…",
+    "contentSnippet": "The top Democrats on congressional committees overseeing foreign, defense and intelligence policy are demanding Secretary of State Marco Rubio provide a briefing on the U.S.-Iran memorandum of understanding . Why it matters: Unlike some of Congress' hawkish Republicans , these lawmakers aren't dismissing the deal out of hand. \"While we welcome the Administration's turn toward diplomacy and its decision to end this war of choice, the Administration must provide Congress with greater details,\" they wrote in a three-page letter to Rubio. State Department spokesperson Tommy Pigott told Axios: \"The Trump administration has routinely briefed Congress and provided transparent updates directly to the American people.\" \"President Trump's actions to prevent the Iranian regime from obtaining a nucle…",
+    "summaryZh": "基于标题/摘要生成：The top 民主党人 on congressional committees overseeing foreign，defense and intelligence 政策 are demanding Secretary of State Marco Rubio provide a briefi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "us_china_relations",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "a three-page letter to Rubio. State Department spokesperson Tommy Pigott told Axios: \"The Trump administration has routinely briefed Congress and provided transparent updates directly t"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "tees overseeing foreign, defense and intelligence policy are demanding Secretary of State Marco Rubio provide a briefing on the U.S.-Iran memorandum of understanding . Why it matters: Unlike"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "Top House Democrats demand \"immediate\" Rubio briefing on U.S.-Iran deal Andrew Solender The top Democrats on congressional committees"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "a three-page letter to Rubio. State Department spokesperson Tommy Pigott told Axios: \"The Trump administration has routinely briefed Congress and provided transparent updates directly t"
+      },
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "tees overseeing foreign, defense and intelligence policy are demanding Secretary of State Marco Rubio provide a briefing on the U.S.-Iran memorandum of understanding . Why it matters: Unlike"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "a three-page letter to Rubio. State Department spokesperson Tommy Pigott told Axios: \"The Trump administration has routinely briefed Congress and provided transparent updates directly to the American"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Top House Democrats demand \"immediate\" Rubio briefing on U.S.-Iran deal Andrew Solender The top Democrats on"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "U.S.-Iran memorandum of understanding . Why it matters: Unlike some of Congress' hawkish Republicans , these lawmakers aren't dismissing the deal out of hand. \"While we welcome the Administr"
+      },
+      {
+        "entityId": "state-department",
+        "name": "State Department",
+        "type": "organization",
+        "matchedAlias": "State Department",
+        "confidence": "high",
+        "contextSnippet": "must provide Congress with greater details,\" they wrote in a three-page letter to Rubio. State Department spokesperson Tommy Pigott told Axios: \"The Trump administration has routinely briefed Con"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "a briefing on the U.S.-Iran memorandum of understanding . Why it matters: Unlike some of Congress' hawkish Republicans , these lawmakers aren't dismissing the deal out of hand. \"While we"
+      },
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Rubio",
+        "confidence": "medium",
+        "contextSnippet": "Iran Deal Us Trump Rubio Democrats Congress War 公开 sitemap 条目：Iran Deal Us Trump Rubio Democrats Congress War 公开 s"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team",
+      "Democratic Party",
+      "Republican Party",
+      "State Department",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Marco Rubio",
+      "Trump team",
+      "Democratic Party",
+      "Republican Party",
+      "State Department",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Marco Rubio\"",
+      "Congress"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qo5o6t",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Bill Pulte, a Bulldog for Trump, Prepares to Take Reins at Spy Agency",
+    "chineseTitle": "法案 Pulte，a Bulldog for Trump，Prepares to Take Reins at Sp…",
+    "originalUrl": "https://www.nytimes.com/2026/06/17/us/politics/bill-pulte-spy-agency.html",
+    "publishedAt": "2026-06-17T20:58:56.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.217Z",
+    "rawDescription": "Democrats and some Republicans excoriated President Trump’s pick for a top national security job. The president pushed ahead anyway.",
+    "contentSnippet": "Democrats and some Republicans excoriated President Trump’s pick for a top national security job. The president pushed ahead anyway.",
+    "summaryZh": "基于标题/摘要生成：民主党人 and some 共和党人 excoriated President Trump’s pick for a top 国家安全 job. The president pushed ahead anyway",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Bill Pulte, a Bulldog for Trump, Prepares to Take Reins at Spy Agency Julian E. Barnes and Dustin Volz Democrats and some"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Bill Pulte, a Bulldog for Trump, Prepares to Take Reins at Spy Agency Julian E. Barnes and Dustin Volz Democrats and some"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Bulldog for Trump, Prepares to Take Reins at Spy Agency Julian E. Barnes and Dustin Volz Democrats and some Republicans excoriated President Trump's pick for a top national security job. T"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Prepares to Take Reins at Spy Agency Julian E. Barnes and Dustin Volz Democrats and some Republicans excoriated President Trump's pick for a top national security job. The president pushed a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wqcat8",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Netanyahu Finally Learns the Truth About Trump",
+    "chineseTitle": "Netanyahu Finally Learns the Truth About Trump",
+    "originalUrl": "https://www.theatlantic.com/international/2026/06/netanyahu-trump-israel-iran/687588/",
+    "publishedAt": "2026-06-17T20:28:21.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.254Z",
+    "rawDescription": "An alliance with the president was the Israeli prime minister’s selling point. Now it may be his downfall.",
+    "contentSnippet": "An alliance with the president was the Israeli prime minister’s selling point. Now it may be his downfall.",
+    "summaryZh": "基于标题/摘要生成：An alliance with the president was the Israeli prime minister’s selling point. Now it may be his downfall",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Netanyahu Finally Learns the Truth About Trump Yair Rosenberg An alliance with the president was the Israeli prime minister’s selling po"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Netanyahu Finally Learns the Truth About Trump Yair Rosenberg An alliance with the president was the Israeli prime minister's selling po"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_pvhf2w",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Michigan pollster accuses McMorrow campaign of killing unfavorable Senate poll",
+    "chineseTitle": "Michigan pollster accuses McMorrow campaign of killing un…",
+    "originalUrl": "https://www.politico.com/news/2026/06/17/mcmorrow-michigan-senate-poll-00965924",
+    "publishedAt": "2026-06-17T20:23:05.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.145Z",
+    "rawDescription": "The independent poll shows her trailing with 6 percent support among likely Democratic primary voters.",
+    "contentSnippet": "The independent poll shows her trailing with 6 percent support among likely Democratic primary voters.",
+    "summaryZh": "基于标题/摘要生成：The independent poll shows her trailing with 6 percent support among likely Democratic primary voters",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Michigan pollster accuses McMorrow campaign of killing unfavorable Senate poll By Adam Wren The independent poll shows her trailing with 6 percent support among li"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress",
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Politico",
+      "Democratic Party"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "\"Democratic Party\""
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_f9i58m",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Long Shadow of the Iran War",
+    "chineseTitle": "The Long Shadow of the Iran War",
+    "originalUrl": "https://www.foreignaffairs.com/iran/long-shadow-iran-war",
+    "publishedAt": "2026-06-17T11:58:00.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.086Z",
+    "rawDescription": "Trump’s most consequential foreign policy mistake.",
+    "contentSnippet": "Trump’s most consequential foreign policy mistake.",
+    "summaryZh": "基于标题/摘要生成：Trump’s most consequential foreign 政策 mistake",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Long Shadow of the Iran War Ian Bremmer, Firas Maksad Trump’s most consequential foreign policy mistake. Trump’s most consequential foreign policy mi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Long Shadow of the Iran War Ian Bremmer, Firas Maksad Trump's most consequential foreign policy mistake. Trump's most consequential foreign policy mi"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8b03rc",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Rick Jackson’s Georgia win is an embarrassing blemish on Trump’s record",
+    "chineseTitle": "Rick Jackson’s Georgia win is an embarrassing blemish on…",
+    "originalUrl": "https://www.politico.com/news/2026/06/17/trump-stumbles-rick-jackson-georgia-00964689",
+    "publishedAt": "2026-06-17T06:12:02.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.146Z",
+    "rawDescription": "The self-funding businessman just proved an outsider can still topple the president's endorsement, if they have enough cash.",
+    "contentSnippet": "The self-funding businessman just proved an outsider can still topple the president's endorsement, if they have enough cash.",
+    "summaryZh": "基于标题/摘要生成：The self-funding businessman just proved an outsider can still topple the president's endorsement，if they have enough cash",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Rick Jackson’s Georgia win is an embarrassing blemish on Trump’s record By Andrew Howard, Alec Hernandez, William Steakin and Erin Doherty The self-fund"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Rick Jackson's Georgia win is an embarrassing blemish on Trump's record By Andrew Howard, Alec Hernandez, William Steakin and Erin Doherty The self-fund"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vufyxx",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Coming Quantum National Security Crisis",
+    "chineseTitle": "The Coming Quantum 国家安全 Crisis",
+    "originalUrl": "https://www.foreignaffairs.com/china/coming-quantum-national-security-crisis",
+    "publishedAt": "2026-06-17T04:00:00.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.087Z",
+    "rawDescription": "China and Russia are harvesting encrypted secrets—and getting closer to cracking them.",
+    "contentSnippet": "China and Russia are harvesting encrypted secrets—and getting closer to cracking them.",
+    "summaryZh": "基于标题/摘要生成：中国 and Russia are harvesting encrypted secrets—and getting closer to cracking them",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_cex1tk",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Mitch McConnell ‘wants to be back’ on Capitol Hill after hospitalization, GOP leader says",
+    "chineseTitle": "Mitch McConnell ‘wants to be back’ on Capitol Hill after…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRUNIUjlIYzIzT0JqY1hEVGhjanc1TEYwa1IyR1Y3VHpUelhsc2RtR281TzFsVWdVc2ZKNmZ0eEJjVlZlNFl2TE1nTWZnMW9JRU56N3BSZWRiUjlINm5aWG4zS2ZUbVEtbmt5VUswNHVnZmpOWEczN3BTM1RfY0kybTFDQkdRa1BTWXc?oc=5",
+    "publishedAt": "2026-06-15T22:45:49.000Z",
+    "fetchedAt": "2026-06-18T00:19:15.759Z",
+    "rawDescription": "Mitch McConnell ‘wants to be back’ on Capitol Hill after hospitalization, GOP leader says CNN",
+    "contentSnippet": "Mitch McConnell ‘wants to be back’ on Capitol Hill after hospitalization, GOP leader says CNN",
+    "summaryZh": "基于标题/摘要生成：Mitch McConnell ‘wants to be back’ on Capitol Hill after hospitalization，GOP leader says CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Mitch McConnell 'wants to be back' on Capitol Hill after hospitalization, GOP leader says Mitch McConnell 'wants to be back' on Capitol Hill after hospitalization, GOP"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "John Thune"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"John Thune\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kkb5w8",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56c2xVQUpzZ3hkeFdXUVF5RjNZVnFkTzQ3VkR3bGpCckEzaXdQbHItdlJkRjlYeUg1SVhJMkpGUy15NHYwNnhzM3hIOUsxT0hTcG5UVUV4Vi1oSGYtLTY3V3hYRnBPUVRFZ3hN?oc=5",
+    "publishedAt": "2026-06-11T17:33:16.000Z",
+    "fetchedAt": "2026-06-18T00:19:16.113Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_thdkw",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security",
+    "chineseTitle": "New Report：FY27 NDAA as Blueprint for Rebuilding America’…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcG1mYUtiQnBsZGsxQm5uSzQwc0JaOWR5QTVDYXZXSS11bUM4SENEaVVQOWNWT21xUC04TVBZYzg3b0NaVGJwdUdMVkc5TWhjNzdJb1h6THhlb2c3c0t5UzJYczNIdlM5WlNGdkJXVXFobERXSUJGN3FqdDRWWTBtMFF0ZEJkRndzeDk1MHloSzNHYjlaUmk4bm90ODR6SlJMT1RXcUpZa1Nxc3FtWXRfUU02YWg3QWxtVEE?oc=5",
+    "publishedAt": "2026-06-09T16:47:50.000Z",
+    "fetchedAt": "2026-06-18T00:19:15.729Z",
+    "rawDescription": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security America First Policy Institute",
+    "contentSnippet": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：New Report：FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "as Blueprint for Rebuilding America's Arsenal of Freedom | Statement | National Security America First Policy Institute New Report: FY27 NDAA as Blueprint for Rebuilding America's Arsenal of Freedom | Statemen"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5x5axo",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First Is Restoring U.S. Strength and Global Security | | National Security",
+    "chineseTitle": "America First Is Restoring U.S. Strength and Global Secur…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE1CSmItSTNKLXFzdGd4bHdrWktMM1JSVmY2cDZXQVd4UnoxVGVtbVE0Mm5BRnN3MTZnY3BSMkIwM2tHMUlvcmRrUzZtTEFqV0pzMnB4aFRXNDZISGVYZEprXzFHNWNFVmMyYlpzc1h2anF5d1lHY2lCMzA5MW5EanBzYy1mNGkzS1VqVmpiVENTelJuS1NlS1VvWXgwVWhFdGlJ?oc=5",
+    "publishedAt": "2025-12-18T21:52:14.000Z",
+    "fetchedAt": "2026-06-18T00:19:15.730Z",
+    "rawDescription": "America First Is Restoring U.S. Strength and Global Security | | National Security America First Policy Institute",
+    "contentSnippet": "America First Is Restoring U.S. Strength and Global Security | | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：America First Is Restoring U.S. Strength and Global Security | | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "curity America First Is Restoring U.S. Strength and Global Security | | National Security America First Policy Institute America First Is Restoring U.S. Strength and Global Security | | National Security Americ"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-06-18T00:18:57.801Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.308Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.309Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-06-18T00:18:57.800Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_vvc2pm",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Senate passes $95 billion package sending aid to Ukraine, Israel and Taiwan after months of delay",
+    "chineseTitle": "参议院 passes $95 billion package sending aid to Ukraine，Isr…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wN1cxd0VzZnRZQ256SFFrLXQ1N2szNjZncnZGMWxHaFJNOUE0S2xLX2pYdnV1LThFRENYY0lmTmZUamhPaXd4MDVlclZ0Y2llUERjdFgtdzM5YWFrSjlLM0RMNEhpcVFVQmhBUnlvM1kwb0xBVEE?oc=5",
+    "publishedAt": "2024-04-23T07:00:00.000Z",
+    "fetchedAt": "2026-06-18T00:19:15.934Z",
+    "rawDescription": "Senate passes $95 billion package sending aid to Ukraine, Israel and Taiwan after months of delay CNN",
+    "contentSnippet": "Senate passes $95 billion package sending aid to Ukraine, Israel and Taiwan after months of delay CNN",
+    "summaryZh": "基于标题/摘要生成：参议院 passes $95 billion package sending aid to Ukraine，Israel and 台湾 after months of delay CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china",
+      "us_domestic",
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senate passes $95 billion package sending aid to Ukraine, Israel and Taiwan after months of dela"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Chuck Schumer"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Chuck Schumer\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.206Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-06-18T00:18:49.205Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ky0cb",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUUtyTnV2Nm5EQUd1VnJ3RTN6czVoMzBYQ1NxUEhISmNiQ3RnUHZnYjFTMWp1bTlHVElOVl9wdmJsM3lfQ2VfWHU2VFVJODdVaFE?oc=5",
+    "publishedAt": "2022-05-17T16:17:39.000Z",
+    "fetchedAt": "2026-06-18T00:19:16.113Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
