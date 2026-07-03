@@ -1,0 +1,1629 @@
+[
+  {
+    "id": "art_5brn7r",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "A Trump ‘convention’ in September?",
+    "chineseTitle": "A Trump ‘convention’ in September",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/02/newsletters/starting-point/",
+    "publishedAt": "2026-07-03T00:02:59.717Z",
+    "fetchedAt": "2026-07-03T00:10:58.321Z",
+    "rawDescription": "公开 sitemap 条目：A Trump ‘convention’ in September?",
+    "contentSnippet": "公开 sitemap 条目：A Trump ‘convention’ in September?",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：A Trump ‘convention’ in September",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "A Trump ‘convention’ in September? 公开 sitemap 条目：A Trump ‘convention’ in September? 公开 sitemap 条"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "A Trump 'convention' in September? 公开 sitemap 条目：A Trump 'convention' in September? 公开 sitemap 条目"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_843t01",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "As Ukraine War Escalates, Witkoff and Kushner Are Focused on Iran",
+    "chineseTitle": "As Ukraine War Escalates，Witkoff and Kushner Are Focused…",
+    "originalUrl": "https://www.nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html",
+    "publishedAt": "2026-07-03T00:00:05.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.167Z",
+    "rawDescription": "Steve Witkoff and Jared Kushner are pivotal players at a moment when the posts of U.S. ambassador to Moscow and Kyiv are both vacant.",
+    "contentSnippet": "Steve Witkoff and Jared Kushner are pivotal players at a moment when the posts of U.S. ambassador to Moscow and Kyiv are both vacant.",
+    "summaryZh": "基于标题/摘要生成：Steve Witkoff and Jared Kushner are pivotal players at a moment when the posts of U.S. ambassador to Moscow and Kyiv are both vacant",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-world https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ecnwlk",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Mikel Oyarzabal scores twice as dominant Spain cruise past Austria and into round of 16 at the World Cup",
+    "chineseTitle": "Mikel Oyarzabal scores twice as dominant Spain cruise pas…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/02/sports/world-cup-spain-austria/",
+    "publishedAt": "2026-07-02T23:59:24.851Z",
+    "fetchedAt": "2026-07-03T00:10:58.322Z",
+    "rawDescription": "公开 sitemap 条目：Mikel Oyarzabal scores twice as dominant Spain cruise past Austria and into round of 16 at the World Cup",
+    "contentSnippet": "公开 sitemap 条目：Mikel Oyarzabal scores twice as dominant Spain cruise past Austria and into round of 16 at the World Cup",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Mikel Oyarzabal scores twice as dominant Spain cruise past Austria and into round of 16 at the World Cup",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nagnci",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donors were misled by Trump-backed Freedom 250, House Democrats allege",
+    "chineseTitle": "Donors were misled 250，众议院 民主党人 allege",
+    "originalUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVFKVnY2SG9fMFp2ejNqMzBLTE9INTBObE5kdFZwZHltcHMzMkwtOVZZa3F1blU5a3BKSnZPOU9OdHpTVnlGMnRGWV8wVDFBaEM5WUNFWmtjYTh0b0cyYTFyYU9scXRaa25BRUY4R2h1cGN3bV81ZUtjeEpEUTBNWEliMUpaYzR6VlNPa0x6T1pOTFEyRl9pNVpaaHVYZWFTNllWclpxQ08wMGtaamNadXo1cUExOUFoejYtRGdn?oc=5",
+    "publishedAt": "2026-07-02T23:33:22.000Z",
+    "fetchedAt": "2026-07-03T00:11:15.449Z",
+    "rawDescription": "Donors were misled by Trump-backed Freedom 250, House Democrats allege The Washington Post",
+    "contentSnippet": "Donors were misled by Trump-backed Freedom 250, House Democrats allege The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Donors were misled 250，众议院 民主党人 allege The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donors were misled by Trump-backed Freedom 250, House Democrats allege Donors were misled by Trump-backed Freedom 25"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donors were misled by Trump-backed Freedom 250, House Democrats allege Donors were misled by Trump-backed Freedom 250"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Donors were misled by Trump-backed Freedom 250, House Democrats allege Donors were misled by Trump-backed Freedom 250, House Democrats allege The Washing"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\"",
+      "\"Donald Trump\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uhrcsm",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains",
+    "chineseTitle": "MAGA Base Stays Quiet After Trump Reports Billions in Per…",
+    "originalUrl": "https://www.nytimes.com/2026/07/02/us/politics/trump-earnings-maga-reaction.html",
+    "publishedAt": "2026-07-02T23:11:45.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.168Z",
+    "rawDescription": "A new mandatory disclosure revealed that the president has earned $2.2 billion during the first year back in the White House.",
+    "contentSnippet": "A new mandatory disclosure revealed that the president has earned $2.2 billion during the first year back in the White House.",
+    "summaryZh": "基于标题/摘要生成：A new mandatory disclosure revealed that the president has earned $2.2 billion during the first year back in 白宫",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains Emily Davies A new mandatory disclosure revealed that"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains Emily Davies A new mandatory disclosure revealed that"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "ure revealed that the president has earned $2.2 billion during the first year back in the White House. A new mandatory disclosure revealed that the president has earned $2.2 billion during th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fa0v34",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Secret Service missed 'multiple opportunities' to prevent Trump assassination attempt: watchdog",
+    "chineseTitle": "Secret Service missed 'multiple opportunities' to prevent…",
+    "originalUrl": "https://www.foxnews.com/politics/secret-service-missed-multiple-opportunities-prevent-trump-assassination-attempt-watchdog",
+    "publishedAt": "2026-07-02T22:43:43.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.135Z",
+    "rawDescription": "The Secret Service missed 102 radio transmissions about Thomas Crooks on the roof with a long gun before shots were fired at the Butler rally, according to a watchdog report.",
+    "contentSnippet": "The Secret Service missed 102 radio transmissions about Thomas Crooks on the roof with a long gun before shots were fired at the Butler rally, according to a watchdog report.",
+    "summaryZh": "基于标题/摘要生成：The Secret Service missed 102 radio transmissions about Thomas Crooks on the roof with a long gun before shots were fired at the Butler rally，accordi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Secret Service missed 'multiple opportunities' to prevent Trump assassination attempt: watchdog The Secret Service missed 102 radio transmissions about"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Secret Service missed 'multiple opportunities' to prevent Trump assassination attempt: watchdog The Secret Service missed 102 radio transmissions about T"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_svpcos",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Hegseth praises National Guard deployment in D.C., claiming it lowered crime",
+    "chineseTitle": "Hegseth praises National Guard deployment in D.C.，claimin…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVZKMXJwbnNkeV8xSWRpNzZWTHNGM2M1Znk0QUc0d0xoT0hYRUxSb2V0NmZCRERCd3dLVkctZHJmcWtxSDlLa0NWeDkyRXZTcjQwZFc4SllObk5aRkFCZkRPbXFhazJyZXp1bHZvUm5YYmstSklURUxsUVVOcDZhQTZEYXNRRDJWa2ttMTcxcE1oMXc0ZmE5RDZ0bEx3LUEwMDFpUElnVjNlT2xqVEE1S0p6M1ZpRVdqeDc4ODJjQQ?oc=5",
+    "publishedAt": "2026-07-02T22:31:56.000Z",
+    "fetchedAt": "2026-07-03T00:11:15.462Z",
+    "rawDescription": "Hegseth praises National Guard deployment in D.C., claiming it lowered crime The Washington Post",
+    "contentSnippet": "Hegseth praises National Guard deployment in D.C., claiming it lowered crime The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Hegseth praises National Guard deployment in D.C.，claiming it lowered crime The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Hegseth praises National Guard deployment in D.C., claiming it lowered crime Hegseth praises Nat"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Hegseth praises National Guard deployment in D.C., claiming it lowered crime Hegseth praises Nati"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Pete Hegseth\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cvn3sb",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Angsty in Ankara",
+    "chineseTitle": "Angsty in Ankara",
+    "originalUrl": "https://foreignpolicy.com/2026/07/02/nato-summit-ankara-trump-rutte-erdogan-ukraine-iran/",
+    "publishedAt": "2026-07-02T22:03:52.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.199Z",
+    "rawDescription": "Can NATO move past a need to keep Trump happy?",
+    "contentSnippet": "Can NATO move past a need to keep Trump happy?",
+    "summaryZh": "基于标题/摘要生成：Can NATO move past a need to keep Trump happy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Angsty in Ankara Rishi Iyengar Can NATO move past a need to keep Trump happy? Can NATO move past a need to keep Trump happy?"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Angsty in Ankara Rishi Iyengar Can NATO move past a need to keep Trump happy? Can NATO move past a need to keep Trump happy?"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_b2rez8",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Even Trump Can’t Believe How Well This Book Has Sold",
+    "chineseTitle": "Even Trump Can’t Believe How Well This Book Has Sold",
+    "originalUrl": "https://www.theatlantic.com/books/2026/07/regime-change-haberman-swan-return-of-blockbuster-trump-book/687798/",
+    "publishedAt": "2026-07-02T22:01:40.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.213Z",
+    "rawDescription": "What the wild success of Regime Change , after a long slump in newsy nonfiction, might say about the state of the presidency.",
+    "contentSnippet": "What the wild success of Regime Change , after a long slump in newsy nonfiction, might say about the state of the presidency.",
+    "summaryZh": "基于标题/摘要生成：What the wild success of Regime Change，after a long slump in newsy nonfiction，might say about the state of the presidency",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Even Trump Can’t Believe How Well This Book Has Sold Gal Beckerman What the wild success of Regime C"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Even Trump Can't Believe How Well This Book Has Sold Gal Beckerman What the wild success of Regime C"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9pu0ux",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Sanctuary county refused 615 ICE transfer requests, turned over just 11 illegal immigrants, records show",
+    "chineseTitle": "Sanctuary county refused 615 ICE transfer requests，turned…",
+    "originalUrl": "https://www.foxnews.com/politics/sanctuary-county-refused-615-ice-transfer-requests-turned-over-11-illegal-immigrants-records-show",
+    "publishedAt": "2026-07-02T21:54:10.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.136Z",
+    "rawDescription": "Records show Fairfax County declined to transfer 615 illegal immigrants to ICE while turning over just 11 over roughly 16 months of data collected.",
+    "contentSnippet": "Records show Fairfax County declined to transfer 615 illegal immigrants to ICE while turning over just 11 over roughly 16 months of data collected.",
+    "summaryZh": "基于标题/摘要生成：Records show Fairfax County declined to transfer 615 illegal immigrants to ICE while turning over just 11 over roughly 16 months of data collected",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xuuxq3",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Portugal plays bigger than its size — in both politics and soccer",
+    "chineseTitle": "Portugal plays bigger than its size — in both politics an…",
+    "originalUrl": "https://www.politico.com/live-updates/2026/07/02/world-cup-2026/portugal-little-country-could-political-power-eu-ecb-united-nations-00986282",
+    "publishedAt": "2026-07-02T21:15:00.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.080Z",
+    "rawDescription": "How a small nation became a diplomatic superpower.",
+    "contentSnippet": "How a small nation became a diplomatic superpower.",
+    "summaryZh": "基于标题/摘要生成：How a small nation became a diplomatic superpower",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_68c840",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "US designates Ecuador&#039;s Chone Killers gang as terrorist organization",
+    "chineseTitle": "US designates Ecuador&#039;s Chone Killers gang as terror…",
+    "originalUrl": "https://thehill.com/homenews/administration/5952039-us-designates-chone-killers-terrorist-organization/",
+    "publishedAt": "2026-07-02T21:05:38.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.022Z",
+    "rawDescription": "The State Department on Wednesday designated the Ecuadorian gang the Chone Killers as a foreign terrorist organization. \"Chone Killers is an Ecuadorian gang that has committed numerous attacks targeting civilians, law enforcement officers, and government officials, including high-profile assassinations of public officials,\" Secretary of State Marco Rubio said in a statement. Rubio separately said on...",
+    "contentSnippet": "The State Department on Wednesday designated the Ecuadorian gang the Chone Killers as a foreign terrorist organization. \"Chone Killers is an Ecuadorian gang that has committed numerous attacks targeting civilians, law enforcement officers, and government officials, including high-profile assassinations of public officials,\" Secretary of State Marco Rubio said in a statement. Rubio separately said on...",
+    "summaryZh": "基于标题/摘要生成：The 美国国务院 on Wednesday designated the Ecuadorian gang the Chone Killers as a foreign terrorist organization. \"Chone Killers is an Ecuadorian gang tha…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures",
+      "other_related"
+    ],
+    "peopleTags": [
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "officials, including high-profile assassinations of public officials,\" Secretary of State Marco Rubio said in a statement. Rubio separately said on... The State Department on Wednesday design"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "als, including high-profile assassinations of public officials,\" Secretary of State Marco Rubio said in a statement. Rubio separately said on... The State Department on Wednesday design"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "officials, including high-profile assassinations of public officials,\" Secretary of State Marco Rubio said in a statement. Rubio separately said on... The State Department on Wednesday design"
+      },
+      {
+        "entityId": "state-department",
+        "name": "State Department",
+        "type": "organization",
+        "matchedAlias": "State Department",
+        "confidence": "high",
+        "contextSnippet": "S designates Ecuador&#039;s Chone Killers gang as terrorist organization Ryan Mancini The State Department on Wednesday designated the Ecuadorian gang the Chone Killers as a foreign terrorist orga"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "State Department"
+    ],
+    "relatedEntityTags": [
+      "Marco Rubio",
+      "State Department",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_i15wy3",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Russia’s 11-Hour Assault on Kyiv",
+    "chineseTitle": "Russia’s 11-Hour Assault on Kyiv",
+    "originalUrl": "https://foreignpolicy.com/2026/07/02/russia-ukraine-missiles-drones-kyiv-oil-energy-critical-infrastructure-strikes/",
+    "publishedAt": "2026-07-02T20:49:19.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.200Z",
+    "rawDescription": "The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure.",
+    "contentSnippet": "The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure.",
+    "summaryZh": "基于标题/摘要生成：The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1412yk",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Croatian team’s favorite singer is a fascist salute away from the mainstream",
+    "chineseTitle": "The Croatian team’s favorite singer is a fascist salute a…",
+    "originalUrl": "https://www.politico.com/live-updates/2026/07/02/world-cup-2026/za-dom-the-fearless-thompson-crooner-00986259",
+    "publishedAt": "2026-07-02T20:45:00.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.082Z",
+    "rawDescription": "Fans across two continents regularly belted out Marko Perković Thompson’s “Čavoglave” this summer — a song that salutes a WWII Nazi puppet state.",
+    "contentSnippet": "Fans across two continents regularly belted out Marko Perković Thompson’s “Čavoglave” this summer — a song that salutes a WWII Nazi puppet state.",
+    "summaryZh": "基于标题/摘要生成：Fans across two continents regularly belted out Marko Perković Thompson’s “Čavoglave” this summer — a song that salutes a WWII Nazi puppet state",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a8l90p",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Olympian indicted for vandalizing Reflecting Pool",
+    "chineseTitle": "Olympian indicted for vandalizing Reflecting Pool",
+    "originalUrl": "https://www.axios.com/2026/07/02/olympian-indicted-for-allegedly-vandalizing-reflecting-pool",
+    "publishedAt": "2026-07-02T19:28:59.000Z",
+    "fetchedAt": "2026-07-03T00:10:47.959Z",
+    "rawDescription": "Former Olympic canoeist David Hearn was indicted Thursday for destroying property after he allegedly reached into Washington D.C.'s Lincoln Memorial Reflecting Pool , per a bench warrant reviewed by Axios. Why it matters: It's the first indictment prosecutors have secured since President Trump asserted that vandals had damaged D.C.'s reflecting pool shortly after it underwent a $14 million upgrade. What they're saying: \"Today is about accountability for damaging a national resource, a national treasure, and that is the reflecting pool,\" U.S. attorney for the District of Columbia Jeanine Pirro told reporters Thursday. \"A grand jury has returned a felony indictment against a defendant, David Hearn, for felony destruction of property, for which he faces 10 years in prison.\" \"Our evidence fur…",
+    "contentSnippet": "Former Olympic canoeist David Hearn was indicted Thursday for destroying property after he allegedly reached into Washington D.C.'s Lincoln Memorial Reflecting Pool , per a bench warrant reviewed by Axios. Why it matters: It's the first indictment prosecutors have secured since President Trump asserted that vandals had damaged D.C.'s reflecting pool shortly after it underwent a $14 million upgrade. What they're saying: \"Today is about accountability for damaging a national resource, a national treasure, and that is the reflecting pool,\" U.S. attorney for the District of Columbia Jeanine Pirro told reporters Thursday. \"A grand jury has returned a felony indictment against a defendant, David Hearn, for felony destruction of property, for which he faces 10 years in prison.\" \"Our evidence fur…",
+    "summaryZh": "基于标题/摘要生成：Former Olympic canoeist David Hearn was indicted Thursday for destroying property after he allegedly reached into Washington D.C.'s Lincoln Memorial…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Axios. Why it matters: It's the first indictment prosecutors have secured since President Trump asserted that vandals had damaged D.C.'s reflecting pool shortly after it underwent a $14"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Axios. Why it matters: It's the first indictment prosecutors have secured since President Trump asserted that vandals had damaged D.C.'s reflecting pool shortly after it underwent a $14"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tpy7l3",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Hunter Biden jabs Trump with mock Nobel Peace Prize nomination over Iran",
+    "chineseTitle": "Hunter Biden jabs Trump with mock Nobel Peace Prize nomin…",
+    "originalUrl": "https://thehill.com/homenews/administration/5951873-hunter-biden-trump-nobel-peace/",
+    "publishedAt": "2026-07-02T19:10:39.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.023Z",
+    "rawDescription": "Hunter Biden, the son of former President Biden, ribbed President Trump on Thursday, saying he is nominating the president for the Nobel Peace Prize for ending the war in Iran. “I am officially nominating Donald J. Trump (@realDonaldTrump) for the Nobel Peace Prize,” Hunter Biden wrote on social platform X. “No President in History has...",
+    "contentSnippet": "Hunter Biden, the son of former President Biden, ribbed President Trump on Thursday, saying he is nominating the president for the Nobel Peace Prize for ending the war in Iran. “I am officially nominating Donald J. Trump (@realDonaldTrump) for the Nobel Peace Prize,” Hunter Biden wrote on social platform X. “No President in History has...",
+    "summaryZh": "基于标题/摘要生成：Hunter Biden，the son of former President Biden，ribbed President Trump on Thursday，saying he is nominating the president for the Nobel Peace Prize for…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Hunter Biden jabs Trump with mock Nobel Peace Prize nomination over Iran Max Rego Hunter Biden, the son of former"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "President Biden",
+        "confidence": "high",
+        "contextSnippet": "with mock Nobel Peace Prize nomination over Iran Max Rego Hunter Biden, the son of former President Biden, ribbed President Trump on Thursday, saying he is nominating the president for the Nobel"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Hunter Biden jabs Trump with mock Nobel Peace Prize nomination over Iran Max Rego Hunter Biden, the so"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Hunter Biden jabs Trump with mock Nobel Peace Prize nomination over Iran Max Rego Hunter Biden, the son of former"
+      },
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "President Biden",
+        "confidence": "high",
+        "contextSnippet": "with mock Nobel Peace Prize nomination over Iran Max Rego Hunter Biden, the son of former President Biden, ribbed President Trump on Thursday, saying he is nominating the president for the Nobel"
+      },
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "Hunter Biden jabs Trump with mock Nobel Peace Prize nomination over Iran Hunter Biden jabs Trump with"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Joe Biden",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_j2ipmk",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "America Is Having MacBook Sticker Shock",
+    "chineseTitle": "America Is Having MacBook Sticker Shock",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/07/apple-prices-macbook-memory-shortage/687781/",
+    "publishedAt": "2026-07-02T17:47:00.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.213Z",
+    "rawDescription": "Apple is charging you an AI tax.",
+    "contentSnippet": "Apple is charging you an AI tax.",
+    "summaryZh": "基于标题/摘要生成：Apple is charging you an AI tax",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u4unws",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "OpenAI courts Trump administration as its latest investor",
+    "chineseTitle": "OpenAI courts Trump administration as its latest investor",
+    "originalUrl": "https://www.axios.com/2026/07/02/openai-stake-trump-altman",
+    "publishedAt": "2026-07-02T17:16:08.000Z",
+    "fetchedAt": "2026-07-03T00:10:47.964Z",
+    "rawDescription": "OpenAI may give the U.S. government a 5% stake in the company, per the Financial Times . The proposal is in very preliminary conversations, according to a person familiar with the matter. Why it matters: If the overture is taken up by the Trump administration, that would mean the government would have a vested interest in weighing whether or not to limit the release of an OpenAI model. Catch up quick: OpenAI views the potential government stake as a way to give the general public a share of the upside of AI, and CEO Sam Altman has previously shared with Axios his interest in some sort of public wealth fund. The goal is to include other AI labs giving over a similar stake. This could look like including shares in Trump accounts or some other vehicle that would give American households expo…",
+    "contentSnippet": "OpenAI may give the U.S. government a 5% stake in the company, per the Financial Times . The proposal is in very preliminary conversations, according to a person familiar with the matter. Why it matters: If the overture is taken up by the Trump administration, that would mean the government would have a vested interest in weighing whether or not to limit the release of an OpenAI model. Catch up quick: OpenAI views the potential government stake as a way to give the general public a share of the upside of AI, and CEO Sam Altman has previously shared with Axios his interest in some sort of public wealth fund. The goal is to include other AI labs giving over a similar stake. This could look like including shares in Trump accounts or some other vehicle that would give American households expo…",
+    "summaryZh": "基于标题/摘要生成：OpenAI may give the U.S. government a 5% stake in the company，per the Financial Times . The proposal is in very preliminary conversations，according t…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "OpenAI courts Trump administration as its latest investor OpenAI may give the U.S. government a 5% stake in"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "OpenAI courts Trump administration as its latest investor OpenAI may give the U.S. government a 5% stake in t"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "OpenAI courts Trump administration as its latest investor OpenAI may give the U.S. government a 5% stake in the company, per"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_t34zef",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why Trump’s Congo Deal Is Falling Apart",
+    "chineseTitle": "Why Trump’s Congo Deal Is Falling Apart",
+    "originalUrl": "https://www.foreignaffairs.com/democratic-republic-congo/why-trumps-congo-deal-falling-apart",
+    "publishedAt": "2026-07-02T04:00:00.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.010Z",
+    "rawDescription": "The limits of \"America first\" in Africa.",
+    "contentSnippet": "The limits of \"America first\" in Africa.",
+    "summaryZh": "基于标题/摘要生成：The limits of \"America first\" in Africa",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Why Trump’s Congo Deal Is Falling Apart Joshua Z. Walker, Reagan Miviri, Jason K. Stearns The limit"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Why Trump's Congo Deal Is Falling Apart Joshua Z. Walker, Reagan Miviri, Jason K. Stearns The limit"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9q1ai8",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sNXdOX2tCS1VTc0dvTzJyM3dNR3g0a2hzR0hmeW1ucmZvRDhfY0JJRzVRSTFRT3NJaTZVQTAtWHZGYk5PSWkydkp3VnBoT2ZwOEczem1YbWtKZ19fT0FzSV9zcEZCV1hqWWZkVUpGNzU2Q2M?oc=5",
+    "publishedAt": "2026-06-30T18:32:14.000Z",
+    "fetchedAt": "2026-07-03T00:11:15.915Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ux7v68",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Extreme Weather Will Upend U.S.-China Competition",
+    "chineseTitle": "Extreme Weather Will Upend U.S.-中国 Competition",
+    "originalUrl": "https://www.foreignaffairs.com/china/extreme-weather-will-upend-us-china-competition",
+    "publishedAt": "2026-06-30T04:00:00.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.012Z",
+    "rawDescription": "The cost of falling behind on climate adaptation.",
+    "contentSnippet": "The cost of falling behind on climate adaptation.",
+    "summaryZh": "基于标题/摘要生成：The cost of falling behind on climate adaptation",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "U.S.-China",
+        "confidence": "medium",
+        "contextSnippet": "Extreme Weather Will Upend U.S.-China Competition Alice Hill, Mengye Zhu The cost of falling behind on climate adaptation. The"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "China policy",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_9w9y66",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96ajN3Y1JFUzJ0VnBRM3BncFdZcVVGa2h1UHptbExERTZjb2pFU1NyWkRpdkFwVDBEdWNDZG5fZkhzcm5ZQ1FLWGlpc0NORTFiRDVQU2FOMzJweWxZTjloSk1yV25RRFNuOHFv?oc=5",
+    "publishedAt": "2026-06-29T11:47:26.000Z",
+    "fetchedAt": "2026-07-03T00:11:15.914Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_thdkw",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security",
+    "chineseTitle": "New Report：FY27 NDAA as Blueprint for Rebuilding America’…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcG1mYUtiQnBsZGsxQm5uSzQwc0JaOWR5QTVDYXZXSS11bUM4SENEaVVQOWNWT21xUC04TVBZYzg3b0NaVGJwdUdMVkc5TWhjNzdJb1h6THhlb2c3c0t5UzJYczNIdlM5WlNGdkJXVXFobERXSUJGN3FqdDRWWTBtMFF0ZEJkRndzeDk1MHloSzNHYjlaUmk4bm90ODR6SlJMT1RXcUpZa1Nxc3FtWXRfUU02YWg3QWxtVEE?oc=5",
+    "publishedAt": "2026-06-09T16:47:50.000Z",
+    "fetchedAt": "2026-07-03T00:11:15.437Z",
+    "rawDescription": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security America First Policy Institute",
+    "contentSnippet": "New Report: FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：New Report：FY27 NDAA as Blueprint for Rebuilding America’s Arsenal of Freedom | Statement | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "as Blueprint for Rebuilding America's Arsenal of Freedom | Statement | National Security America First Policy Institute New Report: FY27 NDAA as Blueprint for Rebuilding America's Arsenal of Freedom | Statemen"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mawn1s",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Data Center Water Use Hoax | Expert Insights | AI & Emerging Technologies",
+    "chineseTitle": "The Data Center Water Use Hoax | Expert Insights | AI & E…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yaXphSGNjLUlEZUp6RUVMLTZoQ1l6RF95b3pwSFQzVUtzb21ZeHM4Qk9wYU5wZ1BWblRUVDRYN2RqakNfa1RGUnFSY3dUd1JpU0hlZUwzaUhMMk42YkdnYzRldEdkNW5qMUJhSDNXSXNCNzJrU3ZHMUlVVGY?oc=5",
+    "publishedAt": "2026-03-18T07:00:00.000Z",
+    "fetchedAt": "2026-07-03T00:11:15.438Z",
+    "rawDescription": "The Data Center Water Use Hoax | Expert Insights | AI & Emerging Technologies America First Policy Institute",
+    "contentSnippet": "The Data Center Water Use Hoax | Expert Insights | AI & Emerging Technologies America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：The Data Center Water Use Hoax | Expert Insights | AI & Emerging Technologies America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "echnologies The Data Center Water Use Hoax | Expert Insights | AI & Emerging Technologies America First Policy Institute The Data Center Water Use Hoax | Expert Insights | AI & Emerging Technologies America Fir"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"America First Policy Institute\" technology"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-07-03T00:10:58.275Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.282Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.283Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-07-03T00:10:58.274Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.156Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-07-03T00:10:48.154Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
