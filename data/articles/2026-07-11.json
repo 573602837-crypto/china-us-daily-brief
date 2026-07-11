@@ -1,0 +1,1625 @@
+[
+  {
+    "id": "art_ahx0ea",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "‘Systemic failure’: Crash that killed Boston transit planner sparks furor over road safety efforts",
+    "chineseTitle": "‘Systemic failure’：Crash that killed Boston transit plann…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/10/metro/louisa-gag-cyclist-fatal-crash-tremont-street/",
+    "publishedAt": "2026-07-11T00:00:43.458Z",
+    "fetchedAt": "2026-07-11T00:02:20.770Z",
+    "rawDescription": "公开 sitemap 条目：‘Systemic failure’: Crash that killed Boston transit planner sparks furor over road safety efforts",
+    "contentSnippet": "公开 sitemap 条目：‘Systemic failure’: Crash that killed Boston transit planner sparks furor over road safety efforts",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：‘Systemic failure’：Crash that killed Boston transit planner sparks furor over road safety efforts",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xuyo3q",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "‘Labor of love’: Chelsea brothers reclaim legacy of trailblazing Black inventor behind modern light bulb",
+    "chineseTitle": "‘Labor of love’：Chelsea brothers reclaim legacy of trailb…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/10/metro/lewis-latimer-chelsea-light-bulb/",
+    "publishedAt": "2026-07-10T23:24:44.791Z",
+    "fetchedAt": "2026-07-11T00:02:20.771Z",
+    "rawDescription": "公开 sitemap 条目：‘Labor of love’: Chelsea brothers reclaim legacy of trailblazing Black inventor behind modern light bulb",
+    "contentSnippet": "公开 sitemap 条目：‘Labor of love’: Chelsea brothers reclaim legacy of trailblazing Black inventor behind modern light bulb",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：‘Labor of love’：Chelsea brothers reclaim legacy of trailblazing Black inventor behind modern light bulb",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gv75sn",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Michigan Senate hopeful calls AIPAC donations 'legalized bribery,' remains silent on other donations",
+    "chineseTitle": "Michigan 参议院 hopeful calls AIPAC donations 'legalized bri…",
+    "originalUrl": "https://www.foxnews.com/politics/michigan-senate-hopeful-calls-aipac-donations-legalized-bribery-remains-silent-other-donations",
+    "publishedAt": "2026-07-10T23:09:52.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.819Z",
+    "rawDescription": "Abdul El-Sayed calls AIPAC spending against his Michigan Senate campaign \"legalized bribery,\" raising questions about foreign influence in U.S. elections.",
+    "contentSnippet": "Abdul El-Sayed calls AIPAC spending against his Michigan Senate campaign \"legalized bribery,\" raising questions about foreign influence in U.S. elections.",
+    "summaryZh": "基于标题/摘要生成：Abdul El-Sayed calls AIPAC spending against his Michigan 参议院 campaign \"legalized bribery，\" raising questions about foreign influence in U.S. elections",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Michigan Senate hopeful calls AIPAC donations 'legalized bribery,' remains silent on other donations Abdu"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6t7411",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Minn. school serving Somalis faces threats after Trump posts clip of students",
+    "chineseTitle": "Minn. school serving Somalis faces threats after Trump po…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdnZZbHdmNFdZWGk4Q3NPZ2JUQWMyaHVCbEpSZkpEYjhFY2RPLU9IdjRPemNFbVpDemdiS1NTVW13dlpnSUdENUVRZTRiUktycG53aTVJVEFvSDMzMHNjY0xwMzR4LVFwSkhIbm1LdHpQSks0aEo0Rjh5MHpjeW5iYVlDZ0xDd0w5amQzdkNqY1k2WUwyVHpVcm9fMzgzVjlvS0xIcUhsMm9obDU4ejZrRFoyeWE4VjZKUlBidE41bw?oc=5",
+    "publishedAt": "2026-07-10T22:58:13.000Z",
+    "fetchedAt": "2026-07-11T00:02:38.552Z",
+    "rawDescription": "Minn. school serving Somalis faces threats after Trump posts clip of students The Washington Post",
+    "contentSnippet": "Minn. school serving Somalis faces threats after Trump posts clip of students The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Minn. school serving Somalis faces threats after Trump posts clip of students The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Minn. school serving Somalis faces threats after Trump posts clip of students Minn. school serving Somalis faces threats after Trump posts clip"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Minn. school serving Somalis faces threats after Trump posts clip of students Minn. school serving Somalis faces threats after Trump posts clip"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\"",
+      "\"Truth Social\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_aqw9v0",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say",
+    "chineseTitle": "Strait of Hormuz Will Soon Be Declared Open to All Traffi…",
+    "originalUrl": "https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html",
+    "publishedAt": "2026-07-10T22:32:14.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.851Z",
+    "rawDescription": "The officials said that Iranian negotiators blamed the recent ship attacks on rogue military units.",
+    "contentSnippet": "The officials said that Iranian negotiators blamed the recent ship attacks on rogue military units.",
+    "summaryZh": "基于标题/摘要生成：The officials said that Iranian negotiators blamed the recent ship attacks on rogue military units",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_i9ho9q",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Maine's Democratic meltdown could shape the Senate midterms",
+    "chineseTitle": "How Maine's Democratic meltdown could shape the 参议院 midte…",
+    "originalUrl": "https://www.foxnews.com/politics/how-maines-democratic-meltdown-could-shape-senate-midtermshow-maines-democratic-meltdown-could-shape-the-senate-midterms",
+    "publishedAt": "2026-07-10T22:29:51.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.819Z",
+    "rawDescription": "Collapse of Democrats' Maine Senate campaign highlights divisions within the party.",
+    "contentSnippet": "Collapse of Democrats' Maine Senate campaign highlights divisions within the party.",
+    "summaryZh": "基于标题/摘要生成：Collapse of 民主党人' Maine 参议院 campaign highlights divisions within the party",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Maine's Democratic meltdown could shape the Senate midterms Collapse of Democrats' Maine Senate campaign highlights divisions within the party. Collapse of Democrats' Main"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Maine's Democratic meltdown could shape the Senate midterms Collapse of Democrats' Maine Senate campaign highlights divisions within the par"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_oulcat",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why the Olympics won’t have a Balogate",
+    "chineseTitle": "Why the Olympics won’t have a Balogate",
+    "originalUrl": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/no-olympic-peace-prize-ioc-fifa-balogate-00993493",
+    "publishedAt": "2026-07-10T22:15:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.766Z",
+    "rawDescription": "The International Olympic Committee has approached the Trump White House very differently than FIFA has.",
+    "contentSnippet": "The International Olympic Committee has approached the Trump White House very differently than FIFA has.",
+    "summaryZh": "基于标题/摘要生成：The International Olympic Committee has approached the Trump White 众议院 very differently than FIFA has",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "on’t have a Balogate By Sophia Cai The International Olympic Committee has approached the Trump White House very differently than FIFA has. The International Olympic Committee has appro"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "on't have a Balogate By Sophia Cai The International Olympic Committee has approached the Trump White House very differently than FIFA has. The International Olympic Committee has appro"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "ave a Balogate By Sophia Cai The International Olympic Committee has approached the Trump White House very differently than FIFA has. The International Olympic Committee has approached the Tr"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_n0xqqk",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Fears erupt over Iran&#039;s desire to kill Trump",
+    "chineseTitle": "Fears erupt over Iran&#039;s desire to kill Trump",
+    "originalUrl": "https://thehill.com/homenews/administration/5963476-iran-trump-assassination-risk-israel-air-force-one/",
+    "publishedAt": "2026-07-10T22:08:20.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.713Z",
+    "rawDescription": "A reported new threat by Iran to assassinate President Trump served as a reminder this week of the risk that the hard-line Tehran regime poses to him, especially as a tenuous ceasefire between the U.S. and Iran breaks down and hostilities have resumed. Reports surfaced this week that Israel shared intelligence with the U.S. indicating...",
+    "contentSnippet": "A reported new threat by Iran to assassinate President Trump served as a reminder this week of the risk that the hard-line Tehran regime poses to him, especially as a tenuous ceasefire between the U.S. and Iran breaks down and hostilities have resumed. Reports surfaced this week that Israel shared intelligence with the U.S. indicating...",
+    "summaryZh": "基于标题/摘要生成：A reported new threat，especially as a tenuous ceasefire between the U.S. and Iran breaks down and hostilities have resumed. Reports surfaced this wee…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Fears erupt over Iran&#039;s desire to kill Trump A reported new threat by Iran to assassinate President Trump served as a reminder this w"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Fears erupt over Iran&#039;s desire to kill Trump A reported new threat by Iran to assassinate President Trump served as a reminder this we"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_esa3s6",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Platner Drama Is Reviving Debate Among Democrats Over a Double Standard",
+    "chineseTitle": "The Platner Drama Is Reviving Debate Among 民主党人 Over a Do…",
+    "originalUrl": "https://www.nytimes.com/2026/07/10/us/politics/platner-democrats-women-double-standard.html",
+    "publishedAt": "2026-07-10T21:47:58.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.850Z",
+    "rawDescription": "His candidacy stoked tensions among Democrats over gender and how to win back working-class voters.",
+    "contentSnippet": "His candidacy stoked tensions among Democrats over gender and how to win back working-class voters.",
+    "summaryZh": "基于标题/摘要生成：His candidacy stoked tensions among 民主党人 over gender and how to win back working-class voters",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "alt=\"\" class=\"css-rq4mmj\" src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10dc-trump-iran-vzqh/10dc-trump-iran-vzqh-square3 How the Platner Drama Is Reviving Debate Over an"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "The Platner Drama Is Reviving Debate Among Democrats Over a Double Standard Katie Glueck His candidacy stoked tensions among Democrats over ge"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "alt=\"\" class=\"css-rq4mmj\" src=\"https://static01.nyt.com/images/2026/07/10/multimedia/10dc-trump-iran-vzqh/10dc-trump-iran-vzqh-square3 How the Platner Drama Is Reviving Debate Over an O"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "New York Times Politics",
+      "Donald Trump"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kojynq",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks",
+    "chineseTitle": "U.S. gives Iran Saturday deadline to publicly renounce Ho…",
+    "originalUrl": "https://www.axios.com/2026/07/10/iran-strait-hormuz-attacks-mou-deal",
+    "publishedAt": "2026-07-10T21:15:46.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.650Z",
+    "rawDescription": "The Trump administration is demanding that Iran issue a public statement acknowledging the Strait of Hormuz is open and committing to stop firing on commercial ships. The message has been conveyed directly and through regional mediators , three U.S. officials said in a briefing with reporters Friday. Why it matters: The administration says Iran violated the memorandum of understanding (MOU) it signed with the U.S. three weeks ago by repeatedly firing on commercial vessels in and around the strait. The attacks triggered several exchanges of fire and pushed the fragile agreement closer to collapse, with President Trump declaring the ceasefire \"over\" this week. U.S. officials argue that Iran's failure to honor such a straightforward commitment raises serious doubts about its willingness and…",
+    "contentSnippet": "The Trump administration is demanding that Iran issue a public statement acknowledging the Strait of Hormuz is open and committing to stop firing on commercial ships. The message has been conveyed directly and through regional mediators , three U.S. officials said in a briefing with reporters Friday. Why it matters: The administration says Iran violated the memorandum of understanding (MOU) it signed with the U.S. three weeks ago by repeatedly firing on commercial vessels in and around the strait. The attacks triggered several exchanges of fire and pushed the fragile agreement closer to collapse, with President Trump declaring the ceasefire \"over\" this week. U.S. officials argue that Iran's failure to honor such a straightforward commitment raises serious doubts about its willingness and…",
+    "summaryZh": "基于标题/摘要生成：The Trump administration is demanding that Iran issue a public statement acknowledging the Strait of Hormuz is open and committing to stop firing on…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "taiwan",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks Barak Ravid The Trump administration is demanding that Iran issue a public statement acknowledging the Strait o"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks Barak Ravid The Trump administration is demanding that Iran issue a public statement acknowledging the Strait o"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks Barak Ravid The Trump administration is demanding that Iran issue a public statement acknowledging the Strait of Hormuz is ope"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jz4w01",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Graham Platner officially withdraws from Maine Senate race",
+    "chineseTitle": "Graham Platner officially withdraws from Maine 参议院 race",
+    "originalUrl": "https://www.axios.com/2026/07/10/graham-platner-maine-senate-democrats",
+    "publishedAt": "2026-07-10T21:12:43.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.654Z",
+    "rawDescription": "Democrat Graham Platner filed paperwork Friday to officially remove his name from the ballot, ending his tumultuous bid to unseat Republican Sen. Susan Collins in Maine. Why it matters: Platner's exit ahead of the Monday deadline clears the way for Democrats to name a replacement candidate in a race that is critical to their effort to win a Senate majority in November. Platner's campaign posted a copy of the letter it sent to Maine's Secretary of State withdrawing from the race to X on Friday afternoon. \"On June 9, 156,084 Mainers voted for a new kind of politics. One that is representative of people down here in the real world — not billionaires, oligarchs or the political establishment,\" he wrote, adding, \"In submitting this letter today, I seek to further the movement we have built tog…",
+    "contentSnippet": "Democrat Graham Platner filed paperwork Friday to officially remove his name from the ballot, ending his tumultuous bid to unseat Republican Sen. Susan Collins in Maine. Why it matters: Platner's exit ahead of the Monday deadline clears the way for Democrats to name a replacement candidate in a race that is critical to their effort to win a Senate majority in November. Platner's campaign posted a copy of the letter it sent to Maine's Secretary of State withdrawing from the race to X on Friday afternoon. \"On June 9, 156,084 Mainers voted for a new kind of politics. One that is representative of people down here in the real world — not billionaires, oligarchs or the political establishment,\" he wrote, adding, \"In submitting this letter today, I seek to further the movement we have built tog…",
+    "summaryZh": "基于标题/摘要生成：Democrat Graham Platner filed paperwork Friday to officially remove his name from the ballot，ending his tumultuous bid to unseat Republican Sen. Susa…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "in Maine. Why it matters: Platner's exit ahead of the Monday deadline clears the way for Democrats to name a replacement candidate in a race that is critical to their effort to win a Senat"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Graham Platner officially withdraws from Maine Senate race Holly Otterbein Democrat Graham Platner filed paperwork Friday to officially remove"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_psqo1j",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Bipartisan senators welcome deal with Trump on stalled Russia sanctions bill",
+    "chineseTitle": "Bipartisan senators welcome deal with Trump on stalled Ru…",
+    "originalUrl": "https://thehill.com/homenews/senate/5963080-senators-trump-russia-sanctions-bill/",
+    "publishedAt": "2026-07-10T19:24:12.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.714Z",
+    "rawDescription": "A bipartisan group of senators announced Friday they reached an agreement with the White House on language for a Russia sanctions bill stalled in Congress for more than a year. “We are proud to announce that we have reached an agreement with the Trump Administration to move our updated Russia sanctions legislation forward,\" Sens. Lindsey...",
+    "contentSnippet": "A bipartisan group of senators announced Friday they reached an agreement with the White House on language for a Russia sanctions bill stalled in Congress for more than a year. “We are proud to announce that we have reached an agreement with the Trump Administration to move our updated Russia sanctions legislation forward,\" Sens. Lindsey...",
+    "summaryZh": "基于标题/摘要生成：A bipartisan group of senators announced Friday they reached an agreement with 白宫 on language for a Russia sanctions 法案 stalled in 美国国会 for more than…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Bipartisan senators welcome deal with Trump on stalled Russia sanctions bill Laura Kelly A bipartisan group of senators announced Fri"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Bipartisan senators welcome deal with Trump on stalled Russia sanctions bill Laura Kelly A bipartisan group of senators announced Fri"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "or more than a year. \"We are proud to announce that we have reached an agreement with the Trump Administration to move our updated Russia sanctions legislation forward,\" Sens. Lindsey... A bipartisan"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Kelly A bipartisan group of senators announced Friday they reached an agreement with the White House on language for a Russia sanctions bill stalled in Congress for more than a year. \"We are"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "ched an agreement with the White House on language for a Russia sanctions bill stalled in Congress for more than a year. \"We are proud to announce that we have reached an agreement with th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team",
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "White House",
+      "Congress",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-senate https://thehill.com/homenews/senate/feed/",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress",
+      "site:thehill.com Senate China OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_czu5y8",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Evacuating Art From Ukraine’s Front Lines",
+    "chineseTitle": "Evacuating Art From Ukraine’s Front Lines",
+    "originalUrl": "https://foreignpolicy.com/2026/07/10/evacuating-art-from-ukraines-front-lines/",
+    "publishedAt": "2026-07-10T19:01:49.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.882Z",
+    "rawDescription": "The Lithuanian curators working to protect paintings from Putin.",
+    "contentSnippet": "The Lithuanian curators working to protect paintings from Putin.",
+    "summaryZh": "基于标题/摘要生成：The Lithuanian curators working to protect paintings from Putin",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nn82ok",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The CIA’s First Failed Coup",
+    "chineseTitle": "The CIA’s First Failed Coup",
+    "originalUrl": "https://foreignpolicy.com/2026/07/10/cia-history-communist-albania-cold-war-kim-philby-review/",
+    "publishedAt": "2026-07-10T18:45:27.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.883Z",
+    "rawDescription": "Kim Philby, parachute drops, and what really happened in communist Albania.",
+    "contentSnippet": "Kim Philby, parachute drops, and what really happened in communist Albania.",
+    "summaryZh": "基于标题/摘要生成：Kim Philby，parachute drops，and what really happened in communist Albania",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5rcso3",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Trump radicalized the Belgians",
+    "chineseTitle": "How Trump radicalized the Belgians",
+    "originalUrl": "https://www.politico.com/live-updates/2026/07/10/world-cup-2026/how-trump-radicalized-belgium-national-team-political-identity-00992849",
+    "publishedAt": "2026-07-10T18:16:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.769Z",
+    "rawDescription": "Belgium's national team did not arrive at the World Cup with a political identity. It has one now.",
+    "contentSnippet": "Belgium's national team did not arrive at the World Cup with a political identity. It has one now.",
+    "summaryZh": "基于标题/摘要生成：Belgium's national team did not arrive at the World Cup with a political identity. It has one now",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "How Trump radicalized the Belgians By Ali Walker Belgium's national team did not arrive at the Worl"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "How Trump radicalized the Belgians By Ali Walker Belgium's national team did not arrive at the Worl"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_w2gomc",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Hidden Cost of Optimizing Everything",
+    "chineseTitle": "The Hidden Cost of Optimizing Everything",
+    "originalUrl": "https://www.theatlantic.com/podcasts/2026/07/the-hidden-cost-of-optimizing-everything/687873/",
+    "publishedAt": "2026-07-10T17:00:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.896Z",
+    "rawDescription": "How technology is disconnecting us from life’s small pleasures",
+    "contentSnippet": "How technology is disconnecting us from life’s small pleasures",
+    "summaryZh": "基于标题/摘要生成：How technology is disconnecting us from life’s small pleasures",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eedoma",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump’s go-to attorneys take unusual steps for a sitting president",
+    "chineseTitle": "Trump’s go-to attorneys take unusual steps for a sitting…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUhKcG5mTkprdms1c1NnYjJTcjZKWGx3NlVQb0hRNUVpaV9aejc0bjJPNS11a3RYajRoMHRzR2I0SDBJWGhZdk9Sb3FDUzhvSnFSN2FyZ0RqWHRnTkJtLTJUYzJVUHJ5bW1IbU5JYVNTVnZlUFdremd2cVZ5bTRlbjBINllCTWs4OE5sQU9naGRvQ2JTVzFyRm94QldHcVZET2t5ZkZkMkhXUkxYRmZQRDJac3ZUNGo4emZfSkEwNA?oc=5",
+    "publishedAt": "2026-07-10T16:00:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:38.568Z",
+    "rawDescription": "Trump’s go-to attorneys take unusual steps for a sitting president The Washington Post",
+    "contentSnippet": "Trump’s go-to attorneys take unusual steps for a sitting president The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump’s go-to attorneys take unusual steps for a sitting president The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s go-to attorneys take unusual steps for a sitting president Trump’s go-to attorneys tak"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's go-to attorneys take unusual steps for a sitting president Trump's go-to attorneys take"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\"",
+      "\"Trump team\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wj0y4x",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Photos of the Week: Rabbit Beach, Puffin Census, Wild Horses",
+    "chineseTitle": "Photos of the Week：Rabbit Beach，Puffin Census，Wild Horses",
+    "originalUrl": "https://www.theatlantic.com/photography/2026/07/photos-of-the-week-rabbit-beach-puffin-census-wild-horses/687855/",
+    "publishedAt": "2026-07-10T13:00:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.898Z",
+    "rawDescription": "An electronic-music festival in Germany, World Cup watch parties around the world, the running of the bulls in Spain, cave exploration in China, a heat wave in southern Europe, and much more",
+    "contentSnippet": "An electronic-music festival in Germany, World Cup watch parties around the world, the running of the bulls in Spain, cave exploration in China, a heat wave in southern Europe, and much more",
+    "summaryZh": "基于标题/摘要生成：An electronic-music festival in Germany，World Cup watch parties around the world，the running of the bulls in Spain，cave exploration in 中国，a heat wave…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_vhnqz7",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Is Remaking Latin America",
+    "chineseTitle": "Trump Is Remaking Latin America",
+    "originalUrl": "https://www.foreignaffairs.com/americas/trump-remaking-latin-america",
+    "publishedAt": "2026-07-09T04:00:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.704Z",
+    "rawDescription": "The short-term results and the long-term risks of the “Donroe Doctrine.”",
+    "contentSnippet": "The short-term results and the long-term risks of the “Donroe Doctrine.”",
+    "summaryZh": "基于标题/摘要生成：The short-term results and the long-term risks of the “Donroe Doctrine.”",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Is Remaking Latin America Brian Winter The short-term results and the long-term risks of"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Is Remaking Latin America Brian Winter The short-term results and the long-term risks of"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z65jz2",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Ukraine Lesson Taiwan Keeps Missing",
+    "chineseTitle": "The Ukraine Lesson 台湾 Keeps Missing",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/ukraine-lesson-taiwan-keeps-missing",
+    "publishedAt": "2026-07-08T04:00:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.705Z",
+    "rawDescription": "It’s not the drones—It’s everything around them.",
+    "contentSnippet": "It’s not the drones—It’s everything around them.",
+    "summaryZh": "基于标题/摘要生成：It’s not the drones—It’s everything around them",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_56fa8r",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security",
+    "chineseTitle": "PRC’s devious ‘cognitive warfare’：Promote 中国 rule while u…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFdOX2R1bUptTElVNHpDS2pDVUF1OGhET29PSTMwSl9ORE5IcHVheHljME1fN2s1dGxkMHFFVUpyYU5GelBvMU8ya1kyU2ZpZ1RNTEpXSG1yeGdHdEhQSXp4QXgzSXVROXJWeUxVYXotR3NQaWFYMDcwSmwwdDVLbzlFNlRMcGI3QzhpSGFteDUxbTYwNWRSRjdQTEZnQkFlUGcwMnZnOU1aZjJBdUd3T3A5b2JQdE0?oc=5",
+    "publishedAt": "2026-07-06T15:26:13.000Z",
+    "fetchedAt": "2026-07-11T00:02:38.557Z",
+    "rawDescription": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "contentSnippet": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：PRC’s devious ‘cognitive warfare’：Promote 中国 rule while undermining 台湾 | Op-Ed | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "gnitive warfare': Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute PRC's devious 'cognitive warfare': Promote China rule while undermining Taiwan | Op-Ed |"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"China policy\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1olm4a",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China",
+    "chineseTitle": "Iran as 中国’s “Counter-Pivot”：The Strategic Implications o…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONy1adTNvODR2Vnhra24tWF9tbl9sOFJ1NFZpc0NHMi1qelB1VnhlcHpMUGJhMVpDZ3RLNjl3TFpIX3ZzajJSOXFSQTlVWDBZOFZCaTExUG9hS01mSEhzVTNWSzNHVVNNV3l5RXRpb0ZFRjRZWEFqYjllOHdaTTlEMzhTb2lPUjlsWl9tb3ZrTzZlX2owVU5aTnE1bGNDb25vR0RpMTFPR2ZDeEQ1THJVVU82T09KRGxZaVhzbHl1U0lWOG5yVW1tODhzNW5UejZfMGZucXM4dTJGamJfVjNuR05OcWZoMkFvSnhaWA?oc=5",
+    "publishedAt": "2026-06-18T21:31:05.000Z",
+    "fetchedAt": "2026-07-11T00:02:38.558Z",
+    "rawDescription": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "contentSnippet": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Iran as 中国’s “Counter-Pivot”：The Strategic Implications of Operation Epic Fury for America’s Competition with 中国 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "\": The Strategic Implications of Operation Epic Fury for America's Competition with China America First Policy Institute Iran as China's \"Counter-Pivot\": The Strategic Implications of Operation Epic Fury for Am"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_cvcsv4",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFVBZjRfaVdVNElFS3VMRDByY0hyeFJvd291SkNKVWRsUHpPZXJYdUd0aXZ5RERiNEl4M2xXRTVLZGhsRm5yUXlNUHVFZ0d1dFEyaVNYbUZKLUxjMkVtM2RPYkJBZU1uVGd1MEg4c2xHbDR2Qmh2X0p0eWhuU3lmMjJxQkhpNC1uOXc?oc=5",
+    "publishedAt": "2026-02-14T00:42:38.000Z",
+    "fetchedAt": "2026-07-11T00:02:39.051Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:20.726Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.967Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.968Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3vscac",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qTXJnQ0Exd1J0cUtmc3hocWUwSzFmcEFfWXlpWGJ0aWVTTE01clN5YVpDUVcydkJFZ09ZVlRNS2htY25HU0lJajhVQWdBQmlSaVllRzhBcUMwcXhhU3FGQlNOZVFZRlJTazNpZk9yNURZbjg?oc=5",
+    "publishedAt": "2024-11-26T00:13:43.000Z",
+    "fetchedAt": "2026-07-11T00:02:39.052Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-07-11T00:02:20.724Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.838Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-07-11T00:02:14.837Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
