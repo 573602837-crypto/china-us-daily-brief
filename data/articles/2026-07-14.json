@@ -1,0 +1,1879 @@
+[
+  {
+    "id": "art_p2mxnd",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Man killed by ICE in Maine was not target, officials say; security camera appears to show agents’ encounter with victim. Follow live updates.",
+    "chineseTitle": "Man killed，officials say; security camera appears to show…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/13/metro/biddeford-maine-ice-shooting-live-updates/",
+    "publishedAt": "2026-07-13T23:53:34.240Z",
+    "fetchedAt": "2026-07-13T23:57:02.597Z",
+    "rawDescription": "公开 sitemap 条目：Man killed by ICE in Maine was not target, officials say; security camera appears to show agents’ encounter with victim. Follow live updates.",
+    "contentSnippet": "公开 sitemap 条目：Man killed by ICE in Maine was not target, officials say; security camera appears to show agents’ encounter with victim. Follow live updates.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Man killed，officials say; security camera appears to show agents’ encounter with victim. Follow live updates",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "ecipitated the violence.. <a class=\"card color_inherit\" href=\"/2026/07/13/metro/sjc-walsh-gop-signature-fraud/\" aria-label=\"Mass. high court rules GOP candidate accused of submitting"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Boston Globe",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "SitemapProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt",
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_i3xgq3",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Judge blasts Trump’s IRS lawsuit as filed for ‘improper purpose,’ recommends attorney discipline",
+    "chineseTitle": "Judge blasts Trump’s IRS lawsuit as filed for ‘improper p…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/13/business/trump-irs-lawsuit-judge/",
+    "publishedAt": "2026-07-13T23:49:49.707Z",
+    "fetchedAt": "2026-07-13T23:57:02.598Z",
+    "rawDescription": "公开 sitemap 条目：Judge blasts Trump’s IRS lawsuit as filed for ‘improper purpose,’ recommends attorney discipline",
+    "contentSnippet": "公开 sitemap 条目：Judge blasts Trump’s IRS lawsuit as filed for ‘improper purpose,’ recommends attorney discipline",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Judge blasts Trump’s IRS lawsuit as filed for ‘improper purpose，’ recommends attorney discipline",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Judge blasts Trump’s IRS lawsuit as filed for ‘improper purpose,’ recommends attorney discipline 公开 sitemap"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Judge blasts Trump's IRS lawsuit as filed for 'improper purpose,' recommends attorney discipline 公开 sitemap"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt",
+      "boston-globe https://www.bostonglobe.com/nation/"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yjexa4",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting",
+    "chineseTitle": "Democratic 参议院 Candidates in Maine Denounce Deadly ICE Sh…",
+    "originalUrl": "https://www.nytimes.com/2026/07/13/us/politics/maine-ice-shooting-senate-graham-platner.html",
+    "publishedAt": "2026-07-13T23:26:06.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.259Z",
+    "rawDescription": "The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.",
+    "contentSnippet": "The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown.",
+    "summaryZh": "基于标题/摘要生成：The killing of a man in Biddeford quickly became an issue in the 参议院 race，with 民主党人 aiming to tie Senator Susan Collins to President Trump’s immigrat…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump’s immigration crackdown. The killing of a man in Biddeford quickly became an issue in the"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump's immigration crackdown. The killing of a man in Biddeford quickly became an issue in the"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Wagner The killing of a man in Biddeford quickly became an issue in the Senate race, with Democrats aiming to tie Senator Susan Collins to President Trump's immigration crackdown. The killi"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Democratic Senate Candidates in Maine Denounce Deadly ICE Shooting Bayliss Wagner The killing of a man in B"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rsvg5m",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Senate looks to honor Graham with Russia sanctions",
+    "chineseTitle": "参议院 looks to honor Graham with Russia sanctions",
+    "originalUrl": "https://www.axios.com/2026/07/13/lindsey-graham-russia-sanctions-senate-trump",
+    "publishedAt": "2026-07-13T23:22:38.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.064Z",
+    "rawDescription": "Senators from both parties are rallying around a revised Russia sanctions package to honor the legacy of the late Sen. Lindsey Graham (R-S.C.). Why it matters: Bipartisanship is in short supply in the Senate. Graham's sudden death may briefly revive it. Senate Majority Leader John Thune (R-S.D.) said passing the updated sanctions bill — which has 85 cosponsors — \"would be a great tribute to the legacy of Lindsey.\" \"I urge Senator Thune, in honor of Lindsey, to put the Russia sanctions bill on the floor immediately,\" Senate Minority Leader Chuck Schumer (D-N.Y.) said. \"It will pass overwhelmingly and help our allies in Ukraine.\" \"This would be a good way to show us in a bipartisan way coming together on something that he was literally using some of his last breaths to fight for,\" Sen. Cory…",
+    "contentSnippet": "Senators from both parties are rallying around a revised Russia sanctions package to honor the legacy of the late Sen. Lindsey Graham (R-S.C.). Why it matters: Bipartisanship is in short supply in the Senate. Graham's sudden death may briefly revive it. Senate Majority Leader John Thune (R-S.D.) said passing the updated sanctions bill — which has 85 cosponsors — \"would be a great tribute to the legacy of Lindsey.\" \"I urge Senator Thune, in honor of Lindsey, to put the Russia sanctions bill on the floor immediately,\" Senate Minority Leader Chuck Schumer (D-N.Y.) said. \"It will pass overwhelmingly and help our allies in Ukraine.\" \"This would be a good way to show us in a bipartisan way coming together on something that he was literally using some of his last breaths to fight for,\" Sen. Cory…",
+    "summaryZh": "基于标题/摘要生成：Senators from both parties are rallying around a revised Russia sanctions package to honor the legacy of the late Sen. Lindsey Graham (R-S.C.). Why i…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china",
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "约翰·图恩",
+      "查克·舒默",
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "john-thune",
+        "nameEn": "John Thune",
+        "nameZh": "约翰·图恩",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "John Thune",
+        "confidence": "high",
+        "contextSnippet": "supply in the Senate. Graham's sudden death may briefly revive it. Senate Majority Leader John Thune (R-S.D.) said passing the updated sanctions bill — which has 85 cosponsors — \"would be a"
+      },
+      {
+        "personId": "john-thune",
+        "nameEn": "John Thune",
+        "nameZh": "约翰·图恩",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Thune",
+        "confidence": "low",
+        "contextSnippet": "y in the Senate. Graham's sudden death may briefly revive it. Senate Majority Leader John Thune (R-S.D.) said passing the updated sanctions bill — which has 85 cosponsors — \"would be a"
+      },
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "ndsey, to put the Russia sanctions bill on the floor immediately,\" Senate Minority Leader Chuck Schumer (D-N.Y.) said. \"It will pass overwhelmingly and help our allies in Ukraine.\" \"This would"
+      },
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "to put the Russia sanctions bill on the floor immediately,\" Senate Minority Leader Chuck Schumer (D-N.Y.) said. \"It will pass overwhelmingly and help our allies in Ukraine.\" \"This would"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Lindsey Graham Russia Sanctions Senate Trump 公开 sitemap 条目：Lindsey Graham Russia Sanctions Senate Trump 公开 sitemap 条目：Lindsey Graham"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "john-thune",
+        "name": "John Thune",
+        "type": "person",
+        "matchedAlias": "John Thune",
+        "confidence": "high",
+        "contextSnippet": "supply in the Senate. Graham's sudden death may briefly revive it. Senate Majority Leader John Thune (R-S.D.) said passing the updated sanctions bill — which has 85 cosponsors — \"would be a"
+      },
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "ndsey, to put the Russia sanctions bill on the floor immediately,\" Senate Minority Leader Chuck Schumer (D-N.Y.) said. \"It will pass overwhelmingly and help our allies in Ukraine.\" \"This would"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senate looks to honor Graham with Russia sanctions Hans Nichols Senators from both parties are r"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Lindsey Graham Russia Sanctions Senate Trump 公开 sitemap 条目：Lindsey Graham Russia Sanctions Senate Trump 公开 sitemap 条目：Lindsey Graham R"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "John Thune",
+      "Chuck Schumer",
+      "Congress",
+      "Axios",
+      "Donald Trump"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_sj6ynd",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scoop: Trump gave Saudi crown prince his backing for risky strikes on Houthis",
+    "chineseTitle": "Scoop：Trump gave Saudi crown prince his backing for risky…",
+    "originalUrl": "https://www.axios.com/2026/07/13/trump-bin-salman-houthis-yemen",
+    "publishedAt": "2026-07-13T23:21:37.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.067Z",
+    "rawDescription": "President Trump gave Saudi Crown Prince Mohammed Bin Salman (MBS) his support for a highly unusual military action against the Iran-backed Houthis in Yemen, according to U.S. officials. Why it matters: The Saudi strike on the Sanaa airport Monday and Houthi retaliatory missile attacks that followed were the most serious cross-border escalation since 2022. They could signal the collapse of a four-year, unofficial truce between the parties. A renewed military conflict between Saudi Arabia and the Houthis could exacerbate regional tensions and broaden the war between the U.S. and Iran . The fact that MBS notified Trump in advance and asked for his backing signals that the Saudis are concerned about a larger conflict with the Houthis that will require military and diplomatic support from the…",
+    "contentSnippet": "President Trump gave Saudi Crown Prince Mohammed Bin Salman (MBS) his support for a highly unusual military action against the Iran-backed Houthis in Yemen, according to U.S. officials. Why it matters: The Saudi strike on the Sanaa airport Monday and Houthi retaliatory missile attacks that followed were the most serious cross-border escalation since 2022. They could signal the collapse of a four-year, unofficial truce between the parties. A renewed military conflict between Saudi Arabia and the Houthis could exacerbate regional tensions and broaden the war between the U.S. and Iran . The fact that MBS notified Trump in advance and asked for his backing signals that the Saudis are concerned about a larger conflict with the Houthis that will require military and diplomatic support from the…",
+    "summaryZh": "基于标题/摘要生成：President Trump gave Saudi Crown Prince Mohammed Bin Salman (MBS) his support for a highly unusual military action against the Iran-backed Houthis in…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Scoop: Trump gave Saudi crown prince his backing for risky strikes on Houthis Barak Ravid President Tr"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Scoop: Trump gave Saudi crown prince his backing for risky strikes on Houthis Barak Ravid President Tr"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a71ebw",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump wants Gulf countries on the hook for Strait of Hormuz &#039;protection&#039;",
+    "chineseTitle": "Trump wants Gulf countries on the hook for Strait of Horm…",
+    "originalUrl": "https://thehill.com/homenews/administration/5966727-trump-strait-hormuz-iran-us-allies-fees/",
+    "publishedAt": "2026-07-13T23:08:02.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.127Z",
+    "rawDescription": "President Trump name-dropped several Persian Gulf countries Monday that he said should be reimbursing the United States for protection of ships through the Strait of Hormuz. “Yeah, I want to be reimbursed because we're protecting a very rich portion of the world, we're spending money, and so what we've done is we are going to...",
+    "contentSnippet": "President Trump name-dropped several Persian Gulf countries Monday that he said should be reimbursing the United States for protection of ships through the Strait of Hormuz. “Yeah, I want to be reimbursed because we're protecting a very rich portion of the world, we're spending money, and so what we've done is we are going to...",
+    "summaryZh": "基于标题/摘要生成：President Trump name-dropped several Persian Gulf countries Monday that he said should be reimbursing the United States for protection of ships throu…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump wants Gulf countries on the hook for Strait of Hormuz &#039;protection&#039; Mallory Wils"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump wants Gulf countries on the hook for Strait of Hormuz &#039;protection&#039; Mallory Wils"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_63ys8a",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats running to replace Platner in key Senate race call for ICE to be 'abolished'",
+    "chineseTitle": "民主党人 running to replace Platner in key 参议院 race call for…",
+    "originalUrl": "https://www.foxnews.com/politics/democrats-running-replace-platner-key-senate-race-call-ice-abolished",
+    "publishedAt": "2026-07-13T22:59:28.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.228Z",
+    "rawDescription": "Leading Maine Democratic Senate candidates joined hundreds of protesters calling to abolish ICE after federal agents fatally shot a man in Biddeford.",
+    "contentSnippet": "Leading Maine Democratic Senate candidates joined hundreds of protesters calling to abolish ICE after federal agents fatally shot a man in Biddeford.",
+    "summaryZh": "基于标题/摘要生成：Leading Maine Democratic 参议院 candidates joined hundreds of protesters calling to abolish ICE after federal agents fatally shot a man in Biddeford",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats running to replace Platner in key Senate race call for ICE to be 'abolished' Leading Main"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Democrats running to replace Platner in key Senate race call for ICE to be 'abolished' Leading Maine Democratic Senate candidates joined hun"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dyujxu",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump-backed Daylight Saving Time bill clears key House hurdle",
+    "chineseTitle": "Trump-backed Daylight Saving Time 法案 clears key 众议院 hurdle",
+    "originalUrl": "https://www.foxnews.com/politics/trump-backed-daylight-saving-time-bill-clears-key-house-hurdle",
+    "publishedAt": "2026-07-13T22:51:08.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.229Z",
+    "rawDescription": "The Sunshine Protection Act cleared a key House hurdle, but opponents warn permanent Daylight Saving Time could disrupt natural circadian rhythms.",
+    "contentSnippet": "The Sunshine Protection Act cleared a key House hurdle, but opponents warn permanent Daylight Saving Time could disrupt natural circadian rhythms.",
+    "summaryZh": "基于标题/摘要生成：The Sunshine Protection Act cleared a key 众议院 hurdle，but opponents warn permanent Daylight Saving Time could disrupt natural circadian rhythms",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump-backed Daylight Saving Time bill clears key House hurdle The Sunshine Protection Act cle"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump-backed Daylight Saving Time bill clears key House hurdle The Sunshine Protection Act clea"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jwgzip",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Memo: Trump escalates on Iran, but critics don’t see a strategy",
+    "chineseTitle": "The Memo：Trump escalates on Iran，but critics don’t see a…",
+    "originalUrl": "https://thehill.com/homenews/administration/5966549-trump-iran-strait-hormuz-military-action-scrutiny/",
+    "publishedAt": "2026-07-13T22:24:10.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.128Z",
+    "rawDescription": "President Trump is ramping up hostilities with Iran again, but critics question whether renewed U.S. military action can change the fundamental shape of the conflict. If it fails to do so, Trump could end up even more deeply entangled in an issue that is unpopular with the American people as the clock ticks down to...",
+    "contentSnippet": "President Trump is ramping up hostilities with Iran again, but critics question whether renewed U.S. military action can change the fundamental shape of the conflict. If it fails to do so, Trump could end up even more deeply entangled in an issue that is unpopular with the American people as the clock ticks down to...",
+    "summaryZh": "基于标题/摘要生成：President Trump is ramping up hostilities with Iran again，but critics question whether renewed U.S. military action can change the fundamental shape…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Memo: Trump escalates on Iran, but critics don’t see a strategy Niall Stanage President Trump is ramp"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Memo: Trump escalates on Iran, but critics don't see a strategy Niall Stanage President Trump is ramp"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_b5sky",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Cease-Fire Effectively Collapses as He Vows to Restart Blockade and Tolls",
+    "chineseTitle": "Trump’s Cease-Fire Effectively Collapses as He Vows to Re…",
+    "originalUrl": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html",
+    "publishedAt": "2026-07-13T22:20:27.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.260Z",
+    "rawDescription": "After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.",
+    "contentSnippet": "After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.",
+    "summaryZh": "基于标题/摘要生成：After several days of strikes，the president notified 美国国会 that fighting had begun again and announced shipping fees that his administration previousl…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Cease-Fire Effectively Collapses as He Vows to Restart Blockade and Tolls Peter Baker A"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Cease-Fire Effectively Collapses as He Vows to Restart Blockade and Tolls Peter Baker A"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "tart Blockade and Tolls Peter Baker After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previou"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_syi6v8",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Todd Blanche’s War Against Journalism",
+    "chineseTitle": "Todd Blanche’s War Against Journalism",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/07/todd-blanche-doj-war-against-journalism/687908/",
+    "publishedAt": "2026-07-13T22:12:00.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.306Z",
+    "rawDescription": "As the acting attorney general prepares for confirmation hearings, his DOJ is showcasing its willingness to intimidate reporters whose revelations have upset the president.",
+    "contentSnippet": "As the acting attorney general prepares for confirmation hearings, his DOJ is showcasing its willingness to intimidate reporters whose revelations have upset the president.",
+    "summaryZh": "基于标题/摘要生成：As the acting attorney general prepares for confirmation hearings，his DOJ is showcasing its willingness to intimidate reporters whose revelations hav…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_x41jtd",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Darline Graham Nordone has little political history beyond praising her brother",
+    "chineseTitle": "Darline Graham Nordone has little political history beyon…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/07/13/darline-graham-nordone-has-little-political-history-beyond-praising-her-brother/",
+    "publishedAt": "2026-07-13T21:31:35.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.412Z",
+    "rawDescription": "Darline Graham Nordone, the late Sen. Lindsey Graham’s younger sister, received the backing of President Donald Trump and Sen. Tim Scott to serve out the remainder of her brother’s term.",
+    "contentSnippet": "Darline Graham Nordone, the late Sen. Lindsey Graham’s younger sister, received the backing of President Donald Trump and Sen. Tim Scott to serve out the remainder of her brother’s term.",
+    "summaryZh": "基于标题/摘要生成：Darline Graham Nordone，the late Sen. Lindsey Graham’s younger sister，received the backing of President 特朗普 and Sen. Tim Scott to serve out the remain…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Nordone, the late Sen. Lindsey Graham’s younger sister, received the backing of President Donald Trump and Sen. Tim Scott to serve out the remainder of her brother’s term. Darline Graham Nordo"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": ", the late Sen. Lindsey Graham’s younger sister, received the backing of President Donald Trump and Sen. Tim Scott to serve out the remainder of her brother’s term. Darline Graham Nordo"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Nordone, the late Sen. Lindsey Graham's younger sister, received the backing of President Donald Trump and Sen. Tim Scott to serve out the remainder of her brother's term. Darline Graham Nordo"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7id5tp",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Lindsey Graham’s sister picked to serve the rest of his Senate term",
+    "chineseTitle": "Lindsey Graham’s sister picked to serve the rest of his 参…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/07/13/trump-recommends-lindsey-grahams-sister-serve-rest-his-senate-term/",
+    "publishedAt": "2026-07-13T21:16:33.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.413Z",
+    "rawDescription": "South Carolina Gov. Henry McMaster (R) announced his selection of Darline Graham Nordone to serve into January. She is expected to be sworn in Tuesday.",
+    "contentSnippet": "South Carolina Gov. Henry McMaster (R) announced his selection of Darline Graham Nordone to serve into January. She is expected to be sworn in Tuesday.",
+    "summaryZh": "基于标题/摘要生成：South Carolina Gov. Henry McMaster (R) announced his selection of Darline Graham Nordone to serve into January. She is expected to be sworn in Tuesday",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Lindsey Graham's sister picked to serve the rest of his Senate term Alexei Koseff, Cat Zakrzewski South Carolina Gov. Henry McMaster (R) announced his s"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ebujly",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Is Taking a Page Out of Iran’s Playbook",
+    "chineseTitle": "Trump Is Taking a Page Out of Iran’s Playbook",
+    "originalUrl": "https://foreignpolicy.com/2026/07/13/trump-strait-hormuz-tolls-shipping-us-blockade-iran/",
+    "publishedAt": "2026-07-13T21:08:59.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.291Z",
+    "rawDescription": "The White House vows to charge all commercial ships passing through the Strait of Hormuz.",
+    "contentSnippet": "The White House vows to charge all commercial ships passing through the Strait of Hormuz.",
+    "summaryZh": "基于标题/摘要生成：白宫 vows to charge all commercial ships passing through the Strait of Hormuz",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "taiwan",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Is Taking a Page Out of Iran’s Playbook Alexandra Sharp The White House vows to charge al"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Is Taking a Page Out of Iran's Playbook Alexandra Sharp The White House vows to charge al"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Trump Is Taking a Page Out of Iran's Playbook Alexandra Sharp The White House vows to charge all commercial ships passing through the Strait of Hormuz. The White House"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hkhynv",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Lindsey Graham’s sister, Darline, will serve out his Senate term",
+    "chineseTitle": "Lindsey Graham’s sister，Darline，will serve out his 参议院 te…",
+    "originalUrl": "https://www.politico.com/news/2026/07/13/lindsey-graham-sister-finish-senate-term-00995350",
+    "publishedAt": "2026-07-13T20:13:55.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.178Z",
+    "rawDescription": "Her appointment as interim caretaker triggers a wide-open primary to take over as the GOP nominee for a full Senate term.",
+    "contentSnippet": "Her appointment as interim caretaker triggers a wide-open primary to take over as the GOP nominee for a full Senate term.",
+    "summaryZh": "基于标题/摘要生成：Her appointment as interim caretaker triggers a wide-open primary to take over as the GOP nominee for a full 参议院 term",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "dez Her appointment as interim caretaker triggers a wide-open primary to take over as the GOP nominee for a full Senate term. Her appointment as interim caretaker triggers a wide-open"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Lindsey Graham's sister, Darline, will serve out his Senate term By Alec Hernandez Her appointment as interim caretaker triggers a wide-open primary"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cagtr5",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Russian Energy Is Now at Ukraine’s Mercy",
+    "chineseTitle": "Russian Energy Is Now at Ukraine’s Mercy",
+    "originalUrl": "https://foreignpolicy.com/2026/07/13/ukraine-drone-strike-russia-energy-oil-refinery-putin/",
+    "publishedAt": "2026-07-13T20:10:12.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.292Z",
+    "rawDescription": "Kyiv’s drone offensive against Russian oil facilities has found a sixth gear.",
+    "contentSnippet": "Kyiv’s drone offensive against Russian oil facilities has found a sixth gear.",
+    "summaryZh": "基于标题/摘要生成：Kyiv’s drone offensive against Russian oil facilities has found a sixth gear",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kl0l5d",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Lindsey Graham Miscalculated on Iran",
+    "chineseTitle": "How Lindsey Graham Miscalculated on Iran",
+    "originalUrl": "https://www.theatlantic.com/national-security/2026/07/lindsey-graham-iran-hawk-trump/687900/",
+    "publishedAt": "2026-07-13T16:54:57.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.309Z",
+    "rawDescription": "The senator helped persuade Trump to launch a war that has become a quagmire.",
+    "contentSnippet": "The senator helped persuade Trump to launch a war that has become a quagmire.",
+    "summaryZh": "基于标题/摘要生成：The senator helped persuade Trump to launch a war that has become a quagmire",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "How Lindsey Graham Miscalculated on Iran Vivian Salama The senator helped persuade Trump to launch a war that has become a quagmire. The senator helped persuade Trump to launch a"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "How Lindsey Graham Miscalculated on Iran Vivian Salama The senator helped persuade Trump to launch a war that has become a quagmire. The senator helped persuade Trump to launch a"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qkcdqu",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "McMaster, Trump look to Graham's sister for Senate",
+    "chineseTitle": "McMaster，Trump look to Graham's sister for 参议院",
+    "originalUrl": "https://www.politico.com/news/2026/07/13/trump-lindsey-graham-replacement-mcmaster-00994800",
+    "publishedAt": "2026-07-13T14:58:32.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.179Z",
+    "rawDescription": "South Carolina Gov. Henry McMaster is expected to announce the interim replacement later Monday.",
+    "contentSnippet": "South Carolina Gov. Henry McMaster is expected to announce the interim replacement later Monday.",
+    "summaryZh": "基于标题/摘要生成：South Carolina Gov. Henry McMaster is expected to announce the interim replacement later Monday",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "McMaster, Trump look to Graham's sister for Senate By Alec Hernandez, Andrew Howard and Jonathan Martin S"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "McMaster, Trump look to Graham's sister for Senate By Alec Hernandez, Andrew Howard and Jonathan Martin S"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "McMaster, Trump look to Graham's sister for Senate By Alec Hernandez, Andrew Howard and Jonathan Martin South Carolina Gov. Henry McMaster i"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vhnqz7",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Is Remaking Latin America",
+    "chineseTitle": "Trump Is Remaking Latin America",
+    "originalUrl": "https://www.foreignaffairs.com/americas/trump-remaking-latin-america",
+    "publishedAt": "2026-07-09T04:00:00.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.118Z",
+    "rawDescription": "The short-term results and the long-term risks of the “Donroe Doctrine.”",
+    "contentSnippet": "The short-term results and the long-term risks of the “Donroe Doctrine.”",
+    "summaryZh": "基于标题/摘要生成：The short-term results and the long-term risks of the “Donroe Doctrine.”",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Is Remaking Latin America Brian Winter The short-term results and the long-term risks of"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Is Remaking Latin America Brian Winter The short-term results and the long-term risks of"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z65jz2",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Ukraine Lesson Taiwan Keeps Missing",
+    "chineseTitle": "The Ukraine Lesson 台湾 Keeps Missing",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/ukraine-lesson-taiwan-keeps-missing",
+    "publishedAt": "2026-07-08T04:00:00.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.120Z",
+    "rawDescription": "It’s not the drones—It’s everything around them.",
+    "contentSnippet": "It’s not the drones—It’s everything around them.",
+    "summaryZh": "基于标题/摘要生成：It’s not the drones—It’s everything around them",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_56fa8r",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security",
+    "chineseTitle": "PRC’s devious ‘cognitive warfare’：Promote 中国 rule while u…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFdOX2R1bUptTElVNHpDS2pDVUF1OGhET29PSTMwSl9ORE5IcHVheHljME1fN2s1dGxkMHFFVUpyYU5GelBvMU8ya1kyU2ZpZ1RNTEpXSG1yeGdHdEhQSXp4QXgzSXVROXJWeUxVYXotR3NQaWFYMDcwSmwwdDVLbzlFNlRMcGI3QzhpSGFteDUxbTYwNWRSRjdQTEZnQkFlUGcwMnZnOU1aZjJBdUd3T3A5b2JQdE0?oc=5",
+    "publishedAt": "2026-07-06T15:26:13.000Z",
+    "fetchedAt": "2026-07-13T23:57:20.146Z",
+    "rawDescription": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "contentSnippet": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：PRC’s devious ‘cognitive warfare’：Promote 中国 rule while undermining 台湾 | Op-Ed | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "gnitive warfare': Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute PRC's devious 'cognitive warfare': Promote China rule while undermining Taiwan | Op-Ed |"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"China policy\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_lygbaw",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "White House lifts export control on Anthropic that froze its most advanced models",
+    "chineseTitle": "White 众议院 lifts export control on Anthropic that froze it…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQVBIeEQxQm5fZFlzRER3YWx6WWVmVDVQZ0t5RGVyaWtNbk4yZXZqTmU1SlJoX1ZDMzJjaWpBaEt3NGdhbFVBY1hUSC1kZHNKeUtOblE4ZmJ4ZUhqTmo1bFhvTGZKaFp5QTFPbThFMkVickgxTmQxYWlhdXdJaUFxNUFhVVJqYjd4Y0pNNTdZdlo?oc=5",
+    "publishedAt": "2026-06-30T07:00:00.000Z",
+    "fetchedAt": "2026-07-13T23:57:20.265Z",
+    "rawDescription": "White House lifts export control on Anthropic that froze its most advanced models CNN",
+    "contentSnippet": "White House lifts export control on Anthropic that froze its most advanced models CNN",
+    "summaryZh": "基于标题/摘要生成：White 众议院 lifts export control on Anthropic that froze its most advanced models CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "White House lifts export control on Anthropic that froze its most advanced models White House lifts e"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Export controls"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"export controls\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a4pi1o",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsNUdONHNVZUtjZWtST0d1cktaLTRMMjVjTTY2X29wMkVZbkVTaHRLZDNpS21nQXIwckt1T3hCR3lkTEx2eks5WUpLcUtXbTIxOVd5TkZfTmhkNEl2WmdIRnV3LXpaTWN0eFVB?oc=5",
+    "publishedAt": "2026-06-27T23:17:37.000Z",
+    "fetchedAt": "2026-07-13T23:57:20.631Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-07-13T23:57:20.147Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "mmit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | Nation"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-07-13T23:57:02.551Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.382Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.383Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-07-13T23:57:02.550Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.247Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-07-13T23:56:53.246Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ky0cb",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUUtyTnV2Nm5EQUd1VnJ3RTN6czVoMzBYQ1NxUEhISmNiQ3RnUHZnYjFTMWp1bTlHVElOVl9wdmJsM3lfQ2VfWHU2VFVJODdVaFE?oc=5",
+    "publishedAt": "2022-05-17T16:17:39.000Z",
+    "fetchedAt": "2026-07-13T23:57:20.632Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
