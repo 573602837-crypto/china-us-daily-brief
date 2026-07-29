@@ -1,0 +1,1700 @@
+[
+  {
+    "id": "art_bvqolu",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump eulogizes Lindsey Graham, calling the late senator a ‘force to be reckoned with.’ Follow live updates.",
+    "chineseTitle": "Trump eulogizes Lindsey Graham，calling the late senator a…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/28/nation/trump-presidency-live-updates/",
+    "publishedAt": "2026-07-28T23:48:00.764Z",
+    "fetchedAt": "2026-07-29T00:00:45.692Z",
+    "rawDescription": "公开 sitemap 条目：Trump eulogizes Lindsey Graham, calling the late senator a ‘force to be reckoned with.’ Follow live updates.",
+    "contentSnippet": "公开 sitemap 条目：Trump eulogizes Lindsey Graham, calling the late senator a ‘force to be reckoned with.’ Follow live updates.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump eulogizes Lindsey Graham，calling the late senator a ‘force to be reckoned with.’ Follow live updates",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump eulogizes Lindsey Graham, calling the late senator a ‘force to be reckoned with.’ Follow"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump eulogizes Lindsey Graham, calling the late senator a 'force to be reckoned with.' Follow"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jelxmt",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Senate confirms Jay Clayton as next intelligence director",
+    "chineseTitle": "参议院 confirms Jay Clayton as next intelligence director",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/28/nation/jay-clayton-intelligence-director-confirmation/",
+    "publishedAt": "2026-07-28T23:42:27.451Z",
+    "fetchedAt": "2026-07-29T00:00:45.694Z",
+    "rawDescription": "公开 sitemap 条目：Senate confirms Jay Clayton as next intelligence director",
+    "contentSnippet": "公开 sitemap 条目：Senate confirms Jay Clayton as next intelligence director",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：参议院 confirms Jay Clayton as next intelligence director",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senate confirms Jay Clayton as next intelligence director 公开 sitemap 条目：Senate confirms Jay Clay"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xy5qa4",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Senate Confirms Jay Clayton to Lead U.S. Intelligence Community",
+    "chineseTitle": "参议院 Confirms Jay Clayton to Lead U.S. Intelligence Commun…",
+    "originalUrl": "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html",
+    "publishedAt": "2026-07-28T23:40:40.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.793Z",
+    "rawDescription": "Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intelligence from Bill Pulte.",
+    "contentSnippet": "Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intelligence from Bill Pulte.",
+    "summaryZh": "基于标题/摘要生成：Mr. Clayton，who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 选举，will take over the Office of the Director…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "n Volz Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intellig"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "n Volz Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intellig"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senate Confirms Jay Clayton to Lead U.S. Intelligence Community Dustin Volz Mr. Clayton, who she"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fwkqa0",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Crashes Into Reality",
+    "chineseTitle": "Trump Crashes Into Reality",
+    "originalUrl": "https://www.theatlantic.com/politics/2026/07/trump-iran-midterms/688089/",
+    "publishedAt": "2026-07-28T23:17:00.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.838Z",
+    "rawDescription": "The president is learning that limits to his power—and, soon, his relevancy—do exist.",
+    "contentSnippet": "The president is learning that limits to his power—and, soon, his relevancy—do exist.",
+    "summaryZh": "基于标题/摘要生成：The president is learning that limits to his power—and，soon，his relevancy—do exist",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Crashes Into Reality Jonathan Lemire The president is learning that limits to his power—a"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Crashes Into Reality Jonathan Lemire The president is learning that limits to his power—a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "the-atlantic https://www.theatlantic.com/politics/",
+      "\"Republican Party\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9f0j6x",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Dems reject Trump’s top spy pick after demanding replacement, leaving counter-terror tool in air",
+    "chineseTitle": "Dems reject Trump’s top spy pick after demanding replacem…",
+    "originalUrl": "https://www.foxnews.com/politics/dems-reject-trumps-top-spy-pick-demanding-replacement",
+    "publishedAt": "2026-07-28T23:14:34.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.761Z",
+    "rawDescription": "Jay Clayton's party-line confirmation as DNI has yet to break the partisan logjam over Section 702 FISA reauthorization in the U.S. Senate.",
+    "contentSnippet": "Jay Clayton's party-line confirmation as DNI has yet to break the partisan logjam over Section 702 FISA reauthorization in the U.S. Senate.",
+    "summaryZh": "基于标题/摘要生成：Jay Clayton's party-line confirmation as DNI has yet to break the partisan logjam over Section 702 FISA reauthorization in the U.S. 参议院",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Dems reject Trump’s top spy pick after demanding replacement, leaving counter-terror tool in air Jay Clayt"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Dems reject Trump's top spy pick after demanding replacement, leaving counter-terror tool in air Jay Clayto"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "NI has yet to break the partisan logjam over Section 702 FISA reauthorization in the U.S. Senate. Jay Clayton's party-line confirmation as DNI has yet to break the partisan logjam over S"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_r5w1th",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Will End Subsidies for Medicare Drug Premiums",
+    "chineseTitle": "Trump Will End Subsidies for Medicare Drug Premiums",
+    "originalUrl": "https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html",
+    "publishedAt": "2026-07-28T23:12:12.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.794Z",
+    "rawDescription": "Millions of older Americans could pay more for their prescription drug coverage next year.",
+    "contentSnippet": "Millions of older Americans could pay more for their prescription drug coverage next year.",
+    "summaryZh": "基于标题/摘要生成：Millions of older Americans could pay more for their prescription drug coverage next year",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Will End Subsidies for Medicare Drug Premiums Rebecca Robbins and Reed Abelson Millions o"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Will End Subsidies for Medicare Drug Premiums Rebecca Robbins and Reed Abelson Millions o"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics",
+      "new-york-times-world https://www.nytimes.com/section/business"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mwwo3m",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A 7.1 magnitude quake hits Japan&#039;s southern Kyushu island killing at least 3",
+    "chineseTitle": "A 7.1 magnitude quake hits Japan&#039;s southern Kyushu i…",
+    "originalUrl": "https://thehill.com/policy/international/japan-earthquake-kyushu/",
+    "publishedAt": "2026-07-28T23:05:02.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.647Z",
+    "rawDescription": "TOKYO (AP) — A 7.1 magnitude earthquake shook Japan ’s southern main island of Kyushu on Tuesday, leaving several people dead and dozens of others injured or missing after part of a shopping center and a huge chimney at a paper factory collapsed, officials said. A tsunami advisory was issued but quickly lifted. At least...",
+    "contentSnippet": "TOKYO (AP) — A 7.1 magnitude earthquake shook Japan ’s southern main island of Kyushu on Tuesday, leaving several people dead and dozens of others injured or missing after part of a shopping center and a huge chimney at a paper factory collapsed, officials said. A tsunami advisory was issued but quickly lifted. At least...",
+    "summaryZh": "基于标题/摘要生成：TOKYO (AP) — A 7.1 magnitude earthquake shook Japan ’s southern main island of Kyushu on Tuesday，leaving several people dead and dozens of others inj…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_l2vmda",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Polls close in Georgia as voters decide successor in special election",
+    "chineseTitle": "Polls close in Georgia as voters decide successor in spec…",
+    "originalUrl": "https://www.foxnews.com/politics/polls-close-georgia-voters-decide-successor-special-election",
+    "publishedAt": "2026-07-28T23:00:41.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.762Z",
+    "rawDescription": "Gov. Larry Rhoden faces outsider Toby Doeden in South Dakota's first-ever gubernatorial runoff while Georgia Democrats vie to replace Rep. David Scott.",
+    "contentSnippet": "Gov. Larry Rhoden faces outsider Toby Doeden in South Dakota's first-ever gubernatorial runoff while Georgia Democrats vie to replace Rep. David Scott.",
+    "summaryZh": "基于标题/摘要生成：Gov. Larry Rhoden faces outsider Toby Doeden in South Dakota's first-ever gubernatorial runoff while Georgia 民主党人 vie to replace Rep. David Scott",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "aces outsider Toby Doeden in South Dakota's first-ever gubernatorial runoff while Georgia Democrats vie to replace Rep. David Scott. Gov. Larry Rhoden faces outsider Toby Doeden in South Da"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ahiw06",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iran launches missiles at U.S. base for first time since Trump paused strikes",
+    "chineseTitle": "Iran launches missiles at U.S. base for first time since…",
+    "originalUrl": "https://www.axios.com/2026/07/28/iran-missile-attack-us-base-jordan",
+    "publishedAt": "2026-07-28T22:32:01.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.584Z",
+    "rawDescription": "Iran launched multiple ballistic missiles toward a U.S. military base in Jordan on Tuesday in what U.S. Central Command described as an \"attempted surprise attack.\" All of the missiles were intercepted, CENTCOM said in a statement . Why it matters: This marks Iran's first ballistic missile attack against a U.S. base in the region since President Trump paused strikes against Iran on Friday to give diplomacy another chance. The attack threatens to unravel the fragile pause and could force Trump to decide whether to resume military action. What they're saying: Trump told Axios on Monday that the U.S. was in \"very deep talks\" with Iran but warned that he would return to \"very strong military action\" if diplomacy failed. \"Not much time,\" Trump said when asked how long he was willing to give th…",
+    "contentSnippet": "Iran launched multiple ballistic missiles toward a U.S. military base in Jordan on Tuesday in what U.S. Central Command described as an \"attempted surprise attack.\" All of the missiles were intercepted, CENTCOM said in a statement . Why it matters: This marks Iran's first ballistic missile attack against a U.S. base in the region since President Trump paused strikes against Iran on Friday to give diplomacy another chance. The attack threatens to unravel the fragile pause and could force Trump to decide whether to resume military action. What they're saying: Trump told Axios on Monday that the U.S. was in \"very deep talks\" with Iran but warned that he would return to \"very strong military action\" if diplomacy failed. \"Not much time,\" Trump said when asked how long he was willing to give th…",
+    "summaryZh": "基于标题/摘要生成：Iran launched multiple ballistic missiles toward a U.S. military base in Jordan on Tuesday in what U.S. Central Command described as an \"attempted su…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Iran launches missiles at U.S. base for first time since Trump paused strikes Barak Ravid Iran launched multiple ballistic missiles toward a U.S. milita"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Iran launches missiles at U.S. base for first time since Trump paused strikes Barak Ravid Iran launched multiple ballistic missiles toward a U.S. milita"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ib2p87",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Trump Administration Tells the Truth",
+    "chineseTitle": "The Trump Administration Tells the Truth",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/07/trump-administration-tells-truth-court-filing/688093/",
+    "publishedAt": "2026-07-28T21:50:00.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.839Z",
+    "rawDescription": "A government lawyer admitted in a court filing that the administration withheld grants based on whom states had voted for.",
+    "contentSnippet": "A government lawyer admitted in a court filing that the administration withheld grants based on whom states had voted for.",
+    "summaryZh": "基于标题/摘要生成：A government lawyer admitted in a court filing that the administration withheld grants based on whom states had voted for",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Trump Administration Tells the Truth David A. Graham A government lawyer admitted in a court fi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Trump Administration Tells the Truth David A. Graham A government lawyer admitted in a court fi"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "The Trump Administration Tells the Truth David A. Graham A government lawyer admitted in a court filing that the a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_q7bex6",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scoop: Trump asks Supreme Court to overturn $83M judgment for E. Jean Carroll",
+    "chineseTitle": "Scoop：Trump asks Supreme Court to overturn $83M judgment…",
+    "originalUrl": "https://www.axios.com/2026/07/28/trump-appeal-defamation-sexual-assault",
+    "publishedAt": "2026-07-28T21:45:08.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.588Z",
+    "rawDescription": "President Trump 's lawyers are asking the U.S. Supreme Court to overturn the $83.3 million defamation judgment he was ordered to pay to E. Jean Carroll, Axios has learned. The judgment stemmed from Trump's 2019 statements in which he denied Carroll's claim that he'd sexually assaulted her in the 1990s and attacked her credibility, accusing her of making up the allegation. Driving the news: Trump's lawyers argue he's entitled to presidential immunity because he made the comments while he was serving as president in response to reporters' questions, which centered on his fitness for office. State of play: Trump's lawyers unsuccessfully appealed the $83.3 million judgment to the federal appeals court in the 2nd Circuit. Now, in their filing to the Supreme Court, the president's team is argui…",
+    "contentSnippet": "President Trump 's lawyers are asking the U.S. Supreme Court to overturn the $83.3 million defamation judgment he was ordered to pay to E. Jean Carroll, Axios has learned. The judgment stemmed from Trump's 2019 statements in which he denied Carroll's claim that he'd sexually assaulted her in the 1990s and attacked her credibility, accusing her of making up the allegation. Driving the news: Trump's lawyers argue he's entitled to presidential immunity because he made the comments while he was serving as president in response to reporters' questions, which centered on his fitness for office. State of play: Trump's lawyers unsuccessfully appealed the $83.3 million judgment to the federal appeals court in the 2nd Circuit. Now, in their filing to the Supreme Court, the president's team is argui…",
+    "summaryZh": "基于标题/摘要生成：President Trump 's lawyers are asking the U.S. Supreme Court to overturn the $83.3 million defamation judgment he was ordered to pay to E. Jean Carro…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Scoop: Trump asks Supreme Court to overturn $83M judgment for E. Jean Carroll Alex Isenstadt President"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Scoop: Trump asks Supreme Court to overturn $83M judgment for E. Jean Carroll Alex Isenstadt President"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios",
+      "Trump team"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Trump team\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hllw6u",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scandal Exposes Limits of China’s Scientific Rise",
+    "chineseTitle": "Scandal Exposes Limits of 中国’s Scientific Rise",
+    "originalUrl": "https://foreignpolicy.com/2026/07/28/china-gene-editing-trial-scandal-death-child-biotech-ethics/",
+    "publishedAt": "2026-07-28T20:54:27.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.821Z",
+    "rawDescription": "The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions.",
+    "contentSnippet": "The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions.",
+    "summaryZh": "基于标题/摘要生成：The death of a child during an experimental gene-editing trial renews questions about biotech ethics and ambitions",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1k0ind",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Americans support Netanyahu arrest by 22-point margin: Survey",
+    "chineseTitle": "Americans support Netanyahu arrest by 22-point margin：Sur…",
+    "originalUrl": "https://thehill.com/policy/international/5995104-americans-back-netanyahu-icc-arrest/",
+    "publishedAt": "2026-07-28T20:11:55.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.648Z",
+    "rawDescription": "Nearly half of Americans believer the U.S. should arrest Israeli Prime Minister Benjamin Netanyahu over his actions in Israel’s war in Gaza, according to a new poll from The Economist/YouGov. When asked if the U.S. should enforce an International Criminal Court (ICC) arrest warrant for Netanyahu, 49 percent of respondents in the poll said “yes,”...",
+    "contentSnippet": "Nearly half of Americans believer the U.S. should arrest Israeli Prime Minister Benjamin Netanyahu over his actions in Israel’s war in Gaza, according to a new poll from The Economist/YouGov. When asked if the U.S. should enforce an International Criminal Court (ICC) arrest warrant for Netanyahu, 49 percent of respondents in the poll said “yes,”...",
+    "summaryZh": "基于标题/摘要生成：Nearly half of Americans believer the U.S. should arrest Israeli Prime Minister Benjamin Netanyahu over his actions in Israel’s war in Gaza，according…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_zd902e",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Washington’s Reset With Serbia Is a Mistake",
+    "chineseTitle": "Washington’s Reset With Serbia Is a Mistake",
+    "originalUrl": "https://foreignpolicy.com/2026/07/28/washingtons-reset-serbia-mistake-vucic-autocracy/",
+    "publishedAt": "2026-07-28T20:00:32.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.822Z",
+    "rawDescription": "Trump is bolstering an aspiring autocrat’s political fortunes.",
+    "contentSnippet": "Trump is bolstering an aspiring autocrat’s political fortunes.",
+    "summaryZh": "基于标题/摘要生成：Trump is bolstering an aspiring autocrat’s political fortunes",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Washington’s Reset With Serbia Is a Mistake Jasmin Mujanović Trump is bolstering an aspiring autocrat’s political fortunes. Trump is bolstering an aspiring"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Washington's Reset With Serbia Is a Mistake Jasmin Mujanović Trump is bolstering an aspiring autocrat's political fortunes. Trump is bolstering an aspiring"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6w20yb",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump demands Senate stay in Washington to pass voting bill",
+    "chineseTitle": "Trump demands 参议院 stay in Washington to pass voting 法案",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1BZbVc0ZW9vdS0wbE11cTN2eFFIRzhlb3BQdTlwSjJVNDdvWFVETUtsZ3EwdDd0a0ZnR09VaHZsUFIwa2pmZEpyMnp0d3R3eDdqMnRwTXVkV0lSZUY1dGZKMG5zbVQwYm13a09vVmpmazRmVzRZdHo3ZWFGbVM1a1NkZ1FwbzFiSWZXbHdEQlJkUHNSMWk1UXVuSDh0cXFaektTZ24wSWE?oc=5",
+    "publishedAt": "2026-07-28T03:40:54.000Z",
+    "fetchedAt": "2026-07-29T00:01:01.573Z",
+    "rawDescription": "Trump demands Senate stay in Washington to pass voting bill The Washington Post",
+    "contentSnippet": "Trump demands Senate stay in Washington to pass voting bill The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump demands 参议院 stay in Washington to pass voting 法案 The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china",
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump demands Senate stay in Washington to pass voting bill Trump demands Senate stay in Washi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump demands Senate stay in Washington to pass voting bill Trump demands Senate stay in Washin"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Trump demands Senate stay in Washington to pass voting bill Trump demands Senate stay in Washington to pass vo"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "John Thune"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"John Thune\"",
+      "\"John Thune\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fxneqg",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘I've never lost:’ Rahm Emanuel makes his case for the White House",
+    "chineseTitle": "‘I've never lost：’ Rahm Emanuel makes his case for 白宫",
+    "originalUrl": "https://www.politico.com/video/2026/07/27/ive-never-lost-rahm-emanuel-makes-his-case-for-the-white-house-2123533",
+    "publishedAt": "2026-07-28T01:04:49.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.706Z",
+    "rawDescription": "‘I've never lost:’ Rahm Emanuel makes his case for the White House lead image",
+    "contentSnippet": "‘I've never lost:’ Rahm Emanuel makes his case for the White House lead image",
+    "summaryZh": "基于标题/摘要生成：‘I've never lost：’ Rahm Emanuel makes his case for 白宫 lead image",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "'I've never lost:' Rahm Emanuel makes his case for the White House 'I've never lost:' Rahm Emanuel makes his case for the White House lead image 'I've never"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3s09be",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Opinion | Marco Rubio wants to defend America — from largely imaginary threats",
+    "chineseTitle": "Opinion | Marco Rubio wants to defend America — from larg…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFpEQ0RuMXhEb1Z1T3JPcUZCUDdmc0daQ3NpS1NTcktjMkpVQ0VTc3ZsaGh3eHYzOEZyRDJOWUptNEFXTFJVNF9PS3hyTHFzNF9aLW9GMG84OXF1Q3JSWHVHS3RSZ0MtTEM0QXNnQ2tHWnZ1YWxtUW52Y3dVMDJmOVc4R2VqNnJkc3ZjUGk2VVQyZkJLX2hwN2thUzh1R0xiZnpNLTkwaUNYd0Vv?oc=5",
+    "publishedAt": "2026-07-27T17:15:00.000Z",
+    "fetchedAt": "2026-07-29T00:01:01.554Z",
+    "rawDescription": "Opinion | Marco Rubio wants to defend America — from largely imaginary threats The Washington Post",
+    "contentSnippet": "Opinion | Marco Rubio wants to defend America — from largely imaginary threats The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Opinion | Marco Rubio wants to defend America — from largely imaginary threats The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "Opinion | Marco Rubio wants to defend America — from largely imaginary threats Opinion | Marco Rubio wants to"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "Opinion | Marco Rubio wants to defend America — from largely imaginary threats Opinion | Marco Rubio wants to"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "Opinion | Marco Rubio wants to defend America — from largely imaginary threats Opinion | Marco Rubio wants to d"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Marco Rubio"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Marco Rubio\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rfl7ie",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "El-Sayed comes under fire for 'ogre on a pike' leaked comment",
+    "chineseTitle": "El-Sayed comes under fire for 'ogre on a pike' leaked com…",
+    "originalUrl": "https://www.politico.com/news/2026/07/27/el-sayed-backlash-leaked-comment-michigan-senate-01012659",
+    "publishedAt": "2026-07-27T15:28:45.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.708Z",
+    "rawDescription": "The Michigan Senate candidate saw immediate backlash from within his own party amid a tense primary that has divided progressives and moderate Democrats.",
+    "contentSnippet": "The Michigan Senate candidate saw immediate backlash from within his own party amid a tense primary that has divided progressives and moderate Democrats.",
+    "summaryZh": "基于标题/摘要生成：The Michigan 参议院 candidate saw immediate backlash from within his own party amid a tense primary that has divided progressives and moderate 民主党人",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "from within his own party amid a tense primary that has divided progressives and moderate Democrats. The Michigan Senate candidate saw immediate backlash from within his own party amid a te"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "l-Sayed comes under fire for 'ogre on a pike' leaked comment By Liz Crampton The Michigan Senate candidate saw immediate backlash from within his own party amid a tense primary that has"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qbx0hv",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Asia Learned to Live With “America First”",
+    "chineseTitle": "How Asia Learned to Live With “America First”",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/how-asia-learned-live-america-first",
+    "publishedAt": "2026-07-27T04:00:00.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.636Z",
+    "rawDescription": "Why allies in Asia Are willing to work with Trump.",
+    "contentSnippet": "Why allies in Asia Are willing to work with Trump.",
+    "summaryZh": "基于标题/摘要生成：Why allies in Asia Are willing to work with Trump",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Learned to Live With “America First” John Lee Why allies in Asia Are willing to work with Trump. Why allies in Asia Are willing to work with Trump."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Learned to Live With \"America First\" John Lee Why allies in Asia Are willing to work with Trump. Why allies in Asia Are willing to work with Trump."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/Asia/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ghavfb",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "America Still Has the Upper Hand Over China",
+    "chineseTitle": "America Still Has the Upper Hand Over 中国",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-china",
+    "publishedAt": "2026-07-24T04:00:00.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.637Z",
+    "rawDescription": "Washington can win if it works with allies.",
+    "contentSnippet": "Washington can win if it works with allies.",
+    "summaryZh": "基于标题/摘要生成：Washington can win if it works with allies",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_uzqz7u",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FOXZTMWZYb3hPcmQ3UDAtNkg2OF9GMmlXOHpPYVIxZGxHQXdHR3Z5M3RsaU5TWV9uTUxSWk5wV3MySTkwdm9LeWJidC1kLUhHeDcxYTV5dy1pWDNFUk16cXdRQV9wNTMxRXJJ?oc=5",
+    "publishedAt": "2026-07-23T12:43:46.000Z",
+    "fetchedAt": "2026-07-29T00:01:01.991Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2r6tz8",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52T3VTbWU5cElvbXhMNm93UFJaQ0lTemdhRWw0MGFTOW5GLVEzVnltR0Z1ZkxKYkNYbjZBel9yVTBWNHRWbklpRC1JcUltSlp0bHQ2T214cXRwcEtuMl8tUnVpQjlNRVViRWY4?oc=5",
+    "publishedAt": "2026-07-21T20:11:46.000Z",
+    "fetchedAt": "2026-07-29T00:01:01.990Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1olm4a",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China",
+    "chineseTitle": "Iran as 中国’s “Counter-Pivot”：The Strategic Implications o…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONy1adTNvODR2Vnhra24tWF9tbl9sOFJ1NFZpc0NHMi1qelB1VnhlcHpMUGJhMVpDZ3RLNjl3TFpIX3ZzajJSOXFSQTlVWDBZOFZCaTExUG9hS01mSEhzVTNWSzNHVVNNV3l5RXRpb0ZFRjRZWEFqYjllOHdaTTlEMzhTb2lPUjlsWl9tb3ZrTzZlX2owVU5aTnE1bGNDb25vR0RpMTFPR2ZDeEQ1THJVVU82T09KRGxZaVhzbHl1U0lWOG5yVW1tODhzNW5UejZfMGZucXM4dTJGamJfVjNuR05OcWZoMkFvSnhaWA?oc=5",
+    "publishedAt": "2026-06-18T21:31:05.000Z",
+    "fetchedAt": "2026-07-29T00:01:01.538Z",
+    "rawDescription": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "contentSnippet": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Iran as 中国’s “Counter-Pivot”：The Strategic Implications of Operation Epic Fury for America’s Competition with 中国 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "\": The Strategic Implications of Operation Epic Fury for America's Competition with China America First Policy Institute Iran as China's \"Counter-Pivot\": The Strategic Implications of Operation Epic Fury for Am"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-07-29T00:01:01.536Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "mmit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | Nation"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-07-29T00:00:45.651Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.907Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.908Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-07-29T00:00:45.650Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.782Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-07-29T00:00:41.780Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
