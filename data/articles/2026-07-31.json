@@ -1,0 +1,1729 @@
+[
+  {
+    "id": "art_abv53r",
+    "sourceName": "Fox News",
+    "sourceDomain": "radio.foxnews.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Ambassador Greer on Tariffs , USMCA & the Economy",
+    "chineseTitle": "Ambassador Greer on 关税，USMCA & the Economy",
+    "originalUrl": "https://radio.foxnews.com/2026/07/28/ambassador-greer-on-tariffs-usmca-the-economy/",
+    "publishedAt": "2026-07-31T00:06:51.469Z",
+    "fetchedAt": "2026-07-31T00:09:28.194Z",
+    "rawDescription": "",
+    "contentSnippet": "Ambassador Greer on Tariffs , USMCA & the Economy",
+    "summaryZh": "基于标题/摘要生成：Ambassador Greer on 关税，USMCA & the Economy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "domain:foxnews.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_erc2d8",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Patriots mailbag: Did Robert Kraft’s comments potentially harm contract negotiations with Christian Gonzalez?",
+    "chineseTitle": "Patriots mailbag：Did Robert Kraft’s comments potentially…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/30/sports/patriots-mailbag/",
+    "publishedAt": "2026-07-31T00:01:10.700Z",
+    "fetchedAt": "2026-07-31T00:05:49.067Z",
+    "rawDescription": "公开 sitemap 条目：Patriots mailbag: Did Robert Kraft’s comments potentially harm contract negotiations with Christian Gonzalez?",
+    "contentSnippet": "公开 sitemap 条目：Patriots mailbag: Did Robert Kraft’s comments potentially harm contract negotiations with Christian Gonzalez?",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Patriots mailbag：Did Robert Kraft’s comments potentially harm contract negotiations with Christian Gonzalez",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hp8caa",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Mamdani's 'this is only the beginning' announcement cracking down on food delivery tips sparks outrage",
+    "chineseTitle": "Mamdani's 'this is only the beginning' announcement crack…",
+    "originalUrl": "https://www.foxnews.com/politics/mamdani-this-is-only-the-beginning-announcement-cracking-down-food-delivery-tips-sparks-outrage",
+    "publishedAt": "2026-07-31T00:00:26.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.473Z",
+    "rawDescription": "New York City Mayor Zohran Mamdani faced viral backlash on Thursday over a post claiming responsibility for increasing food delivery service tips.",
+    "contentSnippet": "New York City Mayor Zohran Mamdani faced viral backlash on Thursday over a post claiming responsibility for increasing food delivery service tips.",
+    "summaryZh": "基于标题/摘要生成：New York City Mayor Zohran Mamdani faced viral backlash on Thursday over a post claiming responsibility for increasing food delivery service tips",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7zxior",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Claims Peace Board Has Plan for Gaza Disarmament",
+    "chineseTitle": "Trump Claims Peace Board Has Plan for Gaza Disarmament",
+    "originalUrl": "https://www.nytimes.com/2026/07/30/us/politics/trump-gaza-peace-board-hamas.html",
+    "publishedAt": "2026-07-30T23:57:42.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.506Z",
+    "rawDescription": "There was no immediate comment from Hamas or Israel, and officials gave few details on the plan.",
+    "contentSnippet": "There was no immediate comment from Hamas or Israel, and officials gave few details on the plan.",
+    "summaryZh": "基于标题/摘要生成：There was no immediate comment from Hamas or Israel，and officials gave few details on the plan",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Claims Peace Board Has Plan for Gaza Disarmament Katie Rogers There was no immediate comm"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Claims Peace Board Has Plan for Gaza Disarmament Katie Rogers There was no immediate comm"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g2fso9",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump says he may delay Todd Blanche’s attorney general nomination. Follow live updates.",
+    "chineseTitle": "Trump says he may delay Todd Blanche’s attorney general n…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/30/nation/trump-presidency-live-updates/",
+    "publishedAt": "2026-07-30T23:25:46.629Z",
+    "fetchedAt": "2026-07-31T00:05:49.070Z",
+    "rawDescription": "公开 sitemap 条目：Trump says he may delay Todd Blanche’s attorney general nomination. Follow live updates.",
+    "contentSnippet": "公开 sitemap 条目：Trump says he may delay Todd Blanche’s attorney general nomination. Follow live updates.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump says he may delay Todd Blanche’s attorney general nomination. Follow live updates",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump says he may delay Todd Blanche’s attorney general nomination. Follow live updates. 公开 si"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump says he may delay Todd Blanche's attorney general nomination. Follow live updates. 公开 sit"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kdg12q",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Zelensky Asked Trump for a Favor From Elon Musk",
+    "chineseTitle": "Zelensky Asked Trump for a Favor From Elon Musk",
+    "originalUrl": "https://www.theatlantic.com/national-security/2026/07/zelensky-asked-trump-for-a-favor-from-elon-musk/688122/",
+    "publishedAt": "2026-07-30T22:44:45.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.549Z",
+    "rawDescription": "Ukraine wants to start using Musk’s Starlink to target ballistic-missile launchers inside Russia.",
+    "contentSnippet": "Ukraine wants to start using Musk’s Starlink to target ballistic-missile launchers inside Russia.",
+    "summaryZh": "基于标题/摘要生成：Ukraine wants to start using Musk’s Starlink to target ballistic-missile launchers inside Russia",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Zelensky Asked Trump for a Favor From Elon Musk Ukraine wants to start using Musk’s Starlink to target ballis"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Zelensky Asked Trump for a Favor From Elon Musk Ukraine wants to start using Musk's Starlink to target ballist"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ophj5m",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Hamas agrees to complete disarmament under 'historic' Gaza agreement: Trump",
+    "chineseTitle": "Hamas agrees to complete disarmament under 'historic' Gaz…",
+    "originalUrl": "https://www.foxnews.com/politics/hamas-agrees-complete-disarmament-historic-gaza-agreement-trump",
+    "publishedAt": "2026-07-30T22:43:46.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.474Z",
+    "rawDescription": "President Donald Trump announced what he called a historic agreement to completely disarm Hamas and other armed groups in Gaza as part of a broader peace initiative.",
+    "contentSnippet": "President Donald Trump announced what he called a historic agreement to completely disarm Hamas and other armed groups in Gaza as part of a broader peace initiative.",
+    "summaryZh": "基于标题/摘要生成：President 特朗普 announced what he called a historic agreement to completely disarm Hamas and other armed groups in Gaza as part of a broader peace init…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Hamas agrees to complete disarmament under 'historic' Gaza agreement: Trump President Donald Trump announced what he called a historic agreement to completely disarm Hamas and other armed"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Hamas agrees to complete disarmament under 'historic' Gaza agreement: Trump President Donald Trump announced what he called a historic agreement to completely disar"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Hamas agrees to complete disarmament under 'historic' Gaza agreement: Trump President Donald Trump announced what he called a historic agreement to completely disarm Hamas and other armed"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1wk6zt",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump touts \"historic\" agreement to disarm Hamas, rebuild Gaza",
+    "chineseTitle": "Trump touts \"historic\" agreement to disarm Hamas，rebuild…",
+    "originalUrl": "https://www.axios.com/2026/07/30/hamas-weapons-gaza-deal-israel-board-peace",
+    "publishedAt": "2026-07-30T22:36:02.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.292Z",
+    "rawDescription": "The White House and President Trump's Board of Peace believe Hamas could sign an agreement in the coming days to disarm and demilitarize the Gaza Strip , four sources familiar with the matter tell Axios. Why it matters: A signed agreement would represent a dramatic breakthrough in implementing Trump's 20-point Gaza peace plan . Two U.S. officials said Hamas agreed to the terms of the deal, but Israeli officials and Western diplomats remain deeply skeptical that the group will follow through on its commitments. What they're saying: \" Today, the Board of Peace reached a HISTORIC agreement for the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza,\" Trump said on Truth Social Thursday evening. \"This is a monumental step toward lasting PEACE and SECURITY.\" Driving the news: The…",
+    "contentSnippet": "The White House and President Trump's Board of Peace believe Hamas could sign an agreement in the coming days to disarm and demilitarize the Gaza Strip , four sources familiar with the matter tell Axios. Why it matters: A signed agreement would represent a dramatic breakthrough in implementing Trump's 20-point Gaza peace plan . Two U.S. officials said Hamas agreed to the terms of the deal, but Israeli officials and Western diplomats remain deeply skeptical that the group will follow through on its commitments. What they're saying: \" Today, the Board of Peace reached a HISTORIC agreement for the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza,\" Trump said on Truth Social Thursday evening. \"This is a monumental step toward lasting PEACE and SECURITY.\" Driving the news: The…",
+    "summaryZh": "基于标题/摘要生成：白宫 and President Trump's Board of Peace believe Hamas could sign an agreement in the coming days to disarm and demilitarize the Gaza Strip，four sourc…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump touts \"historic\" agreement to disarm Hamas, rebuild Gaza Barak Ravid The White House and"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump touts \"historic\" agreement to disarm Hamas, rebuild Gaza Barak Ravid The White House and"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "for the COMPLETE DISARMAMENT of Hamas and all other armed groups in Gaza,\" Trump said on Truth Social Thursday evening. \"This is a monumental step toward lasting PEACE and SECURITY.\" Driving"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Trump touts \"historic\" agreement to disarm Hamas, rebuild Gaza Barak Ravid The White House and President Trump's Board of Peace believe Hamas could sign an agreement in the coming"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qxa96e",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Two More Appeals Courts Rule Against Trump’s Detention Policy",
+    "chineseTitle": "Two More Appeals Courts Rule Against Trump’s Detention 政策",
+    "originalUrl": "https://www.nytimes.com/2026/07/30/us/politics/appeals-courts-immigrant-detention-policy.html",
+    "publishedAt": "2026-07-30T22:22:50.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.507Z",
+    "rawDescription": "The rulings deepen a split across the judiciary, making it more likely that the Supreme Court will consider the legality of detaining undocumented immigrants indefinitely.",
+    "contentSnippet": "The rulings deepen a split across the judiciary, making it more likely that the Supreme Court will consider the legality of detaining undocumented immigrants indefinitely.",
+    "summaryZh": "基于标题/摘要生成：The rulings deepen a split across the judiciary，making it more likely that the Supreme Court will consider the legality of detaining undocumented imm…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Two More Appeals Courts Rule Against Trump’s Detention Policy Mattathias Schwartz The rulings deepen a split across the judiciary, m"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Two More Appeals Courts Rule Against Trump's Detention Policy Mattathias Schwartz The rulings deepen a split across the judiciary, m"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_62fuk5",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Tim Cook says Apple may charge for AI Siri",
+    "chineseTitle": "Tim Cook says Apple may charge for AI Siri",
+    "originalUrl": "https://www.axios.com/2026/07/30/tim-cook-apple-may-charge-for-ai-siri",
+    "publishedAt": "2026-07-30T22:10:43.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.296Z",
+    "rawDescription": "Apple hinted Thursday that heavy users of its revamped Siri may have to pay for access. Why it matters: It's the first time that Apple has confirmed it will charge for the new AI -powered voice assistant. What they're saying: In a conference call to discuss Apple's most recent quarterly earnings , CEO Tim Cook said Apple is still developing its plan to address the higher computing costs that will come with the improved voice assistant. \"We do believe there will be people that want to use it a lot, and so we will have some kind of upgrade possibilities on iCloud+,\" Cook said during a call to discuss Apple's most recent quarterly earnings . Apple has also said that users will need a paid iCloud subscription to take advantage of a new home security feature built into the next version of IOS.…",
+    "contentSnippet": "Apple hinted Thursday that heavy users of its revamped Siri may have to pay for access. Why it matters: It's the first time that Apple has confirmed it will charge for the new AI -powered voice assistant. What they're saying: In a conference call to discuss Apple's most recent quarterly earnings , CEO Tim Cook said Apple is still developing its plan to address the higher computing costs that will come with the improved voice assistant. \"We do believe there will be people that want to use it a lot, and so we will have some kind of upgrade possibilities on iCloud+,\" Cook said during a call to discuss Apple's most recent quarterly earnings . Apple has also said that users will need a paid iCloud subscription to take advantage of a new home security feature built into the next version of IOS.…",
+    "summaryZh": "基于标题/摘要生成：Apple hinted Thursday that heavy users of its revamped Siri may have to pay for access. Why it matters：It's the first time that Apple has confirmed i…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gzfwuo",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Return of ‘Move Fast and Break Things’",
+    "chineseTitle": "The Return of ‘Move Fast and Break Things’",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/07/ai-industry-keeps-breaking-internet/688124/",
+    "publishedAt": "2026-07-30T21:29:00.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.550Z",
+    "rawDescription": "The AI industry is getting sloppier.",
+    "contentSnippet": "The AI industry is getting sloppier.",
+    "summaryZh": "基于标题/摘要生成：The AI industry is getting sloppier",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_e4pfxb",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "NATO Says Russian Missile Violated Polish Airspace",
+    "chineseTitle": "NATO Says Russian Missile Violated Polish Airspace",
+    "originalUrl": "https://foreignpolicy.com/2026/07/30/poland-russia-missile-incursion-nato-ukraine-war-strikes/",
+    "publishedAt": "2026-07-30T20:49:36.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.537Z",
+    "rawDescription": "Secretary-General Mark Rutte warned that Moscow’s “reckless” actions risk spreading the Ukraine war.",
+    "contentSnippet": "Secretary-General Mark Rutte warned that Moscow’s “reckless” actions risk spreading the Ukraine war.",
+    "summaryZh": "基于标题/摘要生成：Secretary-General Mark Rutte warned that Moscow’s “reckless” actions risk spreading the Ukraine war",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tjw24q",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Markets whipsaw as Trump, Fed face new inflation risks",
+    "chineseTitle": "Markets whipsaw as Trump，Fed face new inflation risks",
+    "originalUrl": "https://thehill.com/business/6000693-fed-holds-rates-iran-war/",
+    "publishedAt": "2026-07-30T20:11:10.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.360Z",
+    "rawDescription": "Financial markets are uneasy as President Trump and Federal Reserve Chair Kevin Warsh face rising inflation risks driven by the war in Iran. Stocks and bond yields have whipsawed amid uncertainty over how the Fed will tackle higher energy prices and their impact on the broader economy. The stock market took heavy losses and...",
+    "contentSnippet": "Financial markets are uneasy as President Trump and Federal Reserve Chair Kevin Warsh face rising inflation risks driven by the war in Iran. Stocks and bond yields have whipsawed amid uncertainty over how the Fed will tackle higher energy prices and their impact on the broader economy. The stock market took heavy losses and...",
+    "summaryZh": "基于标题/摘要生成：Financial markets are uneasy as President Trump and Federal Reserve Chair Kevin Warsh face rising inflation risks driven by the war in Iran. Stocks a…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Markets whipsaw as Trump, Fed face new inflation risks Financial markets are uneasy as President Trump and Federa"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Markets whipsaw as Trump, Fed face new inflation risks Financial markets are uneasy as President Trump and Federal"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9bohxn",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iran threatens to &#039;punish the aggressor&#039; after US launches retaliatory strikes",
+    "chineseTitle": "Iran threatens to &#039;punish the aggressor&#039; after…",
+    "originalUrl": "https://thehill.com/policy/defense/6000550-iran-threatens-us-after-retaliatory-strikes/",
+    "publishedAt": "2026-07-30T19:15:53.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.362Z",
+    "rawDescription": "Iran on Thursday threatened to “punish” the United States following a “heavy wave of strikes” against Tehran overnight in retaliation against missile attacks on American forces in the Middle East. Iran's Revolutionary Guard said it “will punish the aggressor today,” extending the threat to Gulf nations helping Washington in the conflict, saying such countries would...",
+    "contentSnippet": "Iran on Thursday threatened to “punish” the United States following a “heavy wave of strikes” against Tehran overnight in retaliation against missile attacks on American forces in the Middle East. Iran's Revolutionary Guard said it “will punish the aggressor today,” extending the threat to Gulf nations helping Washington in the conflict, saying such countries would...",
+    "summaryZh": "基于标题/摘要生成：Iran on Thursday threatened to “punish” the United States following a “heavy wave of strikes” against Tehran overnight in retaliation against missile…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5qj5z5",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Mandela Barnes drops out of Wisconsin governor race",
+    "chineseTitle": "Mandela Barnes drops out of Wisconsin governor race",
+    "originalUrl": "https://www.politico.com/news/2026/07/30/mandela-barnes-wisconsin-governor-democrat-race-01017783",
+    "publishedAt": "2026-07-30T18:12:25.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.418Z",
+    "rawDescription": "Shortly after, the Milwaukee Journal Sentinel revealed it was investigating allegations that Barnes had leveraged his role within the state Democratic party to have sexual encounters with young women.",
+    "contentSnippet": "Shortly after, the Milwaukee Journal Sentinel revealed it was investigating allegations that Barnes had leveraged his role within the state Democratic party to have sexual encounters with young women.",
+    "summaryZh": "基于标题/摘要生成：Shortly after，the Milwaukee Journal Sentinel revealed it was investigating allegations that Barnes had leveraged his role within the state Democratic…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democratic Party",
+        "confidence": "high",
+        "contextSnippet": "aled it was investigating allegations that Barnes had leveraged his role within the state Democratic party to have sexual encounters with young women. Shortly after, the Milwaukee Journal Sentinel"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_v1eaf2",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Lindsey Graham’s Parting Gift to Ukraine",
+    "chineseTitle": "Lindsey Graham’s Parting Gift to Ukraine",
+    "originalUrl": "https://foreignpolicy.com/2026/07/30/lindsey-graham-russia-sanctions-bill-congress-ukraine/",
+    "publishedAt": "2026-07-30T18:05:30.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.538Z",
+    "rawDescription": "The late senator’s long-stalled Russia sanctions bill is on its way to becoming law.",
+    "contentSnippet": "The late senator’s long-stalled Russia sanctions bill is on its way to becoming law.",
+    "summaryZh": "基于标题/摘要生成：The late senator’s long-stalled Russia sanctions 法案 is on its way to becoming law",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g5dogs",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s claims of election interference in doubt after release of declassified intelligence",
+    "chineseTitle": "Trump’s claims of 选举 interference in doubt after release…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/",
+    "publishedAt": "2026-07-30T17:00:07.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.645Z",
+    "rawDescription": "Declassified evidence points to Beijing seeking personal data for espionage, not election interference.",
+    "contentSnippet": "Declassified evidence points to Beijing seeking personal data for espionage, not election interference.",
+    "summaryZh": "基于标题/摘要生成：Declassified evidence points to 北京 seeking personal data for espionage，not 选举 interference",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s claims of election interference in doubt after release of declassified intelligence Isa"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's claims of election interference in doubt after release of declassified intelligence Isa"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_91myub",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What to know about Republican lame ducks defying Trump over Blanche nomination",
+    "chineseTitle": "What to know about Republican lame ducks defying Trump ov…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/",
+    "publishedAt": "2026-07-30T15:16:07.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.645Z",
+    "rawDescription": "GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are leaving the Senate after this year.",
+    "contentSnippet": "GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are leaving the Senate after this year.",
+    "summaryZh": "基于标题/摘要生成：GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are leaving the 参议院 after this year",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "What to know about Republican lame ducks defying Trump over Blanche nomination Sammy Westfall GOP Sens. John Cornyn (Texas) and Thom Tillis (Nor"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "What to know about Republican lame ducks defying Trump over Blanche nomination Sammy Westfall GOP Sens. John Cornyn (Texas) and Thom Tillis (Nor"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "to know about Republican lame ducks defying Trump over Blanche nomination Sammy Westfall GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are leaving the Senate after t"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "y Westfall GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are leaving the Senate after this year. GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are leavi"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ixht3k",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Poll: Trump’s MAGA voters would stick by a candidate through the most serious of scandals",
+    "chineseTitle": "Poll：Trump’s MAGA voters would stick by a candidate throu…",
+    "originalUrl": "https://www.politico.com/news/2026/07/30/maga-trump-scandal-2026-elections-01013859",
+    "publishedAt": "2026-07-30T09:55:00.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.420Z",
+    "rawDescription": "Most of President Donald Trump’s MAGA base say they’d still vote for a GOP candidate when confronted with an array of scandals — more so than Republican voters writ large or Democrats.",
+    "contentSnippet": "Most of President Donald Trump’s MAGA base say they’d still vote for a GOP candidate when confronted with an array of scandals — more so than Republican voters writ large or Democrats.",
+    "summaryZh": "基于标题/摘要生成：Most of President 特朗普’s MAGA base say they’d still vote for a GOP candidate when confronted with an array of scandals — more so than Republican voter…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ick by a candidate through the most serious of scandals By Erin Doherty Most of President Donald Trump’s MAGA base say they’d still vote for a GOP candidate when confronted with an array of sc"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Poll: Trump’s MAGA voters would stick by a candidate through the most serious of scandals By Erin Doh"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ick by a candidate through the most serious of scandals By Erin Doherty Most of President Donald Trump's MAGA base say they'd still vote for a GOP candidate when confronted with an array of sc"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "when confronted with an array of scandals — more so than Republican voters writ large or Democrats. Most of President Donald Trump's MAGA base say they'd still vote for a GOP candidate whe"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "ls By Erin Doherty Most of President Donald Trump's MAGA base say they'd still vote for a GOP candidate when confronted with an array of scandals — more so than Republican voters writ"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Poll: Trump's MAGA voters would stick by a candidate through the most serious of scandals Poll: Trump"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ujc5ut",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Next Phase of China’s Minority Crackdown",
+    "chineseTitle": "The Next Phase of 中国’s Minority Crackdown",
+    "originalUrl": "https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown",
+    "publishedAt": "2026-07-30T04:00:00.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.348Z",
+    "rawDescription": "Forced assimilation is now the law.",
+    "contentSnippet": "Forced assimilation is now the law.",
+    "summaryZh": "基于标题/摘要生成：Forced assimilation is now the law",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_rnld8l",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "This Congress is one of the oldest yet. Most Americans think that’s a problem, a new CNN poll shows",
+    "chineseTitle": "This 美国国会 is one of the oldest yet. Most Americans think…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXVfb1pENmZEd21NMm9hSGVoSXJSU2tGVXBrUFpEdGxMRDl5NUJJSXd2ZG1YTW5uNGFoUUlMZGdfN29WM0txVTNjS0czQ19McU9mQjhsbFAxUXFfVURpck9ZYVZQTjJWWjZ3dHUyeTJGa2Rja255SXhkSEtJc1dtR01SNkpDaUppdEgw?oc=5",
+    "publishedAt": "2026-07-29T10:00:25.000Z",
+    "fetchedAt": "2026-07-31T00:06:05.563Z",
+    "rawDescription": "This Congress is one of the oldest yet. Most Americans think that’s a problem, a new CNN poll shows CNN",
+    "contentSnippet": "This Congress is one of the oldest yet. Most Americans think that’s a problem, a new CNN poll shows CNN",
+    "summaryZh": "基于标题/摘要生成：This 美国国会 is one of the oldest yet. Most Americans think that’s a problem，a new CNN poll shows CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "This Congress is one of the oldest yet. Most Americans think that's a problem, a new CNN poll shows Thi"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_neyr9o",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How to Reindustrialize America",
+    "chineseTitle": "How to Reindustrialize America",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/how-reindustrialize-america-jake-sullivan",
+    "publishedAt": "2026-07-29T04:00:00.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.348Z",
+    "rawDescription": "The case for a strategic investment fund.",
+    "contentSnippet": "The case for a strategic investment fund.",
+    "summaryZh": "基于标题/摘要生成：The case for a strategic investment fund",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Jake Sullivan",
+        "confidence": "high",
+        "contextSnippet": "How to Reindustrialize America Jake Sullivan The case for a strategic investment fund. The case for a strategic investment fund."
+      },
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "How to Reindustrialize America Jake Sullivan The case for a strategic investment fund. The case for a strategic investment fund."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Jake Sullivan",
+        "confidence": "high",
+        "contextSnippet": "How to Reindustrialize America Jake Sullivan The case for a strategic investment fund. The case for a strategic investment fund."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Jake Sullivan",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_66z6v3",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vaGxKOXJELWxpNmFYQ0pETkh3Szd5YnhrVWc2amdScklfN1lzMXNRcHhKTjc4a2FlZ3NwaG13MGVnZ0FnOWp4d0hsTm5KRGVfUXhGcjJrOVZBVmFmM0h4b3dOMHNhTGJFMnFn?oc=5",
+    "publishedAt": "2026-07-27T13:30:53.000Z",
+    "fetchedAt": "2026-07-31T00:06:05.954Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1olm4a",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China",
+    "chineseTitle": "Iran as 中国’s “Counter-Pivot”：The Strategic Implications o…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONy1adTNvODR2Vnhra24tWF9tbl9sOFJ1NFZpc0NHMi1qelB1VnhlcHpMUGJhMVpDZ3RLNjl3TFpIX3ZzajJSOXFSQTlVWDBZOFZCaTExUG9hS01mSEhzVTNWSzNHVVNNV3l5RXRpb0ZFRjRZWEFqYjllOHdaTTlEMzhTb2lPUjlsWl9tb3ZrTzZlX2owVU5aTnE1bGNDb25vR0RpMTFPR2ZDeEQ1THJVVU82T09KRGxZaVhzbHl1U0lWOG5yVW1tODhzNW5UejZfMGZucXM4dTJGamJfVjNuR05OcWZoMkFvSnhaWA?oc=5",
+    "publishedAt": "2026-06-18T21:31:05.000Z",
+    "fetchedAt": "2026-07-31T00:06:05.456Z",
+    "rawDescription": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "contentSnippet": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Iran as 中国’s “Counter-Pivot”：The Strategic Implications of Operation Epic Fury for America’s Competition with 中国 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "\": The Strategic Implications of Operation Epic Fury for America's Competition with China America First Policy Institute Iran as China's \"Counter-Pivot\": The Strategic Implications of Operation Epic Fury for Am"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_6akfga",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BMlktbTJWM2RaNlpVa3RFUkJCUlV3eGdVV3dLbDZFb2t6R19vdE9XdjlCWlJfbmhHUFNBN0xGVVQweHZld0JJVTVnQlBuOEd0dV9YMnMxYTNERkJlYmc1RVdOUmVnQk92MVY0?oc=5",
+    "publishedAt": "2026-05-26T16:58:03.000Z",
+    "fetchedAt": "2026-07-31T00:06:05.954Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-07-31T00:06:05.455Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "mmit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | Nation"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-07-31T00:05:49.022Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.618Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.619Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-07-31T00:05:49.021Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.495Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-07-31T00:05:46.493Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
