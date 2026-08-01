@@ -1,0 +1,1550 @@
+[
+  {
+    "id": "art_rm9t71",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
+    "chineseTitle": "Trump Backs Away From Deal to Let Ukraine Build Patriot M…",
+    "originalUrl": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
+    "publishedAt": "2026-07-31T23:31:50.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.203Z",
+    "rawDescription": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
+    "contentSnippet": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
+    "summaryZh": "基于标题/摘要生成：The president of Ukraine had warned that the country was running out of Patriot interceptors，the most reliable weapon it has to shoot down Russian ba…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles Chris Cameron The president of"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles Chris Cameron The president of"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-world https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_t3hgq",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump hails ‘unique’ Cabinet meeting at Camp David, a retreat with a history of high-stakes talks. Follow live updates.",
+    "chineseTitle": "Trump hails ‘unique’ Cabinet meeting at Camp David，a retr…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/31/nation/trump-presidency-live-updates/",
+    "publishedAt": "2026-07-31T23:21:01.654Z",
+    "fetchedAt": "2026-08-01T00:04:22.673Z",
+    "rawDescription": "公开 sitemap 条目：Trump hails ‘unique’ Cabinet meeting at Camp David, a retreat with a history of high-stakes talks. Follow live updates.",
+    "contentSnippet": "公开 sitemap 条目：Trump hails ‘unique’ Cabinet meeting at Camp David, a retreat with a history of high-stakes talks. Follow live updates.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump hails ‘unique’ Cabinet meeting at Camp David，a retreat with a history of high-stakes talks. Follow live updates",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump hails ‘unique’ Cabinet meeting at Camp David, a retreat with a history of high-stakes tal"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump hails 'unique' Cabinet meeting at Camp David, a retreat with a history of high-stakes tal"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1vh6u0",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Justice Department drops criminal case against ex-Olympian charged with damaging Reflecting Pool",
+    "chineseTitle": "Justice Department drops criminal case against ex-Olympia…",
+    "originalUrl": "https://www.bostonglobe.com/2026/07/31/nation/doj-reflecting-pool-olympian-charges-dropped/",
+    "publishedAt": "2026-07-31T23:13:47.194Z",
+    "fetchedAt": "2026-08-01T00:04:22.674Z",
+    "rawDescription": "公开 sitemap 条目：Justice Department drops criminal case against ex-Olympian charged with damaging Reflecting Pool",
+    "contentSnippet": "公开 sitemap 条目：Justice Department drops criminal case against ex-Olympian charged with damaging Reflecting Pool",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Justice Department drops criminal case against ex-Olympian charged with damaging Reflecting Pool",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rpr3wh",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan",
+    "chineseTitle": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan",
+    "originalUrl": "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html",
+    "publishedAt": "2026-07-31T23:05:17.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.204Z",
+    "rawDescription": "President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran.",
+    "contentSnippet": "President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran.",
+    "summaryZh": "基于标题/摘要生成：President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan Michael Crowley President Trump’s annou"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan Michael Crowley President Trump's annou"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mpig9v",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump considering strikes on Iranian energy targets within days",
+    "chineseTitle": "Trump considering strikes on Iranian energy targets withi…",
+    "originalUrl": "https://www.axios.com/2026/07/31/trump-iran-strikes-energy-infrastructure-war",
+    "publishedAt": "2026-07-31T22:51:17.000Z",
+    "fetchedAt": "2026-08-01T00:04:16.999Z",
+    "rawDescription": "President Trump is seriously considering launching attacks against energy targets in Iran in the next few days, but hasn't given final orders to do it, a U.S. official told Axios on Friday. Why it matters: A new U.S. bombing campaign in Iran against energy and infrastructure targets would be aimed at trying to get the Iranians to agree to the United States' terms in ongoing ceasefire negotiations. The strikes could also involve the Israeli military for the first time in many weeks, and such an escalation would likely lead to Iranian missile attacks on Israel. CBS News and the Wall Street Journal first reported about the potential strikes. What they're saying: At the start of Friday's Cabinet meeting, Trump alluded to the potential attack, saying: \"Well, we'll be hitting them very hard and…",
+    "contentSnippet": "President Trump is seriously considering launching attacks against energy targets in Iran in the next few days, but hasn't given final orders to do it, a U.S. official told Axios on Friday. Why it matters: A new U.S. bombing campaign in Iran against energy and infrastructure targets would be aimed at trying to get the Iranians to agree to the United States' terms in ongoing ceasefire negotiations. The strikes could also involve the Israeli military for the first time in many weeks, and such an escalation would likely lead to Iranian missile attacks on Israel. CBS News and the Wall Street Journal first reported about the potential strikes. What they're saying: At the start of Friday's Cabinet meeting, Trump alluded to the potential attack, saying: \"Well, we'll be hitting them very hard and…",
+    "summaryZh": "基于标题/摘要生成：President Trump is seriously considering launching attacks against energy targets in Iran in the next few days，but hasn't given final orders to do it…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump considering strikes on Iranian energy targets within days Barak Ravid President Trump is"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump considering strikes on Iranian energy targets within days Barak Ravid President Trump is"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_obylx1",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "ICE lodges detainer on Salvadoran national, 18, accused of 2 fatal shootings in Houston",
+    "chineseTitle": "ICE lodges detainer on Salvadoran national，18，accused of…",
+    "originalUrl": "https://www.foxnews.com/politics/ice-lodges-detainer-salvadoran-national-18-accused-2-fatal-shootings-houston",
+    "publishedAt": "2026-07-31T22:35:42.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.172Z",
+    "rawDescription": "ICE lodged an ice detainer against Jefferson Adonay Velasquez-Torres, who came here illegally from El Salvador in 2014 and is charged with two murders in Houston.",
+    "contentSnippet": "ICE lodged an ice detainer against Jefferson Adonay Velasquez-Torres, who came here illegally from El Salvador in 2014 and is charged with two murders in Houston.",
+    "summaryZh": "基于标题/摘要生成：ICE lodged an ice detainer against Jefferson Adonay Velasquez-Torres，who came here illegally from El Salvador in 2014 and is charged with two murders…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_m2ussa",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump warns Iran fighting isn't over as he vows US will 'win' as talks fade",
+    "chineseTitle": "Trump warns Iran fighting isn't over as he vows US will '…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-predicts-more-us-strikes-iran-vows-win",
+    "publishedAt": "2026-07-31T22:02:05.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.173Z",
+    "rawDescription": "Trump says Iran will \"peter out\" as U.S. strikes continue, but admits the five-month conflict could drag on as November midterm elections approach.",
+    "contentSnippet": "Trump says Iran will \"peter out\" as U.S. strikes continue, but admits the five-month conflict could drag on as November midterm elections approach.",
+    "summaryZh": "基于标题/摘要生成：Trump says Iran will \"peter out\" as U.S. strikes continue，but admits the five-month conflict could drag on as November midterm elections approach",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump warns Iran fighting isn't over as he vows US will 'win' as talks fade Trump says Iran wi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump warns Iran fighting isn't over as he vows US will 'win' as talks fade Trump says Iran wil"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/politics"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_591qm2",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Italy closes air and sea borders, suspends Schengen with Spain over Ceuta migrant crisis",
+    "chineseTitle": "Italy closes air and sea borders，suspends Schengen with S…",
+    "originalUrl": "https://thehill.com/policy/international/6003064-ceuta-migration-spain-morocco-italy/",
+    "publishedAt": "2026-07-31T21:16:44.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.063Z",
+    "rawDescription": "The Italian government on Friday imposed border checks with Spain in response to an influx of tens of thousands of migrants in the Spanish North African enclave of Ceuta. The move will impact flights and maritime transport and temporarily suspends Spain’s Schengen border-free rights, an agreement that allows citizens of European member states to move...",
+    "contentSnippet": "The Italian government on Friday imposed border checks with Spain in response to an influx of tens of thousands of migrants in the Spanish North African enclave of Ceuta. The move will impact flights and maritime transport and temporarily suspends Spain’s Schengen border-free rights, an agreement that allows citizens of European member states to move...",
+    "summaryZh": "基于标题/摘要生成：The Italian government on Friday imposed border checks with Spain in response to an influx of tens of thousands of migrants in the Spanish North Afri…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_v1iu8b",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump's comments reignite Blanche confirmation fight",
+    "chineseTitle": "Trump's comments reignite Blanche confirmation fight",
+    "originalUrl": "https://www.axios.com/2026/07/31/trump-blanche-doj-anti-weaponization-fund-dead",
+    "publishedAt": "2026-07-31T21:11:51.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.002Z",
+    "rawDescription": "The Trump administration is still pushing lawmakers to confirm acting Attorney General Todd Blanche , even as President Trump defends the \"anti-weaponization\" fund holding Blanche's confirmation hostage. The big picture: The \"anti-weaponization\" fund has been the red line for Sens. John Cornyn (R-Texas) and Thom Tillis (R-N.C.). The lawmakers have refused to vote for Blanche until the DOJ put into writing that aspects of the deal aren't moving forward . Trump said Friday the fund is dead, but he didn't seem happy about it. \"I wish it weren't [dead],\" Trump said of the fund. He added that he wanted to see people who \"were horribly treated, horribly abused\" by the government be compensated. Friction point: Tillis seemed to take issue with Trump defending the fund on Truth Social, retweeting…",
+    "contentSnippet": "The Trump administration is still pushing lawmakers to confirm acting Attorney General Todd Blanche , even as President Trump defends the \"anti-weaponization\" fund holding Blanche's confirmation hostage. The big picture: The \"anti-weaponization\" fund has been the red line for Sens. John Cornyn (R-Texas) and Thom Tillis (R-N.C.). The lawmakers have refused to vote for Blanche until the DOJ put into writing that aspects of the deal aren't moving forward . Trump said Friday the fund is dead, but he didn't seem happy about it. \"I wish it weren't [dead],\" Trump said of the fund. He added that he wanted to see people who \"were horribly treated, horribly abused\" by the government be compensated. Friction point: Tillis seemed to take issue with Trump defending the fund on Truth Social, retweeting…",
+    "summaryZh": "基于标题/摘要生成：The Trump administration is still pushing lawmakers to confirm acting Attorney General Todd Blanche，even as President Trump defends the \"anti-weaponi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump's comments reignite Blanche confirmation fight Avery Lotz The Trump administration is sti"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's comments reignite Blanche confirmation fight Avery Lotz The Trump administration is sti"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "compensated. Friction point: Tillis seemed to take issue with Trump defending the fund on Truth Social, retweeting… The Trump administration is still pushing lawmakers to confirm acting Attorn"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Trump's comments reignite Blanche confirmation fight Avery Lotz The Trump administration is still pushing lawmakers to confirm acting Attorney General Todd Blanche , even as Pres"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social",
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social",
+      "Trump team",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s3fmyu",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "France’s Wildfires Are Swallowing Its Politics",
+    "chineseTitle": "France’s Wildfires Are Swallowing Its Politics",
+    "originalUrl": "https://foreignpolicy.com/2026/07/31/france-wildfires-macron-politics-le-pen-melenchon/",
+    "publishedAt": "2026-07-31T20:59:25.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.235Z",
+    "rawDescription": "The country’s next presidential election is more ominous in the glow of its latest environmental disaster.",
+    "contentSnippet": "The country’s next presidential election is more ominous in the glow of its latest environmental disaster.",
+    "summaryZh": "基于标题/摘要生成：The country’s next presidential 选举 is more ominous in the glow of its latest environmental disaster",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_f95vj6",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Spain Records Unprecedented Migrant Crossing",
+    "chineseTitle": "Spain Records Unprecedented Migrant Crossing",
+    "originalUrl": "https://foreignpolicy.com/2026/07/31/spain-morocco-ceuta-migrant-crisis-schengen-area/",
+    "publishedAt": "2026-07-31T20:35:45.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.236Z",
+    "rawDescription": "Some 60,000 people from Morocco surged into the Spanish exclave of Ceuta.",
+    "contentSnippet": "Some 60,000 people from Morocco surged into the Spanish exclave of Ceuta.",
+    "summaryZh": "基于标题/摘要生成：Some 60，000 people from Morocco surged into the Spanish exclave of Ceuta",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_r2jm9s",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Incoherence of the Iran Hawks",
+    "chineseTitle": "The Incoherence of the Iran Hawks",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/07/trump-iran-war-strategy-military-remarks/688144/",
+    "publishedAt": "2026-07-31T20:23:01.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.253Z",
+    "rawDescription": "If bombing has limited, reversible effects, then it will have to continue indefinitely.",
+    "contentSnippet": "If bombing has limited, reversible effects, then it will have to continue indefinitely.",
+    "summaryZh": "基于标题/摘要生成：If bombing has limited，reversible effects，then it will have to continue indefinitely",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7lklpk",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump pooh-poohs Iran’s potential role in Minnesota water facility hacks",
+    "chineseTitle": "Trump pooh-poohs Iran’s potential role in Minnesota water…",
+    "originalUrl": "https://thehill.com/homenews/administration/6002858-trump-blames-minnesota-for-cyberattacks-iran/",
+    "publishedAt": "2026-07-31T19:42:30.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.065Z",
+    "rawDescription": "President Trump said Friday he doesn’t believe Iran was behind a cyberattack on Minnesota water systems and instead placed the blame on state officials for being “grossly incompetent.” His comments ran counter to reports that U.S. officials suspected Iranian involvement in the coordinated attack on 30 municipal water systems, according to a preliminary assessment shared...",
+    "contentSnippet": "President Trump said Friday he doesn’t believe Iran was behind a cyberattack on Minnesota water systems and instead placed the blame on state officials for being “grossly incompetent.” His comments ran counter to reports that U.S. officials suspected Iranian involvement in the coordinated attack on 30 municipal water systems, according to a preliminary assessment shared...",
+    "summaryZh": "基于标题/摘要生成：President Trump said Friday he doesn’t believe Iran was behind a cyberattack on Minnesota water systems and instead placed the blame on state officia…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump pooh-poohs Iran’s potential role in Minnesota water facility hacks Finya Swai President T"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump pooh-poohs Iran's potential role in Minnesota water facility hacks Finya Swai President T"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jlqoia",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Schengen’s Greatest Failure",
+    "chineseTitle": "Schengen’s Greatest Failure",
+    "originalUrl": "https://www.theatlantic.com/politics/2026/07/migration-splitting-europe-apart/688137/",
+    "publishedAt": "2026-07-31T19:21:29.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.254Z",
+    "rawDescription": "The Ceuta crisis is undermining an agreement designed to foster “solidarity.”",
+    "contentSnippet": "The Ceuta crisis is undermining an agreement designed to foster “solidarity.”",
+    "summaryZh": "基于标题/摘要生成：The Ceuta crisis is undermining an agreement designed to foster “solidarity.”",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "the-atlantic https://www.theatlantic.com/politics/",
+      "the-atlantic https://www.theatlantic.com/international/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_91myub",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump says he ended their careers. Now these GOP lame ducks are defying him.",
+    "chineseTitle": "Trump says he ended their careers. Now these GOP lame duc…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/07/30/who-are-republican-lameduck-sens-thom-tillis-john-cornyn-defying-trump-over-blanche-nomination/",
+    "publishedAt": "2026-07-31T12:20:17.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.348Z",
+    "rawDescription": "GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are blocking Todd Blanche’s nomination to become attorney general.",
+    "contentSnippet": "GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are blocking Todd Blanche’s nomination to become attorney general.",
+    "summaryZh": "基于标题/摘要生成：GOP Sens. John Cornyn (Texas) and Thom Tillis (North Carolina) are blocking Todd Blanche’s nomination to become attorney general",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump says he ended their careers. Now these GOP lame ducks are defying him. Sammy Westfall GOP"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump says he ended their careers. Now these GOP lame ducks are defying him. Sammy Westfall GOP"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Trump says he ended their careers. Now these GOP lame ducks are defying him. Sammy Westfall GOP Sens. John Cornyn (Texas) and Thom Tillis"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kh2ol2",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The next abortion battle is over Kansas’s highest court",
+    "chineseTitle": "The next abortion battle is over Kansas’s highest court",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/07/31/next-abortion-battle-is-over-kansass-highest-court/",
+    "publishedAt": "2026-07-31T10:00:01.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.349Z",
+    "rawDescription": "Voters will decide whether to replace a nearly 70-year-old appointment system with direct elections that could reshape the state Supreme Court for decades.",
+    "contentSnippet": "Voters will decide whether to replace a nearly 70-year-old appointment system with direct elections that could reshape the state Supreme Court for decades.",
+    "summaryZh": "基于标题/摘要生成：Voters will decide whether to replace a nearly 70-year-old appointment system with direct elections that could reshape the state Supreme Court for de…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_m8v7z6",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The nation’s cartoonists on the week in politics",
+    "chineseTitle": "The nation’s cartoonists on the week in politics",
+    "originalUrl": "https://www.politico.com/gallery/2026/07/31/the-nations-cartoonists-on-the-week-in-politics-01018178",
+    "publishedAt": "2026-07-31T09:00:00.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.120Z",
+    "rawDescription": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "contentSnippet": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "summaryZh": "基于标题/摘要生成：Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles，memes…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4uyfe7",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Ambiguity Spiral in Iran",
+    "chineseTitle": "The Ambiguity Spiral in Iran",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/ambiguity-spiral-iran",
+    "publishedAt": "2026-07-31T04:00:00.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.050Z",
+    "rawDescription": "How Trump’s lack of clarity leads to escalation.",
+    "contentSnippet": "How Trump’s lack of clarity leads to escalation.",
+    "summaryZh": "基于标题/摘要生成：How Trump’s lack of clarity leads to escalation",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Ambiguity Spiral in Iran Erik Lin-Greenberg How Trump’s lack of clarity leads to escalation. How Trump’s lack of clarity leads to escalation."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Ambiguity Spiral in Iran Erik Lin-Greenberg How Trump's lack of clarity leads to escalation. How Trump's lack of clarity leads to escalation."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ro6ctx",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "FCC chair Brendan Carr on Trump, free speech and his threats against broadcasters",
+    "chineseTitle": "FCC chair Brendan Carr on Trump，free speech and his threa…",
+    "originalUrl": "https://www.politico.com/video/2026/07/30/fcc-chair-brendan-carr-on-trump-free-speech-and-his-threats-against-broadcasters-2124559",
+    "publishedAt": "2026-07-31T03:59:00.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.121Z",
+    "rawDescription": "FCC chair Brendan Carr on Trump, free speech and his threats against broadcasters lead image",
+    "contentSnippet": "FCC chair Brendan Carr on Trump, free speech and his threats against broadcasters lead image",
+    "summaryZh": "基于标题/摘要生成：FCC chair Brendan Carr on Trump，free speech and his threats against broadcasters lead image",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "FCC chair Brendan Carr on Trump, free speech and his threats against broadcasters FCC chair Brendan Carr on Trump, free"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "FCC chair Brendan Carr on Trump, free speech and his threats against broadcasters FCC chair Brendan Carr on Trump, free s"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ujc5ut",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Next Phase of China’s Minority Crackdown",
+    "chineseTitle": "The Next Phase of 中国’s Minority Crackdown",
+    "originalUrl": "https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown",
+    "publishedAt": "2026-07-30T04:00:00.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.052Z",
+    "rawDescription": "Forced assimilation is now the law.",
+    "contentSnippet": "Forced assimilation is now the law.",
+    "summaryZh": "基于标题/摘要生成：Forced assimilation is now the law",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_66z6v3",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vaGxKOXJELWxpNmFYQ0pETkh3Szd5YnhrVWc2amdScklfN1lzMXNRcHhKTjc4a2FlZ3NwaG13MGVnZ0FnOWp4d0hsTm5KRGVfUXhGcjJrOVZBVmFmM0h4b3dOMHNhTGJFMnFn?oc=5",
+    "publishedAt": "2026-07-27T13:30:53.000Z",
+    "fetchedAt": "2026-08-01T00:04:40.413Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1olm4a",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China",
+    "chineseTitle": "Iran as 中国’s “Counter-Pivot”：The Strategic Implications o…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONy1adTNvODR2Vnhra24tWF9tbl9sOFJ1NFZpc0NHMi1qelB1VnhlcHpMUGJhMVpDZ3RLNjl3TFpIX3ZzajJSOXFSQTlVWDBZOFZCaTExUG9hS01mSEhzVTNWSzNHVVNNV3l5RXRpb0ZFRjRZWEFqYjllOHdaTTlEMzhTb2lPUjlsWl9tb3ZrTzZlX2owVU5aTnE1bGNDb25vR0RpMTFPR2ZDeEQ1THJVVU82T09KRGxZaVhzbHl1U0lWOG5yVW1tODhzNW5UejZfMGZucXM4dTJGamJfVjNuR05OcWZoMkFvSnhaWA?oc=5",
+    "publishedAt": "2026-06-18T21:31:05.000Z",
+    "fetchedAt": "2026-08-01T00:04:39.929Z",
+    "rawDescription": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "contentSnippet": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Iran as 中国’s “Counter-Pivot”：The Strategic Implications of Operation Epic Fury for America’s Competition with 中国 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "\": The Strategic Implications of Operation Epic Fury for America's Competition with China America First Policy Institute Iran as China's \"Counter-Pivot\": The Strategic Implications of Operation Epic Fury for Am"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_6akfga",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BMlktbTJWM2RaNlpVa3RFUkJCUlV3eGdVV3dLbDZFb2t6R19vdE9XdjlCWlJfbmhHUFNBN0xGVVQweHZld0JJVTVnQlBuOEd0dV9YMnMxYTNERkJlYmc1RVdOUmVnQk92MVY0?oc=5",
+    "publishedAt": "2026-05-26T16:58:03.000Z",
+    "fetchedAt": "2026-08-01T00:04:40.414Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-08-01T00:04:39.928Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "mmit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | Nation"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-08-01T00:04:22.628Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.322Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.323Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-08-01T00:04:22.627Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.191Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-08-01T00:04:17.190Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
