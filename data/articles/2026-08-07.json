@@ -1,0 +1,1777 @@
+[
+  {
+    "id": "art_cv26yw",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Conservative firebrand who went viral with anti-CCP ad survives key primary",
+    "chineseTitle": "Conservative firebrand who went viral with anti-CCP ad su…",
+    "originalUrl": "https://www.foxnews.com/politics/conservative-firebrand-went-viral-anti-ccp-ad-survives-key-primary",
+    "publishedAt": "2026-08-07T01:35:02.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.642Z",
+    "rawDescription": "Marsha Blackburn defeated John Rose and Monty Fritts in the Tennessee GOP primary, positioning her as the likely next governor of the state.",
+    "contentSnippet": "Marsha Blackburn defeated John Rose and Monty Fritts in the Tennessee GOP primary, positioning her as the likely next governor of the state.",
+    "summaryZh": "基于标题/摘要生成：Marsha Blackburn defeated John Rose and Monty Fritts in the Tennessee GOP primary，positioning her as the likely next governor of the state",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "urvives key primary Marsha Blackburn defeated John Rose and Monty Fritts in the Tennessee GOP primary, positioning her as the likely next governor of the state. Marsha Blackburn defea"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_8kp6fn",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Judge Dismisses Former Olympian’s Felony Charge in Reflecting Pool Case",
+    "chineseTitle": "Judge Dismisses Former Olympian’s Felony Charge in Reflec…",
+    "originalUrl": "https://www.nytimes.com/2026/08/06/us/politics/reflecting-pool-david-hearn-trump.html",
+    "publishedAt": "2026-08-07T01:31:40.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.676Z",
+    "rawDescription": "The move ends the criminal case for David Hearn, a former Olympic canoeist, after prosecutors acknowledged that the Trump administration’s claims of vandalism were false.",
+    "contentSnippet": "The move ends the criminal case for David Hearn, a former Olympic canoeist, after prosecutors acknowledged that the Trump administration’s claims of vandalism were false.",
+    "summaryZh": "基于标题/摘要生成：The move ends the criminal case for David Hearn，a former Olympic canoeist，after prosecutors acknowledged that the Trump administration’s claims of va…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "case for David Hearn, a former Olympic canoeist, after prosecutors acknowledged that the Trump administration’s claims of vandalism were false. The move ends the criminal case for Davi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "case for David Hearn, a former Olympic canoeist, after prosecutors acknowledged that the Trump administration's claims of vandalism were false. The move ends the criminal case for Davi"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "case for David Hearn, a former Olympic canoeist, after prosecutors acknowledged that the Trump administration's claims of vandalism were false. The move ends the criminal case for David Hearn, a form"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_n5hnh8",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "EXCLUSIVE: Oversight Project sues to block Maryland Democrats’ redistricting measure backed by Gov Moore",
+    "chineseTitle": "EXCLUSIVE：Oversight Project sues to block Maryland 民主党人’…",
+    "originalUrl": "https://www.foxnews.com/politics/oversight-project-sues-block-maryland-democrats-redistricting-measure-backed-gov-moore",
+    "publishedAt": "2026-08-07T01:23:04.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.644Z",
+    "rawDescription": "A redistricting lawsuit alleges Maryland officials missed mandatory deadlines for HB 2100 and used a last-minute clause to bypass certification rules.",
+    "contentSnippet": "A redistricting lawsuit alleges Maryland officials missed mandatory deadlines for HB 2100 and used a last-minute clause to bypass certification rules.",
+    "summaryZh": "基于标题/摘要生成：A redistricting lawsuit alleges Maryland officials missed mandatory deadlines for HB 2100 and used a last-minute clause to bypass certification rules",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "EXCLUSIVE: Oversight Project sues to block Maryland Democrats' redistricting measure backed by Gov Moore A redistricting lawsuit alleges Maryland offic"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rkwmxd",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’",
+    "chineseTitle": "Trump Signs Executive Orders Targeting Birthright Citizen…",
+    "originalUrl": "https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html",
+    "publishedAt": "2026-08-07T01:03:05.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.677Z",
+    "rawDescription": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
+    "contentSnippet": "The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.",
+    "summaryZh": "基于标题/摘要生成：The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’ Maggie Haberm"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Signs Executive Orders Targeting Birthright Citizenship and 'Birth Tourism' Maggie Haberm"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3w2u4v",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump signs pair of executive orders he says limit birthright citizenship. See how the day unfolded.",
+    "chineseTitle": "Trump signs pair of executive orders he says limit birthr…",
+    "originalUrl": "https://www.bostonglobe.com/2026/08/06/nation/trump-presidency-live-updates/",
+    "publishedAt": "2026-08-07T01:02:19.040Z",
+    "fetchedAt": "2026-08-07T01:42:55.619Z",
+    "rawDescription": "公开 sitemap 条目：Trump signs pair of executive orders he says limit birthright citizenship. See how the day unfolded.",
+    "contentSnippet": "公开 sitemap 条目：Trump signs pair of executive orders he says limit birthright citizenship. See how the day unfolded.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump signs pair of executive orders he says limit birthright citizenship. See how the day unfolded",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump signs pair of executive orders he says limit birthright citizenship. See how the day unfo"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump signs pair of executive orders he says limit birthright citizenship. See how the day unfo"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_22ocwa",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump again tries to restrict birthright citizenship after Supreme Court ruling",
+    "chineseTitle": "Trump again tries to restrict birthright citizenship afte…",
+    "originalUrl": "https://www.bostonglobe.com/2026/08/06/nation/trump-immigration-birthright-citizenship/",
+    "publishedAt": "2026-08-07T01:01:05.831Z",
+    "fetchedAt": "2026-08-07T01:42:55.620Z",
+    "rawDescription": "公开 sitemap 条目：Trump again tries to restrict birthright citizenship after Supreme Court ruling",
+    "contentSnippet": "公开 sitemap 条目：Trump again tries to restrict birthright citizenship after Supreme Court ruling",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump again tries to restrict birthright citizenship after Supreme Court ruling",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump again tries to restrict birthright citizenship after Supreme Court ruling 公开 sitemap 条目："
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump again tries to restrict birthright citizenship after Supreme Court ruling 公开 sitemap 条目：T"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dsz6bv",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Carney calls trade talks with US &#039;nasty&#039;",
+    "chineseTitle": "Carney calls 贸易 talks with US &#039;nasty&#039;",
+    "originalUrl": "https://thehill.com/policy/international/6015604-carney-canada-trump-trade-negotiations/",
+    "publishedAt": "2026-08-07T00:22:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.528Z",
+    "rawDescription": "Canadian Prime Minister Mark Carney said Thursday that the trade negotiations with the United States had turned “nasty” following remarks made by President Donald Trump about Canada and its leadership. “This is a tough negotiation,” Carney said in French. “You can say ‘nasty.’ But this is a question of Canadian jobs. It’s a question of...",
+    "contentSnippet": "Canadian Prime Minister Mark Carney said Thursday that the trade negotiations with the United States had turned “nasty” following remarks made by President Donald Trump about Canada and its leadership. “This is a tough negotiation,” Carney said in French. “You can say ‘nasty.’ But this is a question of Canadian jobs. It’s a question of...",
+    "summaryZh": "基于标题/摘要生成：Canadian Prime Minister Mark Carney said Thursday that the 贸易 negotiations with the United States had turned “nasty” following remarks made “This is…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "egotiations with the United States had turned “nasty” following remarks made by President Donald Trump about Canada and its leadership. “This is a tough negotiation,” Carney said in French. “Y"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ions with the United States had turned “nasty” following remarks made by President Donald Trump about Canada and its leadership. “This is a tough negotiation,” Carney said in French. “Y"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "egotiations with the United States had turned \"nasty\" following remarks made by President Donald Trump about Canada and its leadership. \"This is a tough negotiation,\" Carney said in French. \"Y"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_672vce",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why Max Miller is staying in (for now)",
+    "chineseTitle": "Why Max Miller is staying in (for now)",
+    "originalUrl": "https://www.axios.com/2026/08/06/max-miller-republicans-bernie-moreno-trump-ohio",
+    "publishedAt": "2026-08-06T23:41:18.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.465Z",
+    "rawDescription": "Denounced on social media and by fellow Republicans, Ohio Rep. Max Miller is telling allies he's not quitting for a simple reason: It would be tantamount to admitting he beat his ex-wife and their child, which he denies. Why it matters: The Washington summer scandal is a case study in whether Miller — one of Donald Trump's understudies — can successfully employ the president's playbook of never backing down and never quitting. Trump has publicly expressed sympathy for Miller but privately expressed doubts about his viability. The calls to resign have mounted, especially in the Senate, where Miller's ex-father-in-law, Ohio's Bernie Moreno , serves. Zoom in: Miller allies say his critics are underestimating his resolve and the intensely personal dynamics of the vicious battle with his ex, E…",
+    "contentSnippet": "Denounced on social media and by fellow Republicans, Ohio Rep. Max Miller is telling allies he's not quitting for a simple reason: It would be tantamount to admitting he beat his ex-wife and their child, which he denies. Why it matters: The Washington summer scandal is a case study in whether Miller — one of Donald Trump's understudies — can successfully employ the president's playbook of never backing down and never quitting. Trump has publicly expressed sympathy for Miller but privately expressed doubts about his viability. The calls to resign have mounted, especially in the Senate, where Miller's ex-father-in-law, Ohio's Bernie Moreno , serves. Zoom in: Miller allies say his critics are underestimating his resolve and the intensely personal dynamics of the vicious battle with his ex, E…",
+    "summaryZh": "基于标题/摘要生成：Denounced on social media and by fellow 共和党人，Ohio Rep. Max Miller is telling allies he's not quitting for a simple reason：It would be tantamount to a…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "斯蒂芬·米勒"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": ". Why it matters: The Washington summer scandal is a case study in whether Miller — one of Donald Trump's understudies — can successfully employ the president's playbook of never backing down"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "t matters: The Washington summer scandal is a case study in whether Miller — one of Donald Trump's understudies — can successfully employ the president's playbook of never backing down"
+      },
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Miller",
+        "confidence": "low",
+        "contextSnippet": "Max Miller Republicans Bernie Moreno Trump Ohio 公开 sitemap 条目：Max Miller Republicans Bernie Moreno"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Why it matters: The Washington summer scandal is a case study in whether Miller — one of Donald Trump's understudies — can successfully employ the president's playbook of never backing down a"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Why Max Miller is staying in (for now) Denounced on social media and by fellow Republicans, Ohio Rep. Max Miller is telling allies he's not quitting for a simple reason: It would b"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "expressed doubts about his viability. The calls to resign have mounted, especially in the Senate, where Miller's ex-father-in-law, Ohio's Bernie Moreno , serves. Zoom in: Miller allies s"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Max Miller Republicans Bernie Moreno Trump Ohio 公开 sitemap 条目：Max Miller Republicans Bernie Moreno Trump Ohio 公开 sitemap 条目：Max Mill"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2nddvl",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Inside the GOP's mad dash to recess finish line",
+    "chineseTitle": "Inside the GOP's mad dash to recess finish line",
+    "originalUrl": "https://www.axios.com/2026/08/06/senate-republicans-save-act-clarity-hemp-august-recess",
+    "publishedAt": "2026-08-06T23:40:38.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.469Z",
+    "rawDescription": "Senate Republicans are racing toward the August recess with a legislative to-do list worthy of a Joe Rogan podcast: crypto, college sports and hemp. Why it matters: They likely won't get to all of it, but the White House wants the Senate to get caught trying. First, senators want to get way ahead of any government shutdown fight. Just as important — an NIL rights bill, with ESPN's first College GameDay set for Sept. 5. \"I've kind of stacked these things: funding the government, the [Todd] Blanche nomination and the 74 nominations,\" Senate Majority Leader John Thune (R-S.D.) said Thursday on Fox News, previewing his agenda. Then come \"Russia sanctions, NIL, market structure,\" he added, rounding out a short list of issues that animate young men , who are the backbone of the MAGA coalition.…",
+    "contentSnippet": "Senate Republicans are racing toward the August recess with a legislative to-do list worthy of a Joe Rogan podcast: crypto, college sports and hemp. Why it matters: They likely won't get to all of it, but the White House wants the Senate to get caught trying. First, senators want to get way ahead of any government shutdown fight. Just as important — an NIL rights bill, with ESPN's first College GameDay set for Sept. 5. \"I've kind of stacked these things: funding the government, the [Todd] Blanche nomination and the 74 nominations,\" Senate Majority Leader John Thune (R-S.D.) said Thursday on Fox News, previewing his agenda. Then come \"Russia sanctions, NIL, market structure,\" he added, rounding out a short list of issues that animate young men , who are the backbone of the MAGA coalition.…",
+    "summaryZh": "基于标题/摘要生成：参议院 共和党人 are racing toward the August recess with a legislative to-do list worthy of a Joe Rogan podcast：crypto，college sports and hemp. Why it matte…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "约翰·图恩"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "john-thune",
+        "nameEn": "John Thune",
+        "nameZh": "约翰·图恩",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "John Thune",
+        "confidence": "high",
+        "contextSnippet": "government, the [Todd] Blanche nomination and the 74 nominations,\" Senate Majority Leader John Thune (R-S.D.) said Thursday on Fox News, previewing his agenda. Then come \"Russia sanctions,"
+      },
+      {
+        "personId": "john-thune",
+        "nameEn": "John Thune",
+        "nameZh": "约翰·图恩",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Thune",
+        "confidence": "low",
+        "contextSnippet": "rnment, the [Todd] Blanche nomination and the 74 nominations,\" Senate Majority Leader John Thune (R-S.D.) said Thursday on Fox News, previewing his agenda. Then come \"Russia sanctions,"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "john-thune",
+        "name": "John Thune",
+        "type": "person",
+        "matchedAlias": "John Thune",
+        "confidence": "high",
+        "contextSnippet": "government, the [Todd] Blanche nomination and the 74 nominations,\" Senate Majority Leader John Thune (R-S.D.) said Thursday on Fox News, previewing his agenda. Then come \"Russia sanctions, N"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Inside the GOP's mad dash to recess finish line Senate Republicans are racing toward the August recess with a legislative to-do list worthy of a Joe Rogan p"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "pto, college sports and hemp. Why it matters: They likely won't get to all of it, but the White House wants the Senate to get caught trying. First, senators want to get way ahead of any gover"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Inside the GOP's mad dash to recess finish line Senate Republicans are racing toward the August recess with a legislative to-do list worthy of a"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Inside the GOP's mad dash to recess finish line Inside the GOP's mad dash to recess finish line Axios In"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "John Thune",
+      "Republican Party",
+      "White House",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"John Thune\""
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k6uryn",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Is Asking the Private Sector to Save Him",
+    "chineseTitle": "Trump Is Asking the Private Sector to Save Him",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/08/trump-economy-private-sector-oil-inflation/688212/",
+    "publishedAt": "2026-08-06T22:51:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.723Z",
+    "rawDescription": "Piecemeal price cuts won’t solve the Iran war’s effects on inflation.",
+    "contentSnippet": "Piecemeal price cuts won’t solve the Iran war’s effects on inflation.",
+    "summaryZh": "基于标题/摘要生成：Piecemeal price cuts won’t solve the Iran war’s effects on inflation",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Is Asking the Private Sector to Save Him Will Gottsegen Piecemeal price cuts won’t solve"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Is Asking the Private Sector to Save Him Will Gottsegen Piecemeal price cuts won't solve"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uj3i7g",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump tries new tack against birthright citizenship after Supreme Court snub",
+    "chineseTitle": "Trump tries new tack against birthright citizenship after…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/08/06/trump-tries-new-route-restrict-birthright-citizenship-after-loss/",
+    "publishedAt": "2026-08-06T22:10:35.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.823Z",
+    "rawDescription": "The president signed executive orders that target children born to “alien enemies,” foreign lobbyists or tourists. The orders are certain to face legal challenges.",
+    "contentSnippet": "The president signed executive orders that target children born to “alien enemies,” foreign lobbyists or tourists. The orders are certain to face legal challenges.",
+    "summaryZh": "基于标题/摘要生成：The president signed executive orders that target children born to “alien enemies，” foreign lobbyists or tourists. The orders are certain to face leg…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump tries new tack against birthright citizenship after Supreme Court snub Isaac Arnsdorf, Ju"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump tries new tack against birthright citizenship after Supreme Court snub Isaac Arnsdorf, Ju"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2f8bf6",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "McConnell discharged from rehab center, will continue recovery at home",
+    "chineseTitle": "McConnell discharged from rehab center，will continue reco…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/08/06/sen-mcconnell-discharged-rehab-center-continuing-recovering-home/",
+    "publishedAt": "2026-08-06T21:50:26.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.824Z",
+    "rawDescription": "The Kentucky Republican has been absent from the Senate since he was hospitalized June 14 following a fall at home.",
+    "contentSnippet": "The Kentucky Republican has been absent from the Senate since he was hospitalized June 14 following a fall at home.",
+    "summaryZh": "基于标题/摘要生成：The Kentucky Republican has been absent from the 参议院 since he was hospitalized June 14 following a fall at home",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "ontinue recovery at home Theodoric Meyer The Kentucky Republican has been absent from the Senate since he was hospitalized June 14 following a fall at home. The Kentucky Republican has b"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qr5fpt",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Is Iran Winning the Battle Over the Strait of Hormuz?",
+    "chineseTitle": "Is Iran Winning the Battle Over the Strait of Hormuz",
+    "originalUrl": "https://foreignpolicy.com/2026/08/06/us-iran-reopen-strait-hormuz-deal-tolls-oman-trump-missiles/",
+    "publishedAt": "2026-08-06T21:22:55.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.706Z",
+    "rawDescription": "Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.",
+    "contentSnippet": "Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.",
+    "summaryZh": "基于标题/摘要生成：Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xcj5v9",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Everyone Is Missing About Ceuta",
+    "chineseTitle": "What Everyone Is Missing About Ceuta",
+    "originalUrl": "https://foreignpolicy.com/2026/08/06/ceuta-spain-morocco-migrants-history-africa-europe/",
+    "publishedAt": "2026-08-06T21:19:07.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.707Z",
+    "rawDescription": "The history of the disputed exclave should inform what Spain does next.",
+    "contentSnippet": "The history of the disputed exclave should inform what Spain does next.",
+    "summaryZh": "基于标题/摘要生成：The history of the disputed exclave should inform what Spain does next",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_119ubg",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Rubio targets Cuban military procurement with new sanctions",
+    "chineseTitle": "Rubio targets Cuban military procurement with new sanctio…",
+    "originalUrl": "https://thehill.com/policy/international/6014680-rubio-sanctions-cuban-entities/",
+    "publishedAt": "2026-08-06T19:25:08.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.530Z",
+    "rawDescription": "Secretary of State Marco Rubio on Thursday sanctioned five Cuban entities and eight individuals with ties to Havana’s military procurement as the Trump administration ramps up efforts to rearrange the country’s communist government system. “The Cuban Communist regime is a state sponsor of terrorism that spies on America, arms violent left-wing radicals, spreads poisonous Marxist...",
+    "contentSnippet": "Secretary of State Marco Rubio on Thursday sanctioned five Cuban entities and eight individuals with ties to Havana’s military procurement as the Trump administration ramps up efforts to rearrange the country’s communist government system. “The Cuban Communist regime is a state sponsor of terrorism that spies on America, arms violent left-wing radicals, spreads poisonous Marxist...",
+    "summaryZh": "基于标题/摘要生成：Secretary of State Marco Rubio on Thursday sanctioned five Cuban entities and eight individuals with ties to Havana’s military procurement as the Tru…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ve Cuban entities and eight individuals with ties to Havana’s military procurement as the Trump administration ramps up efforts to rearrange the country’s communist government system. “"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "targets Cuban military procurement with new sanctions Ashleigh Fields Secretary of State Marco Rubio on Thursday sanctioned five Cuban entities and eight individuals with ties to Havana’s mi"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "Rubio targets Cuban military procurement with new sanctions Ashleigh Fields Secretary of State"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "ve Cuban entities and eight individuals with ties to Havana's military procurement as the Trump administration ramps up efforts to rearrange the country's communist government system. \""
+      },
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "targets Cuban military procurement with new sanctions Ashleigh Fields Secretary of State Marco Rubio on Thursday sanctioned five Cuban entities and eight individuals with ties to Havana's mi"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "ve Cuban entities and eight individuals with ties to Havana's military procurement as the Trump administration ramps up efforts to rearrange the country's communist government system. \"The Cuban Commu"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Marco Rubio",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nsccq5",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The New Parent Trap",
+    "chineseTitle": "The New Parent Trap",
+    "originalUrl": "https://www.theatlantic.com/family/2026/08/summer-camp-connectivity-hovering-parents/688199/",
+    "publishedAt": "2026-08-06T15:15:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.726Z",
+    "rawDescription": "At summer camp, the kids may be far from home, but technology is keeping many moms and dads tethered to them—and anxious.",
+    "contentSnippet": "At summer camp, the kids may be far from home, but technology is keeping many moms and dads tethered to them—and anxious.",
+    "summaryZh": "基于标题/摘要生成：At summer camp，the kids may be far from home，but technology is keeping many moms and dads tethered to them—and anxious",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_i8qnu5",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Bobby Pulido is sick and tired of apologizing",
+    "chineseTitle": "Bobby Pulido is sick and tired of apologizing",
+    "originalUrl": "https://www.politico.com/news/2026/08/06/bobby-pulido-texas-controversies-01026390",
+    "publishedAt": "2026-08-06T09:55:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.584Z",
+    "rawDescription": "‘I hate to be explaining every single thing,’ said the Tejano singer and DCCC darling about controversial social media comments and his past work relationship with a sex offender.",
+    "contentSnippet": "‘I hate to be explaining every single thing,’ said the Tejano singer and DCCC darling about controversial social media comments and his past work relationship with a sex offender.",
+    "summaryZh": "基于标题/摘要生成：‘I hate to be explaining every single thing，’ said the Tejano singer and DCCC darling about controversial social media comments and his past work rel…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_p4rkuj",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why We Should Fight",
+    "chineseTitle": "Why We Should Fight",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/why-we-should-fight-kori-schake",
+    "publishedAt": "2026-08-06T04:00:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.516Z",
+    "rawDescription": "And where Trump went wrong.",
+    "contentSnippet": "And where Trump went wrong.",
+    "summaryZh": "基于标题/摘要生成：And where Trump went wrong",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Why We Should Fight Kori Schake And where Trump went wrong. And where Trump went wrong."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Why We Should Fight Kori Schake And where Trump went wrong. And where Trump went wrong."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2w13mk",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "America Must Let Go of the Middle East",
+    "chineseTitle": "America Must Let Go of the Middle East",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/america-must-let-go-middle-east",
+    "publishedAt": "2026-08-06T04:00:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.517Z",
+    "rawDescription": "The Failed Iran war should spur a long-overdue withdrawal.",
+    "contentSnippet": "The Failed Iran war should spur a long-overdue withdrawal.",
+    "summaryZh": "基于标题/摘要生成：The Failed Iran war should spur a long-overdue withdrawal",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1lhlo",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
+    "chineseTitle": "Dasha Burns presses Mike Johnson on the economy，Iran and…",
+    "originalUrl": "https://www.politico.com/video/2026/08/06/dasha-burns-presses-mike-johnson-on-the-economy-iran-and-trumps-agenda-2126613",
+    "publishedAt": "2026-08-06T04:00:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.586Z",
+    "rawDescription": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead image",
+    "contentSnippet": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead image",
+    "summaryZh": "基于标题/摘要生成：Dasha Burns presses Mike Johnson on the economy，Iran and Trump's agenda lead image",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "迈克·约翰逊"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead i"
+      },
+      {
+        "personId": "mike-johnson",
+        "nameEn": "Mike Johnson",
+        "nameZh": "迈克·约翰逊",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda Dasha Burns presses Mike Johnson on the economy,"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda lead im"
+      },
+      {
+        "entityId": "mike-johnson",
+        "name": "Mike Johnson",
+        "type": "person",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda Dasha Burns presses Mike Johnson on the economy,"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Mike Johnson",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6yzr0v",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUm1LUGhLQTRMM1p6QWpoU0pjenVvamw5bm9XV1dtU3QyWEp3OHdkNERucGNzZE9FTEZzQ0Y5UnZyc29GYmMzRU8ySUFiUWRTZXVQQ3pILXFtcWhqT2NaU3VTUTh4alVjNVdF?oc=5",
+    "publishedAt": "2026-08-02T02:22:26.000Z",
+    "fetchedAt": "2026-08-07T01:43:13.292Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7191w4",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IakRjVVpjNmxJSjJhVmYyeGNLSE9pdFZ0eVhfLTB4cEVxZFgyeGhQRUthR01JSlFtbWNwcWk4eS1fZ2wyZlVXWXlXd3FzUl9WU3o4S01mR01kTWRiRnlCOGVEUFoyN1RValZF?oc=5",
+    "publishedAt": "2026-07-30T22:26:29.000Z",
+    "fetchedAt": "2026-08-07T01:43:13.291Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_56fa8r",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security",
+    "chineseTitle": "PRC’s devious ‘cognitive warfare’：Promote 中国 rule while u…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFdOX2R1bUptTElVNHpDS2pDVUF1OGhET29PSTMwSl9ORE5IcHVheHljME1fN2s1dGxkMHFFVUpyYU5GelBvMU8ya1kyU2ZpZ1RNTEpXSG1yeGdHdEhQSXp4QXgzSXVROXJWeUxVYXotR3NQaWFYMDcwSmwwdDVLbzlFNlRMcGI3QzhpSGFteDUxbTYwNWRSRjdQTEZnQkFlUGcwMnZnOU1aZjJBdUd3T3A5b2JQdE0?oc=5",
+    "publishedAt": "2026-07-06T15:26:13.000Z",
+    "fetchedAt": "2026-08-07T01:43:12.806Z",
+    "rawDescription": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "contentSnippet": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：PRC’s devious ‘cognitive warfare’：Promote 中国 rule while undermining 台湾 | Op-Ed | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "gnitive warfare': Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute PRC's devious 'cognitive warfare': Promote China rule while undermining Taiwan | Op-Ed |"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1olm4a",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China",
+    "chineseTitle": "Iran as 中国’s “Counter-Pivot”：The Strategic Implications o…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONy1adTNvODR2Vnhra24tWF9tbl9sOFJ1NFZpc0NHMi1qelB1VnhlcHpMUGJhMVpDZ3RLNjl3TFpIX3ZzajJSOXFSQTlVWDBZOFZCaTExUG9hS01mSEhzVTNWSzNHVVNNV3l5RXRpb0ZFRjRZWEFqYjllOHdaTTlEMzhTb2lPUjlsWl9tb3ZrTzZlX2owVU5aTnE1bGNDb25vR0RpMTFPR2ZDeEQ1THJVVU82T09KRGxZaVhzbHl1U0lWOG5yVW1tODhzNW5UejZfMGZucXM4dTJGamJfVjNuR05OcWZoMkFvSnhaWA?oc=5",
+    "publishedAt": "2026-06-18T07:00:00.000Z",
+    "fetchedAt": "2026-08-07T01:43:12.808Z",
+    "rawDescription": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "contentSnippet": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Iran as 中国’s “Counter-Pivot”：The Strategic Implications of Operation Epic Fury for America’s Competition with 中国 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "\": The Strategic Implications of Operation Epic Fury for America's Competition with China America First Policy Institute Iran as China's \"Counter-Pivot\": The Strategic Implications of Operation Epic Fury for Am"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:55.573Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.793Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.794Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-08-07T01:42:55.572Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.665Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-08-07T01:42:41.663Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
