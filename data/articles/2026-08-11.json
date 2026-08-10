@@ -1,0 +1,1719 @@
+[
+  {
+    "id": "art_hb00x5",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’",
+    "chineseTitle": "Trump Stokes Islamophobia ‘Jihadists’",
+    "originalUrl": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html",
+    "publishedAt": "2026-08-10T23:14:12.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.437Z",
+    "rawDescription": "Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”",
+    "contentSnippet": "Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying “they’re not smart.”",
+    "summaryZh": "基于标题/摘要生成：Along with his comments about Muslim candidates，Mr. Trump spoke disparagingly of Somalis in the United States，saying “they’re not smart.”",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Stokes Islamophobia by Calling Democratic Candidates ‘Jihadists’ Zolan Kanno-Youngs Along"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Stokes Islamophobia by Calling Democratic Candidates 'Jihadists' Zolan Kanno-Youngs Along"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_domxfv",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat",
+    "chineseTitle": "Contradicting public statements，Trump took secret flight…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ19xNGhGZ0JaLTNDVWtsdmQxLW1WU0xOeG5iLTJjZ1QxUDdrYWZGMGR6TnJycWF2SkRzRHFlYzM4c2didkgwZjYzY2RPcmJENjR0bDl0VFlaSDBDR2xNQ3NuVENTalV5ei10eGpmZzVrbDBzTUtCOTZBSjh5V1RBOFN1emNPaVpkYXQxWGgzZEsxdkoyNVNMSk5VRTI1VXY1VUhrQlVuNkVrMDNBRFJYd0dya3RMNnd6amdLdlQtQWk?oc=5",
+    "publishedAt": "2026-08-10T23:03:36.000Z",
+    "fetchedAt": "2026-08-10T23:38:52.467Z",
+    "rawDescription": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat The Washington Post",
+    "contentSnippet": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Contradicting public statements，Trump took secret flight from Turkey amid Iranian threat The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat Contradicting public statements, Trum"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat Contradicting public statements, Trump"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\"",
+      "\"White House\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8hlj2o",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Top Senate Dem’s new tax idea gets torched as critics warn nearly every American could pay",
+    "chineseTitle": "Top 参议院 Dem’s new tax idea gets torched as critics warn n…",
+    "originalUrl": "https://www.foxnews.com/politics/top-senate-dems-new-tax-idea-gets-torched-critics-warn-nearly-every-american-could-pay",
+    "publishedAt": "2026-08-10T23:00:59.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.414Z",
+    "rawDescription": "The top Democrat on the Senate Finance Committee proposed a gross receipts tax on data centers that critics call a national internet tax on all Americans.",
+    "contentSnippet": "The top Democrat on the Senate Finance Committee proposed a gross receipts tax on data centers that critics call a national internet tax on all Americans.",
+    "summaryZh": "基于标题/摘要生成：The top Democrat on the 参议院 Finance Committee proposed a gross receipts tax on data centers that critics call a national internet tax on all Americans",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Top Senate Dem's new tax idea gets torched as critics warn nearly every American could pay The top D"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_593bfq",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "A promising heart drug fails, challenging a long-held theory of disease",
+    "chineseTitle": "A promising heart drug fails，challenging a long-held theo…",
+    "originalUrl": "https://www.bostonglobe.com/2026/08/10/nation/heart-drug-fails-cardiology/",
+    "publishedAt": "2026-08-10T22:28:32.316Z",
+    "fetchedAt": "2026-08-10T23:38:34.830Z",
+    "rawDescription": "公开 sitemap 条目：A promising heart drug fails, challenging a long-held theory of disease",
+    "contentSnippet": "公开 sitemap 条目：A promising heart drug fails, challenging a long-held theory of disease",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：A promising heart drug fails，challenging a long-held theory of disease",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ifs4d8",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Sanders calls on AI companies to pause development to ‘avoid disaster’",
+    "chineseTitle": "Sanders calls on AI companies to pause development to ‘av…",
+    "originalUrl": "https://www.bostonglobe.com/2026/08/10/business/sanders-ai-companies-pause-development/",
+    "publishedAt": "2026-08-10T22:22:46.499Z",
+    "fetchedAt": "2026-08-10T23:38:34.831Z",
+    "rawDescription": "公开 sitemap 条目：Sanders calls on AI companies to pause development to ‘avoid disaster’",
+    "contentSnippet": "公开 sitemap 条目：Sanders calls on AI companies to pause development to ‘avoid disaster’",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Sanders calls on AI companies to pause development to ‘avoid disaster’",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wvibtq",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Food safety crisis deepens for Taylor Farms with salmonella outbreak",
+    "chineseTitle": "Food safety crisis deepens for Taylor Farms with salmonel…",
+    "originalUrl": "https://www.axios.com/2026/08/10/salmonella-outbreak-food-safety-taylor-farms",
+    "publishedAt": "2026-08-10T22:19:50.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.294Z",
+    "rawDescription": "Taylor Farms, a major produce supplier and producer of finished food products in North America, is engulfed in a food safety crisis that's ensnaring some of the biggest consumer brands in the U.S. Why it matters: The company — a critical supplier to stores like Walmart and Target and restaurants like Chipotle and Taco Bell — is connected to FDA investigations into multiple pathogens that have sickened thousands of people. Catch up quick: Taylor Farms is recalling finished food products containing jalapeños as the FDA said Monday that it's tracked 345 cases of salmonella — including 36 hospitalizations — stemming from an outbreak linked to jalapeños distributed by Coast Citrus Distributors. Taylor Farms said that as of Sunday it was not aware of any reported illnesses linked to its product…",
+    "contentSnippet": "Taylor Farms, a major produce supplier and producer of finished food products in North America, is engulfed in a food safety crisis that's ensnaring some of the biggest consumer brands in the U.S. Why it matters: The company — a critical supplier to stores like Walmart and Target and restaurants like Chipotle and Taco Bell — is connected to FDA investigations into multiple pathogens that have sickened thousands of people. Catch up quick: Taylor Farms is recalling finished food products containing jalapeños as the FDA said Monday that it's tracked 345 cases of salmonella — including 36 hospitalizations — stemming from an outbreak linked to jalapeños distributed by Coast Citrus Distributors. Taylor Farms said that as of Sunday it was not aware of any reported illnesses linked to its product…",
+    "summaryZh": "基于标题/摘要生成：Taylor Farms，a major produce supplier and producer of finished food products in North America，is engulfed in a food safety crisis that's ensnaring so…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kpy87u",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Congress' disappearing town halls",
+    "chineseTitle": "美国国会' disappearing town halls",
+    "originalUrl": "https://www.axios.com/2026/08/10/house-republicans-congress-town-halls",
+    "publishedAt": "2026-08-10T22:11:25.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.297Z",
+    "rawDescription": "The congressional town hall is becoming an endangered species. Why it matters: August recess once meant lawmakers returning home to face constituents — sometimes friendly, sometimes furious. After a wave of explosive confrontations last year, many lawmakers have stopped them altogether. Rep. Mike Flood (R-Neb.) is among the dwindling number of lawmakers who still regularly subject themselves to the traditional, open town hall. \"You've got to show up in the town square and answer the questions. I told people I'd do it when I ran, and I kept my promise,\" Flood told Axios. Flood holds three in-person town halls a year. He said his forums last year each drew about 750 people, while attendance this year has ranged from 235 to 315. Zoom in: Only 11 lawmakers have town halls scheduled for the re…",
+    "contentSnippet": "The congressional town hall is becoming an endangered species. Why it matters: August recess once meant lawmakers returning home to face constituents — sometimes friendly, sometimes furious. After a wave of explosive confrontations last year, many lawmakers have stopped them altogether. Rep. Mike Flood (R-Neb.) is among the dwindling number of lawmakers who still regularly subject themselves to the traditional, open town hall. \"You've got to show up in the town square and answer the questions. I told people I'd do it when I ran, and I kept my promise,\" Flood told Axios. Flood holds three in-person town halls a year. He said his forums last year each drew about 750 people, while attendance this year has ranged from 235 to 315. Zoom in: Only 11 lawmakers have town halls scheduled for the re…",
+    "summaryZh": "基于标题/摘要生成：The congressional town hall is becoming an endangered species. Why it matters：August recess once meant lawmakers returning home to face constituents…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Congress' disappearing town halls Kate Santaliz The congressional town hall is becoming an endange"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "House Republicans Congress Town Halls 公开 sitemap 条目：House Republicans Congress Town Halls 公开 sitemap 条目：Hou"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Axios",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "Congress"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8utkc5",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Fauci in the hot seat as GOP senator tears into 'truly sick' vaccine texts: 'Tip of the iceberg'",
+    "chineseTitle": "Fauci in the hot seat as GOP senator tears into 'truly si…",
+    "originalUrl": "https://www.foxnews.com/politics/fauci-hot-seat-gop-senator-tears-truly-sick-vaccine-texts-tip-iceberg",
+    "publishedAt": "2026-08-10T22:08:12.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.415Z",
+    "rawDescription": "Sen. Ron Johnson says Anthony Fauci's government phone texts reveal he privately feared mRNA vaccines could cause miscarriages in pregnant women.",
+    "contentSnippet": "Sen. Ron Johnson says Anthony Fauci's government phone texts reveal he privately feared mRNA vaccines could cause miscarriages in pregnant women.",
+    "summaryZh": "基于标题/摘要生成：Sen. Ron Johnson says Anthony Fauci's government phone texts reveal he privately feared mRNA vaccines could cause miscarriages in pregnant women",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Fauci in the hot seat as GOP senator tears into 'truly sick' vaccine texts: 'Tip of the iceberg' Sen. Ron Johnson says"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_zeysrp",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Wisconsin’s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End",
+    "chineseTitle": "Wisconsin’s Roller Coaster of a Democratic Primary Race f…",
+    "originalUrl": "https://www.nytimes.com/2026/08/10/us/politics/francesca-hong-wisconsin-democratic-primary.html",
+    "publishedAt": "2026-08-10T21:44:28.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.438Z",
+    "rawDescription": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
+    "contentSnippet": "Democrats appear likely to nominate a democratic socialist for governor. How did they get here?",
+    "summaryZh": "基于标题/摘要生成：民主党人 appear likely to nominate a democratic socialist for governor. How did they get here",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "s Roller Coaster of a Democratic Primary Race for Governor Crashes to an End Jess Bidgood Democrats appear likely to nominate a democratic socialist for governor. How did they get here? Dem"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z9w2q8",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "White House officials tamped down efforts to oust Max Miller in final days",
+    "chineseTitle": "White 众议院 officials tamped down efforts to oust Max Mille…",
+    "originalUrl": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353",
+    "publishedAt": "2026-08-10T20:05:33.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.380Z",
+    "rawDescription": "Ohio Republicans now have no choice but to rally behind a candidate many GOP insiders warn could cost the party a traditionally safe seat this November.",
+    "contentSnippet": "Ohio Republicans now have no choice but to rally behind a candidate many GOP insiders warn could cost the party a traditionally safe seat this November.",
+    "summaryZh": "基于标题/摘要生成：Ohio 共和党人 now have no choice but to rally behind a candidate many GOP insiders warn could cost the party a traditionally safe seat this November",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "斯蒂芬·米勒"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Miller",
+        "confidence": "low",
+        "contextSnippet": "White House officials tamped down efforts to oust Max Miller in final days By Meredith Lee Hill, Mia McCarthy and Erin Doherty Ohio Republicans now ha"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "to oust Max Miller in final days By Meredith Lee Hill, Mia McCarthy and Erin Doherty Ohio Republicans now have no choice but to rally behind a candidate many GOP insiders warn could cost the"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "White House officials tamped down efforts to oust Max Miller in final days By Meredith Lee Hill, Mia"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "White House",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "\"White House\"",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "site:politico.com White House China OR Taiwan OR Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6tgyj7",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Netanyahu Nixes Trump’s Gaza Deal",
+    "chineseTitle": "Netanyahu Nixes Trump’s Gaza Deal",
+    "originalUrl": "https://foreignpolicy.com/2026/08/10/netanyahu-israel-hamas-disarmament-deal-colombia-earthquake-china-typhoon/",
+    "publishedAt": "2026-08-10T19:14:40.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.459Z",
+    "rawDescription": "Another weekend with no resolution to the Middle East’s wars.",
+    "contentSnippet": "Another weekend with no resolution to the Middle East’s wars.",
+    "summaryZh": "基于标题/摘要生成：Another weekend with no resolution to the Middle East’s wars",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Netanyahu Nixes Trump’s Gaza Deal Eli Wizevich and Maxine Davey Another weekend with no resolution to the Middl"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Netanyahu Nixes Trump's Gaza Deal Eli Wizevich and Maxine Davey Another weekend with no resolution to the Middl"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2l7l4p",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Hindsight Is 2024",
+    "chineseTitle": "Hindsight Is 2024",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/08/people-bad-bet-maga-future-2024-election/688240/",
+    "publishedAt": "2026-08-10T19:07:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.467Z",
+    "rawDescription": "Some institutions jumped onto the MAGA bandwagon after the 2024 election, but it hasn’t taken long for those decisions to look shortsighted.",
+    "contentSnippet": "Some institutions jumped onto the MAGA bandwagon after the 2024 election, but it hasn’t taken long for those decisions to look shortsighted.",
+    "summaryZh": "基于标题/摘要生成：Some institutions jumped onto the MAGA bandwagon after the 2024 选举，but it hasn’t taken long for those decisions to look shortsighted",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uksbes",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent",
+    "chineseTitle": "'I'll never bow down'：Montana Democratic 参议院 nominee refu…",
+    "originalUrl": "https://www.politico.com/news/2026/08/10/montana-senate-bankhead-midterms-01031177",
+    "publishedAt": "2026-08-10T18:12:38.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.381Z",
+    "rawDescription": "Alani Bankhead said Monday she will not exit the race ahead of Monday’s deadline, likely boosting the GOP’s chances of winning in the fall.",
+    "contentSnippet": "Alani Bankhead said Monday she will not exit the race ahead of Monday’s deadline, likely boosting the GOP’s chances of winning in the fall.",
+    "summaryZh": "基于标题/摘要生成：Alani Bankhead said Monday she will not exit the race ahead of Monday’s deadline，likely boosting the GOP’s chances of winning in the fall",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "ad said Monday she will not exit the race ahead of Monday's deadline, likely boosting the GOP's chances of winning in the fall. Alani Bankhead said Monday she will not exit the race a"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent By Andrew Howard Alani Bankhead said Monday s"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress",
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Congress",
+      "Politico",
+      "Democratic Party"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "\"Democratic Party\""
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vlhz91",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Ukrainians Are Trying to Help a Traumatized Generation",
+    "chineseTitle": "Ukrainians Are Trying to Help a Traumatized Generation",
+    "originalUrl": "https://foreignpolicy.com/2026/08/10/russia-ukraine-youth-kidnap/",
+    "publishedAt": "2026-08-10T17:26:14.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.459Z",
+    "rawDescription": "From refugees to abducted children, Russia has wreaked havoc on young Ukrainians.",
+    "contentSnippet": "From refugees to abducted children, Russia has wreaked havoc on young Ukrainians.",
+    "summaryZh": "基于标题/摘要生成：From refugees to abducted children，Russia has wreaked havoc on young Ukrainians",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6sq4y7",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Never Trump, Still a Republican",
+    "chineseTitle": "Never Trump，Still a Republican",
+    "originalUrl": "https://www.theatlantic.com/podcasts/2026/08/ra-jeff-flake/688216/",
+    "publishedAt": "2026-08-10T16:00:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.468Z",
+    "rawDescription": "Why Jeff Flake still believes the spell over his party will break",
+    "contentSnippet": "Why Jeff Flake still believes the spell over his party will break",
+    "summaryZh": "基于标题/摘要生成：Why Jeff Flake still believes the spell over his party will break",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Never Trump, Still a Republican Adam Harris Why Jeff Flake still believes the spell over his party wi"
+      },
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "Never Trump, Still a Republican Adam Harris Why Jeff Flake still believes the spell over his party will break Why Jeff Flake still be"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Never Trump, Still a Republican Adam Harris Why Jeff Flake still believes the spell over his party wi"
+      },
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Harris",
+        "confidence": "medium",
+        "contextSnippet": "Never Trump, Still a Republican Adam Harris Why Jeff Flake still believes the spell over his party will break Why Jeff Flake still be"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Kamala Harris",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fq2t4v",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump says he&#039;s &#039;low-keying it&#039; on Iran: &#039;It will work out&#039;",
+    "chineseTitle": "Trump says he&#039;s &#039;low-keying it&#039; on Iran：&#…",
+    "originalUrl": "https://thehill.com/policy/defense/6019744-donald-trump-iran-war-strategy/",
+    "publishedAt": "2026-08-10T11:46:03.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.340Z",
+    "rawDescription": "President Trump said in a new interview he is “low-keying it” when it comes to the war with Iran as it nears its sixth month \"We are only semi-negotiating with them. We are just watching Iran with its huge inflation and the fact they have no money,” Trump told Axios on Sunday. The president also...",
+    "contentSnippet": "President Trump said in a new interview he is “low-keying it” when it comes to the war with Iran as it nears its sixth month \"We are only semi-negotiating with them. We are just watching Iran with its huge inflation and the fact they have no money,” Trump told Axios on Sunday. The president also...",
+    "summaryZh": "基于标题/摘要生成：President Trump said in a new interview he is “low-keying it” when it comes to the war with Iran as it nears its sixth month \"We are only semi-negoti…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump says he&#039;s &#039;low-keying it&#039; on Iran: &#039;It will work out&#039; Tara Suter"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump says he&#039;s &#039;low-keying it&#039; on Iran: &#039;It will work out&#039; Tara Suter"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_r8rmw1",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why China Worries About North Korea",
+    "chineseTitle": "Why 中国 Worries About North Korea",
+    "originalUrl": "https://www.foreignaffairs.com/china/why-china-worries-about-north-korea",
+    "publishedAt": "2026-08-10T04:00:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.332Z",
+    "rawDescription": "Beijing’s plans to manage an assertive Pyongyang.",
+    "contentSnippet": "Beijing’s plans to manage an assertive Pyongyang.",
+    "summaryZh": "基于标题/摘要生成：北京’s plans to manage an assertive Pyongyang",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_b7ykks",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Murphy says Israel&#039;s government ‘not aligned’ with US national security objectives",
+    "chineseTitle": "Murphy says Israel&#039;s government ‘not aligned’ with U…",
+    "originalUrl": "https://thehill.com/homenews/senate/6019377-murphy-israel-us-not-aligned/",
+    "publishedAt": "2026-08-09T20:41:27.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.341Z",
+    "rawDescription": "Sen. Chris Murphy (D-Conn.) on Sunday said Israel's government is “not aligned” with U.S. national security objectives, citing its actions in the Gaza Strip and discourse amid the war in Iran. “I want there to be a strong U.S.-Israel relationship. I support Israel. I cannot support this government's actions. They are not aligned with U.S....",
+    "contentSnippet": "Sen. Chris Murphy (D-Conn.) on Sunday said Israel's government is “not aligned” with U.S. national security objectives, citing its actions in the Gaza Strip and discourse amid the war in Iran. “I want there to be a strong U.S.-Israel relationship. I support Israel. I cannot support this government's actions. They are not aligned with U.S....",
+    "summaryZh": "基于标题/摘要生成：Sen. Chris Murphy (D-Conn.) on Sunday said Israel's government is “not aligned” with U.S. 国家安全 objectives，citing its actions in the Gaza Strip and di…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8b8l6x",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Kamala Harris jabs at Joe Biden’s old faith in a post-Trump ‘epiphany’ for Republicans | CNN Politics",
+    "chineseTitle": "哈里斯 jabs at 拜登’s old faith in a post-Trump ‘epiphany’ for…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1FMWGUtM2RUSHFpMVcyVVE0RmNpZVRxWUp4LVBXMUlic1drLU9lTWY5V3FrV1N0cTJDY01KQ0pIVk5sTzRDSjlmakJhMVRGMUc1X0Nmbm9TV1BTNjV3U2YxN2E1bG1zYzBudzY0OVY4cExWdGNxY2IwemNrejJ6Ti03Mm1EdTRxTXFyLQ?oc=5",
+    "publishedAt": "2026-08-07T12:10:42.000Z",
+    "fetchedAt": "2026-08-10T23:38:52.500Z",
+    "rawDescription": "Kamala Harris jabs at Joe Biden’s old faith in a post-Trump ‘epiphany’ for Republicans | CNN Politics CNN",
+    "contentSnippet": "Kamala Harris jabs at Joe Biden’s old faith in a post-Trump ‘epiphany’ for Republicans | CNN Politics CNN",
+    "summaryZh": "基于标题/摘要生成：哈里斯 jabs at 拜登’s old faith in a post-Trump ‘epiphany’ for 共和党人 | CNN Politics CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures",
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "乔·拜登",
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Kamala Harris jabs at Joe Biden’s old faith in a post-Trump ‘epiphany’ for Republicans | CNN Politics Kamala Harris jabs at Joe Biden’s old faith in"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "Kamala Harris jabs at Joe Biden’s old faith in a post-Trump ‘epiphany’ for Republicans | CNN Politics Kamala Harris jabs"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Kamala Harris jabs at Joe Biden’s old faith in a post-Trump ‘epiphany’ for Republicans | CNN Politics Kamala Harris jabs"
+      },
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Kamala Harris jabs at Joe Biden’s old faith in a post-Trump ‘epiphany’ for Republicans | CNN Politics"
+      },
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "Kamala Harris jabs at Joe Biden’s old faith in a post-Trump ‘epiphany’ for Republicans | CNN Politics"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Kamala Harris jabs at Joe Biden's old faith in a post-Trump 'epiphany' for Republicans | CNN Politics Kamala Harris jabs at Joe Biden's old faith in"
+      },
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "Kamala Harris jabs at Joe Biden's old faith in a post-Trump 'epiphany' for Republicans | CNN Politics Kamala Harris jabs"
+      },
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Kamala Harris jabs at Joe Biden's old faith in a post-Trump 'epiphany' for Republicans | CNN Politics K"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Kamala Harris jabs at Joe Biden's old faith in a post-Trump 'epiphany' for Republicans | CNN Politics Kamala Harris jabs at Joe Biden's old faith in a post-Trump 'epiphany' for"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Joe Biden",
+      "Kamala Harris",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Kamala Harris\""
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bzqidz",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China’s Legal Weapon",
+    "chineseTitle": "中国’s Legal Weapon",
+    "originalUrl": "https://www.foreignaffairs.com/china/chinas-legal-weapon",
+    "publishedAt": "2026-08-07T04:00:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.333Z",
+    "rawDescription": "Beijing’s quest to challenge America’s legal hegemony.",
+    "contentSnippet": "Beijing’s quest to challenge America’s legal hegemony.",
+    "summaryZh": "基于标题/摘要生成：北京’s quest to challenge America’s legal hegemony",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_hh9yv0",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump privately tells donors to back Vance while publicly keeping 2028 open",
+    "chineseTitle": "Trump privately tells donors to back Vance while publicly…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOblBNbkM4azBhT01wcFZDWHlYZXNfUUdzcXRHbld0akEySzRFN0tyTkZseW5vLUs5ZG9CS0h1djhfRnJETEJSZWdyajE1MUxJY1JXbTBHMTk1NE5WMUVjc0gxYjkzUVBwYkdjVVdrSldtX25PN3Y3MUxwZ2NKV013X2NHYk5mQmNLdnowS3M0M3lhdFdIUjRnRmxFQl9fQkU5VHZTTlBYQmszcjBB?oc=5",
+    "publishedAt": "2026-08-06T16:00:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:52.473Z",
+    "rawDescription": "Trump privately tells donors to back Vance while publicly keeping 2028 open The Washington Post",
+    "contentSnippet": "Trump privately tells donors to back Vance while publicly keeping 2028 open The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump privately tells donors to back Vance while publicly keeping 2028 open The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump privately tells donors to back Vance while publicly keeping 2028 open Trump privately te"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Trump privately tells donors to back Vance while publicly keeping 2028 open Trump privately tells donors to back Vance while public"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump privately tells donors to back Vance while publicly keeping 2028 open Trump privately tel"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "Vance",
+        "confidence": "medium",
+        "contextSnippet": "Trump privately tells donors to back Vance while publicly keeping 2028 open Trump privately tells donors to back Vance while publicl"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "Marco Rubio"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Marco Rubio\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_lrw1kn",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBra1J3TXprMHpUd2dfNEpjY0Fucjk1SEZaNGxUdDIyZV9qODhaaTFkanNwR3lfXzlsVG50RjctQTdLVHlWZlNyOGhOX3RzZTNMaXBiRmQ2NmVtbG9LOGRNX2k4cFRleTdNR3V2bHFFUWpSN1U?oc=5",
+    "publishedAt": "2026-08-03T18:44:57.000Z",
+    "fetchedAt": "2026-08-10T23:38:52.754Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_56fa8r",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security",
+    "chineseTitle": "PRC’s devious ‘cognitive warfare’：Promote 中国 rule while u…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFdOX2R1bUptTElVNHpDS2pDVUF1OGhET29PSTMwSl9ORE5IcHVheHljME1fN2s1dGxkMHFFVUpyYU5GelBvMU8ya1kyU2ZpZ1RNTEpXSG1yeGdHdEhQSXp4QXgzSXVROXJWeUxVYXotR3NQaWFYMDcwSmwwdDVLbzlFNlRMcGI3QzhpSGFteDUxbTYwNWRSRjdQTEZnQkFlUGcwMnZnOU1aZjJBdUd3T3A5b2JQdE0?oc=5",
+    "publishedAt": "2026-07-06T15:26:13.000Z",
+    "fetchedAt": "2026-08-10T23:38:52.461Z",
+    "rawDescription": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security americafirstpolicy.com",
+    "contentSnippet": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：PRC’s devious ‘cognitive warfare’：Promote 中国 rule while undermining 台湾 | Op-Ed | 国家安全 americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_6akfga",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BMlktbTJWM2RaNlpVa3RFUkJCUlV3eGdVV3dLbDZFb2t6R19vdE9XdjlCWlJfbmhHUFNBN0xGVVQweHZld0JJVTVnQlBuOEd0dV9YMnMxYTNERkJlYmc1RVdOUmVnQk92MVY0?oc=5",
+    "publishedAt": "2026-05-26T16:58:03.000Z",
+    "fetchedAt": "2026-08-10T23:38:52.754Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:52.462Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security americafirstpolicy.com",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:34.794Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.519Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.519Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-08-10T23:38:34.793Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.430Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-08-10T23:38:23.428Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
