@@ -1,0 +1,1714 @@
+[
+  {
+    "id": "art_3a76yy",
+    "sourceName": "Truth Social",
+    "sourceDomain": "economictimes.indiatimes.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "US court backs Trump power to close de minimi tariff exemption",
+    "chineseTitle": "US court backs Trump power to close de minimi 关税 exemption",
+    "originalUrl": "https://economictimes.indiatimes.com/news/international/global-trends/us-court-backs-trumps-power-to-close-de-minimis-tariff-exemption/articleshow/133226789.cms",
+    "publishedAt": "2026-08-14T23:29:31.253Z",
+    "fetchedAt": "2026-08-14T23:29:31.263Z",
+    "rawDescription": "",
+    "contentSnippet": "US court backs Trump power to close de minimi tariff exemption",
+    "summaryZh": "基于标题/摘要生成：US court backs Trump power to close de minimi 关税 exemption",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "US court backs Trump power to close de minimi tariff exemption US court backs Trump power to close de minimi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "US court backs Trump power to close de minimi tariff exemption US court backs Trump power to close de minimi t"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_h3e8ix",
+    "sourceName": "Truth Social",
+    "sourceDomain": "borsaitaliana.it",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Economia e finanza dai giornali united states - Borsa Italiana",
+    "chineseTitle": "Economia e finanza dai giornali united states - Borsa Ita…",
+    "originalUrl": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/economia-e-finanza-dai-giornali-usa-nRC_14082026_1327_293521602.html",
+    "publishedAt": "2026-08-14T23:29:31.253Z",
+    "fetchedAt": "2026-08-14T23:29:31.265Z",
+    "rawDescription": "",
+    "contentSnippet": "Economia e finanza dai giornali united states - Borsa Italiana",
+    "summaryZh": "基于标题/摘要生成：Economia e finanza dai giornali united states - Borsa Italiana",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_q8bkkj",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "PublicPageProvider",
+    "originalTitle": "Money, Power, Inequality",
+    "chineseTitle": "Money，Power，Inequality",
+    "originalUrl": "https://www.bostonglobe.com/metro/money-power-inequality/?p1=BGHeader_MainNav",
+    "publishedAt": "2026-08-14T23:25:21.900Z",
+    "fetchedAt": "2026-08-14T23:25:23.497Z",
+    "rawDescription": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "contentSnippet": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "summaryZh": "基于标题/摘要生成：Money，Power，Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"，",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/nation/",
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_lbyu5c",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump stumps in N.Y. suburbs, highlighting a dilemma for his party",
+    "chineseTitle": "Trump stumps in N.Y. suburbs，highlighting a dilemma for h…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/08/14/trump-stumps-ny-suburbs-highlighting-dilemma-his-party/",
+    "publishedAt": "2026-08-14T23:18:10.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.865Z",
+    "rawDescription": "The president can help rally his core supporters but remains deeply unpopular in many swing areas.",
+    "contentSnippet": "The president can help rally his core supporters but remains deeply unpopular in many swing areas.",
+    "summaryZh": "基于标题/摘要生成：The president can help rally his core supporters but remains deeply unpopular in many swing areas",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump stumps in N.Y. suburbs, highlighting a dilemma for his party Cat Zakrzewski, Natalie Alli"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump stumps in N.Y. suburbs, highlighting a dilemma for his party Cat Zakrzewski, Natalie Alli"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fqvi9v",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "El-Sayed’s half sister offered Oct 7 ‘blessing,’ one year after Hamas attack: ‘Allahu Akbar’",
+    "chineseTitle": "El-Sayed’s half sister offered Oct 7 ‘blessing，’ one year…",
+    "originalUrl": "https://www.foxnews.com/politics/el-sayeds-half-sister-offered-oct-7-blessing-one-year-after-hamas-attack-allahu-akbar",
+    "publishedAt": "2026-08-14T22:51:24.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.686Z",
+    "rawDescription": "Eman Abdelhadi delivered an \"October 7th blessing\" without mentioning those killed by Hamas as her brother, Abdul El-Sayed, campaigns in Michigan.",
+    "contentSnippet": "Eman Abdelhadi delivered an \"October 7th blessing\" without mentioning those killed by Hamas as her brother, Abdul El-Sayed, campaigns in Michigan.",
+    "summaryZh": "基于标题/摘要生成：Eman Abdelhadi delivered an \"October 7th blessing\" without mentioning those killed，Abdul El-Sayed，campaigns in Michigan",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4s2chf",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "From a small town in Maine, Heather Cox Richardson has built a following of millions. She still thinks America can be saved.",
+    "chineseTitle": "From a small town in Maine，Heather Cox Richardson has bui…",
+    "originalUrl": "https://www.bostonglobe.com/2026/08/11/magazine/heather-cox-richardson-youtube/",
+    "publishedAt": "2026-08-14T22:43:39.903Z",
+    "fetchedAt": "2026-08-14T23:25:21.500Z",
+    "rawDescription": "公开 sitemap 条目：From a small town in Maine, Heather Cox Richardson has built a following of millions. She still thinks America can be saved.",
+    "contentSnippet": "公开 sitemap 条目：From a small town in Maine, Heather Cox Richardson has built a following of millions. She still thinks America can be saved.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：From a small town in Maine，Heather Cox Richardson has built a following of millions. She still thinks America can be saved",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kx88yt",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
+    "chineseTitle": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.…",
+    "originalUrl": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
+    "publishedAt": "2026-08-14T22:35:07.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.722Z",
+    "rawDescription": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.",
+    "contentSnippet": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.",
+    "summaryZh": "基于标题/摘要生成：Diego Garcia，a tiny island 2，200 miles from the Gulf of Oman，took over as the Navy’s logistics hub after Iran damaged a base in Bahrain",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics",
+      "new-york-times-world https://www.nytimes.com/section/world/asia"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_i3g9mt",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx",
+    "chineseTitle": "Trump leaves stage mid-speech to embrace parents of 12-ye…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-leaves-stage-mid-speech-embrace-parents-12-year-old-killed-stray-bullet-bronx",
+    "publishedAt": "2026-08-14T22:19:30.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.687Z",
+    "rawDescription": "President Donald Trump left the stage mid-speech at the Nassau County Police Academy to embrace the parents of Jacob Freytes, a 12-year-old killed by a stray bullet.",
+    "contentSnippet": "President Donald Trump left the stage mid-speech at the Nassau County Police Academy to embrace the parents of Jacob Freytes, a 12-year-old killed by a stray bullet.",
+    "summaryZh": "基于标题/摘要生成：President 特朗普 left the stage mid-speech at the Nassau County Police Academy to embrace the parents of Jacob Freytes，a 12-year-old killed by a stray b…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "id-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx President Donald Trump left the stage mid-speech at the Nassau County Police Academy to embrace the parents of"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the B"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "id-speech to embrace parents of 12-year-old killed by stray bullet in the Bronx President Donald Trump left the stage mid-speech at the Nassau County Police Academy to embrace the parents of J"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump leaves stage mid-speech to embrace parents of 12-year-old killed by stray bullet in the B"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qu5jff",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "President Trump Takes Credit for Steep Crime Rate Declines",
+    "chineseTitle": "President Trump Takes Credit for Steep Crime Rate Declines",
+    "originalUrl": "https://www.nytimes.com/2026/08/14/us/politics/trump-fbi-crime-rate-declines.html",
+    "publishedAt": "2026-08-14T22:02:24.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.721Z",
+    "rawDescription": "Violent crime rates, including murder, have dropped precipitously. The trend began before the president’s current term.",
+    "contentSnippet": "Violent crime rates, including murder, have dropped precipitously. The trend began before the president’s current term.",
+    "summaryZh": "基于标题/摘要生成：Violent crime rates，including murder，have dropped precipitously. The trend began before the president’s current term",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "President Trump Takes Credit for Steep Crime Rate Declines Shaila Dewan and Karoun Demirjian Violent crim"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "President Trump Takes Credit for Steep Crime Rate Declines Shaila Dewan and Karoun Demirjian Violent crim"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u8b93u",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Bumble Hands the First Move Back to Men",
+    "chineseTitle": "Bumble Hands the First Move Back to Men",
+    "originalUrl": "https://www.theatlantic.com/family/2026/08/bumble-dating-app-men-message-first/688298/",
+    "publishedAt": "2026-08-14T21:30:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.766Z",
+    "rawDescription": "For most online daters, it won’t make a difference.",
+    "contentSnippet": "For most online daters, it won’t make a difference.",
+    "summaryZh": "基于标题/摘要生成：For most online daters，it won’t make a difference",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_za8j5n",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Eight Perfect Series Finales",
+    "chineseTitle": "Eight Perfect Series Finales",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/08/eight-perfect-tv-series-finales/688301/",
+    "publishedAt": "2026-08-14T20:52:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.767Z",
+    "rawDescription": "How a show ends determines how it’s remembered.",
+    "contentSnippet": "How a show ends determines how it’s remembered.",
+    "summaryZh": "基于标题/摘要生成：How a show ends determines how it’s remembered",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_78a70r",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+    "chineseTitle": "Trump shrugs off concerns about dismal conditions on USS…",
+    "originalUrl": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+    "publishedAt": "2026-08-14T20:19:31.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.502Z",
+    "rawDescription": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well…",
+    "contentSnippet": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for those onboard. Why it matters: The San Diego-based aircraft carrier has been deployed for nine months, and numerous reports have indicated that crew members' families are concerned about a lack of food and other basic supplies. At least one sailor has gone overboard , prompting the Navy to launch an investigation. The Military Times reported that other crew members have also tried to go overboard. What they're saying: Speaking to reporters Friday, Trump said he didn't think the ship had been deployed \"nearly long enough.\" He also disputed that the family members of the 5,000-plus crew were concerned about their well…",
+    "summaryZh": "基于标题/摘要生成：President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln，despite calls from lawmakers to investigate reports of…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln Donica Phifer Presiden"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln Donica Phifer Presiden"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Donald Trump\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3navsn",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Flurry of National Security Policies",
+    "chineseTitle": "Trump’s Flurry of 国家安全 Policies",
+    "originalUrl": "https://foreignpolicy.com/2026/08/14/trump-drone-tariffs-cyber-memo-zambia-election/",
+    "publishedAt": "2026-08-14T20:17:46.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.751Z",
+    "rawDescription": "The administration made moves on drones, cyberwarfare, and ship building.",
+    "contentSnippet": "The administration made moves on drones, cyberwarfare, and ship building.",
+    "summaryZh": "基于标题/摘要生成：The administration made moves on drones，cyberwarfare，and ship building",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Flurry of National Security Policies Eli Wizevich and Maxine Davey The administration m"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Flurry of National Security Policies Eli Wizevich and Maxine Davey The administration m"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5a4qkl",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "DeSantis says he doesn’t support Republican Rep. Cory Mills in Tuesday’s primary",
+    "chineseTitle": "DeSantis says he doesn’t support Republican Rep. Cory Mil…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/08/14/desantis-says-he-doesnt-support-republican-rep-cory-mills-tuesdays-primary/",
+    "publishedAt": "2026-08-14T19:53:56.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.866Z",
+    "rawDescription": "The congressman is running for a third term under a cloud of controversy.",
+    "contentSnippet": "The congressman is running for a third term under a cloud of controversy.",
+    "summaryZh": "基于标题/摘要生成：The congressman is running for a third term under a cloud of controversy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3ocmis",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Son of former Mexican president challenges Trump after visa revoked",
+    "chineseTitle": "Son of former Mexican president challenges Trump after vi…",
+    "originalUrl": "https://thehill.com/policy/international/6030501-mexican-president-son-trump-visa-challenge/",
+    "publishedAt": "2026-08-14T19:16:50.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.575Z",
+    "rawDescription": "Andrés Manuel López Beltrán — the son of former Mexican President Andrés Manuel López Obrador — said the U.S. has revoked his visa and accused President Trump’s top diplomats of politically targeting him. In a letter released Thursday and addressed to Trump, López Beltrán, also known as “Andy,” alleged Secretary of State Marco Rubio and...",
+    "contentSnippet": "Andrés Manuel López Beltrán — the son of former Mexican President Andrés Manuel López Obrador — said the U.S. has revoked his visa and accused President Trump’s top diplomats of politically targeting him. In a letter released Thursday and addressed to Trump, López Beltrán, also known as “Andy,” alleged Secretary of State Marco Rubio and...",
+    "summaryZh": "基于标题/摘要生成：Andrés Manuel López Beltrán — the son of former Mexican President Andrés Manuel López Obrador — said the U.S. has revoked his visa and accused Presid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Son of former Mexican president challenges Trump after visa revoked Finya Swai Andrés Manuel López Beltrán — the son of former Mexican Pre"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "y and addressed to Trump, López Beltrán, also known as “Andy,” alleged Secretary of State Marco Rubio and... Andrés Manuel López Beltrán — the son of former Mexican President Andrés Manuel Ló"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "addressed to Trump, López Beltrán, also known as “Andy,” alleged Secretary of State Marco Rubio and... Andrés Manuel López Beltrán — the son of former Mexican President Andrés Manuel Ló"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Son of former Mexican president challenges Trump after visa revoked Finya Swai Andrés Manuel López Beltrán — the son of former Mexican Pre"
+      },
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "y and addressed to Trump, López Beltrán, also known as \"Andy,\" alleged Secretary of State Marco Rubio and... Andrés Manuel López Beltrán — the son of former Mexican President Andrés Manuel Ló"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Marco Rubio",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ym15rs",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
+    "chineseTitle": "Luigi Mangione pleads guilty to stalking UnitedHealthcare…",
+    "originalUrl": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+    "publishedAt": "2026-08-14T19:15:57.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.505Z",
+    "rawDescription": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges — interstate stalking resulting in death and stalking through use of interstate facilities resulting in death — was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for t…",
+    "contentSnippet": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it matters: Mangione's lawyers are now using Friday's federal plea to request that all but one separate state charge be dismissed. They claimed double jeopardy, a legal protection that prevents a person from being charged twice for the same offense. Driving the news: Mangione's trial over the two federal charges — interstate stalking resulting in death and stalking through use of interstate facilities resulting in death — was scheduled for January 2027. He had previously pleaded not guilty. During Friday's hearing, Judge Margaret Garnett told Mangione he will still be required to serve up to 85% of his sentence for t…",
+    "summaryZh": "基于标题/摘要生成：Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thomp…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fsl3wg",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "AI Is Changing Military Morality",
+    "chineseTitle": "AI Is Changing Military Morality",
+    "originalUrl": "https://foreignpolicy.com/2026/08/14/ai-military-just-war/",
+    "publishedAt": "2026-08-14T18:30:51.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.754Z",
+    "rawDescription": "Just war theory was developed over centuries—and now must adapt to a new era of technology.",
+    "contentSnippet": "Just war theory was developed over centuries—and now must adapt to a new era of technology.",
+    "summaryZh": "基于标题/摘要生成：Just war theory was developed over centuries—and now must adapt to a new era of technology",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6f99k3",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "US missionary kidnapped in Niger is released after 9 months in captivity, his organization says",
+    "chineseTitle": "US missionary kidnapped in Niger is released after 9 mont…",
+    "originalUrl": "https://thehill.com/policy/international/us-missionary-kidnapped-in-niger-released-organization-says/",
+    "publishedAt": "2026-08-14T16:36:44.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.577Z",
+    "rawDescription": "NIAMEY, Niger (AP) — An American missionary who was kidnapped in Niger in October has been released, his organization said Friday. Kevin Rideout “is in good health in the care of U.S. officials,” SIM International, an Evangelical mission organization, said in a statement. He will soon be reunited with his extended family, the statement added....",
+    "contentSnippet": "NIAMEY, Niger (AP) — An American missionary who was kidnapped in Niger in October has been released, his organization said Friday. Kevin Rideout “is in good health in the care of U.S. officials,” SIM International, an Evangelical mission organization, said in a statement. He will soon be reunited with his extended family, the statement added....",
+    "summaryZh": "基于标题/摘要生成：NIAMEY，Niger (AP) — An American missionary who was kidnapped in Niger in October has been released，his organization said Friday. Kevin Rideout “is in…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_v1phq6",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The nation’s cartoonists on the week in politics",
+    "chineseTitle": "The nation’s cartoonists on the week in politics",
+    "originalUrl": "https://www.politico.com/gallery/2026/08/14/the-nations-cartoonists-on-the-week-in-politics-01037047",
+    "publishedAt": "2026-08-14T09:00:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.633Z",
+    "rawDescription": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "contentSnippet": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "summaryZh": "基于标题/摘要生成：Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles，memes…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yr079c",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Long Shadow of the Iran Shock",
+    "chineseTitle": "The Long Shadow of the Iran Shock",
+    "originalUrl": "https://www.foreignaffairs.com/iran/long-shadow-iran-shock",
+    "publishedAt": "2026-08-14T04:00:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.562Z",
+    "rawDescription": "Hormuz and the new geography of energy power.",
+    "contentSnippet": "Hormuz and the new geography of energy power.",
+    "summaryZh": "基于标题/摘要生成：Hormuz and the new geography of energy power",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "The Long Shadow of the Iran Shock Jason Bordoff, Meghan L. O’Sullivan Hormuz and the new geography of energy power. Hormuz and the new geography of energy powe"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "The Long Shadow of the Iran Shock Jason Bordoff, Meghan L. O'Sullivan Hormuz and the new geography of energy power. Hormuz and the new geography of energy powe"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Jake Sullivan",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_t1d4wz",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Alyssa Farah Griffin: ‘I think JD Vance is Socialist Curious’ | CNN Politics",
+    "chineseTitle": "Alyssa Farah Griffin：‘I think JD Vance is Socialist Curio…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEJza3FfY2JvWjBMSVEyamtIMW95cV9FNmE1d1Y3eFlSOHVtSWlNeU5hTlVuMmlXeDZVb25oQVdvdDd3bXFLbG9kM04yTHVGWEVJWmprd3d5eEhpakItbG9xSU5tUjFuUVhGQzJ0ZGNpYk1LNnpTWGtFM1prM05HUDNCbWIwUnlySzR4THdZZGtES3pmaEliVGhUaV93QWhmMkJLd2NDUjV3SGg3?oc=5",
+    "publishedAt": "2026-08-14T02:41:59.000Z",
+    "fetchedAt": "2026-08-14T23:25:38.123Z",
+    "rawDescription": "Alyssa Farah Griffin: ‘I think JD Vance is Socialist Curious’ | CNN Politics CNN",
+    "contentSnippet": "Alyssa Farah Griffin: ‘I think JD Vance is Socialist Curious’ | CNN Politics CNN",
+    "summaryZh": "基于标题/摘要生成：Alyssa Farah Griffin：‘I think JD Vance is Socialist Curious’ | CNN Politics CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "Alyssa Farah Griffin: ‘I think JD Vance is Socialist Curious’ | CNN Politics Alyssa Farah Griffin: ‘I think JD Vance is Socialis"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Alyssa Farah Griffin: ‘I think JD Vance is Socialist Curious’ | CNN Politics Alyssa Farah Griffin: ‘I think JD Vance is Socialis"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "Alyssa Farah Griffin: 'I think JD Vance is Socialist Curious' | CNN Politics Alyssa Farah Griffin: 'I think JD Vance is Socialist"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "JD Vance"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"JD Vance\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ciznz7",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
+    "chineseTitle": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractu…",
+    "originalUrl": "https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209",
+    "publishedAt": "2026-08-13T17:23:15.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.635Z",
+    "rawDescription": "In one of his first interviews since winning the Democratic gubernatorial nomination, David Crowley shares his plan to bring in Francesca Hong voters — but he won’t commit to campaigning with far left surrogates.",
+    "contentSnippet": "In one of his first interviews since winning the Democratic gubernatorial nomination, David Crowley shares his plan to bring in Francesca Hong voters — but he won’t commit to campaigning with far left surrogates.",
+    "summaryZh": "基于标题/摘要生成：In one of his first interviews since winning the Democratic gubernatorial nomination，David Crowley shares his plan to bring in Francesca Hong voters…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_upp9lp",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare?",
+    "chineseTitle": "Hackers used autonomous AI agents to attack 台湾. Is this t…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGhabVNsT21YczJDamo2cFNRTzlORTR3dTh3eGF6V2hjOGwya01HZkllS2ZIRlBobFJiYlJvdWM5ckVEVHFBZzY4VU9FNk9CNzh0UThxaF90S05ZU0JhRzd6cUp3aUoxTmJwUXp5UEllVFpBNmFwdDUwZmtkNmtVNEUtTmVrM3pFa3c?oc=5",
+    "publishedAt": "2026-08-13T08:05:44.000Z",
+    "fetchedAt": "2026-08-14T23:25:38.308Z",
+    "rawDescription": "Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare? CNN",
+    "contentSnippet": "Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare? CNN",
+    "summaryZh": "基于标题/摘要生成：Hackers used autonomous AI agents to attack 台湾. Is this the future of cyberwarfare? CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "issue"
+    ],
+    "matchedQueries": [
+      "China Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_oa8f53",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How to Broker Peace in Ukraine",
+    "chineseTitle": "How to Broker Peace in Ukraine",
+    "originalUrl": "https://www.foreignaffairs.com/ukraine/how-broker-peace-ukraine",
+    "publishedAt": "2026-08-13T04:00:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.564Z",
+    "rawDescription": "Decades of hard-won mediation experience point the way.",
+    "contentSnippet": "Decades of hard-won mediation experience point the way.",
+    "summaryZh": "基于标题/摘要生成：Decades of hard-won mediation experience point the way",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_56fa8r",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security",
+    "chineseTitle": "PRC’s devious ‘cognitive warfare’：Promote 中国 rule while u…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFdOX2R1bUptTElVNHpDS2pDVUF1OGhET29PSTMwSl9ORE5IcHVheHljME1fN2s1dGxkMHFFVUpyYU5GelBvMU8ya1kyU2ZpZ1RNTEpXSG1yeGdHdEhQSXp4QXgzSXVROXJWeUxVYXotR3NQaWFYMDcwSmwwdDVLbzlFNlRMcGI3QzhpSGFteDUxbTYwNWRSRjdQTEZnQkFlUGcwMnZnOU1aZjJBdUd3T3A5b2JQdE0?oc=5",
+    "publishedAt": "2026-07-06T15:26:13.000Z",
+    "fetchedAt": "2026-08-14T23:25:38.103Z",
+    "rawDescription": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "contentSnippet": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：PRC’s devious ‘cognitive warfare’：Promote 中国 rule while undermining 台湾 | Op-Ed | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "gnitive warfare': Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute PRC's devious 'cognitive warfare': Promote China rule while undermining Taiwan | Op-Ed |"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:38.104Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "mmit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | Nation"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_l6ze0d",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHdGZ0l5QV9NYUlFNVVNMDJsYTJiR2ZRX0g5eUJzLU15RmZUNEtxSjNhX3Blb0lTdjBkSllmbm02RnR2emRqQUNJQXd4SWZ2RUZiR3hZUGtkU1RvZmt5aTJhOUR5QXU5Ymg4aHppWldnZlhTN1dFNlJhd0wyQ0dzaWRUNEhCNzdId3c?oc=5",
+    "publishedAt": "2025-12-28T19:13:37.000Z",
+    "fetchedAt": "2026-08-14T23:25:38.584Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:21.456Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.839Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.840Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-08-14T23:25:21.455Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.709Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-08-14T23:25:16.707Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ky0cb",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUUtyTnV2Nm5EQUd1VnJ3RTN6czVoMzBYQ1NxUEhISmNiQ3RnUHZnYjFTMWp1bTlHVElOVl9wdmJsM3lfQ2VfWHU2VFVJODdVaFE?oc=5",
+    "publishedAt": "2022-05-17T16:17:39.000Z",
+    "fetchedAt": "2026-08-14T23:25:38.584Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
