@@ -1,0 +1,1463 @@
+[
+  {
+    "id": "art_8cu8wg",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump’s Freedom 250 Grand Prix goes out with a vrrroooom as race cars take over downtown D.C.",
+    "chineseTitle": "Trump’s Freedom 250 Grand Prix goes out with a vrrroooom…",
+    "originalUrl": "https://www.bostonglobe.com/2026/08/23/nation/trump-freedom-250-grand-prix-indycar/",
+    "publishedAt": "2026-08-23T23:15:53.976Z",
+    "fetchedAt": "2026-08-23T23:24:54.011Z",
+    "rawDescription": "公开 sitemap 条目：Trump’s Freedom 250 Grand Prix goes out with a vrrroooom as race cars take over downtown D.C.",
+    "contentSnippet": "公开 sitemap 条目：Trump’s Freedom 250 Grand Prix goes out with a vrrroooom as race cars take over downtown D.C.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump’s Freedom 250 Grand Prix goes out with a vrrroooom as race cars take over downtown D.C",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Freedom 250 Grand Prix goes out with a vrrroooom as race cars take over downtown D.C."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Freedom 250 Grand Prix goes out with a vrrroooom as race cars take over downtown D.C. 公"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ssjc04",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump says rejecting data centers is \"a mistake\"",
+    "chineseTitle": "Trump says rejecting data centers is \"a mistake\"",
+    "originalUrl": "https://www.axios.com/2026/08/23/trump-data-centers-michael-cohen-interview",
+    "publishedAt": "2026-08-23T23:15:35.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.406Z",
+    "rawDescription": "President Trump defended the expansion of data centers in an interview with his former fixer, Michael Cohen, that aired in full on Sunday. Why it matters: Trump's support comes as data centers face growing backlash in both red and blue states. What he's saying: Trump told Cohen during their interview that the U.S. was leading China in AI \"by a lot\" and that data centers were not taking power from the grid. \"They're making their own power plants. They're building the most beautiful, you've never seen power plants like this,\" Trump said during the interview that was recorded last week. \"Communities that don't take a data center, they're making a mistake\" because data centers create \"tremendous amounts of jobs and money,\" Trump added. Reality check: Some data centers are developing behind-th…",
+    "contentSnippet": "President Trump defended the expansion of data centers in an interview with his former fixer, Michael Cohen, that aired in full on Sunday. Why it matters: Trump's support comes as data centers face growing backlash in both red and blue states. What he's saying: Trump told Cohen during their interview that the U.S. was leading China in AI \"by a lot\" and that data centers were not taking power from the grid. \"They're making their own power plants. They're building the most beautiful, you've never seen power plants like this,\" Trump said during the interview that was recorded last week. \"Communities that don't take a data center, they're making a mistake\" because data centers create \"tremendous amounts of jobs and money,\" Trump added. Reality check: Some data centers are developing behind-th…",
+    "summaryZh": "基于标题/摘要生成：President Trump defended the expansion of data centers in an interview with his former fixer，Michael Cohen，that aired in full on Sunday. Why it matte…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump says rejecting data centers is \"a mistake\" Rebecca Falconer President Trump defended the"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump says rejecting data centers is \"a mistake\" Rebecca Falconer President Trump defended the"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_bgyxqk",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Secret White House bunker undercuts Trump’s ballroom lawsuit, ex-officials say",
+    "chineseTitle": "Secret White 众议院 bunker undercuts Trump’s ballroom lawsui…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/08/23/secret-white-house-bunker-undercuts-trumps-ballroom-lawsuit-ex-officials-say/",
+    "publishedAt": "2026-08-23T22:55:35.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.767Z",
+    "rawDescription": "The White House already has a nuclear-proof facility buried deep underground and built in secret after 9/11.",
+    "contentSnippet": "The White House already has a nuclear-proof facility buried deep underground and built in secret after 9/11.",
+    "summaryZh": "基于标题/摘要生成：白宫 already has a nuclear-proof facility buried deep underground and built in secret after 9，11",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Secret White House bunker undercuts Trump’s ballroom lawsuit, ex-officials say Noah Robertson, Dan Diamond The White House already"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Secret White House bunker undercuts Trump's ballroom lawsuit, ex-officials say Noah Robertson, Dan Diamond The White House already"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Secret White House bunker undercuts Trump's ballroom lawsuit, ex-officials say Noah Robertson, Dan Diamond T"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s0u1fe",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump and former fixer Michael Cohen make amends",
+    "chineseTitle": "Trump and former fixer Michael Cohen make amends",
+    "originalUrl": "https://www.axios.com/2026/08/23/trump-michael-cohen-radio-interview",
+    "publishedAt": "2026-08-23T22:29:10.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.409Z",
+    "rawDescription": "President Trump signaled that he's welcomed his former fixer, Michael Cohen, back into his good graces in a remarkably friendly interview that aired in full on Sunday. The big picture: The president and Cohen discussed a wide range of topics, including Trump's proposed ballroom, how the economy is doing during his second term and how so-called \"weaponization\" is destroying America. The interview is the first time Trump and Cohen have spoken publicly since the attorney was a key witness in the hush money trial that led to Trump's conviction on 34 felony counts of falsifying business records. Trump and Cohen have repeatedly traded barbs over each other's alleged wrongdoing. Cohen had previously called Trump a \"conman\" and a \"predator,\" while the president said Cohen was a \"rat.\" What they'r…",
+    "contentSnippet": "President Trump signaled that he's welcomed his former fixer, Michael Cohen, back into his good graces in a remarkably friendly interview that aired in full on Sunday. The big picture: The president and Cohen discussed a wide range of topics, including Trump's proposed ballroom, how the economy is doing during his second term and how so-called \"weaponization\" is destroying America. The interview is the first time Trump and Cohen have spoken publicly since the attorney was a key witness in the hush money trial that led to Trump's conviction on 34 felony counts of falsifying business records. Trump and Cohen have repeatedly traded barbs over each other's alleged wrongdoing. Cohen had previously called Trump a \"conman\" and a \"predator,\" while the president said Cohen was a \"rat.\" What they'r…",
+    "summaryZh": "基于标题/摘要生成：President Trump signaled that he's welcomed his former fixer，Michael Cohen，back into his good graces in a remarkably friendly interview that aired in…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump and former fixer Michael Cohen make amends President Trump signaled that he's welcomed h"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump and former fixer Michael Cohen make amends President Trump signaled that he's welcomed hi"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mgnlxz",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Patriots mailbag: Who has been the team’s best rookie so far this summer?",
+    "chineseTitle": "Patriots mailbag：Who has been the team’s best rookie so f…",
+    "originalUrl": "https://www.bostonglobe.com/2026/08/23/sports/patriots-mailbag-roster-caleb-lomu/",
+    "publishedAt": "2026-08-23T22:25:06.547Z",
+    "fetchedAt": "2026-08-23T23:24:54.016Z",
+    "rawDescription": "公开 sitemap 条目：Patriots mailbag: Who has been the team’s best rookie so far this summer?",
+    "contentSnippet": "公开 sitemap 条目：Patriots mailbag: Who has been the team’s best rookie so far this summer?",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Patriots mailbag：Who has been the team’s best rookie so far this summer",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dggh9l",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Donalds says he&#039;s &#039;working&#039; with Haitian leaders to stabilize government after end of TPS",
+    "chineseTitle": "Donalds says he&#039;s &#039;working&#039; with Haitian l…",
+    "originalUrl": "https://thehill.com/homenews/state-watch/6046053-donalds-haiti-stabilization-efforts/",
+    "publishedAt": "2026-08-23T21:47:38.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.472Z",
+    "rawDescription": "Rep. Byron Donalds (R-Fla.), the GOP nominee for Florida governor, said Sunday he is “working” with leaders in Haiti to stabilize the country, after the temporary protected status (TPS) of more than 300,000 Haitians migrants in the U.S. expired. “I've actually had meetings with the transitional government and the ambassador for the transitional government,” Donalds...",
+    "contentSnippet": "Rep. Byron Donalds (R-Fla.), the GOP nominee for Florida governor, said Sunday he is “working” with leaders in Haiti to stabilize the country, after the temporary protected status (TPS) of more than 300,000 Haitians migrants in the U.S. expired. “I've actually had meetings with the transitional government and the ambassador for the transitional government,” Donalds...",
+    "summaryZh": "基于标题/摘要生成：Rep. Byron Donalds (R-Fla.)，the GOP nominee for Florida governor，said Sunday he is “working” with leaders in Haiti to stabilize the country，after the…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "eaders to stabilize government after end of TPS Max Rego Rep. Byron Donalds (R-Fla.), the GOP nominee for Florida governor, said Sunday he is \"working\" with leaders in Haiti to stabil"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mzafkn",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Zeldin warns against banning data centers in US, citing China",
+    "chineseTitle": "Zeldin warns against banning data centers in US，citing 中国",
+    "originalUrl": "https://thehill.com/policy/energy-environment/6045971-zeldin-warns-against-data-center-bans/",
+    "publishedAt": "2026-08-23T21:26:14.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.473Z",
+    "rawDescription": "Lee Zeldin, administrator of the Environmental Protection Agency (EPA), on Sunday warned against banning data centers, citing implications for the U.S. in the artificial intelligence race to outpace China. “There's been a push from some states where they're talking about a statewide moratorium and what I've found is that most of this country wants to make...",
+    "contentSnippet": "Lee Zeldin, administrator of the Environmental Protection Agency (EPA), on Sunday warned against banning data centers, citing implications for the U.S. in the artificial intelligence race to outpace China. “There's been a push from some states where they're talking about a statewide moratorium and what I've found is that most of this country wants to make...",
+    "summaryZh": "基于标题/摘要生成：Lee Zeldin，administrator of the Environmental Protection Agency (EPA)，on Sunday warned against banning data centers，citing implications for the U.S.…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_48w5nv",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Economic Approach Draws Concern From Some Republicans",
+    "chineseTitle": "Trump’s Economic Approach Draws Concern From Some 共和党人",
+    "originalUrl": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
+    "publishedAt": "2026-08-23T21:17:40.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.622Z",
+    "rawDescription": "A plan to lower tariffs on imported beef and trade tensions with Canada have compounded some G.O.P. worries about a central issue in the midterms.",
+    "contentSnippet": "A plan to lower tariffs on imported beef and trade tensions with Canada have compounded some G.O.P. worries about a central issue in the midterms.",
+    "summaryZh": "基于标题/摘要生成：A plan to lower 关税 on imported beef and 贸易 tensions with Canada have compounded some G.O.P. worries about a central issue in the midterms",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Economic Approach Draws Concern From Some Republicans Bayliss Wagner A plan to lower ta"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Economic Approach Draws Concern From Some Republicans Bayliss Wagner A plan to lower ta"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Economic Approach Draws Concern From Some Republicans Bayliss Wagner A plan to lower tariffs on imported beef and trade tensions with Canada ha"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ygeulv",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C.",
+    "chineseTitle": "Trump’s Summer of Fun Ends With an IndyCar Race on the St…",
+    "originalUrl": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html",
+    "publishedAt": "2026-08-23T21:11:23.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.623Z",
+    "rawDescription": "It was the final, major event planned for the nation’s 250th anniversary celebrations. The president took a lap.",
+    "contentSnippet": "It was the final, major event planned for the nation’s 250th anniversary celebrations. The president took a lap.",
+    "summaryZh": "基于标题/摘要生成：It was the final，major event planned for the nation’s 250th anniversary celebrations. The president took a lap",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Summer of Fun Ends With an IndyCar Race on the Streets of D.C. Shawn McCreesh It was th"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Summer of Fun Ends With an IndyCar Race on the Streets of D.C. Shawn McCreesh It was th"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5vl4bv",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "El-Sayed under fire online after taking aim at Usha Vance, female Trump aide in weekend social media posts",
+    "chineseTitle": "El-Sayed under fire online after taking aim at Usha Vance…",
+    "originalUrl": "https://www.foxnews.com/politics/el-sayed-fire-online-taking-aim-usha-vance-female-trump-aide-weekend-social-media-posts",
+    "publishedAt": "2026-08-23T16:17:24.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.588Z",
+    "rawDescription": "Abdul El-Sayed's post about Usha Vance and JD Vance's grandfather sparked accusations of racism and sexism from Rep. Brandon Gill and others.",
+    "contentSnippet": "Abdul El-Sayed's post about Usha Vance and JD Vance's grandfather sparked accusations of racism and sexism from Rep. Brandon Gill and others.",
+    "summaryZh": "基于标题/摘要生成：Abdul El-Sayed's post about Usha Vance and JD Vance's grandfather sparked accusations of racism and sexism from Rep. Brandon Gill and others",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "El-Sayed under fire online after taking aim at Usha Vance, female Trump aide in weekend social media posts Abdul El-Sayed's post about Usha Vance and JD Vance's"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "emale Trump aide in weekend social media posts Abdul El-Sayed's post about Usha Vance and JD Vance's grandfather sparked accusations of racism and sexism from Rep. Brandon Gill and others"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "El-Sayed under fire online after taking aim at Usha Vance, female Trump aide in weekend social media posts Abdul El-Sayed's post about Usha Vance"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "El-Sayed under fire online after taking aim at Usha Vance, female Trump aide in weekend social media posts Abdul El-Sayed's post about Usha Vance and JD Vance's"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "emale Trump aide in weekend social media posts Abdul El-Sayed's post about Usha Vance and JD Vance's grandfather sparked accusations of racism and sexism from Rep. Brandon Gill and others."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_pgd02t",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s visa ban on 75 countries struck down by federal judge",
+    "chineseTitle": "Trump’s visa ban on 75 countries struck down by federal j…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/08/22/visa-processing-ban-75-countries-struck-down-by-federal-judge/",
+    "publishedAt": "2026-08-23T15:59:09.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.769Z",
+    "rawDescription": "A federal judge said the indefinite pause, which affected nationals of countries in every corner of the globe, ran afoul of antidiscrimination protections.",
+    "contentSnippet": "A federal judge said the indefinite pause, which affected nationals of countries in every corner of the globe, ran afoul of antidiscrimination protections.",
+    "summaryZh": "基于标题/摘要生成：A federal judge said the indefinite pause，which affected nationals of countries in every corner of the globe，ran afoul of antidiscrimination protecti…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s visa ban on 75 countries struck down by federal judge Teo Armus A federal judge said th"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's visa ban on 75 countries struck down by federal judge Teo Armus A federal judge said th"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d8m7ko",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Karoline Leavitt reveals next role after leaving White House press secretary post",
+    "chineseTitle": "Karoline Leavitt reveals next role after leaving White 众议…",
+    "originalUrl": "https://www.foxnews.com/politics/karoline-leavitt-reveals-next-role-after-leaving-white-house-press-secretary-post",
+    "publishedAt": "2026-08-23T15:21:39.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.589Z",
+    "rawDescription": "Karoline Leavitt confirmed aboard Air Force One that she will join Trump super PAC MAGA Inc. after stepping down as White House press secretary.",
+    "contentSnippet": "Karoline Leavitt confirmed aboard Air Force One that she will join Trump super PAC MAGA Inc. after stepping down as White House press secretary.",
+    "summaryZh": "基于标题/摘要生成：Karoline Leavitt confirmed aboard Air Force One that she will join Trump super PAC MAGA Inc. after stepping down as White 众议院 press secretary",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "e press secretary post Karoline Leavitt confirmed aboard Air Force One that she will join Trump super PAC MAGA Inc. after stepping down as White House press secretary. Karoline Leavitt"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "e press secretary post Karoline Leavitt confirmed aboard Air Force One that she will join Trump super PAC MAGA Inc. after stepping down as White House press secretary. Karoline Leavitt"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Karoline Leavitt reveals next role after leaving White House press secretary post Karoline Leavitt confirmed aboard Air Force One that she will join T"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_c3gqit",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How to Lose a Trade War",
+    "chineseTitle": "How to Lose a 贸易 War",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/08/why-us-canada-trade-talks-fell-apart/688386/",
+    "publishedAt": "2026-08-22T15:25:00.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.670Z",
+    "rawDescription": "Trump’s bullying of Canada is failing.",
+    "contentSnippet": "Trump’s bullying of Canada is failing.",
+    "summaryZh": "基于标题/摘要生成：Trump’s bullying of Canada is failing",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "How to Lose a Trade War David Frum Trump’s bullying of Canada is failing. Trump’s bullying of Canada is failing."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "How to Lose a Trade War David Frum Trump's bullying of Canada is failing. Trump's bullying of Canada is failing."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uyu7ix",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats found their border message. ICE is another story.",
+    "chineseTitle": "民主党人 found their border message. ICE is another story",
+    "originalUrl": "https://www.politico.com/news/2026/08/22/democrats-ice-midterms-01045482",
+    "publishedAt": "2026-08-22T14:00:00.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.535Z",
+    "rawDescription": "They’re trying to balance a base furious at ICE with swing voters wary of abolishing the agency — a divide that could influence the midterms and the party’s path in 2028.",
+    "contentSnippet": "They’re trying to balance a base furious at ICE with swing voters wary of abolishing the agency — a divide that could influence the midterms and the party’s path in 2028.",
+    "summaryZh": "基于标题/摘要生成：They’re trying to balance a base furious at ICE with swing voters wary of abolishing the agency — a divide that could influence the midterms and the…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats found their border message. ICE is another story. By Samuel Benson, Lisa Kashinsky and Er"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nupiog",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The President’s Focus",
+    "chineseTitle": "The President’s Focus",
+    "originalUrl": "https://www.theatlantic.com/national/2026/08/trump-ballroom-debt-washington-week/688384/",
+    "publishedAt": "2026-08-22T13:40:43.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.671Z",
+    "rawDescription": "Panelists joined to discuss Trump’s priorities as the national debt reaches new highs.",
+    "contentSnippet": "Panelists joined to discuss Trump’s priorities as the national debt reaches new highs.",
+    "summaryZh": "基于标题/摘要生成：Panelists joined to discuss Trump’s priorities as the national debt reaches new highs",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The President’s Focus The Editors Panelists joined to discuss Trump’s priorities as the national debt reaches new highs. Panelists joined to discuss Trump’s"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The President's Focus The Editors Panelists joined to discuss Trump's priorities as the national debt reaches new highs. Panelists joined to discuss Trump's"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_lshsvr",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘I’m on the ballot’: Trump lends a hand to struggling Darline Graham",
+    "chineseTitle": "‘I’m on the ballot’：Trump lends a hand to struggling Darl…",
+    "originalUrl": "https://www.politico.com/news/2026/08/21/ballot-trump-darline-graham-01046646",
+    "publishedAt": "2026-08-22T00:36:55.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.536Z",
+    "rawDescription": "The president sought to paper over emerging cracks in Graham’s campaign to succeed her late brother.",
+    "contentSnippet": "The president sought to paper over emerging cracks in Graham’s campaign to succeed her late brother.",
+    "summaryZh": "基于标题/摘要生成：The president sought to paper over emerging cracks in Graham’s campaign to succeed her late brother",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "‘I’m on the ballot’: Trump lends a hand to struggling Darline Graham By Aaron Pellish The president sought to paper"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "'I'm on the ballot': Trump lends a hand to struggling Darline Graham By Aaron Pellish The president sought to paper"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_unwkcd",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Needs China’s Help to Effectively Sanction Iran",
+    "chineseTitle": "Trump Needs 中国’s Help to Effectively Sanction Iran",
+    "originalUrl": "https://foreignpolicy.com/2026/08/21/us-sanctions-iran-war-trump-bessent-china/",
+    "publishedAt": "2026-08-21T20:05:26.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.653Z",
+    "rawDescription": "But Tehran’s top crude buyer appears unwilling to play ball.",
+    "contentSnippet": "But Tehran’s top crude buyer appears unwilling to play ball.",
+    "summaryZh": "基于标题/摘要生成：But Tehran’s top crude buyer appears unwilling to play ball",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Needs China’s Help to Effectively Sanction Iran Alexandra Sharp But Tehran’s top crude bu"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Needs China's Help to Effectively Sanction Iran Alexandra Sharp But Tehran's top crude bu"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_x4oh2m",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why We Are Living Through ‘Hyperpolitics’",
+    "chineseTitle": "Why We Are Living Through ‘Hyperpolitics’",
+    "originalUrl": "https://foreignpolicy.com/2026/08/21/anton-jager-hyperpolitics-dsa-bjp-political-theory/",
+    "publishedAt": "2026-08-21T18:44:48.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.654Z",
+    "rawDescription": "Anton Jager explains why record voter turnout isn’t leading to systemic change.",
+    "contentSnippet": "Anton Jager explains why record voter turnout isn’t leading to systemic change.",
+    "summaryZh": "基于标题/摘要生成：Anton Jager explains why record voter turnout isn’t leading to systemic change",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hw68xc",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How AI Could Hollow Out the U.S. Military",
+    "chineseTitle": "How AI Could Hollow Out the U.S. Military",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/how-ai-could-hollow-out-us-military",
+    "publishedAt": "2026-08-20T04:00:00.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.458Z",
+    "rawDescription": "The best soldiers know how to think for themselves.",
+    "contentSnippet": "The best soldiers know how to think for themselves.",
+    "summaryZh": "基于标题/摘要生成：The best soldiers know how to think for themselves",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qih6p7",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A China Strategy That Lasts",
+    "chineseTitle": "A 中国 Strategy That Lasts",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy",
+    "publishedAt": "2026-08-19T04:00:00.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.459Z",
+    "rawDescription": "Congress must lead to compete with Beijing.",
+    "contentSnippet": "Congress must lead to compete with Beijing.",
+    "summaryZh": "基于标题/摘要生成：美国国会 must lead to compete with 北京",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "congress_china",
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "A China Strategy That Lasts Bill Cassidy Congress must lead to compete with Beijing. Congress must lead to compete with Beijing."
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China strategy",
+        "confidence": "high",
+        "contextSnippet": "A China Strategy That Lasts Bill Cassidy Congress must lead to compete with Beijing. Congress must lead to"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "China policy",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T23:24:53.967Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.741Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.742Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-08-23T23:24:53.966Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.610Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-08-23T23:24:51.608Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
