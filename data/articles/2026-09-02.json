@@ -1,0 +1,1663 @@
+[
+  {
+    "id": "art_oymb1b",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Ed Markey will win Democratic Senate primary against Seth Moulton, the AP projects. Follow live updates.",
+    "chineseTitle": "Ed Markey will win Democratic 参议院 primary against Seth Mo…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/01/nation/massachusetts-primary-election-live-updates/",
+    "publishedAt": "2026-09-02T00:44:53.186Z",
+    "fetchedAt": "2026-09-02T00:54:39.618Z",
+    "rawDescription": "公开 sitemap 条目：Ed Markey will win Democratic Senate primary against Seth Moulton, the AP projects. Follow live updates.",
+    "contentSnippet": "公开 sitemap 条目：Ed Markey will win Democratic Senate primary against Seth Moulton, the AP projects. Follow live updates.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Ed Markey will win Democratic 参议院 primary against Seth Moulton，the AP projects. Follow live updates",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Ed Markey will win Democratic Senate primary against Seth Moulton, the AP projects. Follow live updates. 公开 sitemap 条目：Ed Mark"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_r9vell",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Senator Ed Markey tops challenger Seth Moulton in bitter Democratic Senate primary, AP projects",
+    "chineseTitle": "Senator Ed Markey tops challenger Seth Moulton in bitter…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/01/metro/massachusetts-senate-primary-markey-moulton/",
+    "publishedAt": "2026-09-02T00:42:09.710Z",
+    "fetchedAt": "2026-09-02T00:54:39.619Z",
+    "rawDescription": "公开 sitemap 条目：Senator Ed Markey tops challenger Seth Moulton in bitter Democratic Senate primary, AP projects",
+    "contentSnippet": "公开 sitemap 条目：Senator Ed Markey tops challenger Seth Moulton in bitter Democratic Senate primary, AP projects",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Senator Ed Markey tops challenger Seth Moulton in bitter Democratic 参议院 primary，AP projects",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senator Ed Markey tops challenger Seth Moulton in bitter Democratic Senate primary, AP projects 公开 sitemap 条目：Senator Ed Markey tops challenger Seth Moulton in bitt"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ggbxnh",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "80-year-old Dem beats back generational challenge after going all-in on trans athletes",
+    "chineseTitle": "80-year-old Dem beats back generational challenge after g…",
+    "originalUrl": "https://www.foxnews.com/politics/80-year-old-dem-beats-back-generational-challenge-after-going-all-in-trans-athletes",
+    "publishedAt": "2026-09-02T00:41:53.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.364Z",
+    "rawDescription": "Ed Markey defeated Seth Moulton's generational change campaign by leaning into progressive credentials and taking a bold stance on transgender rights in sports.",
+    "contentSnippet": "Ed Markey defeated Seth Moulton's generational change campaign by leaning into progressive credentials and taking a bold stance on transgender rights in sports.",
+    "summaryZh": "基于标题/摘要生成：Ed Markey defeated Seth Moulton's generational change campaign by leaning into progressive credentials and taking a bold stance on transgender rights…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5ttfwx",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Postal Service plans may keep voters from getting ballots, whistleblower says",
+    "chineseTitle": "Postal Service plans may keep voters from getting ballots…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/01/whistleblower-warns-usps-system-could-block-mail-ballots/",
+    "publishedAt": "2026-09-02T00:27:03.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.544Z",
+    "rawDescription": "An anonymous federal official warns that a rushed USPS portal tied to Trump’s mail-voting order could reject large batches of ballots before the midterms.",
+    "contentSnippet": "An anonymous federal official warns that a rushed USPS portal tied to Trump’s mail-voting order could reject large batches of ballots before the midterms.",
+    "summaryZh": "基于标题/摘要生成：An anonymous federal official warns that a rushed USPS portal tied to Trump’s mail-voting order could reject large batches of ballots before the midt…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "says Patrick Marley An anonymous federal official warns that a rushed USPS portal tied to Trump’s mail-voting order could reject large batches of ballots before the midterms. An anonymo"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "says Patrick Marley An anonymous federal official warns that a rushed USPS portal tied to Trump's mail-voting order could reject large batches of ballots before the midterms. An anonymo"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kjk0ne",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
+    "chineseTitle": "U.S. strikes Iran tankers under new \"tanker for tanker\" 政策",
+    "originalUrl": "https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil",
+    "publishedAt": "2026-09-02T00:22:42.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.180Z",
+    "rawDescription": "The U.S. military attacked two Iranian government tankers as part of the round of strikes that took place on Tuesday, U.S. officials said. Why it matters: This is the first time the U.S. military has struck Iranian tankers in retaliation for Iranian attacks on ships in the Strait of Hormuz — rather than to prevent them from violating the naval blockade. A U.S. official said the move was part of a new \"tanker for tanker\" policy approved by President Trump to further deter Iranian attacks on tankers that move through the strait. Driving the news: U.S. officials said around 100 targets were attacked during Tuesday's strikes. The Iranian government tankers were anchored off Iran's coast north of the U.S. naval blockade line. U.S. drones launched missiles that hit their engine rooms. Among the…",
+    "contentSnippet": "The U.S. military attacked two Iranian government tankers as part of the round of strikes that took place on Tuesday, U.S. officials said. Why it matters: This is the first time the U.S. military has struck Iranian tankers in retaliation for Iranian attacks on ships in the Strait of Hormuz — rather than to prevent them from violating the naval blockade. A U.S. official said the move was part of a new \"tanker for tanker\" policy approved by President Trump to further deter Iranian attacks on tankers that move through the strait. Driving the news: U.S. officials said around 100 targets were attacked during Tuesday's strikes. The Iranian government tankers were anchored off Iran's coast north of the U.S. naval blockade line. U.S. drones launched missiles that hit their engine rooms. Among the…",
+    "summaryZh": "基于标题/摘要生成：The U.S. military attacked two Iranian government tankers as part of the round of strikes that took place on Tuesday，U.S. officials said. Why it matt…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "official said the move was part of a new \"tanker for tanker\" policy approved by President Trump to further deter Iranian attacks on tankers that move through the strait. Driving the new"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "official said the move was part of a new \"tanker for tanker\" policy approved by President Trump to further deter Iranian attacks on tankers that move through the strait. Driving the new"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_13erew",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Haley tells Vance to &#039;choose a side&#039;: Israel or Tucker Carlson",
+    "chineseTitle": "Haley tells Vance to &#039;choose a side&#039;：Israel or…",
+    "originalUrl": "https://thehill.com/homenews/administration/6064915-haley-vance-israel-tucker-carlson-choose/",
+    "publishedAt": "2026-09-02T00:20:49.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.246Z",
+    "rawDescription": "Former GOP presidential candidate Nikki Haley accused Vice President JD Vance Tuesday of not taking a clear stance on Israel — slamming him for trying to “be both.” “Right is right. Wrong is wrong. In life, you must choose a side. You are either with the Tucker Carlson wing of the country or you are...",
+    "contentSnippet": "Former GOP presidential candidate Nikki Haley accused Vice President JD Vance Tuesday of not taking a clear stance on Israel — slamming him for trying to “be both.” “Right is right. Wrong is wrong. In life, you must choose a side. You are either with the Tucker Carlson wing of the country or you are...",
+    "summaryZh": "基于标题/摘要生成：Former GOP presidential candidate Nikki Haley accused Vice President JD Vance Tuesday of not taking a clear stance on Israel — slamming him for tryin…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "Carlson Mira Bhakta Former GOP presidential candidate Nikki Haley accused Vice President JD Vance Tuesday of not taking a clear stance on Israel — slamming him for trying to “be both.” “R"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Haley tells Vance to &#039;choose a side&#039;: Israel or Tucker Carlson Mira Bhakta Former GOP presidentia"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "Carlson Mira Bhakta Former GOP presidential candidate Nikki Haley accused Vice President JD Vance Tuesday of not taking a clear stance on Israel — slamming him for trying to \"be both.\" \"R"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "ley tells Vance to &#039;choose a side&#039;: Israel or Tucker Carlson Mira Bhakta Former GOP presidential candidate Nikki Haley accused Vice President JD Vance Tuesday of not taking"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "Vance",
+        "confidence": "medium",
+        "contextSnippet": "Haley tells Vance to &#8216;choose a side&#8217;: Israel or Tucker Carlson 公开 sitemap 条目：Haley tells Vance"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "JD Vance",
+      "Republican Party",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1kmilj",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Majority of Americans against Lake Ontario name change, Canada tariffs: Poll",
+    "chineseTitle": "Majority of Americans against Lake Ontario name change，Ca…",
+    "originalUrl": "https://thehill.com/homenews/administration/6064850-americans-against-lake-america-canada-tariffs/",
+    "publishedAt": "2026-09-02T00:16:31.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.248Z",
+    "rawDescription": "A majority of Americans are against President Trump’s recent decisions to rename Lake Ontario to “Lake America” and impose additional tariffs on Canada, survey results published Tuesday suggest. The poll, conducted by Ipsos and Reuters, reported that 63 percent of respondents opposed Lake Ontario’s renaming, while 14 percent supported the decision and 21 percent said...",
+    "contentSnippet": "A majority of Americans are against President Trump’s recent decisions to rename Lake Ontario to “Lake America” and impose additional tariffs on Canada, survey results published Tuesday suggest. The poll, conducted by Ipsos and Reuters, reported that 63 percent of respondents opposed Lake Ontario’s renaming, while 14 percent supported the decision and 21 percent said...",
+    "summaryZh": "基于标题/摘要生成：A majority of Americans are against President Trump’s recent decisions to rename Lake Ontario to “Lake America” and impose additional 关税 on Canada，su…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "me change, Canada tariffs: Poll Mira Bhakta A majority of Americans are against President Trump’s recent decisions to rename Lake Ontario to “Lake America” and impose additional tariffs"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "me change, Canada tariffs: Poll Mira Bhakta A majority of Americans are against President Trump's recent decisions to rename Lake Ontario to \"Lake America\" and impose additional tariffs"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_21bqql",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Singularity Is Not What It Seems",
+    "chineseTitle": "The Singularity Is Not What It Seems",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
+    "publishedAt": "2026-09-02T00:16:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.443Z",
+    "rawDescription": "Whatever the AI future is, we’re in it right now.",
+    "contentSnippet": "Whatever the AI future is, we’re in it right now.",
+    "summaryZh": "基于标题/摘要生成：Whatever the AI future is，we’re in it right now",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_190jzy",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "JD Vance courts Jewish Republicans. Tucker Carlson still looms.",
+    "chineseTitle": "JD Vance courts Jewish 共和党人. Tucker Carlson still looms",
+    "originalUrl": "https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877",
+    "publishedAt": "2026-09-02T00:15:24.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.305Z",
+    "rawDescription": "Vice President JD Vance’s answer to a question about conservative pundit Tucker Carlson left some in the audience disappointed.",
+    "contentSnippet": "Vice President JD Vance’s answer to a question about conservative pundit Tucker Carlson left some in the audience disappointed.",
+    "summaryZh": "基于标题/摘要生成：Vice President JD Vance’s answer to a question about conservative pundit Tucker Carlson left some in the audience disappointed",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "JD Vance courts Jewish Republicans. Tucker Carlson still looms. By Samuel Benson Vice President JD"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "JD Vance courts Jewish Republicans. Tucker Carlson still looms. By Samuel Benson Vice President JD"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "JD Vance courts Jewish Republicans. Tucker Carlson still looms. By Samuel Benson Vice President JD"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "JD Vance courts Jewish Republicans. Tucker Carlson still looms. By Samuel Benson Vice President JD Vance's answer to a quest"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "JD Vance",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "\"JD Vance\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2ysvv0",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scandal-plagued 'Squad' rep cruises to Democratic nomination with no GOP roadblocks in view",
+    "chineseTitle": "Scandal-plagued 'Squad' rep cruises to Democratic nominat…",
+    "originalUrl": "https://www.foxnews.com/politics/scandal-plagued-squad-rep-cruises-democratic-nomination-no-gop-roadblocks-view",
+    "publishedAt": "2026-09-02T00:04:26.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.365Z",
+    "rawDescription": "Ayanna Pressley faces no challengers in the Massachusetts 7th district, but controversies over her husband's federal contract and finances loom large.",
+    "contentSnippet": "Ayanna Pressley faces no challengers in the Massachusetts 7th district, but controversies over her husband's federal contract and finances loom large.",
+    "summaryZh": "基于标题/摘要生成：Ayanna Pressley faces no challengers in the Massachusetts 7th district，but controversies over her husband's federal contract and finances loom large",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Scandal-plagued 'Squad' rep cruises to Democratic nomination with no GOP roadblocks in view Ayanna Pressley faces no challengers in the Massachusetts 7th district"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u4lt0p",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Joint Chiefs Chairman Says Military Has ‘No Plans’ to Send Troops to the Polls",
+    "chineseTitle": "Joint Chiefs Chairman Says Military Has ‘No Plans’ to Sen…",
+    "originalUrl": "https://www.nytimes.com/2026/09/01/us/politics/caine-military-elections.html",
+    "publishedAt": "2026-09-01T23:48:45.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.399Z",
+    "rawDescription": "Gen. Dan Caine, President Trump’s top military adviser, appeared to renounce the possibility of the military interfering in the 2026 midterms.",
+    "contentSnippet": "Gen. Dan Caine, President Trump’s top military adviser, appeared to renounce the possibility of the military interfering in the 2026 midterms.",
+    "summaryZh": "基于标题/摘要生成：Gen. Dan Caine，President Trump’s top military adviser，appeared to renounce the possibility of the military interfering in the 2026 midterms",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "litary Has ‘No Plans’ to Send Troops to the Polls Chris Cameron Gen. Dan Caine, President Trump’s top military adviser, appeared to renounce the possibility of the military interfering"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "litary Has 'No Plans' to Send Troops to the Polls Chris Cameron Gen. Dan Caine, President Trump's top military adviser, appeared to renounce the possibility of the military interfering"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8f5rrd",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Justice Department Sues Kansas City Schools Over Gender Policy",
+    "chineseTitle": "Justice Department Sues Kansas City Schools Over Gender 政策",
+    "originalUrl": "https://www.nytimes.com/2026/09/01/us/politics/transgender-kansas-doj-lawsuit.html",
+    "publishedAt": "2026-09-01T23:19:17.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.400Z",
+    "rawDescription": "In the first such lawsuit, the Trump administration accused the district of hiding students’ gender transition from their parents against federal law.",
+    "contentSnippet": "In the first such lawsuit, the Trump administration accused the district of hiding students’ gender transition from their parents against federal law.",
+    "summaryZh": "基于标题/摘要生成：In the first such lawsuit，the Trump administration accused the district of hiding students’ gender transition from their parents against federal law",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "s Kansas City Schools Over Gender Policy Michael C. Bender In the first such lawsuit, the Trump administration accused the district of hiding students’ gender transition from their pare"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "s Kansas City Schools Over Gender Policy Michael C. Bender In the first such lawsuit, the Trump administration accused the district of hiding students' gender transition from their pare"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "s Kansas City Schools Over Gender Policy Michael C. Bender In the first such lawsuit, the Trump administration accused the district of hiding students' gender transition from their parents against fed"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1mwd5e",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House GOP censures one of its own over conduct with female staffers",
+    "chineseTitle": "众议院 GOP censures one of its own over conduct with female…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/01/house-vote-rep-chuck-edwards-censure-over-unprofessional-conduct-toward-female-staffers/",
+    "publishedAt": "2026-09-01T22:55:57.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.545Z",
+    "rawDescription": "Rep. Chuck Edwards was censured by his colleagues in the House over his conduct with female staffers.",
+    "contentSnippet": "Rep. Chuck Edwards was censured by his colleagues in the House over his conduct with female staffers.",
+    "summaryZh": "基于标题/摘要生成：Rep. Chuck Edwards was censured by his colleagues in the 众议院 over his conduct with female staffers",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "House GOP censures one of its own over conduct with female staffers Mariana Alfaro Rep. Chuck Edwar"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k7qwqx",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House Democrats left reeling after shock defections",
+    "chineseTitle": "众议院 民主党人 left reeling after shock defections",
+    "originalUrl": "https://www.axios.com/2026/09/01/golden-perez-jeffries-clark-house-democrats-vote",
+    "publishedAt": "2026-09-01T22:32:53.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.183Z",
+    "rawDescription": "House Democrats were left stunned and pointing fingers Tuesday after a pair of centrist lawmakers unexpectedly helped Republican leadership pass a key procedural vote. Why it matters: The result underscored how little control House Democratic leadership enjoys over some of its more independent-minded members even at crucial moments. The two centrists, Reps. Jared Golden (D-Maine) and Marie Gluesenkamp Perez (D-Wash.), are known to rarely attend party caucus meetings or heed leadership's instructions on how to vote. \"I think it's well established that I don't really do whip calls,\" Golden told Axios on Tuesday. Driving the news: The House passed what is known as a \"rule\" — a procedural package setting out the parameters for how a set of bills will be debated on the House floor — in a 210-2…",
+    "contentSnippet": "House Democrats were left stunned and pointing fingers Tuesday after a pair of centrist lawmakers unexpectedly helped Republican leadership pass a key procedural vote. Why it matters: The result underscored how little control House Democratic leadership enjoys over some of its more independent-minded members even at crucial moments. The two centrists, Reps. Jared Golden (D-Maine) and Marie Gluesenkamp Perez (D-Wash.), are known to rarely attend party caucus meetings or heed leadership's instructions on how to vote. \"I think it's well established that I don't really do whip calls,\" Golden told Axios on Tuesday. Driving the news: The House passed what is known as a \"rule\" — a procedural package setting out the parameters for how a set of bills will be debated on the House floor — in a 210-2…",
+    "summaryZh": "基于标题/摘要生成：众议院 民主党人 were left stunned and pointing fingers Tuesday after a pair of centrist lawmakers unexpectedly helped Republican leadership pass a key proce…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [
+      "哈基姆·杰弗里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "hakeem-jeffries",
+        "nameEn": "Hakeem Jeffries",
+        "nameZh": "哈基姆·杰弗里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Jeffries",
+        "confidence": "low",
+        "contextSnippet": "Golden Perez Jeffries Clark House Democrats Vote 公开 sitemap 条目：Golden Perez Jeffries Clark House Democrats Vot"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "House Democrats left reeling after shock defections Andrew Solender House Democrats were left stunned and"
+      },
+      {
+        "entityId": "hakeem-jeffries",
+        "name": "Hakeem Jeffries",
+        "type": "person",
+        "matchedAlias": "Jeffries",
+        "confidence": "medium",
+        "contextSnippet": "Golden Perez Jeffries Clark House Democrats Vote 公开 sitemap 条目：Golden Perez Jeffries Clark House Democrats Vote"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Axios",
+      "Hakeem Jeffries"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Hakeem Jeffries\""
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1taoxa",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Nepal’s Deadly Floods Put China and India on Edge",
+    "chineseTitle": "Nepal’s Deadly Floods Put 中国 and India on Edge",
+    "originalUrl": "https://foreignpolicy.com/2026/09/01/nepal-tibet-floods-china-india-disaster-response-border-dispute/",
+    "publishedAt": "2026-09-01T22:17:34.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.429Z",
+    "rawDescription": "Geopolitical conflict will only get worse with climate change.",
+    "contentSnippet": "Geopolitical conflict will only get worse with climate change.",
+    "summaryZh": "基于标题/摘要生成：Geopolitical conflict will only get worse with climate change",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_fb1hov",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Moscow’s Moment of Global Summitry",
+    "chineseTitle": "Moscow’s Moment of Global Summitry",
+    "originalUrl": "https://foreignpolicy.com/2026/09/01/russia-g20-finance-putin-sco-summit-iran-bishkek-declaration-eef/",
+    "publishedAt": "2026-09-01T21:44:09.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.430Z",
+    "rawDescription": "The war in Ukraine may rage on, but Russia remains far from an international pariah.",
+    "contentSnippet": "The war in Ukraine may rage on, but Russia remains far from an international pariah.",
+    "summaryZh": "基于标题/摘要生成：The war in Ukraine may rage on，but Russia remains far from an international pariah",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yx3o97",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Backlash Against Polyester Has Gone Too Far",
+    "chineseTitle": "The Backlash Against Polyester Has Gone Too Far",
+    "originalUrl": "https://www.theatlantic.com/health/2026/09/natural-fibers-synthetic-polyester-nylon/688488/",
+    "publishedAt": "2026-09-01T21:00:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.445Z",
+    "rawDescription": "Clothing made from natural fibers isn’t always better.",
+    "contentSnippet": "Clothing made from natural fibers isn’t always better.",
+    "summaryZh": "基于标题/摘要生成：Clothing made from natural fibers isn’t always better",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_x6nj4i",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Real Risk of a Trade War With Canada",
+    "chineseTitle": "The Real Risk of a 贸易 War With Canada",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/real-risk-trade-war-canada",
+    "publishedAt": "2026-09-01T11:21:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.233Z",
+    "rawDescription": "America needs its neighbors to counter China.",
+    "contentSnippet": "America needs its neighbors to counter China.",
+    "summaryZh": "基于标题/摘要生成：America needs its neighbors to counter 中国",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/topic/Trade/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_2qpxti",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Vance offers olive branch to pro-Israel Republicans in closed-door speech",
+    "chineseTitle": "Vance offers olive branch to pro-Israel 共和党人 in closed-do…",
+    "originalUrl": "https://www.politico.com/news/2026/09/01/jd-vance-republican-jewish-coalition-01058782",
+    "publishedAt": "2026-09-01T04:48:42.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.307Z",
+    "rawDescription": "Vice President JD Vance’s speech at the Republican Jewish Coalition leadership summit Monday was met with applause from the group’s leaders.",
+    "contentSnippet": "Vice President JD Vance’s speech at the Republican Jewish Coalition leadership summit Monday was met with applause from the group’s leaders.",
+    "summaryZh": "基于标题/摘要生成：Vice President JD Vance’s speech at the Republican Jewish Coalition leadership summit Monday was met with applause from the group’s leaders",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "ve branch to pro-Israel Republicans in closed-door speech By Samuel Benson Vice President JD Vance’s speech at the Republican Jewish Coalition leadership summit Monday was met with applaus"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Vance offers olive branch to pro-Israel Republicans in closed-door speech By Samuel Benson Vice"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "ve branch to pro-Israel Republicans in closed-door speech By Samuel Benson Vice President JD Vance's speech at the Republican Jewish Coalition leadership summit Monday was met with applaus"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Vance offers olive branch to pro-Israel Republicans in closed-door speech By Samuel Benson Vice President JD Vance's speech at the Republican"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "JD Vance",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3d9qtb",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoMGpEY1A3NldfczQ3Q2lHSkEtbXoydU9TQUhuN1hyb1RuMjBIcHJFU2dPRURzQUw3ckVjRXo1dm9SZHU5eHktUzBMMzFkNDUyRmRBMXo4aE9jNXNsalhKVVBOOUZ0NDY2S3lF?oc=5",
+    "publishedAt": "2026-08-31T14:02:26.000Z",
+    "fetchedAt": "2026-09-02T00:54:57.660Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1e8oyz",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Great Rebalancing Is Coming",
+    "chineseTitle": "A Great Rebalancing Is Coming",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/great-rebalancing-coming",
+    "publishedAt": "2026-08-28T04:00:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.237Z",
+    "rawDescription": "Who will bear the costs of a global trade adjustment?",
+    "contentSnippet": "Who will bear the costs of a global trade adjustment?",
+    "summaryZh": "基于标题/摘要生成：Who will bear the costs of a global 贸易 adjustment",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/topic/Trade/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xh7lwa",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jbFhXbUlkcDVoMnFSVE8wZW1GV0NDU21wVzVfYTd0UURfSkxEZzZFSnBlalpWZU93Qk5pU1FHUTU3UjMzcXpPVVFnelVxY1dHbHo2b2Z2dnFpdG1KekhSdnNROTh0akE4Nkdn?oc=5",
+    "publishedAt": "2026-08-25T18:37:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:57.660Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1olm4a",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China",
+    "chineseTitle": "Iran as 中国’s “Counter-Pivot”：The Strategic Implications o…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONy1adTNvODR2Vnhra24tWF9tbl9sOFJ1NFZpc0NHMi1qelB1VnhlcHpMUGJhMVpDZ3RLNjl3TFpIX3ZzajJSOXFSQTlVWDBZOFZCaTExUG9hS01mSEhzVTNWSzNHVVNNV3l5RXRpb0ZFRjRZWEFqYjllOHdaTTlEMzhTb2lPUjlsWl9tb3ZrTzZlX2owVU5aTnE1bGNDb25vR0RpMTFPR2ZDeEQ1THJVVU82T09KRGxZaVhzbHl1U0lWOG5yVW1tODhzNW5UejZfMGZucXM4dTJGamJfVjNuR05OcWZoMkFvSnhaWA?oc=5",
+    "publishedAt": "2026-06-18T07:00:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:57.173Z",
+    "rawDescription": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "contentSnippet": "Iran as China’s “Counter-Pivot”: The Strategic Implications of Operation Epic Fury for America’s Competition with China America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Iran as 中国’s “Counter-Pivot”：The Strategic Implications of Operation Epic Fury for America’s Competition with 中国 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "\": The Strategic Implications of Operation Epic Fury for America's Competition with China America First Policy Institute Iran as China's \"Counter-Pivot\": The Strategic Implications of Operation Epic Fury for Am"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:57.171Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "mmit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | Nation"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:39.570Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.516Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.517Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-02T00:54:39.569Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.387Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-02T00:54:29.385Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
