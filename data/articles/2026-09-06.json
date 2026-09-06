@@ -1,0 +1,1779 @@
+[
+  {
+    "id": "art_t6vxt",
+    "sourceName": "Fox News",
+    "sourceDomain": "radio.foxnews.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Trump Calls on Iranian People to Rise Up and Fight",
+    "chineseTitle": "Trump Calls on Iranian People to Rise Up and Fight",
+    "originalUrl": "https://radio.foxnews.com/2026/09/04/trump-calls-on-iranian-people-to-rise-up-and-fight/",
+    "publishedAt": "2026-09-06T00:45:41.595Z",
+    "fetchedAt": "2026-09-06T00:48:29.638Z",
+    "rawDescription": "",
+    "contentSnippet": "Trump Calls on Iranian People to Rise Up and Fight",
+    "summaryZh": "基于标题/摘要生成：Trump Calls on Iranian People to Rise Up and Fight",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Calls on Iranian People to Rise Up and Fight Trump Calls on Iranian People to Rise Up a"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Calls on Iranian People to Rise Up and Fight Trump Calls on Iranian People to Rise Up and"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "domain:foxnews.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_o1p7m",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump administration overhauls immigration courts in Mass., appoints over a dozen new judges lacking immigration law experience",
+    "chineseTitle": "Trump administration overhauls immigration courts in Mass…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/05/metro/immigration-judges-trump/",
+    "publishedAt": "2026-09-05T23:54:48.676Z",
+    "fetchedAt": "2026-09-06T00:44:32.206Z",
+    "rawDescription": "公开 sitemap 条目：Trump administration overhauls immigration courts in Mass., appoints over a dozen new judges lacking immigration law experience",
+    "contentSnippet": "公开 sitemap 条目：Trump administration overhauls immigration courts in Mass., appoints over a dozen new judges lacking immigration law experience",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump administration overhauls immigration courts in Mass.，appoints over a dozen new judges lacking immigration law experience",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump administration overhauls immigration courts in Mass., appoints over a dozen new judges la"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump administration overhauls immigration courts in Mass., appoints over a dozen new judges la"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Trump administration overhauls immigration courts in Mass., appoints over a dozen new judges lacking immigrati"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_b4m8ww",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Pop Watson’s return, a major Tabor transfer, D1 commitments, and Taina Mair Day among HS sports takeaways",
+    "chineseTitle": "Pop Watson’s return，a major Tabor transfer，D1 commitments…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/05/sports/massachusetts-high-school-sports-highlights/",
+    "publishedAt": "2026-09-05T22:56:22.732Z",
+    "fetchedAt": "2026-09-06T00:44:32.211Z",
+    "rawDescription": "公开 sitemap 条目：Pop Watson’s return, a major Tabor transfer, D1 commitments, and Taina Mair Day among HS sports takeaways",
+    "contentSnippet": "公开 sitemap 条目：Pop Watson’s return, a major Tabor transfer, D1 commitments, and Taina Mair Day among HS sports takeaways",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Pop Watson’s return，a major Tabor transfer，D1 commitments，and Taina Mair Day among HS sports takeaways",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_lag0bv",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
+    "chineseTitle": "Trump Officials Draft Plan to Pay At-Home Parents，Using F…",
+    "originalUrl": "https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html",
+    "publishedAt": "2026-09-05T22:48:46.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.616Z",
+    "rawDescription": "The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child care subsidies to working parents.",
+    "contentSnippet": "The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child care subsidies to working parents.",
+    "summaryZh": "基于标题/摘要生成：The proposed benefit，a top 政策 priority for Vice President JD Vance，would apply only to married couples and tap a fund intended to provide federal chi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones Coral Davenport"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "rking Ones Coral Davenport The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child car"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "ng Ones Coral Davenport The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child car"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones Coral Davenport"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "rking Ones Coral Davenport The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child car"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1w2o5v",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scoop: Republican midterms convention speakers revealed",
+    "chineseTitle": "Scoop：Republican midterms convention speakers revealed",
+    "originalUrl": "https://www.axios.com/2026/09/05/republican-convention-dallas-trump-midterms",
+    "publishedAt": "2026-09-05T22:28:12.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.401Z",
+    "rawDescription": "President Trump and his top allies will share the stage with Republican candidates in some of the nation's most competitive races at next week's GOP midterm convention in Dallas, according to a preliminary list of speakers obtained by Axios. Why it matters: The lineup underscores a central purpose of the convention: firing up Trump voters and getting them to turn out in November, even though the president isn't on the ballot. Driving the news: Trump will speak both nights of the Sept. 9-10 convention, while Vice President Vance will deliver a keynote address on the second night. The lineup also includes Treasury Secretary Scott Bessent, Health Secretary Robert F. Kennedy Jr., former White House press secretary Karoline Leavitt and Donald Trump Jr. House Speaker Mike Johnson, Senate Majori…",
+    "contentSnippet": "President Trump and his top allies will share the stage with Republican candidates in some of the nation's most competitive races at next week's GOP midterm convention in Dallas, according to a preliminary list of speakers obtained by Axios. Why it matters: The lineup underscores a central purpose of the convention: firing up Trump voters and getting them to turn out in November, even though the president isn't on the ballot. Driving the news: Trump will speak both nights of the Sept. 9-10 convention, while Vice President Vance will deliver a keynote address on the second night. The lineup also includes Treasury Secretary Scott Bessent, Health Secretary Robert F. Kennedy Jr., former White House press secretary Karoline Leavitt and Donald Trump Jr. House Speaker Mike Johnson, Senate Majori…",
+    "summaryZh": "基于标题/摘要生成：President Trump and his top allies will share the stage with Republican candidates in some of the nation's most competitive races at next week's GOP…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "JD·万斯",
+      "斯科特·贝森特",
+      "迈克·约翰逊"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Secretary Robert F. Kennedy Jr., former White House press secretary Karoline Leavitt and Donald Trump Jr. House Speaker Mike Johnson, Senate Majori… President Trump and his top allies will sh"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Scoop: Republican midterms convention speakers revealed Alex Isenstadt President Trump and his top allies will share the stage with Republican candidates in some of the nation'"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "the news: Trump will speak both nights of the Sept. 9-10 convention, while Vice President Vance will deliver a keynote address on the second night. The lineup also includes Treasury Sec"
+      },
+      {
+        "personId": "scott-bessent",
+        "nameEn": "Scott Bessent",
+        "nameZh": "斯科特·贝森特",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Scott Bessent",
+        "confidence": "high",
+        "contextSnippet": "eliver a keynote address on the second night. The lineup also includes Treasury Secretary Scott Bessent, Health Secretary Robert F. Kennedy Jr., former White House press secretary Karoline Leav"
+      },
+      {
+        "personId": "scott-bessent",
+        "nameEn": "Scott Bessent",
+        "nameZh": "斯科特·贝森特",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Bessent",
+        "confidence": "low",
+        "contextSnippet": "a keynote address on the second night. The lineup also includes Treasury Secretary Scott Bessent, Health Secretary Robert F. Kennedy Jr., former White House press secretary Karoline Leav"
+      },
+      {
+        "personId": "mike-johnson",
+        "nameEn": "Mike Johnson",
+        "nameZh": "迈克·约翰逊",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "., former White House press secretary Karoline Leavitt and Donald Trump Jr. House Speaker Mike Johnson, Senate Majori… President Trump and his top allies will share the stage with Republican c"
+      },
+      {
+        "personId": "mike-johnson",
+        "nameEn": "Mike Johnson",
+        "nameZh": "迈克·约翰逊",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Speaker Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "nnedy Jr., former White House press secretary Karoline Leavitt and Donald Trump Jr. House Speaker Mike Johnson, Senate Majori… President Trump and his top allies will share the stage with Republican c"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Secretary Robert F. Kennedy Jr., former White House press secretary Karoline Leavitt and Donald Trump Jr. House Speaker Mike Johnson, Senate Majori… President Trump and his top allies will sh"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "Vance",
+        "confidence": "medium",
+        "contextSnippet": "the news: Trump will speak both nights of the Sept. 9-10 convention, while Vice President Vance will deliver a keynote address on the second night. The lineup also includes Treasury Sec"
+      },
+      {
+        "entityId": "scott-bessent",
+        "name": "Scott Bessent",
+        "type": "person",
+        "matchedAlias": "Scott Bessent",
+        "confidence": "high",
+        "contextSnippet": "eliver a keynote address on the second night. The lineup also includes Treasury Secretary Scott Bessent, Health Secretary Robert F. Kennedy Jr., former White House press secretary Karoline Leav"
+      },
+      {
+        "entityId": "mike-johnson",
+        "name": "Mike Johnson",
+        "type": "person",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "., former White House press secretary Karoline Leavitt and Donald Trump Jr. House Speaker Mike Johnson, Senate Majori… President Trump and his top allies will share the stage with Republican c"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "with Republican candidates in some of the nation's most competitive races at next week's GOP midterm convention in Dallas, according to a preliminary list of speakers obtained by Axi"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "includes Treasury Secretary Scott Bessent, Health Secretary Robert F. Kennedy Jr., former White House press secretary Karoline Leavitt and Donald Trump Jr. House Speaker Mike Johnson, Senate"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "e House press secretary Karoline Leavitt and Donald Trump Jr. House Speaker Mike Johnson, Senate Majori… President Trump and his top allies will share the stage with Republican candidate"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Republican Convention Dallas Trump Midterms 公开 sitemap 条目：Republican Convention Dallas Trump Midterms 公开 sitemap 条目：Republic"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "Scott Bessent",
+      "Mike Johnson",
+      "Republican Party",
+      "White House",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tic8x9",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Witkoff and Kushner meet with Putin about ending Ukraine war",
+    "chineseTitle": "Witkoff and Kushner meet with Putin about ending Ukraine…",
+    "originalUrl": "https://www.axios.com/2026/09/05/putin-witkoff-kushner-trump-ukraine-war",
+    "publishedAt": "2026-09-05T22:26:58.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.404Z",
+    "rawDescription": "President Trump envoys Steve Witkoff and Jared Kushner met with Russian President Vladimir Putin at the Kremlin Saturday and discussed U.S. ideas for ending the war in Ukraine. Why it matters: Witkoff and Kushner want to resume direct talks between Russia and Ukraine after negotiations were suspended six months ago and the fighting has escalated ahead of winter. Witkoff and Kushner, who are expected to travel to Kyiv on Sunday, got Russia and Ukraine to agree to a short pause in airstrikes to allow the trip to take place. What they are saying: Putin told Witkoff and Kushner at the top of the three-hour meeting that he has \"full trust\" in the U.S. mediation between Russia and Ukraine. Witkoff thanked Putin for releasing ex-U.S. Marine Robert Gilman and for agreeing to pause airstrikes agai…",
+    "contentSnippet": "President Trump envoys Steve Witkoff and Jared Kushner met with Russian President Vladimir Putin at the Kremlin Saturday and discussed U.S. ideas for ending the war in Ukraine. Why it matters: Witkoff and Kushner want to resume direct talks between Russia and Ukraine after negotiations were suspended six months ago and the fighting has escalated ahead of winter. Witkoff and Kushner, who are expected to travel to Kyiv on Sunday, got Russia and Ukraine to agree to a short pause in airstrikes to allow the trip to take place. What they are saying: Putin told Witkoff and Kushner at the top of the three-hour meeting that he has \"full trust\" in the U.S. mediation between Russia and Ukraine. Witkoff thanked Putin for releasing ex-U.S. Marine Robert Gilman and for agreeing to pause airstrikes agai…",
+    "summaryZh": "基于标题/摘要生成：President Trump envoys Steve Witkoff and Jared Kushner met with Russian President Vladimir Putin at the Kremlin Saturday and discussed U.S. ideas for…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Witkoff and Kushner meet with Putin about ending Ukraine war Barak Ravid President Trump envoys Steve Witkoff and Jared Kushner met with Russian President Vladimir Putin at the K"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Witkoff and Kushner meet with Putin about ending Ukraine war Barak Ravid President Trump envoys Steve Witkoff and Jared Kushner met with Russian President Vladimir Putin at the K"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yzd2ub",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump admin ends $45M support for Namibia HIV program",
+    "chineseTitle": "Trump admin ends $45M support for Namibia HIV program",
+    "originalUrl": "https://thehill.com/policy/international/6073469-us-ends-namibia-hiv-funding/",
+    "publishedAt": "2026-09-05T22:24:04.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.464Z",
+    "rawDescription": "The Trump administration announced it will be ending $45 million in support for Namibia’s HIV response program following two decades of annual payments. The U.S. will provide its final $45 million payment in the 2027 fiscal year as “this support will transition into a technical cooperation model,” according to a Friday joint statement from Namibia’s...",
+    "contentSnippet": "The Trump administration announced it will be ending $45 million in support for Namibia’s HIV response program following two decades of annual payments. The U.S. will provide its final $45 million payment in the 2027 fiscal year as “this support will transition into a technical cooperation model,” according to a Friday joint statement from Namibia’s...",
+    "summaryZh": "基于标题/摘要生成：The Trump administration announced it will be ending $45 million in support for Namibia’s HIV response program following two decades of annual paymen…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump admin ends $45M support for Namibia HIV program Mira Bhakta The Trump administration anno"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump admin ends $45M support for Namibia HIV program Mira Bhakta The Trump administration anno"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Trump admin ends $45M support for Namibia HIV program Mira Bhakta The Trump administration announced it will be ending $45 million in support for Namibia's HIV response program fol"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wrz93r",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "North Carolina Dem Senate candidate added former Bloods gang member to criminal justice task force: report",
+    "chineseTitle": "North Carolina Dem 参议院 candidate added former Bloods gang…",
+    "originalUrl": "https://www.foxnews.com/politics/north-carolina-dem-senate-candidate-added-former-bloods-gang-member-criminal-justice-task-force",
+    "publishedAt": "2026-09-05T20:58:24.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.583Z",
+    "rawDescription": "Roy Cooper appointed a convicted Bloods gang member to his criminal justice reform task force in 2020, a Washington Free Beacon report reveals.",
+    "contentSnippet": "Roy Cooper appointed a convicted Bloods gang member to his criminal justice reform task force in 2020, a Washington Free Beacon report reveals.",
+    "summaryZh": "基于标题/摘要生成：Roy Cooper appointed a convicted Bloods gang member to his criminal justice reform task force in 2020，a Washington Free Beacon report reveals",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "North Carolina Dem Senate candidate added former Bloods gang member to criminal justice task force: report Roy Coop"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3x7h71",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Super PAC Will Spend $10 Million on Texas Senate Race",
+    "chineseTitle": "Trump’s Super PAC Will Spend $10 Million on Texas 参议院 Race",
+    "originalUrl": "https://www.nytimes.com/2026/09/05/us/politics/trump-maga-inc-super-pac.html",
+    "publishedAt": "2026-09-05T20:27:59.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.615Z",
+    "rawDescription": "A financial filing announcing the TV and digital ad buy is the first general election spending by MAGA Inc. The group intends to boost the Republican nominee, Ken Paxton.",
+    "contentSnippet": "A financial filing announcing the TV and digital ad buy is the first general election spending by MAGA Inc. The group intends to boost the Republican nominee, Ken Paxton.",
+    "summaryZh": "基于标题/摘要生成：A financial filing announcing the TV and digital ad buy is the first general 选举 spending，Ken Paxton",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Super PAC Will Spend $10 Million on Texas Senate Race Theodore Schleifer A financial fi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Super PAC Will Spend $10 Million on Texas Senate Race Theodore Schleifer A financial fi"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Super PAC Will Spend $10 Million on Texas Senate Race Theodore Schleifer A financial filing announcing the TV and digital ad buy is the fi"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_46cbwv",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Huckabee calls Israeli settler violence in West Bank an &#039;act of terror&#039;",
+    "chineseTitle": "Huckabee calls Israeli settler violence in West Bank an &…",
+    "originalUrl": "https://thehill.com/policy/international/6073317-huckabee-calls-settlers-terrorists/",
+    "publishedAt": "2026-09-05T19:16:59.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.465Z",
+    "rawDescription": "U.S. Ambassador to Israel Mike Huckabee on Wednesday called Israeli settler violence in the West Bank an “act of terror,” condemning their actions. Huckabee said his visit was for the U.S. citizens “who live in Turmusayya and other communities across this region” who are “disturbed by people who have created extraordinary challenges that are unfair...",
+    "contentSnippet": "U.S. Ambassador to Israel Mike Huckabee on Wednesday called Israeli settler violence in the West Bank an “act of terror,” condemning their actions. Huckabee said his visit was for the U.S. citizens “who live in Turmusayya and other communities across this region” who are “disturbed by people who have created extraordinary challenges that are unfair...",
+    "summaryZh": "基于标题/摘要生成：U.S. Ambassador to Israel Mike Huckabee on Wednesday called Israeli settler violence in the West Bank an “act of terror，” condemning their actions. H…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_h0ibn1",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Judge allows 'homewrecker' lawsuit against former Sen Kyrsten Sinema to move forward",
+    "chineseTitle": "Judge allows 'homewrecker' lawsuit against former Sen Kyr…",
+    "originalUrl": "https://www.foxnews.com/politics/judge-allows-homewrecker-lawsuit-former-sen-kyrsten-sinema-move-forward",
+    "publishedAt": "2026-09-05T18:38:58.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.584Z",
+    "rawDescription": "Former U.S. Sen. Kyrsten Sinema can be sued under North Carolina's alienation of affection law after a judge ruled her messages establish jurisdiction.",
+    "contentSnippet": "Former U.S. Sen. Kyrsten Sinema can be sued under North Carolina's alienation of affection law after a judge ruled her messages establish jurisdiction.",
+    "summaryZh": "基于标题/摘要生成：Former U.S. Sen. Kyrsten Sinema can be sued under North Carolina's alienation of affection law after a judge ruled her messages establish jurisdiction",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_41qxq8",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Backlash Against Data Centers",
+    "chineseTitle": "The Backlash Against Data Centers",
+    "originalUrl": "https://www.theatlantic.com/national/2026/09/backlash-ai-washington-week/688540/",
+    "publishedAt": "2026-09-05T14:24:35.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.657Z",
+    "rawDescription": "The Atlantic staff writer Josh Tyrangiel joined for a special edition of Washington Week With The Atlantic to discuss the future of AI.",
+    "contentSnippet": "The Atlantic staff writer Josh Tyrangiel joined for a special edition of Washington Week With The Atlantic to discuss the future of AI.",
+    "summaryZh": "基于标题/摘要生成：The Atlantic staff writer Josh Tyrangiel joined for a special edition of Washington Week With The Atlantic to discuss the future of AI",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_is2znp",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "J. D. Vance’s Disingenuous Defense of Tucker Carlson",
+    "chineseTitle": "J. D. Vance’s Disingenuous Defense of Tucker Carlson",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/09/vance-carlson-political-friendship/688533/",
+    "publishedAt": "2026-09-05T11:00:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.659Z",
+    "rawDescription": "The vice president’s relationship with a conspiracy theorist is, at bottom, a political partnership, not a personal friendship.",
+    "contentSnippet": "The vice president’s relationship with a conspiracy theorist is, at bottom, a political partnership, not a personal friendship.",
+    "summaryZh": "基于标题/摘要生成：The vice president’s relationship with a conspiracy theorist is，at bottom，a political partnership，not a personal friendship",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "J. D. Vance’s Disingenuous Defense of Tucker Carlson Jonathan Chait The vice president’s relationship"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "Vance",
+        "confidence": "medium",
+        "contextSnippet": "J. D. Vance's Disingenuous Defense of Tucker Carlson Jonathan Chait The vice president's relationship"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "JD Vance",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"JD Vance\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_flub04",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed.",
+    "chineseTitle": "Opinion | Trump’s new plan to lower interest rates? Extor…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dGZDNHNGtqTGc0SWdKZWpQd2dXTnh4Wl9NUFNCcFQ1TU4zZFUzSEt1WTlKSFhiU3hJRGo2WTZuS3dYSDRZaHZJZFZYWlhwcC1mWlRpUHhBVFB0M0hmcnhiZlFvWlZFS1VNX0dSMXgtZnJjNVBkLTM2TWk4WnVzSTVybWJGT3dzN2NTRFUyVU5Tamd3OUN5alNySnRGX2lDVUxCejZaWFp1LTNRZ1E?oc=5",
+    "publishedAt": "2026-09-05T05:04:51.000Z",
+    "fetchedAt": "2026-09-06T00:44:49.464Z",
+    "rawDescription": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed. The Washington Post",
+    "contentSnippet": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed. The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Opinion | Trump’s new plan to lower interest rates? Extort the Fed. The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed. Opinion | Trump’s new plan to lower"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Opinion | Trump's new plan to lower interest rates? Extort the Fed. Opinion | Trump's new plan to lower i"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\"",
+      "\"Donald Trump\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qdhjaf",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Milei Renews Argentina’s Falklands Push",
+    "chineseTitle": "Milei Renews Argentina’s Falklands Push",
+    "originalUrl": "https://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/",
+    "publishedAt": "2026-09-04T20:53:25.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.644Z",
+    "rawDescription": "Buenos Aires is taking advantage of fraying ties between the United States and Britain.",
+    "contentSnippet": "Buenos Aires is taking advantage of fraying ties between the United States and Britain.",
+    "summaryZh": "基于标题/摘要生成：Buenos Aires is taking advantage of fraying ties between the United States and Britain",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k5kx76",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Was the War on Terror?",
+    "chineseTitle": "What Was the War on Terror",
+    "originalUrl": "https://foreignpolicy.com/2026/09/04/war-on-terror-bush-obama-iraq-afghanistan-al-qaeda-history/",
+    "publishedAt": "2026-09-04T19:00:06.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.645Z",
+    "rawDescription": "A defining period in U.S. foreign policy has ended, but it remains misunderstood.",
+    "contentSnippet": "A defining period in U.S. foreign policy has ended, but it remains misunderstood.",
+    "summaryZh": "基于标题/摘要生成：A defining period in U.S. foreign 政策 has ended，but it remains misunderstood",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gvygci",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘Not feasible’: With ballots already in the mail, election officials say it is too late for Trump’s USPS order",
+    "chineseTitle": "‘Not feasible’：With ballots already in the mail，选举 offici…",
+    "originalUrl": "https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234",
+    "publishedAt": "2026-09-04T18:00:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.525Z",
+    "rawDescription": "While the Trump administration's bid to overhaul mail-in voting remains blocked by the lower courts, North Carolina will be the first state to send ballots on Friday.",
+    "contentSnippet": "While the Trump administration's bid to overhaul mail-in voting remains blocked by the lower courts, North Carolina will be the first state to send ballots on Friday.",
+    "summaryZh": "基于标题/摘要生成：While the Trump administration's bid to overhaul mail-in voting remains blocked by the lower courts，North Carolina will be the first state to send ba…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ot feasible’: With ballots already in the mail, election officials say it is too late for Trump’s USPS order By Elleiana Green While the Trump administration's bid to overhaul mail-in v"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "ot feasible': With ballots already in the mail, election officials say it is too late for Trump's USPS order By Elleiana Green While the Trump administration's bid to overhaul mail-in v"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "election officials say it is too late for Trump's USPS order By Elleiana Green While the Trump administration's bid to overhaul mail-in voting remains blocked by the lower courts, North Carolina will"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g3gwq4",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The nation’s cartoonists on the week in politics",
+    "chineseTitle": "The nation’s cartoonists on the week in politics",
+    "originalUrl": "https://www.politico.com/gallery/2026/09/04/the-nations-cartoonists-on-the-week-in-politics-01064524",
+    "publishedAt": "2026-09-04T09:00:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.528Z",
+    "rawDescription": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "contentSnippet": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "summaryZh": "基于标题/摘要生成：Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles，memes…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rg968a",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Taiwan Can Win the Strait",
+    "chineseTitle": "How 台湾 Can Win the Strait",
+    "originalUrl": "https://www.foreignaffairs.com/taiwan/how-taiwan-can-win-strait",
+    "publishedAt": "2026-09-04T04:00:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.453Z",
+    "rawDescription": "A nimbler navy can deny China.",
+    "contentSnippet": "A nimbler navy can deny China.",
+    "summaryZh": "基于标题/摘要生成：A nimbler navy can deny 中国",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "taiwan",
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "issue"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "China Taiwan"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_2wpu88",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "GOP-led House scraps two weeks of work ahead of midterms",
+    "chineseTitle": "GOP-led 众议院 scraps two weeks of work ahead of midterms",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2Z0N1hvZHJwWEJPazd6eXJSdmRDYW1TUC02ZENiRE1QOG9aUHNKMnFXYklwRUg0dm5SS0FlSEQ4NURUZ19qa0JNT2pVQktzdmFnOF9IOWViOG9ReW0xUEFPdDNIaGZKRW5MaktWd1o5SjRmLWpiSDFjUXZuMnZ3NUdyTU14Nk45eDR0bXR6OXpTeUFmc29FLTdPVUVLRDdiaVdMUw?oc=5",
+    "publishedAt": "2026-09-04T01:38:58.000Z",
+    "fetchedAt": "2026-09-06T00:44:49.483Z",
+    "rawDescription": "GOP-led House scraps two weeks of work ahead of midterms The Washington Post",
+    "contentSnippet": "GOP-led House scraps two weeks of work ahead of midterms The Washington Post",
+    "summaryZh": "基于标题/摘要生成：GOP-led 众议院 scraps two weeks of work ahead of midterms The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "GOP-led House scraps two weeks of work ahead of midterms GOP-led House scraps two weeks of wo"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Mike Johnson"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Mike Johnson\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ovu6v",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Does the World Really View China?",
+    "chineseTitle": "How Does the World Really View 中国",
+    "originalUrl": "https://www.foreignaffairs.com/china/how-does-world-really-view-china",
+    "publishedAt": "2026-09-02T04:00:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.455Z",
+    "rawDescription": "The trouble with overestimating Beijing’s soft power.",
+    "contentSnippet": "The trouble with overestimating Beijing’s soft power.",
+    "summaryZh": "基于标题/摘要生成：The trouble with overestimating 北京’s soft power",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_iyurb9",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PbHlMU243ZklrOUVtNGVUeGNpUGtOSml5Y0R0OFI1S3F2OEJXdzhWM01QSlppQmVYaURTdVI1VDZ6OFVzc2xDVGZCM0ptaWRTX004YzJ2bUVfUnAtSnNRLU9wcnIzbExkWUhGUnZnQ3VWYkU?oc=5",
+    "publishedAt": "2026-08-31T14:18:28.000Z",
+    "fetchedAt": "2026-09-06T00:44:49.882Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_56fa8r",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security",
+    "chineseTitle": "PRC’s devious ‘cognitive warfare’：Promote 中国 rule while u…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFdOX2R1bUptTElVNHpDS2pDVUF1OGhET29PSTMwSl9ORE5IcHVheHljME1fN2s1dGxkMHFFVUpyYU5GelBvMU8ya1kyU2ZpZ1RNTEpXSG1yeGdHdEhQSXp4QXgzSXVROXJWeUxVYXotR3NQaWFYMDcwSmwwdDVLbzlFNlRMcGI3QzhpSGFteDUxbTYwNWRSRjdQTEZnQkFlUGcwMnZnOU1aZjJBdUd3T3A5b2JQdE0?oc=5",
+    "publishedAt": "2026-07-06T07:00:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:49.456Z",
+    "rawDescription": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "contentSnippet": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：PRC’s devious ‘cognitive warfare’：Promote 中国 rule while undermining 台湾 | Op-Ed | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "gnitive warfare': Promote China rule while undermining Taiwan | Op-Ed | National Security America First Policy Institute PRC's devious 'cognitive warfare': Promote China rule while undermining Taiwan | Op-Ed |"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "America First Policy Institute",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:49.455Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 America First 政策 Institute",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "America First Policy Institute",
+        "confidence": "high",
+        "contextSnippet": "mmit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security America First Policy Institute Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | Nation"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:32.159Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.724Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.725Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-06T00:44:32.158Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.604Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-06T00:44:21.602Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_frfvbn",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sNTdaamZhX2ExS1J6Vm85OUVxRnY5dmRSRjhUNnBwdXlKWmo1cWhzSTNSNFZWUTN6TGMyNW81V29qanQ5RzRZQl9fMHhCVXIxTXhTSDNxaHBTZk9XMk5qLVptSQ?oc=5",
+    "publishedAt": "2022-08-30T15:52:30.000Z",
+    "fetchedAt": "2026-09-06T00:44:49.883Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
