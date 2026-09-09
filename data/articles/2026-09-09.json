@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "art_tx9gau",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "US banning dairy products, most alcoholic beverages, and motorcycles from Canada",
+    "chineseTitle": "US banning dairy products，most alcoholic beverages，and mo…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/08/business/us-canada-trade-war-dairy-alcohol-ban/",
+    "publishedAt": "2026-09-09T00:56:37.988Z",
+    "fetchedAt": "2026-09-09T01:06:55.730Z",
+    "rawDescription": "公开 sitemap 条目：US banning dairy products, most alcoholic beverages, and motorcycles from Canada",
+    "contentSnippet": "公开 sitemap 条目：US banning dairy products, most alcoholic beverages, and motorcycles from Canada",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：US banning dairy products，most alcoholic beverages，and motorcycles from Canada",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_48ti84",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Conflicting court rulings leave Missouri congressional map in chaos",
+    "chineseTitle": "Conflicting court rulings leave Missouri congressional ma…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/08/supreme-court-blocks-missouri-congressional-map-favoring-gop/",
+    "publishedAt": "2026-09-09T00:53:41.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.175Z",
+    "rawDescription": "Supreme Court Justice Brett M. Kavanaugh and a federal judge issued opposite decisions on the fate of a congressional map that favored the GOP, leaving races in limbo.",
+    "contentSnippet": "Supreme Court Justice Brett M. Kavanaugh and a federal judge issued opposite decisions on the fate of a congressional map that favored the GOP, leaving races in limbo.",
+    "summaryZh": "基于标题/摘要生成：Supreme Court Justice Brett M. Kavanaugh and a federal judge issued opposite decisions on the fate of a congressional map that favored the GOP，leavin…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "deral judge issued opposite decisions on the fate of a congressional map that favored the GOP, leaving races in limbo. Supreme Court Justice Brett M. Kavanaugh and a federal judge iss"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6pb1q5",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Wife of top ex-Biden advisor easily advances to House showdown in November",
+    "chineseTitle": "Wife of top ex-Biden advisor easily advances to 众议院 showd…",
+    "originalUrl": "https://www.foxnews.com/politics/wife-top-ex-biden-advisor-easily-advances-house-showdown-november",
+    "publishedAt": "2026-09-09T00:44:29.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.003Z",
+    "rawDescription": "Maggie Goodlander faced challenger Paige Beauchemin in the New Hampshire Democratic primary as the district braces for a reshaped political map.",
+    "contentSnippet": "Maggie Goodlander faced challenger Paige Beauchemin in the New Hampshire Democratic primary as the district braces for a reshaped political map.",
+    "summaryZh": "基于标题/摘要生成：Maggie Goodlander faced challenger Paige Beauchemin in the New Hampshire Democratic primary as the district braces for a reshaped political map",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Wife of top ex-Biden advisor easily advances to House showdown in November Maggie Goodlander faced challenger"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "Wife of top ex-Biden advisor easily advances to House showdown in November Maggie Goodlander faced challenger"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1e3xag",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Maggie Goodlander, Lily Tang Williams projected to win N.H.’s Second Congressional District primaries",
+    "chineseTitle": "Maggie Goodlander，Lily Tang Williams projected to win N.H…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/08/metro/nh-primary-goodlander-tang-williams-second-congressional-district/",
+    "publishedAt": "2026-09-09T00:43:48.315Z",
+    "fetchedAt": "2026-09-09T01:06:55.731Z",
+    "rawDescription": "公开 sitemap 条目：Maggie Goodlander, Lily Tang Williams projected to win N.H.’s Second Congressional District primaries",
+    "contentSnippet": "公开 sitemap 条目：Maggie Goodlander, Lily Tang Williams projected to win N.H.’s Second Congressional District primaries",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Maggie Goodlander，Lily Tang Williams projected to win N.H.’s Second Congressional District primaries",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tnyzr7",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "John E. Sununu Wins Republican Senate Primary in New Hampshire",
+    "chineseTitle": "John E. Sununu Wins Republican 参议院 Primary in New Hampshi…",
+    "originalUrl": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-republican-senate-primary.html",
+    "publishedAt": "2026-09-09T00:31:05.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.036Z",
+    "rawDescription": "The general election race to replace Jeanne Shaheen, a Democrat, could help determine control of the U.S. Senate.",
+    "contentSnippet": "The general election race to replace Jeanne Shaheen, a Democrat, could help determine control of the U.S. Senate.",
+    "summaryZh": "基于标题/摘要生成：The general 选举 race to replace Jeanne Shaheen，a Democrat，could help determine control of the U.S. 参议院",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "John E. Sununu Wins Republican Senate Primary in New Hampshire Emily Davies The general election race to replace Jeanne Shaheen"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g4v8ft",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Establishment Dem defeats socialist challenger in crucial battleground Senate primary",
+    "chineseTitle": "Establishment Dem defeats socialist challenger in crucial…",
+    "originalUrl": "https://www.foxnews.com/politics/establishment-dem-defeats-socialist-challenger-crucial-battleground-senate-primary",
+    "publishedAt": "2026-09-09T00:20:38.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.004Z",
+    "rawDescription": "Chris Pappas defeated Karishma Manzur in the New Hampshire Senate primary, but a heated general election awaits against a former U.S. senator.",
+    "contentSnippet": "Chris Pappas defeated Karishma Manzur in the New Hampshire Senate primary, but a heated general election awaits against a former U.S. senator.",
+    "summaryZh": "基于标题/摘要生成：Chris Pappas defeated Karishma Manzur in the New Hampshire 参议院 primary，but a heated general 选举 awaits against a former U.S. senator",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Establishment Dem defeats socialist challenger in crucial battleground Senate primary Chris Pappas defeated Karishma Manzur in the New Hampshire Senate primary, but a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_re6fj4",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Anthony DiLorenzo, a Trump-Backed Auto Executive, Wins House Primary in New Hampshire",
+    "chineseTitle": "Anthony DiLorenzo，a Trump-Backed Auto Executive，Wins 众议院…",
+    "originalUrl": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-primary-dilorenzo-noveletsky.html",
+    "publishedAt": "2026-09-09T00:10:38.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.035Z",
+    "rawDescription": "Anthony DiLorenzo, an automotive executive who ran with the president’s endorsement, will be the Republican nominee in the First Congressional District.",
+    "contentSnippet": "Anthony DiLorenzo, an automotive executive who ran with the president’s endorsement, will be the Republican nominee in the First Congressional District.",
+    "summaryZh": "基于标题/摘要生成：Anthony DiLorenzo，an automotive executive who ran with the president’s endorsement，will be the Republican nominee in the First Congressional District",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Anthony DiLorenzo, a Trump-Backed Auto Executive, Wins House Primary in New Hampshire Evan Gorelick Anthony DiLorenz"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Anthony DiLorenzo, a Trump-Backed Auto Executive, Wins House Primary in New Hampshire Evan Gorelick Anthony DiLorenz"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qseprl",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump bans some Canadian imports as North America trade war intensifies",
+    "chineseTitle": "Trump bans some Canadian imports as North America 贸易 war…",
+    "originalUrl": "https://www.axios.com/2026/09/08/trump-tariffs-canada-import-ban-alcohol-dairy-motorcycles",
+    "publishedAt": "2026-09-08T23:42:11.000Z",
+    "fetchedAt": "2026-09-09T01:06:40.835Z",
+    "rawDescription": "President Trump said the U.S. would ban Canadian alcohol, some dairy products and large motorcycles, sharply escalating a trade war largely fought with tariffs . Why it matters: The measures deepen the economic rift between countries that have spent decades interlinking commerce, threatening disruption for businesses and consumers on both sides of the border. Zoom in: The import bans take effect Sept. 29, effectively cutting off U.S. market access for the targeted Canadian goods rather than simply making them more expensive. Trump imposed the bans under Section 338 of the Tariff Act of 1930, which allows the president to bar imports from countries that maintain or increase discrimination against U.S. commerce. The White House said on Tuesday it would also expand the existing 50% tariffs t…",
+    "contentSnippet": "President Trump said the U.S. would ban Canadian alcohol, some dairy products and large motorcycles, sharply escalating a trade war largely fought with tariffs . Why it matters: The measures deepen the economic rift between countries that have spent decades interlinking commerce, threatening disruption for businesses and consumers on both sides of the border. Zoom in: The import bans take effect Sept. 29, effectively cutting off U.S. market access for the targeted Canadian goods rather than simply making them more expensive. Trump imposed the bans under Section 338 of the Tariff Act of 1930, which allows the president to bar imports from countries that maintain or increase discrimination against U.S. commerce. The White House said on Tuesday it would also expand the existing 50% tariffs t…",
+    "summaryZh": "基于标题/摘要生成：President Trump said the U.S. would ban Canadian alcohol，some dairy products and large motorcycles，sharply escalating a 贸易 war largely fought with 关税…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump bans some Canadian imports as North America trade war intensifies Courtenay Brown Preside"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump bans some Canadian imports as North America trade war intensifies Courtenay Brown Preside"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "mports from countries that maintain or increase discrimination against U.S. commerce. The White House said on Tuesday it would also expand the existing 50% tariffs t… President Trump said the"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kbc60n",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "U.S. launches strikes on 5 Iranian oil tankers after latest attacks on warship",
+    "chineseTitle": "U.S. launches strikes on 5 Iranian oil tankers after late…",
+    "originalUrl": "https://www.washingtonpost.com/national-security/2026/09/08/us-launches-strikes-5-iranian-oil-tankers-after-latest-attacks-warships/",
+    "publishedAt": "2026-09-08T23:04:26.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.176Z",
+    "rawDescription": "The engagement follows similar violence last week, as Iranian and U.S. forces have continued to trade fire amid stunted diplomatic efforts to end the war.",
+    "contentSnippet": "The engagement follows similar violence last week, as Iranian and U.S. forces have continued to trade fire amid stunted diplomatic efforts to end the war.",
+    "summaryZh": "基于标题/摘要生成：The engagement follows similar violence last week，as Iranian and U.S. forces have continued to 贸易 fire amid stunted diplomatic efforts to end the war",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1j8muw",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump's summer of sabotage",
+    "chineseTitle": "Trump's summer of sabotage",
+    "originalUrl": "https://www.axios.com/2026/09/08/donald-trump-senate-republicans-midterm-convention-trade-canada",
+    "publishedAt": "2026-09-08T22:47:02.000Z",
+    "fetchedAt": "2026-09-09T01:06:40.838Z",
+    "rawDescription": "Congressional Republicans are preparing to share the stage with a president who has spent the August recess complicating their efforts to run their races on their own terms. Why it matters: Republican lawmakers fled Washington for the latter part of the summer, eager to localize their races. But President Trump keeps nationalizing the election. In the process, he's staking out positions that run counter to GOP orthodoxy on issues including beef imports and child care subsidies . Driving the news: The Trump administration's plan to extend federal child care subsidies to families with a stay-at-home parent is the latest policy flashpoint. His call to rename New Mexico is his most recent cultural one. The child care proposal — championed by Vice President Vance — sparked backlash from some c…",
+    "contentSnippet": "Congressional Republicans are preparing to share the stage with a president who has spent the August recess complicating their efforts to run their races on their own terms. Why it matters: Republican lawmakers fled Washington for the latter part of the summer, eager to localize their races. But President Trump keeps nationalizing the election. In the process, he's staking out positions that run counter to GOP orthodoxy on issues including beef imports and child care subsidies . Driving the news: The Trump administration's plan to extend federal child care subsidies to families with a stay-at-home parent is the latest policy flashpoint. His call to rename New Mexico is his most recent cultural one. The child care proposal — championed by Vice President Vance — sparked backlash from some c…",
+    "summaryZh": "基于标题/摘要生成：Congressional 共和党人 are preparing to share the stage with a president who has spent the August recess complicating their efforts to run their races on…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "trade_tariffs",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump's summer of sabotage Congressional Republicans are preparing to share the stage with a p"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "co is his most recent cultural one. The child care proposal — championed by Vice President Vance — sparked backlash from some c… Congressional Republicans are preparing to share the sta"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Donald Trump Senate Republicans Midterm Convention Trade Canada 公开 sitemap 条目：Donald Trump Senate Rep"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's summer of sabotage Congressional Republicans are preparing to share the stage with a pr"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "Vance",
+        "confidence": "medium",
+        "contextSnippet": "o is his most recent cultural one. The child care proposal — championed by Vice President Vance — sparked backlash from some c… Congressional Republicans are preparing to share the stag"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "thodoxy on issues including beef imports and child care subsidies . Driving the news: The Trump administration's plan to extend federal child care subsidies to families with a stay-at-home parent is t"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Trump's summer of sabotage Congressional Republicans are preparing to share the stage with a president who has spent the August recess complic"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Donald Trump Senate Republicans Midterm Convention Trade Canada 公开 sitemap 条目：Donald Trump Senate Repu"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Donald Trump Senate Republicans Midterm Convention Trade Canada 公开 sitemap 条目：Donald Trump Senate Republicans"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team",
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "Trump team",
+      "Republican Party",
+      "Axios",
+      "Congress"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ysscnd",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Missouri’s redistricting in flux after dissonant court rulings",
+    "chineseTitle": "Missouri’s redistricting in flux after dissonant court ru…",
+    "originalUrl": "https://www.politico.com/news/2026/09/08/supreme-court-rejects-missouri-redistricting-bid-01068211",
+    "publishedAt": "2026-09-08T22:09:15.000Z",
+    "fetchedAt": "2026-09-09T01:06:40.950Z",
+    "rawDescription": "A Supreme Court justice rejected a bid to revive Missouri’s pro-GOP redistricting before midterms, but a federal judge practically simultaneously gave the state the OK to continue with the plan.",
+    "contentSnippet": "A Supreme Court justice rejected a bid to revive Missouri’s pro-GOP redistricting before midterms, but a federal judge practically simultaneously gave the state the OK to continue with the plan.",
+    "summaryZh": "基于标题/摘要生成：A Supreme Court justice rejected a bid to revive Missouri’s pro-GOP redistricting before midterms，but a federal judge practically simultaneously gave…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "erstein and Aaron Pellish A Supreme Court justice rejected a bid to revive Missouri's pro-GOP redistricting before midterms, but a federal judge practically simultaneously gave the st"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_sy7o0t",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why Is China’s Officer Corps So Sprawling?",
+    "chineseTitle": "Why Is 中国’s Officer Corps So Sprawling",
+    "originalUrl": "https://foreignpolicy.com/2026/09/08/china-pla-officer-corps-military-ccp/",
+    "publishedAt": "2026-09-08T21:50:07.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.068Z",
+    "rawDescription": "Not every People’s Liberation Army general commands troops.",
+    "contentSnippet": "Not every People’s Liberation Army general commands troops.",
+    "summaryZh": "基于标题/摘要生成：Not every People’s Liberation Army general commands troops",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1ujwdm",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Canada tariffs on US goods take effect amid trade war: What to know",
+    "chineseTitle": "Canada 关税 on US goods take effect amid 贸易 war：What to know",
+    "originalUrl": "https://thehill.com/business/6077430-canada-retaliatory-us-tariffs-impact/",
+    "publishedAt": "2026-09-08T21:49:52.000Z",
+    "fetchedAt": "2026-09-09T01:06:40.896Z",
+    "rawDescription": "Canada’s retaliatory tariffs on an array of U.S. goods went into effect on Tuesday, marking the latest chapter of a weeks-long trade war between the two countries. The \"dollar for dollar\" levies — ranging from 15 percent to 50 percent — impact American products such as milk and cream, steel, aluminum, paper and agricultural equipment. The Canadian government imposed the...",
+    "contentSnippet": "Canada’s retaliatory tariffs on an array of U.S. goods went into effect on Tuesday, marking the latest chapter of a weeks-long trade war between the two countries. The \"dollar for dollar\" levies — ranging from 15 percent to 50 percent — impact American products such as milk and cream, steel, aluminum, paper and agricultural equipment. The Canadian government imposed the...",
+    "summaryZh": "基于标题/摘要生成：Canada’s retaliatory 关税 on an array of U.S. goods went into effect on Tuesday，marking the latest chapter of a weeks-long 贸易 war between the two count…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d1so1v",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Carney: Canada relied &#039;too much&#039; on &#039;easy&#039; economic ties with US",
+    "chineseTitle": "Carney：Canada relied &#039;too much&#039; on &#039;easy&#…",
+    "originalUrl": "https://thehill.com/business/6077085-mark-carney-canada-u-s-easy-ties/",
+    "publishedAt": "2026-09-08T19:17:35.000Z",
+    "fetchedAt": "2026-09-09T01:06:40.898Z",
+    "rawDescription": "Canadian Prime Minister Mark Carney said Tuesday his country has overrelied on \"easy\" economic ties to the U.S., a take he shared as his retaliatory tariffs on American goods went into effect. “The past 40 years has been a period of deeper economic integration with the United States. Truth is, it was easy business, but...",
+    "contentSnippet": "Canadian Prime Minister Mark Carney said Tuesday his country has overrelied on \"easy\" economic ties to the U.S., a take he shared as his retaliatory tariffs on American goods went into effect. “The past 40 years has been a period of deeper economic integration with the United States. Truth is, it was easy business, but...",
+    "summaryZh": "基于标题/摘要生成：Canadian Prime Minister Mark Carney said Tuesday his country has overrelied on \"easy\" economic ties to the U.S.，a take he shared as his retaliatory 关…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nyv4b9",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Medicine Needs to Get Serious About AI",
+    "chineseTitle": "Medicine Needs to Get Serious About AI",
+    "originalUrl": "https://www.theatlantic.com/health/2026/09/artificial-intelligence-autonomous-doctor-medicine/688543/",
+    "publishedAt": "2026-09-08T16:54:01.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.081Z",
+    "rawDescription": "Let the robots try being doctors.",
+    "contentSnippet": "Let the robots try being doctors.",
+    "summaryZh": "基于标题/摘要生成：Let the robots try being doctors",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wi74ml",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "When Mothers Get Arrested for Mothering",
+    "chineseTitle": "When Mothers Get Arrested for Mothering",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/09/karyann-parkinson-children-indpendence/688541/",
+    "publishedAt": "2026-09-08T16:17:00.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.082Z",
+    "rawDescription": "Raising independent kids shouldn’t be this hard.",
+    "contentSnippet": "Raising independent kids shouldn’t be this hard.",
+    "summaryZh": "基于标题/摘要生成：Raising independent kids shouldn’t be this hard",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ok0nra",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Can Trump Make Americans Mine Again?",
+    "chineseTitle": "Can Trump Make Americans Mine Again",
+    "originalUrl": "https://foreignpolicy.com/2026/09/08/critical-minerals-mining-workforce-schools-education/",
+    "publishedAt": "2026-09-08T16:06:24.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.070Z",
+    "rawDescription": "The United States lacks the people to power its critical mineral ambitions.",
+    "contentSnippet": "The United States lacks the people to power its critical mineral ambitions.",
+    "summaryZh": "基于标题/摘要生成：The United States lacks the people to power its critical mineral ambitions",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Can Trump Make Americans Mine Again? Christina Lu The United States lacks the people to power its c"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Can Trump Make Americans Mine Again? Christina Lu The United States lacks the people to power its c"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_df0zji",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Republicans are hoping ‘Trump-a-palooza’ isn’t only about Trump",
+    "chineseTitle": "共和党人 are hoping ‘Trump-a-palooza’ isn’t only about Trump",
+    "originalUrl": "https://www.politico.com/news/2026/09/08/gop-midterm-convention-trump-message-01066258",
+    "publishedAt": "2026-09-08T08:45:00.000Z",
+    "fetchedAt": "2026-09-09T01:06:40.951Z",
+    "rawDescription": "GOP lawmakers said they are counting on the president to draw a contrast with Democrats in Dallas, not prosecute personal grievances.",
+    "contentSnippet": "GOP lawmakers said they are counting on the president to draw a contrast with Democrats in Dallas, not prosecute personal grievances.",
+    "summaryZh": "基于标题/摘要生成：GOP lawmakers said they are counting on the president to draw a contrast with 民主党人 in Dallas，not prosecute personal grievances",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Republicans are hoping ‘Trump-a-palooza’ isn’t only about Trump By Mia McCarthy and Riley Rogerson GOP lawmakers said t"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Republicans are hoping 'Trump-a-palooza' isn't only about Trump By Mia McCarthy and Riley Rogerson GOP lawmakers said t"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "ey Rogerson GOP lawmakers said they are counting on the president to draw a contrast with Democrats in Dallas, not prosecute personal grievances. GOP lawmakers said they are counting on the"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Republicans are hoping 'Trump-a-palooza' isn't only about Trump By Mia McCarthy and Riley Rogerson GO"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "politico-congress https://rss.politico.com/congress.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "site:politico.com Congress China OR Taiwan OR Trump",
+      "\"Democratic Party\" Trump",
+      "\"Republican Party\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_lbbube",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Rise and Fall of Global Jihadism",
+    "chineseTitle": "The Rise and Fall of Global Jihadism",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/rise-and-fall-global-jihadism",
+    "publishedAt": "2026-09-08T04:00:00.000Z",
+    "fetchedAt": "2026-09-09T01:06:40.884Z",
+    "rawDescription": "How America contained—but didn’t end—the terrorist threat.",
+    "contentSnippet": "How America contained—but didn’t end—the terrorist threat.",
+    "summaryZh": "基于标题/摘要生成：How America contained—but didn’t end—the terrorist threat",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qgaace",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Emerging U.S.-China Détente",
+    "chineseTitle": "The Emerging U.S.-中国 Détente",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/emerging-us-china-detente",
+    "publishedAt": "2026-09-07T04:00:00.000Z",
+    "fetchedAt": "2026-09-09T01:06:40.886Z",
+    "rawDescription": "A confident Beijing and a pragmatic Washington can get along.",
+    "contentSnippet": "A confident Beijing and a pragmatic Washington can get along.",
+    "summaryZh": "基于标题/摘要生成：A confident 北京 and a pragmatic Washington can get along",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "U.S.-China",
+        "confidence": "medium",
+        "contextSnippet": "The Emerging U.S.-China Détente Da Wei A confident Beijing and a pragmatic Washington can get along. A confident"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "China policy",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_m4m6ke",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LM3ptSld2ZDNJMG8yS0pUVXM4anhFZ09lblN4Mm0wMkJWSUV3N0NYM0lFTU9wdi1vNjNuX0VvVndETW5NTTl0VWlhclU1VXJmSXg0aDE2c2JfM09yeFpaNHZpYXJTcTZscVhz?oc=5",
+    "publishedAt": "2026-09-07T00:09:55.000Z",
+    "fetchedAt": "2026-09-09T01:07:13.112Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_56fa8r",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security",
+    "chineseTitle": "PRC’s devious ‘cognitive warfare’：Promote 中国 rule while u…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFdOX2R1bUptTElVNHpDS2pDVUF1OGhET29PSTMwSl9ORE5IcHVheHljME1fN2s1dGxkMHFFVUpyYU5GelBvMU8ya1kyU2ZpZ1RNTEpXSG1yeGdHdEhQSXp4QXgzSXVROXJWeUxVYXotR3NQaWFYMDcwSmwwdDVLbzlFNlRMcGI3QzhpSGFteDUxbTYwNWRSRjdQTEZnQkFlUGcwMnZnOU1aZjJBdUd3T3A5b2JQdE0?oc=5",
+    "publishedAt": "2026-07-06T07:00:00.000Z",
+    "fetchedAt": "2026-09-09T01:07:12.642Z",
+    "rawDescription": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security americafirstpolicy.com",
+    "contentSnippet": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：PRC’s devious ‘cognitive warfare’：Promote 中国 rule while undermining 台湾 | Op-Ed | 国家安全 americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_6akfga",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BMlktbTJWM2RaNlpVa3RFUkJCUlV3eGdVV3dLbDZFb2t6R19vdE9XdjlCWlJfbmhHUFNBN0xGVVQweHZld0JJVTVnQlBuOEd0dV9YMnMxYTNERkJlYmc1RVdOUmVnQk92MVY0?oc=5",
+    "publishedAt": "2026-05-26T16:58:03.000Z",
+    "fetchedAt": "2026-09-09T01:07:13.111Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-09-09T01:07:12.641Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security americafirstpolicy.com",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T01:06:55.684Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.150Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.150Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-09T01:06:55.683Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.024Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-09T01:06:41.022Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
