@@ -1,0 +1,1375 @@
+[
+  {
+    "id": "art_358tk2",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Park Service is sprinting through its review of Trump’s arch",
+    "chineseTitle": "Park Service is sprinting through its review of Trump’s a…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/16/nation/park-service-sprint-review-trump-arch/",
+    "publishedAt": "2026-09-17T00:54:08.468Z",
+    "fetchedAt": "2026-09-17T01:12:10.255Z",
+    "rawDescription": "公开 sitemap 条目：Park Service is sprinting through its review of Trump’s arch",
+    "contentSnippet": "公开 sitemap 条目：Park Service is sprinting through its review of Trump’s arch",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Park Service is sprinting through its review of Trump’s arch",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Park Service is sprinting through its review of Trump’s arch 公开 sitemap 条目：Park Service is sprinting through its review of Trump’s arch 公开 sit"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Park Service is sprinting through its review of Trump's arch 公开 sitemap 条目：Park Service is sprinting through its review of Trump's arch 公开 site"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_o06qna",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Don Sweeney says the Bruins will have a captain this season. But the GM is mum for now on the choice.",
+    "chineseTitle": "Don Sweeney says the Bruins will have a captain this seas…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/16/sports/bruins-training-camp-captains-nhl-preseason/",
+    "publishedAt": "2026-09-17T00:28:10.696Z",
+    "fetchedAt": "2026-09-17T01:12:10.257Z",
+    "rawDescription": "公开 sitemap 条目：Don Sweeney says the Bruins will have a captain this season. But the GM is mum for now on the choice.",
+    "contentSnippet": "公开 sitemap 条目：Don Sweeney says the Bruins will have a captain this season. But the GM is mum for now on the choice.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Don Sweeney says the Bruins will have a captain this season. But the GM is mum for now on the choice",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_v08niy",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Modi and Xi’s Meeting Caps a Detente",
+    "chineseTitle": "Modi and Xi’s Meeting Caps a Detente",
+    "originalUrl": "https://foreignpolicy.com/2026/09/16/modi-xi-brics-meeting-india-china-detente/",
+    "publishedAt": "2026-09-17T00:21:25.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.344Z",
+    "rawDescription": "Despite the thaw, India-China rivalry remains inevitable.",
+    "contentSnippet": "Despite the thaw, India-China rivalry remains inevitable.",
+    "summaryZh": "基于标题/摘要生成：Despite the thaw，India-中国 rivalry remains inevitable",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_mjdc00",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Dem insurgent turns on the charm with party establishment as Schumer leaves bitter feud hanging",
+    "chineseTitle": "Dem insurgent turns on the charm with party establishment…",
+    "originalUrl": "https://www.foxnews.com/politics/dem-insurgent-turns-charm-party-establishment-schumer-leaves-bitter-feud-hanging",
+    "publishedAt": "2026-09-17T00:18:57.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.284Z",
+    "rawDescription": "Abdul El-Sayed met with Chuck Schumer and Senate Democrats at DSCC headquarters in Washington, D.C., but few would say if primary wounds had healed.",
+    "contentSnippet": "Abdul El-Sayed met with Chuck Schumer and Senate Democrats at DSCC headquarters in Washington, D.C., but few would say if primary wounds had healed.",
+    "summaryZh": "基于标题/摘要生成：Abdul El-Sayed met with Chuck Schumer and 参议院 民主党人 at DSCC headquarters in Washington，D.C.，but few would say if primary wounds had healed",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "查克·舒默"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "rm with party establishment as Schumer leaves bitter feud hanging Abdul El-Sayed met with Chuck Schumer and Senate Democrats at DSCC headquarters in Washington, D.C., but few would say if prim"
+      },
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "Dem insurgent turns on the charm with party establishment as Schumer leaves bitter feud hanging Abdul El-Sayed met with Chuck Schumer and Senate Democrats at"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "rm with party establishment as Schumer leaves bitter feud hanging Abdul El-Sayed met with Chuck Schumer and Senate Democrats at DSCC headquarters in Washington, D.C., but few would say if prima"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "nt as Schumer leaves bitter feud hanging Abdul El-Sayed met with Chuck Schumer and Senate Democrats at DSCC headquarters in Washington, D.C., but few would say if primary wounds had healed."
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "blishment as Schumer leaves bitter feud hanging Abdul El-Sayed met with Chuck Schumer and Senate Democrats at DSCC headquarters in Washington, D.C., but few would say if primary wounds h"
+      },
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Schumer",
+        "confidence": "medium",
+        "contextSnippet": "Dem insurgent turns on the charm with party establishment as Schumer leaves bitter feud hanging 公开 sitemap 条目：Dem insurgent turns on the charm with party esta"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Chuck Schumer",
+      "Democratic Party",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_v47q3o",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scoop: Trump to hold Iran talks with Gulf leaders next week",
+    "chineseTitle": "Scoop：Trump to hold Iran talks with Gulf leaders next week",
+    "originalUrl": "https://www.axios.com/2026/09/16/trump-iran-talks-gulf-leaders-un",
+    "publishedAt": "2026-09-16T23:40:35.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.090Z",
+    "rawDescription": "President Trump is expected to hold a meeting with Gulf leaders on the sidelines of the UN General Assembly in New York next Tuesday to discuss the next steps in the war with Iran , three sources with direct knowledge tell Axios. Why it matters: The meeting is expected to focus on U.S. ideas for a postwar strategy as Trump and his senior team work on a day-after plan expected to be finalized after the midterms . What we're watching: Israeli Prime Minister Benjamin Netanyahu also wants to meet Trump in New York, but no meeting has been scheduled, an Israeli source said. Flashback: Last year, Trump met during the UN General Assembly with leaders from eight Arab and Muslim countries and presented them with his draft Gaza peace plan. He presented it publicly a week later. A deal to end the wa…",
+    "contentSnippet": "President Trump is expected to hold a meeting with Gulf leaders on the sidelines of the UN General Assembly in New York next Tuesday to discuss the next steps in the war with Iran , three sources with direct knowledge tell Axios. Why it matters: The meeting is expected to focus on U.S. ideas for a postwar strategy as Trump and his senior team work on a day-after plan expected to be finalized after the midterms . What we're watching: Israeli Prime Minister Benjamin Netanyahu also wants to meet Trump in New York, but no meeting has been scheduled, an Israeli source said. Flashback: Last year, Trump met during the UN General Assembly with leaders from eight Arab and Muslim countries and presented them with his draft Gaza peace plan. He presented it publicly a week later. A deal to end the wa…",
+    "summaryZh": "基于标题/摘要生成：President Trump is expected to hold a meeting with Gulf leaders on the sidelines of the UN General Assembly in New York next Tuesday to discuss the n…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Scoop: Trump to hold Iran talks with Gulf leaders next week Barak Ravid President Trump is expected to"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Scoop: Trump to hold Iran talks with Gulf leaders next week Barak Ravid President Trump is expected to"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_x1jzc9",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Johnson-Massie feud boils over: \"Why are we taking days off our calendar?\"",
+    "chineseTitle": "Johnson-Massie feud boils over：\"Why are we taking days of…",
+    "originalUrl": "https://www.axios.com/2026/09/16/johnson-massie-feud-boils-over-why-are-we-taking-days-off-our-calendar",
+    "publishedAt": "2026-09-16T23:14:46.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.093Z",
+    "rawDescription": "Mike Johnson 's decision to send the House home early — again — is fueling an increasingly bitter feud with Rep. Thomas Massie (R-Ky.) over whether the speaker is using the calendar to dodge politically painful votes. Why it matters: The House will now be gone for more than six weeks ahead of the midterms, delaying Massie's effort to force a vote on impeaching Defense Secretary Pete Hegseth over his handling of the Iran war. \"We had the Epstein recess last year. We got the Epstein recess this year, and then we got the Hegseth day off,\" Massie told Axios coming off an hourlong tirade on the House floor Wednesday. Massie's impeachment resolution has dim prospects in the GOP-controlled House, but it would have forced members to go on the record on Hegseth just weeks before the midterms. Driv…",
+    "contentSnippet": "Mike Johnson 's decision to send the House home early — again — is fueling an increasingly bitter feud with Rep. Thomas Massie (R-Ky.) over whether the speaker is using the calendar to dodge politically painful votes. Why it matters: The House will now be gone for more than six weeks ahead of the midterms, delaying Massie's effort to force a vote on impeaching Defense Secretary Pete Hegseth over his handling of the Iran war. \"We had the Epstein recess last year. We got the Epstein recess this year, and then we got the Hegseth day off,\" Massie told Axios coming off an hourlong tirade on the House floor Wednesday. Massie's impeachment resolution has dim prospects in the GOP-controlled House, but it would have forced members to go on the record on Hegseth just weeks before the midterms. Driv…",
+    "summaryZh": "基于标题/摘要生成：Mike Johnson 's decision to send the 众议院 home early — again — is fueling an increasingly bitter feud with Rep. Thomas Massie (R-Ky.) over whether the…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思",
+      "迈克·约翰逊"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "of the midterms, delaying Massie's effort to force a vote on impeaching Defense Secretary Pete Hegseth over his handling of the Iran war. \"We had the Epstein recess last year. We got the Epste"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "e midterms, delaying Massie's effort to force a vote on impeaching Defense Secretary Pete Hegseth over his handling of the Iran war. \"We had the Epstein recess last year. We got the Epste"
+      },
+      {
+        "personId": "mike-johnson",
+        "nameEn": "Mike Johnson",
+        "nameZh": "迈克·约翰逊",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "Johnson-Massie feud boils over: \"Why are we taking days off our calendar?\" Kate Santaliz Mike Johnson 's decision to send the House home early — again — is fueling an increasingly bitter feud"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "of the midterms, delaying Massie's effort to force a vote on impeaching Defense Secretary Pete Hegseth over his handling of the Iran war. \"We had the Epstein recess last year. We got the Epste"
+      },
+      {
+        "entityId": "mike-johnson",
+        "name": "Mike Johnson",
+        "type": "person",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "Johnson-Massie feud boils over: \"Why are we taking days off our calendar?\" Kate Santaliz Mike Johnson 's decision to send the House home early — again — is fueling an increasingly bitter feud"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "de on the House floor Wednesday. Massie's impeachment resolution has dim prospects in the GOP-controlled House, but it would have forced members to go on the record on Hegseth just we"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Pete Hegseth",
+      "Mike Johnson",
+      "Republican Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u74vkc",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House passes bill attempting to lower data center costs",
+    "chineseTitle": "众议院 passes 法案 attempting to lower data center costs",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/16/house-attempts-empower-states-lower-data-center-costs/",
+    "publishedAt": "2026-09-16T23:13:41.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.451Z",
+    "rawDescription": "The bill, one of Congress’s first efforts to rein in the unpopular facilities, was approved with overwhelming bipartisan support but is unlikely to lower prices immediately.",
+    "contentSnippet": "The bill, one of Congress’s first efforts to rein in the unpopular facilities, was approved with overwhelming bipartisan support but is unlikely to lower prices immediately.",
+    "summaryZh": "基于标题/摘要生成：The 法案，one of 美国国会’s first efforts to rein in the unpopular facilities，was approved with overwhelming bipartisan support but is unlikely to lower pri…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china",
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "House passes bill attempting to lower data center costs Anna Liss-Roy The bill, one of Congress's first efforts to rein in the unpopular facilities, was approved with overwhelming bipar"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tljbbf",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Park Service Steamrolls Through Review of Trump’s Arch",
+    "chineseTitle": "Park Service Steamrolls Through Review of Trump’s Arch",
+    "originalUrl": "https://www.nytimes.com/2026/09/16/upshot/trump-arch-washington.html",
+    "publishedAt": "2026-09-16T23:09:59.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.315Z",
+    "rawDescription": "Despite objections from preservationists, final approval for the 250-foot-tall monument appears on track for November.",
+    "contentSnippet": "Despite objections from preservationists, final approval for the 250-foot-tall monument appears on track for November.",
+    "summaryZh": "基于标题/摘要生成：Despite objections from preservationists，final approval for the 250-foot-tall monument appears on track for November",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Park Service Steamrolls Through Review of Trump’s Arch Emily Badger Despite objections from preservationists, final approval for the 250-"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Park Service Steamrolls Through Review of Trump's Arch Emily Badger Despite objections from preservationists, final approval for the 250-"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s0gjjx",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Lawmakers say they are standing at the gates against 'Trojan horses' promoting malign foreign interests",
+    "chineseTitle": "Lawmakers say they are standing at the gates against 'Tro…",
+    "originalUrl": "https://www.foxnews.com/politics/lawmakers-standing-gates-against-trojan-horses-promoting-malign-foreign-interests",
+    "publishedAt": "2026-09-16T23:05:04.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.285Z",
+    "rawDescription": "House Foreign Affairs Committee members allege CodePink and other groups serve as \"Trojan horses\" for foreign influence, calling for transparency and FARA disclosure.",
+    "contentSnippet": "House Foreign Affairs Committee members allege CodePink and other groups serve as \"Trojan horses\" for foreign influence, calling for transparency and FARA disclosure.",
+    "summaryZh": "基于标题/摘要生成：众议院 Foreign Affairs Committee members allege CodePink and other groups serve as \"Trojan horses\" for foreign influence，calling for transparency and FA…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xyo977",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House Passes Bill Taking Aim at Data Center Electricity Costs",
+    "chineseTitle": "众议院 Passes 法案 Taking Aim at Data Center Electricity Costs",
+    "originalUrl": "https://www.nytimes.com/2026/09/16/us/politics/house-bill-data-center-ai-energy.html",
+    "publishedAt": "2026-09-16T22:58:20.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.316Z",
+    "rawDescription": "The measure would direct state regulators to consider rules requiring data centers to cover higher energy costs, but it would not compel them to do so.",
+    "contentSnippet": "The measure would direct state regulators to consider rules requiring data centers to cover higher energy costs, but it would not compel them to do so.",
+    "summaryZh": "基于标题/摘要生成：The measure would direct state regulators to consider rules requiring data centers to cover higher energy costs，but it would not compel them to do so",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nyy2w3",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Kash Patel Refuses to Take a Republican’s Lifeline",
+    "chineseTitle": "Kash Patel Refuses to Take a Republican’s Lifeline",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/09/kash-patel-senate-hearing-bestiality/688658/",
+    "publishedAt": "2026-09-16T22:41:00.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.357Z",
+    "rawDescription": "The FBI director allowed a Senate hearing to turn into a discussion of bestiality.",
+    "contentSnippet": "The FBI director allowed a Senate hearing to turn into a discussion of bestiality.",
+    "summaryZh": "基于标题/摘要生成：The FBI director allowed a 参议院 hearing to turn into a discussion of bestiality",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china",
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Patel Refuses to Take a Republican's Lifeline David A. Graham The FBI director allowed a Senate hearing to turn into a discussion of bestiality. The FBI director allowed a Senate hearin"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kzfapp",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump donor Harold Hamm&#039;s oil company announces Venezuela deal",
+    "chineseTitle": "Trump donor Harold Hamm&#039;s oil company announces Vene…",
+    "originalUrl": "https://thehill.com/policy/energy-environment/6094229-tharold-hamms-continental-venezuela-oil/",
+    "publishedAt": "2026-09-16T22:31:24.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.160Z",
+    "rawDescription": "Trump donor Harold Hamm’s oil company Continental Resources announced a deal Wednesday to drill in Venezuela. Continental signed a memorandum of understanding with Venezuela’s state-run oil company that would allow it to operate in a 126,000 acre-area of the oil-rich Orinoco Belt, according to a press release. \"Continental was built to recognize great resource opportunities and...",
+    "contentSnippet": "Trump donor Harold Hamm’s oil company Continental Resources announced a deal Wednesday to drill in Venezuela. Continental signed a memorandum of understanding with Venezuela’s state-run oil company that would allow it to operate in a 126,000 acre-area of the oil-rich Orinoco Belt, according to a press release. \"Continental was built to recognize great resource opportunities and...",
+    "summaryZh": "基于标题/摘要生成：Trump donor Harold Hamm’s oil company Continental Resources announced a deal Wednesday to drill in Venezuela. Continental signed a memorandum of unde…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump donor Harold Hamm&#039;s oil company announces Venezuela deal Rachel Frazin Trump donor H"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump donor Harold Hamm&#039;s oil company announces Venezuela deal Rachel Frazin Trump donor H"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_y9889k",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Afghan terrorist gets 20 years for role in deadly 2021 attack at Kabul airport",
+    "chineseTitle": "Afghan terrorist gets 20 years for role in deadly 2021 at…",
+    "originalUrl": "https://www.washingtonpost.com/national-security/2026/09/16/afghan-terrorist-gets-20-years-role-deadly-2021-attack-kabul-airport/",
+    "publishedAt": "2026-09-16T21:02:56.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.452Z",
+    "rawDescription": "Thirteen American troops and about 170 Afghans were killed in a suicide bombing at the airport’s Abbey Gate as the U.S. left Afghanistan.",
+    "contentSnippet": "Thirteen American troops and about 170 Afghans were killed in a suicide bombing at the airport’s Abbey Gate as the U.S. left Afghanistan.",
+    "summaryZh": "基于标题/摘要生成：Thirteen American troops and about 170 Afghans were killed in a suicide bombing at the airport’s Abbey Gate as the U.S. left Afghanistan",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_easkzs",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Jay Jacobs gets his first-ever challenger for state Dem chair",
+    "chineseTitle": "Jay Jacobs gets his first-ever challenger for state Dem c…",
+    "originalUrl": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/16/jay-jacobs-gets-his-first-ever-challenger-for-state-dem-chair-01080908",
+    "publishedAt": "2026-09-16T20:52:59.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.227Z",
+    "rawDescription": "JACOB’S LADDER: Otsego County Democratic Chair Caitlin Ogden is launching a bid for the top spot in the state party — the first time its current chair, Jay Jacobs, has had a challenger during his lengthy tenure. Jacobs, who also serves as Nassau County’s Democratic chair, has led the state party under the past three governors, with stints from 2009 to 2012 and 2019 through the present. But those stints have unfolded despite years of grumbling from the party’s progressive flank. “I came in as Otsego County chair about five years ago, and I’ve heard since then that Jay Jacobs has helped the party get by. And he definitely has,” Ogden said. “But I think the political landscape is shifting radically, and it’s time for a new leader to guide the party through the next phase and really deliver o…",
+    "contentSnippet": "JACOB’S LADDER: Otsego County Democratic Chair Caitlin Ogden is launching a bid for the top spot in the state party — the first time its current chair, Jay Jacobs, has had a challenger during his lengthy tenure. Jacobs, who also serves as Nassau County’s Democratic chair, has led the state party under the past three governors, with stints from 2009 to 2012 and 2019 through the present. But those stints have unfolded despite years of grumbling from the party’s progressive flank. “I came in as Otsego County chair about five years ago, and I’ve heard since then that Jay Jacobs has helped the party get by. And he definitely has,” Ogden said. “But I think the political landscape is shifting radically, and it’s time for a new leader to guide the party through the next phase and really deliver o…",
+    "summaryZh": "基于标题/摘要生成：JACOB’S LADDER：Otsego County Democratic Chair Caitlin Ogden is launching a bid for the top spot in the state party — the first time its current chair…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eb2aa9",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Fed Bucks Trump and Raises Interest Rates",
+    "chineseTitle": "The Fed Bucks Trump and Raises Interest Rates",
+    "originalUrl": "https://foreignpolicy.com/2026/09/16/fed-interest-rate-hike-increase-trump-inflation/",
+    "publishedAt": "2026-09-16T20:41:40.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.345Z",
+    "rawDescription": "War-fueled inflation remains too high, the U.S. central bank said, requiring the first hike in three years.",
+    "contentSnippet": "War-fueled inflation remains too high, the U.S. central bank said, requiring the first hike in three years.",
+    "summaryZh": "基于标题/摘要生成：War-fueled inflation remains too high，the U.S. central bank said，requiring the first hike in three years",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Fed Bucks Trump and Raises Interest Rates Keith Johnson War-fueled inflation remains too high, the U.S. c"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Fed Bucks Trump and Raises Interest Rates Keith Johnson War-fueled inflation remains too high, the U.S. c"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a3pa2",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Nature’s Silence Said to Annie Dillard",
+    "chineseTitle": "What Nature’s Silence Said to Annie Dillard",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/09/annie-dillard-obituary/688652/",
+    "publishedAt": "2026-09-16T19:49:00.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.358Z",
+    "rawDescription": "The late writer believed that hearing the natural world is its own form of prayer.",
+    "contentSnippet": "The late writer believed that hearing the natural world is its own form of prayer.",
+    "summaryZh": "基于标题/摘要生成：The late writer believed that hearing the natural world is its own form of prayer",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_umzdgq",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "EU chief wants Canada as bloc&#039;s first associate member",
+    "chineseTitle": "EU chief wants Canada as bloc&#039;s first associate memb…",
+    "originalUrl": "https://thehill.com/policy/international/6092548-ursula-von-der-leyen-mark-carney-european-union-bloc-canada/",
+    "publishedAt": "2026-09-16T14:30:06.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.162Z",
+    "rawDescription": "European Commission President Ursula von der Leyen said Wednesday she wants Canada to join the European Union as an associate member, as the North American nation is embroiled in a trade war with the U.S. “I would like to work with you on opening the door for Canada to being the first associate member of...",
+    "contentSnippet": "European Commission President Ursula von der Leyen said Wednesday she wants Canada to join the European Union as an associate member, as the North American nation is embroiled in a trade war with the U.S. “I would like to work with you on opening the door for Canada to being the first associate member of...",
+    "summaryZh": "基于标题/摘要生成：European Commission President Ursula von der Leyen said Wednesday she wants Canada to join the European Union as an associate member，as the North Ame…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qj2yl0",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump and Xi Can’t Stop the U.S.-China Spiral",
+    "chineseTitle": "Trump and Xi Can’t Stop the U.S.-中国 Spiral",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell",
+    "publishedAt": "2026-09-16T04:00:00.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.147Z",
+    "rawDescription": "The delusions of summitry and the limits of personalist diplomacy.",
+    "contentSnippet": "The delusions of summitry and the limits of personalist diplomacy.",
+    "summaryZh": "基于标题/摘要生成：The delusions of summitry and the limits of personalist diplomacy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump and Xi Can’t Stop the U.S.-China Spiral Orville Schell The delusions of summitry and the"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump and Xi Can't Stop the U.S.-China Spiral Orville Schell The delusions of summitry and the"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "U.S.-China",
+        "confidence": "medium",
+        "contextSnippet": "Trump and Xi Can't Stop the U.S.-China Spiral Orville Schell The delusions of summitry and the limits of personalist diplomacy."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "China policy",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_izf91o",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Department of Investigation eyes NYPD disability pensions",
+    "chineseTitle": "Department of Investigation eyes NYPD disability pensions",
+    "originalUrl": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/15/department-of-investigation-eyes-nypd-disability-pensions-01078076",
+    "publishedAt": "2026-09-15T21:28:42.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.231Z",
+    "rawDescription": "HELP! I’VE FALLEN AND I CAN GET UP: A report from the New York City Department of Investigation confirmed today what many political watchers have long suspected — that the city’s police pension system is ripe for abuse. The Police Pension Fund doles out retirement payments to all NYPD officers and, in fiscal year 2025, paid $935 million to officers who qualified for accident disability retirement — meaning they were injured on the job and unable to perform their duties. While DOI Commissioner Nadia Shihata said injured officers should be fairly compensated, her office found the pension system assigns this distinction — which boosts pension payments by 50% and allows officers to receive 75% of their average pay — without considering an officer’s specific job duties. “No New Yorker wants to…",
+    "contentSnippet": "HELP! I’VE FALLEN AND I CAN GET UP: A report from the New York City Department of Investigation confirmed today what many political watchers have long suspected — that the city’s police pension system is ripe for abuse. The Police Pension Fund doles out retirement payments to all NYPD officers and, in fiscal year 2025, paid $935 million to officers who qualified for accident disability retirement — meaning they were injured on the job and unable to perform their duties. While DOI Commissioner Nadia Shihata said injured officers should be fairly compensated, her office found the pension system assigns this distinction — which boosts pension payments by 50% and allows officers to receive 75% of their average pay — without considering an officer’s specific job duties. “No New Yorker wants to…",
+    "summaryZh": "基于标题/摘要生成：HELP! I’VE FALLEN AND I CAN GET UP：A report from the New York City Department of Investigation confirmed today what many political watchers have long…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3slz2q",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Crumbling Defense of Europe",
+    "chineseTitle": "The Crumbling Defense of Europe",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/crumbling-defense-europe",
+    "publishedAt": "2026-09-15T04:00:00.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.150Z",
+    "rawDescription": "Trump has already undermined NATO and allied deterrence.",
+    "contentSnippet": "Trump has already undermined NATO and allied deterrence.",
+    "summaryZh": "基于标题/摘要生成：Trump has already undermined NATO and allied deterrence",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "斯蒂芬·米勒"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Crumbling Defense of Europe Franklin C. Miller, Eric Edelman, Walter B. Slocombe Trump has already undermined NATO and allied deterrence. Trump has already undermined NATO and"
+      },
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Miller",
+        "confidence": "low",
+        "contextSnippet": "The Crumbling Defense of Europe Franklin C. Miller, Eric Edelman, Walter B. Slocombe Trump has already undermined NATO and allied deterrence"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Crumbling Defense of Europe Franklin C. Miller, Eric Edelman, Walter B. Slocombe Trump has already undermined NATO and allied deterrence. Trump has already undermined NATO and"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-17T01:12:10.210Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.425Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.426Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-17T01:12:10.209Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.306Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-17T01:12:01.304Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
