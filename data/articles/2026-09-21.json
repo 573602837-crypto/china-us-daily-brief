@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "art_8dpd0t",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Far right appears to fall short of power in new German elections",
+    "chineseTitle": "Far right appears to fall short of power in new German el…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/20/world/far-right-appears-fall-short-power-new-german-elections/",
+    "publishedAt": "2026-09-21T00:42:58.997Z",
+    "fetchedAt": "2026-09-21T00:56:04.755Z",
+    "rawDescription": "公开 sitemap 条目：Far right appears to fall short of power in new German elections",
+    "contentSnippet": "公开 sitemap 条目：Far right appears to fall short of power in new German elections",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Far right appears to fall short of power in new German elections",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_23c551",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "It’s fitting that the Red Sox had to wait a little longer to celebrate return to playoffs",
+    "chineseTitle": "It’s fitting that the Red Sox had to wait a little longer…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/20/sports/red-sox-rays-playoff-berth/",
+    "publishedAt": "2026-09-21T00:26:09.407Z",
+    "fetchedAt": "2026-09-21T00:56:04.755Z",
+    "rawDescription": "公开 sitemap 条目：It’s fitting that the Red Sox had to wait a little longer to celebrate return to playoffs",
+    "contentSnippet": "公开 sitemap 条目：It’s fitting that the Red Sox had to wait a little longer to celebrate return to playoffs",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：It’s fitting that the Red Sox had to wait a little longer to celebrate return to playoffs",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_acotwp",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Attacks on the Media Are Self-Defeating",
+    "chineseTitle": "Trump’s Attacks on the Media Are Self-Defeating",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/09/trump-press/688725/",
+    "publishedAt": "2026-09-20T21:46:06.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.453Z",
+    "rawDescription": "When the president asserts that all negative coverage is false, he seals his party off from necessary criticism.",
+    "contentSnippet": "When the president asserts that all negative coverage is false, he seals his party off from necessary criticism.",
+    "summaryZh": "基于标题/摘要生成：When the president asserts that all negative coverage is false，he seals his party off from necessary criticism",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Attacks on the Media Are Self-Defeating Jonathan Chait When the president asserts that"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Attacks on the Media Are Self-Defeating Jonathan Chait When the president asserts that"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"Republican Party\" Trump",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bhcm1u",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Exclusive: Beshear says next president must go big on housing",
+    "chineseTitle": "Exclusive：Beshear says next president must go big on hous…",
+    "originalUrl": "https://www.axios.com/2026/09/20/beshear-housing-2028-president",
+    "publishedAt": "2026-09-20T21:40:05.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.303Z",
+    "rawDescription": "Kentucky Gov. Andy Beshear signaled in an interview with Axios that he would put America's housing affordability crisis at the center of his campaign if he ran for president in 2028. Why it matters: It's the latest sign that Beshear, who just kicked off a national book tour, is moving closer to a bid for the White House. Driving the news: Beshear said the next president should pursue a massive housing initiative — with strict guidelines to ensure the money is spent quickly. \"There's a chance for the next presidential administration or the next Congress to make a big, bold investment in housing that could have us building millions of units all over the United States,\" he said. \"We cannot do this in drips and drabs. It can't be mild investments over a period of time.\" Echoing the \"Abundance…",
+    "contentSnippet": "Kentucky Gov. Andy Beshear signaled in an interview with Axios that he would put America's housing affordability crisis at the center of his campaign if he ran for president in 2028. Why it matters: It's the latest sign that Beshear, who just kicked off a national book tour, is moving closer to a bid for the White House. Driving the news: Beshear said the next president should pursue a massive housing initiative — with strict guidelines to ensure the money is spent quickly. \"There's a chance for the next presidential administration or the next Congress to make a big, bold investment in housing that could have us building millions of units all over the United States,\" he said. \"We cannot do this in drips and drabs. It can't be mild investments over a period of time.\" Echoing the \"Abundance…",
+    "summaryZh": "基于标题/摘要生成：Kentucky Gov. Andy Beshear signaled in an interview with Axios that he would put America's housing affordability crisis at the center of his campaign…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "that Beshear, who just kicked off a national book tour, is moving closer to a bid for the White House. Driving the news: Beshear said the next president should pursue a massive housing initia"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "is spent quickly. \"There's a chance for the next presidential administration or the next Congress to make a big, bold investment in housing that could have us building millions of units a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ug610",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Many ex-aides to Harris betting against a 2028 run",
+    "chineseTitle": "Many ex-aides to Harris betting against a 2028 run",
+    "originalUrl": "https://www.axios.com/2026/09/20/kamala-harris-ex-aides-2028-campaign",
+    "publishedAt": "2026-09-20T21:30:06.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.305Z",
+    "rawDescription": "Many of those who know Kamala Harris best think she ultimately won't run for the White House in 2028. Why it matters: What the former vice president decides to do is one of the biggest X factors in the next presidential contest: Early polls suggest Harris is the frontrunner to be the Democratic nominee, and if she opted out, it would scramble the primary. Zoom in: Over the past year, a surprisingly large number of former aides, surrogates and donors to Harris have told Axios they believe she won't launch another campaign. They argue that the moves she's making — hitting the trail for midterm candidates, going on the podcast circuit, and writing a book — might make her look like a contender-in-waiting, but actually amount to her simply trying to maintain influence. Harris has said publicly…",
+    "contentSnippet": "Many of those who know Kamala Harris best think she ultimately won't run for the White House in 2028. Why it matters: What the former vice president decides to do is one of the biggest X factors in the next presidential contest: Early polls suggest Harris is the frontrunner to be the Democratic nominee, and if she opted out, it would scramble the primary. Zoom in: Over the past year, a surprisingly large number of former aides, surrogates and donors to Harris have told Axios they believe she won't launch another campaign. They argue that the moves she's making — hitting the trail for midterm candidates, going on the podcast circuit, and writing a book — might make her look like a contender-in-waiting, but actually amount to her simply trying to maintain influence. Harris has said publicly…",
+    "summaryZh": "基于标题/摘要生成：Many of those who know 哈里斯 best think she ultimately won't run for 白宫 in 2028. Why it matters：What the former vice president decides to do is one of…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Many ex-aides to Harris betting against a 2028 run Holly Otterbein Many of those who know Kamala Harris best think she ultimately won't run for the White House in 2028. Why it matters: What the"
+      },
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "Many ex-aides to Harris betting against a 2028 run Holly Otterbein Many of those who know Kamala Harris best thin"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Many ex-aides to Harris betting against a 2028 run Holly Otterbein Many of those who know Kamala Harris best think she ultimately won't run for the White House in 2028. Why it matters: What the"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "tterbein Many of those who know Kamala Harris best think she ultimately won't run for the White House in 2028. Why it matters: What the former vice president decides to do is one of the bigge"
+      },
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Harris",
+        "confidence": "medium",
+        "contextSnippet": "Many ex-aides to Harris betting against a 2028 run Many ex-aides to Harris betting against a 2028 run Axios Many"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Kamala Harris",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Kamala Harris\""
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dr52s7",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "AI fears burst onto Trump-Xi agenda, but challenges abound",
+    "chineseTitle": "AI fears burst onto Trump-Xi agenda，but challenges abound",
+    "originalUrl": "https://thehill.com/policy/international/6099099-trump-xi-ai-talks-us-china/",
+    "publishedAt": "2026-09-20T21:00:00.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.341Z",
+    "rawDescription": "Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for next week. Trump has dismissed AI’s existential threats as a “hoax” — a view that analysts say aligns with China’s general perspective. Intense competition for primacy and mutual distrust have...",
+    "contentSnippet": "Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and Chinese President Xi Jinping set for next week. Trump has dismissed AI’s existential threats as a “hoax” — a view that analysts say aligns with China’s general perspective. Intense competition for primacy and mutual distrust have...",
+    "summaryZh": "基于标题/摘要生成：Apocalyptic warnings about the danger of uncontrolled artificial intelligence are adding new urgency to talks between President Trump and 中国 Presiden…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "AI fears burst onto Trump-Xi agenda, but challenges abound Laura Kelly Apocalyptic warnings about the danger of unc"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "AI fears burst onto Trump-Xi agenda, but challenges abound Laura Kelly Apocalyptic warnings about the danger of unc"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-technology https://thehill.com/policy/technology/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress",
+      "site:thehill.com China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_juezm2",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Zelensky to meet with Trump in New York this week",
+    "chineseTitle": "Zelensky to meet with Trump in New York this week",
+    "originalUrl": "https://thehill.com/policy/international/6100733-trump-zelensky-nyc-meeting/",
+    "publishedAt": "2026-09-20T20:48:30.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.342Z",
+    "rawDescription": "President Trump and Ukrainian President Volodymyr Zelensky are meeting in New York City this week, the Ukrainian leader said Sunday. “I just spoke with President Trump @POTUS. An important conversation, and we got through a lot. We agreed to meet in New York, and this meeting could change a lot. There is diplomatic momentum,” Zelensky...",
+    "contentSnippet": "President Trump and Ukrainian President Volodymyr Zelensky are meeting in New York City this week, the Ukrainian leader said Sunday. “I just spoke with President Trump @POTUS. An important conversation, and we got through a lot. We agreed to meet in New York, and this meeting could change a lot. There is diplomatic momentum,” Zelensky...",
+    "summaryZh": "基于标题/摘要生成：President Trump and Ukrainian President Volodymyr Zelensky are meeting in New York City this week，the Ukrainian leader said Sunday. “I just spoke wit…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Zelensky to meet with Trump in New York this week Tara Suter President Trump and Ukrainian President Volodymyr Zelens"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Zelensky to meet with Trump in New York this week Tara Suter President Trump and Ukrainian President Volodymyr Zelens"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mz5j6t",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump says planned 250-foot arch will be ‘military complex’ for drones, snipers",
+    "chineseTitle": "Trump says planned 250-foot arch will be ‘military comple…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/20/trump-says-planned-arch-will-be-military-complex-drones-snipers/",
+    "publishedAt": "2026-09-20T20:14:28.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.508Z",
+    "rawDescription": "The president’s post about the 250-foot arch planned near Arlington National Cemetery comes as veterans groups, historic preservationists and others attempt to stop the project.",
+    "contentSnippet": "The president’s post about the 250-foot arch planned near Arlington National Cemetery comes as veterans groups, historic preservationists and others attempt to stop the project.",
+    "summaryZh": "基于标题/摘要生成：The president’s post about the 250-foot arch planned near Arlington National Cemetery comes as veterans groups，historic preservationists and others a…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump says planned 250-foot arch will be ‘military complex’ for drones, snipers Dan Diamond, Ao"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump says planned 250-foot arch will be 'military complex' for drones, snipers Dan Diamond, Ao"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dgaai6",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump to meet with Mamdani in New York amid high-stakes midterm push",
+    "chineseTitle": "Trump to meet with Mamdani in New York amid high-stakes m…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-meet-mamdani-new-york-amid-high-stakes-midterm-push",
+    "publishedAt": "2026-09-20T18:45:41.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.412Z",
+    "rawDescription": "Zohran Mamdani will host Donald Trump at Gracie Mansion on Monday for their third face-to-face meeting to discuss issues affecting NYC residents.",
+    "contentSnippet": "Zohran Mamdani will host Donald Trump at Gracie Mansion on Monday for their third face-to-face meeting to discuss issues affecting NYC residents.",
+    "summaryZh": "基于标题/摘要生成：Zohran Mamdani will host 特朗普 at Gracie Mansion on Monday for their third face-to-face meeting to discuss issues affecting NYC residents",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "p to meet with Mamdani in New York amid high-stakes midterm push Zohran Mamdani will host Donald Trump at Gracie Mansion on Monday for their third face-to-face meeting to discuss issues affec"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump to meet with Mamdani in New York amid high-stakes midterm push Zohran Mamdani will host"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "p to meet with Mamdani in New York amid high-stakes midterm push Zohran Mamdani will host Donald Trump at Gracie Mansion on Monday for their third face-to-face meeting to discuss issues affect"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_geag8s",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Monumental Obsession",
+    "chineseTitle": "Trump’s Monumental Obsession",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/09/trumps-arch-arsenal/688723/",
+    "publishedAt": "2026-09-20T17:17:14.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.454Z",
+    "rawDescription": "The president fantasizes about a capital city full of memorials—to himself.",
+    "contentSnippet": "The president fantasizes about a capital city full of memorials—to himself.",
+    "summaryZh": "基于标题/摘要生成：The president fantasizes about a capital city full of memorials—to himself",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Monumental Obsession Tom Nichols The president fantasizes about a capital city full of"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Monumental Obsession Tom Nichols The president fantasizes about a capital city full of"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ks10l1",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why Trump zeroed in on Greenland, the world’s largest island, mostly covered in ice — in 3 charts",
+    "chineseTitle": "Why Trump zeroed in on Greenland，the world’s largest isla…",
+    "originalUrl": "https://www.foxnews.com/politics/why-trump-zeroed-greenland-worlds-largest-island-mostly-covered-ice-3-charts",
+    "publishedAt": "2026-09-20T16:58:19.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.413Z",
+    "rawDescription": "President Donald Trump says his Greenland deal gives the U.S. permanent control over the island's security while barring China and Russia from Arctic footholds.",
+    "contentSnippet": "President Donald Trump says his Greenland deal gives the U.S. permanent control over the island's security while barring China and Russia from Arctic footholds.",
+    "summaryZh": "基于标题/摘要生成：President 特朗普 says his Greenland deal gives the U.S. permanent control over the island's security while barring 中国 and Russia from Arctic footholds",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "n on Greenland, the world’s largest island, mostly covered in ice — in 3 charts President Donald Trump says his Greenland deal gives the U.S. permanent control over the island's security whil"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Why Trump zeroed in on Greenland, the world’s largest island, mostly covered in ice — in 3 charts"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "n on Greenland, the world's largest island, mostly covered in ice — in 3 charts President Donald Trump says his Greenland deal gives the U.S. permanent control over the island's security while"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_w360ui",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Says His D.C. Arch Would Be a ‘Military Complex’ Housing Drones and Snipers",
+    "chineseTitle": "Trump Says His D.C. Arch Would Be a ‘Military Complex’ Ho…",
+    "originalUrl": "https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html",
+    "publishedAt": "2026-09-20T15:18:26.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.429Z",
+    "rawDescription": "The president’s announcement on Sunday echoed his justification for the White House ballroom: that the project was necessary for national security.",
+    "contentSnippet": "The president’s announcement on Sunday echoed his justification for the White House ballroom: that the project was necessary for national security.",
+    "summaryZh": "基于标题/摘要生成：The president’s announcement on Sunday echoed his justification for 白宫 ballroom：that the project was necessary for 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Says His D.C. Arch Would Be a ‘Military Complex’ Housing Drones and Snipers Zolan Kanno-Y"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Says His D.C. Arch Would Be a 'Military Complex' Housing Drones and Snipers Zolan Kanno-Y"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "olan Kanno-Youngs The president's announcement on Sunday echoed his justification for the White House ballroom: that the project was necessary for national security. The president's announcem"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_w9w8bw",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Exactly Is a Wave Election? And Should Republicans Be on High Alert?",
+    "chineseTitle": "What Exactly Is a Wave 选举? And Should 共和党人 Be on High Ale…",
+    "originalUrl": "https://www.nytimes.com/2026/09/20/upshot/midterm-elections-blue-wave-polling.html",
+    "publishedAt": "2026-09-20T13:40:55.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.430Z",
+    "rawDescription": "How today’s polling numbers compare with the results of some previous midterms.",
+    "contentSnippet": "How today’s polling numbers compare with the results of some previous midterms.",
+    "summaryZh": "基于标题/摘要生成：How today’s polling numbers compare with the results of some previous midterms",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "What Exactly Is a Wave Election? And Should Republicans Be on High Alert? Nate Cohn How today's polling numbers compare with the results of some"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xp9off",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump and sons invest heavily in AI economy as he resists calls for slowdown",
+    "chineseTitle": "Trump and sons invest heavily in AI economy as he resists…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/20/trump-family-large-ai-related-investments-create-possible-conflicts/",
+    "publishedAt": "2026-09-20T09:00:00.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.509Z",
+    "rawDescription": "Trump’s decisions as president on one of the most consequential policy debates of his administration could affect the value of his personal investments.",
+    "contentSnippet": "Trump’s decisions as president on one of the most consequential policy debates of his administration could affect the value of his personal investments.",
+    "summaryZh": "基于标题/摘要生成：Trump’s decisions as president on one of the most consequential 政策 debates of his administration could affect the value of his personal investments",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump and sons invest heavily in AI economy as he resists calls for slowdown Cat Zakrzewski, Sh"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump and sons invest heavily in AI economy as he resists calls for slowdown Cat Zakrzewski, Sh"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_e708se",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America now has a ‘One China, One Taiwan’ policy: TIFA and TIPA will Strengthen it – AFPI",
+    "chineseTitle": "America now has a ‘One 中国，One 台湾’ 政策：TIFA and TIPA will S…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHJ3cUxXNk5IeDgyZnZPWTBxN1hkcll5UnpyNkJveDRJSWVJcndfZ2VLNmNGUVpCU1pKNjNjZmlQLTV5ZklTcU1fc3oxSzRhWUxoc1FPb0xlSUh3NF9feko1Y0lEdGZCOHMyUC1aaEdGa2VRX2M2WFpESDdqNDQ1bnRzVjl6UDI4eHBqODU0TWpQZXpjTUhvdnY1elR6SWZock9kbjhieUFtOERwOUNrQm9rY1F6MlpN?oc=5",
+    "publishedAt": "2026-09-19T22:23:26.000Z",
+    "fetchedAt": "2026-09-21T00:56:24.140Z",
+    "rawDescription": "America now has a ‘One China, One Taiwan’ policy: TIFA and TIPA will Strengthen it – AFPI americafirstpolicy.com",
+    "contentSnippet": "America now has a ‘One China, One Taiwan’ policy: TIFA and TIPA will Strengthen it – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America now has a ‘One 中国，One 台湾’ 政策：TIFA and TIPA will Strengthen it – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "America now has a 'One China, One Taiwan' policy: TIFA and TIPA will Strengthen it – AFPI America now has a 'One China, One Taiwan' policy: TIFA and TIPA will Strengthen it – AFPI"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ky8mxc",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches",
+    "chineseTitle": "Farm-state 共和党人 are having a cow over Trump's beef import…",
+    "originalUrl": "https://www.politico.com/news/2026/09/19/trumps-beef-plan-problem-nebraska-iowa-kansas-texas-01084910",
+    "publishedAt": "2026-09-19T16:00:00.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.378Z",
+    "rawDescription": "The move to import foreign beef infuriated Republicans in farm states facing tough reelections — and gave Democrats and independents a rare opening with rural voters.",
+    "contentSnippet": "The move to import foreign beef infuriated Republicans in farm states facing tough reelections — and gave Democrats and independents a rare opening with rural voters.",
+    "summaryZh": "基于标题/摘要生成：The move to import foreign beef infuriated 共和党人 in farm states facing tough reelections — and gave 民主党人 and independents a rare opening with rural vo…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches By Samuel Benson The move to import foreign bee"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches By Samuel Benson The move to import foreign bee"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "rt foreign beef infuriated Republicans in farm states facing tough reelections — and gave Democrats and independents a rare opening with rural voters. The move to import foreign beef infuri"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches By Samuel Benson Th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_j9fo8w",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The POLITICO Poll Electability Experiment",
+    "chineseTitle": "The POLITICO Poll Electability Experiment",
+    "originalUrl": "https://www.politico.com/f/?id=000001a0-ba1e-d805-aff0-fe7f837b0000",
+    "publishedAt": "2026-09-19T14:43:36.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.378Z",
+    "rawDescription": "Respondents presented with 2 choices of candidates with various traits. Results represent the estimated impact of each trait on likelihood of selection.",
+    "contentSnippet": "Respondents presented with 2 choices of candidates with various traits. Results represent the estimated impact of each trait on likelihood of selection.",
+    "summaryZh": "基于标题/摘要生成：Respondents presented with 2 choices of candidates with various traits. Results represent the estimated impact of each trait on likelihood of selecti…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5lbp8j",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Russia’s Parliamentary Elections Offer Rituals, Not Results",
+    "chineseTitle": "Russia’s Parliamentary Elections Offer Rituals，Not Results",
+    "originalUrl": "https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine/",
+    "publishedAt": "2026-09-18T20:36:44.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.446Z",
+    "rawDescription": "Polling shows that United Russia is all but certain to maintain its power.",
+    "contentSnippet": "Polling shows that United Russia is all but certain to maintain its power.",
+    "summaryZh": "基于标题/摘要生成：Polling shows that United Russia is all but certain to maintain its power",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ubnotp",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "In War, Trump and Putin Are Much Alike",
+    "chineseTitle": "In War，Trump and Putin Are Much Alike",
+    "originalUrl": "https://foreignpolicy.com/2026/09/18/keir-giles-american-overthrow-book-trump-putin-war-iran-ukraine-russia/",
+    "publishedAt": "2026-09-18T18:40:12.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.447Z",
+    "rawDescription": "Washington is emulating Moscow’s ways of fighting wars—and helping it in the process.",
+    "contentSnippet": "Washington is emulating Moscow’s ways of fighting wars—and helping it in the process.",
+    "summaryZh": "基于标题/摘要生成：Washington is emulating Moscow’s ways of fighting wars—and helping it in the process",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "In War, Trump and Putin Are Much Alike Keir Giles Washington is emulating Moscow’s ways of fighting war"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "In War, Trump and Putin Are Much Alike Keir Giles Washington is emulating Moscow's ways of fighting war"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ikakn6",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China’s Purges Are Working as Designed",
+    "chineseTitle": "中国’s Purges Are Working as Designed",
+    "originalUrl": "https://www.foreignaffairs.com/china/chinas-purges-are-working-designed",
+    "publishedAt": "2026-09-17T04:00:00.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.334Z",
+    "rawDescription": "A unique discipline system has helped the party endure.",
+    "contentSnippet": "A unique discipline system has helped the party endure.",
+    "summaryZh": "基于标题/摘要生成：A unique discipline system has helped the party endure",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_qj2yl0",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump and Xi Can’t Stop the U.S.-China Spiral",
+    "chineseTitle": "Trump and Xi Can’t Stop the U.S.-中国 Spiral",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell",
+    "publishedAt": "2026-09-16T04:00:00.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.335Z",
+    "rawDescription": "The delusions of summitry and the limits of personalist diplomacy.",
+    "contentSnippet": "The delusions of summitry and the limits of personalist diplomacy.",
+    "summaryZh": "基于标题/摘要生成：The delusions of summitry and the limits of personalist diplomacy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump and Xi Can’t Stop the U.S.-China Spiral Orville Schell The delusions of summitry and the"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump and Xi Can't Stop the U.S.-China Spiral Orville Schell The delusions of summitry and the"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "U.S.-China",
+        "confidence": "medium",
+        "contextSnippet": "Trump and Xi Can't Stop the U.S.-China Spiral Orville Schell The delusions of summitry and the limits of personalist diplomacy."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "China policy",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_o0swxh",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRFMtQjY2dHRKeXhNTGpUY3FMM2doV2YtcHlOMFpKOEpQWFdraE9nRDA2enRzak96XzVyM3c0aWpiRGhwa1F5OTBYaXZLS2lBM2VPX2pobWUzSGdhR2xkTkozRjlBeG9DWkRYYWlocTBLeWc?oc=5",
+    "publishedAt": "2026-09-14T14:10:11.000Z",
+    "fetchedAt": "2026-09-21T00:56:24.365Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qoyig1",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZVEpHSEEzeF9QSkNnd1dQTkJWQUV1eDUydkdMdFZFVWFlcmJ1RVdpRDFvekhmVTNaak5NOWI3bzlMTDBjWERvVm5fQ2VWTVdKSVZub0tsWndWdEI3T1NTeTZjVTdDeTdqSTJV?oc=5",
+    "publishedAt": "2026-09-07T14:54:07.000Z",
+    "fetchedAt": "2026-09-21T00:56:24.365Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_56fa8r",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security",
+    "chineseTitle": "PRC’s devious ‘cognitive warfare’：Promote 中国 rule while u…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFdOX2R1bUptTElVNHpDS2pDVUF1OGhET29PSTMwSl9ORE5IcHVheHljME1fN2s1dGxkMHFFVUpyYU5GelBvMU8ya1kyU2ZpZ1RNTEpXSG1yeGdHdEhQSXp4QXgzSXVROXJWeUxVYXotR3NQaWFYMDcwSmwwdDVLbzlFNlRMcGI3QzhpSGFteDUxbTYwNWRSRjdQTEZnQkFlUGcwMnZnOU1aZjJBdUd3T3A5b2JQdE0?oc=5",
+    "publishedAt": "2026-07-06T07:00:00.000Z",
+    "fetchedAt": "2026-09-21T00:56:24.140Z",
+    "rawDescription": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security americafirstpolicy.com",
+    "contentSnippet": "PRC’s devious ‘cognitive warfare’: Promote China rule while undermining Taiwan | Op-Ed | National Security americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：PRC’s devious ‘cognitive warfare’：Promote 中国 rule while undermining 台湾 | Op-Ed | 国家安全 americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-21T00:56:04.732Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.494Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.495Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-21T00:56:04.731Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.423Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-21T00:55:56.422Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
