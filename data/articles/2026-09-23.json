@@ -1,0 +1,1936 @@
+[
+  {
+    "id": "art_9i559q",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Did Tottenham Hotspur spill the Bruins’ choice for their new captain on social media?",
+    "chineseTitle": "Did Tottenham Hotspur spill the Bruins’ choice for their…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/22/sports/david-pastrnak-captain-tottenham-hotspur/",
+    "publishedAt": "2026-09-23T00:56:39.982Z",
+    "fetchedAt": "2026-09-23T01:20:13.533Z",
+    "rawDescription": "公开 sitemap 条目：Did Tottenham Hotspur spill the Bruins’ choice for their new captain on social media?",
+    "contentSnippet": "公开 sitemap 条目：Did Tottenham Hotspur spill the Bruins’ choice for their new captain on social media?",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Did Tottenham Hotspur spill the Bruins’ choice for their new captain on social media",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kfph4s",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Kamala Harris says 'attack on DEI is an attack on maternal care' in appearance with El-Sayed",
+    "chineseTitle": "哈里斯 says 'attack on DEI is an attack on maternal care' in…",
+    "originalUrl": "https://www.foxnews.com/politics/kamala-harris-says-attack-dei-attack-maternal-care",
+    "publishedAt": "2026-09-23T00:53:45.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.251Z",
+    "rawDescription": "Harris also accused political leaders who promote “family values\" of hypocrisy while supporting policies she said could worsen the maternal health crisis.",
+    "contentSnippet": "Harris also accused political leaders who promote “family values\" of hypocrisy while supporting policies she said could worsen the maternal health crisis.",
+    "summaryZh": "基于标题/摘要生成：Harris also accused political leaders who promote “family values\" of hypocrisy while supporting policies she said could worsen the maternal health cr…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Kamala Harris says 'attack on DEI is an attack on maternal care' in appearance with El-Sayed Harris al"
+      },
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "Kamala Harris says 'attack on DEI is an attack on maternal care' in appearance with El-Sayed Harris al"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Kamala Harris says 'attack on DEI is an attack on maternal care' in appearance with El-Sayed Harris als"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Kamala Harris",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xyuork",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.",
+    "chineseTitle": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Somet…",
+    "originalUrl": "https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html",
+    "publishedAt": "2026-09-23T00:42:14.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.283Z",
+    "rawDescription": "President Trump signed a Greenland security deal that falls well short of his demands to turn the island into a U.S. territory.",
+    "contentSnippet": "President Trump signed a Greenland security deal that falls well short of his demands to turn the island into a U.S. territory.",
+    "summaryZh": "基于标题/摘要生成：President Trump signed a Greenland security deal that falls well short of his demands to turn the island into a U.S. territory",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less. David E. Sanger, Jeffr"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Once Vowed to 'Own' Greenland. He Settled for Something Much Less. David E. Sanger, Jeffr"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_or993e",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "From Austin to New York, pro-China network fuels week of anti-US protests as Xi meets Trump",
+    "chineseTitle": "From Austin to New York，pro-中国 network fuels week of anti…",
+    "originalUrl": "https://www.foxnews.com/politics/austin-new-york-pro-china-network-fuels-week-anti-us-protests-xi-meets-trump",
+    "publishedAt": "2026-09-23T00:27:06.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.252Z",
+    "rawDescription": "Pro-China groups funded by tech tycoon Neville Roy Singham stage protests from Austin to New York, N.Y., as Trump prepares for Xi Jinping talks.",
+    "contentSnippet": "Pro-China groups funded by tech tycoon Neville Roy Singham stage protests from Austin to New York, N.Y., as Trump prepares for Xi Jinping talks.",
+    "summaryZh": "基于标题/摘要生成：Pro-中国 groups funded by tech tycoon Neville Roy Singham stage protests from Austin to New York，N.Y.，as Trump prepares for Xi Jinping talks",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "From Austin to New York, pro-China network fuels week of anti-US protests as Xi meets Trump Pro-China groups funded by tech tycoon Neville Roy Singham stage protests from Austin to"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "From Austin to New York, pro-China network fuels week of anti-US protests as Xi meets Trump Pro-China groups funded by tech tycoon Neville Roy Singham stage protests from Austin to"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_l8mtwl",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump is back on TV, briefly, as many networks carry his UN speech live",
+    "chineseTitle": "Trump is back on TV，briefly，as many networks carry his UN…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/22/business/trump-is-back-tv-briefly-many-networks-carry-his-un-speech-live/",
+    "publishedAt": "2026-09-23T00:25:02.348Z",
+    "fetchedAt": "2026-09-23T01:20:13.534Z",
+    "rawDescription": "公开 sitemap 条目：Trump is back on TV, briefly, as many networks carry his UN speech live",
+    "contentSnippet": "公开 sitemap 条目：Trump is back on TV, briefly, as many networks carry his UN speech live",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump is back on TV，briefly，as many networks carry his UN speech live",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump is back on TV, briefly, as many networks carry his UN speech live 公开 sitemap 条目：Trump is"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump is back on TV, briefly, as many networks carry his UN speech live 公开 sitemap 条目：Trump is"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nrd31y",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Cites National Security as He Faces Pushback on Press Ban, D.C. Arch and More",
+    "chineseTitle": "Trump Cites 国家安全 as He Faces Pushback on Press Ban，D.C. A…",
+    "originalUrl": "https://www.nytimes.com/2026/09/22/us/politics/trump-arch-national-security.html",
+    "publishedAt": "2026-09-23T00:00:27.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.284Z",
+    "rawDescription": "The president is increasingly invoking the rationale while facing legal challenges to his plans, even in more curious cases like his triumphal arch, which he says will now include snipers and drones.",
+    "contentSnippet": "The president is increasingly invoking the rationale while facing legal challenges to his plans, even in more curious cases like his triumphal arch, which he says will now include snipers and drones.",
+    "summaryZh": "基于标题/摘要生成：The president is increasingly invoking the rationale while facing legal challenges to his plans，even in more curious cases like his triumphal arch，wh…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Cites National Security as He Faces Pushback on Press Ban, D.C. Arch and More Luke Broadw"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Cites National Security as He Faces Pushback on Press Ban, D.C. Arch and More Luke Broadw"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7b4ysz",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "FBI investigating claims that a major cybercrime group stole sensitive personnel data",
+    "chineseTitle": "FBI investigating claims that a major cybercrime group st…",
+    "originalUrl": "https://www.axios.com/2026/09/22/shinyhunters-fbi-employees-data-hack",
+    "publishedAt": "2026-09-22T23:59:20.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.066Z",
+    "rawDescription": "A notorious cybercrime group is claiming they stole more than 2 terabytes of data that includes detailed personal information about thousands of FBI employees and job applicants. Why it matters : Cybercriminals and state-sponsored attackers have penetrated U.S. IT systems for years, but stealing detailed and sensitive information about FBI employees is brazen, cyber experts told Axios. Cybercriminals are known to trade leaked information on the dark web, a prospect that would leave the data up for grabs from the highest bidder. Driving the news : ShinyHunters, a group that's broken into numerous institutions, said in a post on its dark-web site Tuesday that it stole \"very sensitive data on almost ALL FBI agents and individuals who filed an application with the FBI for a job.\" An FBI spoke…",
+    "contentSnippet": "A notorious cybercrime group is claiming they stole more than 2 terabytes of data that includes detailed personal information about thousands of FBI employees and job applicants. Why it matters : Cybercriminals and state-sponsored attackers have penetrated U.S. IT systems for years, but stealing detailed and sensitive information about FBI employees is brazen, cyber experts told Axios. Cybercriminals are known to trade leaked information on the dark web, a prospect that would leave the data up for grabs from the highest bidder. Driving the news : ShinyHunters, a group that's broken into numerous institutions, said in a post on its dark-web site Tuesday that it stole \"very sensitive data on almost ALL FBI agents and individuals who filed an application with the FBI for a job.\" An FBI spoke…",
+    "summaryZh": "基于标题/摘要生成：A notorious cybercrime group is claiming they stole more than 2 terabytes of data that includes detailed personal information about thousands of FBI…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_500va9",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "GOP breaking with an unpopular Trump",
+    "chineseTitle": "GOP breaking with an unpopular Trump",
+    "originalUrl": "https://www.axios.com/2026/09/22/republicans-trump-congresss-iran-diesel",
+    "publishedAt": "2026-09-22T23:58:49.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.069Z",
+    "rawDescription": "Congressional Republicans are increasingly breaking with an unpopular president on foreign policy and pocketbook issues as they try to stop their majorities from slipping away. Why it matters: They aren't engaged in a full-scale revolt against President Trump, but some Republicans are testing new ways to distance themselves from him — a sign of their election anxiety. Driving the news: Trump — facing a barrage of demands from Republican lawmakers to impose a ban on diesel exports — pulled a rare about-face Tuesday, saying on the sidelines of the UN General Assembly in New York that he'll support a ban. Sens. Chuck Grassley (R-Iowa) and Dan Sullivan (R-Alaska), along with Iowa GOP Reps. Ashley Hinson and Mariannette Miller-Meeks, were among those calling for a ban to ease skyrocketing dies…",
+    "contentSnippet": "Congressional Republicans are increasingly breaking with an unpopular president on foreign policy and pocketbook issues as they try to stop their majorities from slipping away. Why it matters: They aren't engaged in a full-scale revolt against President Trump, but some Republicans are testing new ways to distance themselves from him — a sign of their election anxiety. Driving the news: Trump — facing a barrage of demands from Republican lawmakers to impose a ban on diesel exports — pulled a rare about-face Tuesday, saying on the sidelines of the UN General Assembly in New York that he'll support a ban. Sens. Chuck Grassley (R-Iowa) and Dan Sullivan (R-Alaska), along with Iowa GOP Reps. Ashley Hinson and Mariannette Miller-Meeks, were among those calling for a ban to ease skyrocketing dies…",
+    "summaryZh": "基于标题/摘要生成：Congressional 共和党人 are increasingly breaking with an unpopular president on foreign 政策 and pocketbook issues as they try to stop their majorities fro…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "trade_tariffs",
+      "congress_china"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "GOP breaking with an unpopular Trump Stef W. Kight Congressional Republicans are increasingly breaking with an unpopular presi"
+      },
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "eral Assembly in New York that he'll support a ban. Sens. Chuck Grassley (R-Iowa) and Dan Sullivan (R-Alaska), along with Iowa GOP Reps. Ashley Hinson and Mariannette Miller-Meeks, were am"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "GOP breaking with an unpopular Trump Stef W. Kight Congressional Republicans are increasingly breaking with an unpopular presi"
+      },
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "eral Assembly in New York that he'll support a ban. Sens. Chuck Grassley (R-Iowa) and Dan Sullivan (R-Alaska), along with Iowa GOP Reps. Ashley Hinson and Mariannette Miller-Meeks, were am"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "GOP breaking with an unpopular Trump Stef W. Kight Congressional Republicans are increasingly breaking with an unpopular president on foreign policy and pocketbook is"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Jake Sullivan",
+      "Republican Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7f1jf0",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "GOP senator calls for probe of Trump’s son over Russian oligarch’s role in wedding",
+    "chineseTitle": "GOP senator calls for probe of Trump’s son over Russian o…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/22/republican-sen-john-curtis-calls-investigation-donald-trump-jr/",
+    "publishedAt": "2026-09-22T22:41:55.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.425Z",
+    "rawDescription": "The Utah senator is asking the Judiciary Committee to probe business dealings of presidential family members, also including Hunter Biden.",
+    "contentSnippet": "The Utah senator is asking the Judiciary Committee to probe business dealings of presidential family members, also including Hunter Biden.",
+    "summaryZh": "基于标题/摘要生成：The Utah senator is asking the Judiciary Committee to probe business dealings of presidential family members，also including Hunter Biden",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "GOP senator calls for probe of Trump’s son over Russian oligarch’s role in wedding Theodoric Meyer The Utah senator is asking"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "ommittee to probe business dealings of presidential family members, also including Hunter Biden. The Utah senator is asking the Judiciary Committee to probe business dealings of preside"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "GOP senator calls for probe of Trump's son over Russian oligarch's role in wedding Theodoric Meyer The Utah senator is asking"
+      },
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "ommittee to probe business dealings of presidential family members, also including Hunter Biden. The Utah senator is asking the Judiciary Committee to probe business dealings of preside"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "GOP senator calls for probe of Trump's son over Russian oligarch's role in wedding Theodoric"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Joe Biden",
+      "Republican Party",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_14u9cl",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Oh, Good, Trump’s Arch Will Store Military-Grade Weapons",
+    "chineseTitle": "Oh，Good，Trump’s Arch Will Store Military-Grade Weapons",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/09/normal-places-store-military-grade-weapons-trump-arch/688745/",
+    "publishedAt": "2026-09-22T21:59:00.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.326Z",
+    "rawDescription": "Here are 13 other very normal places to store munitions.",
+    "contentSnippet": "Here are 13 other very normal places to store munitions.",
+    "summaryZh": "基于标题/摘要生成：Here are 13 other very normal places to store munitions",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Oh, Good, Trump’s Arch Will Store Military-Grade Weapons Alexandra Petri Here are 13 other very normal pl"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Oh, Good, Trump's Arch Will Store Military-Grade Weapons Alexandra Petri Here are 13 other very normal pl"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8l2dmm",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Tale of Two UNGA Speeches",
+    "chineseTitle": "A Tale of Two UNGA Speeches",
+    "originalUrl": "https://foreignpolicy.com/2026/09/22/unga-speech-guterres-trump-united-nations-zelensky/",
+    "publishedAt": "2026-09-22T21:53:23.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.313Z",
+    "rawDescription": "U.S. President Donald Trump made threats, while outgoing U.N. Secretary-General António Guterres called for peace and multilateralism.",
+    "contentSnippet": "U.S. President Donald Trump made threats, while outgoing U.N. Secretary-General António Guterres called for peace and multilateralism.",
+    "summaryZh": "基于标题/摘要生成：U.S. President 特朗普 made threats，while outgoing U.N. Secretary-General António Guterres called for peace and multilateralism",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "A Tale of Two UNGA Speeches John Haltiwanger and Rishi Iyengar U.S. President Donald Trump made threats, while outgoing U.N. Secretary-General António Guterres called for peace and"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "A Tale of Two UNGA Speeches John Haltiwanger and Rishi Iyengar U.S. President Donald Trump made threats, while outgoing U.N. Secretary-General António Guterres called for peace and"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "A Tale of Two UNGA Speeches John Haltiwanger and Rishi Iyengar U.S. President Donald Trump made threats, while outgoing U.N. Secretary-General António Guterres called for peace and"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d14s8y",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Sen. Jon Husted: Iran war ‘needs to come to an end as quickly as possible’",
+    "chineseTitle": "Sen. Jon Husted：Iran war ‘needs to come to an end as quic…",
+    "originalUrl": "https://www.politico.com/news/2026/09/22/jon-husted-iran-war-quick-end-trump-01088614",
+    "publishedAt": "2026-09-22T21:48:54.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.190Z",
+    "rawDescription": "His comments follow Senate candidates Ashley Hinson and Mike Rogers breaking from Trump on the conflict, as GOP panic grows over high prices.",
+    "contentSnippet": "His comments follow Senate candidates Ashley Hinson and Mike Rogers breaking from Trump on the conflict, as GOP panic grows over high prices.",
+    "summaryZh": "基于标题/摘要生成：His comments follow 参议院 candidates Ashley Hinson and Mike Rogers breaking from Trump on the conflict，as GOP panic grows over high prices",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Doherty His comments follow Senate candidates Ashley Hinson and Mike Rogers breaking from Trump on the conflict, as GOP panic grows over high prices. His comments follow Senate candidat"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Doherty His comments follow Senate candidates Ashley Hinson and Mike Rogers breaking from Trump on the conflict, as GOP panic grows over high prices. His comments follow Senate candidat"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "w Senate candidates Ashley Hinson and Mike Rogers breaking from Trump on the conflict, as GOP panic grows over high prices. His comments follow Senate candidates Ashley Hinson and Mik"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "uickly as possible' By Ali Bianco, Meredith Lee Hill and Erin Doherty His comments follow Senate candidates Ashley Hinson and Mike Rogers breaking from Trump on the conflict, as GOP pani"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9cubmk",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Threatens to ‘Annihilate’ Iran in U.N. Speech",
+    "chineseTitle": "Trump Threatens to ‘Annihilate’ Iran in U.N. Speech",
+    "originalUrl": "https://foreignpolicy.com/2026/09/22/trump-unga-speech-annihilate-iran-icc-rogue-war-crimes/",
+    "publishedAt": "2026-09-22T21:20:26.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.314Z",
+    "rawDescription": "Such warnings—on the U.N. stage, no less—could be considered war crimes.",
+    "contentSnippet": "Such warnings—on the U.N. stage, no less—could be considered war crimes.",
+    "summaryZh": "基于标题/摘要生成：Such warnings—on the U.N. stage，no less—could be considered war crimes",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Threatens to ‘Annihilate’ Iran in U.N. Speech Alexandra Sharp Such warnings—on the U.N. s"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Threatens to 'Annihilate' Iran in U.N. Speech Alexandra Sharp Such warnings—on the U.N. s"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_x6077m",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "In joint appearance, mutual benefits and risks for El-Sayed and Harris",
+    "chineseTitle": "In joint appearance，mutual benefits and risks for El-Saye…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/22/harris-el-sayed-joint-campaign-appearance-carries-political-risk-reward/",
+    "publishedAt": "2026-09-22T21:19:19.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.425Z",
+    "rawDescription": "The Michigan Senate candidate and the former vice president appeared together for a Detroit campaign event",
+    "contentSnippet": "The Michigan Senate candidate and the former vice president appeared together for a Detroit campaign event",
+    "summaryZh": "基于标题/摘要生成：The Michigan 参议院 candidate and the former vice president appeared together for a Detroit campaign event",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "In joint appearance, mutual benefits and risks for El-Sayed and Harris Cleve R. Wootson Jr., Laura Beveridge The Michigan Senate candidate and the former vice p"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Harris",
+        "confidence": "medium",
+        "contextSnippet": "In joint appearance, mutual benefits and risks for El-Sayed and Harris Cleve R. Wootson Jr., Laura Beveridge The Michigan Senate candidate and the former vice p"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "fits and risks for El-Sayed and Harris Cleve R. Wootson Jr., Laura Beveridge The Michigan Senate candidate and the former vice president appeared together for a Detroit campaign event Th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Kamala Harris",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7cigxa",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Netanyahu accuses Mamdani of &#039;supporting&#039; Hamas ahead of UN visit: &#039;Shame on you&#039;",
+    "chineseTitle": "Netanyahu accuses Mamdani of &#039;supporting&#039; Hamas…",
+    "originalUrl": "https://thehill.com/policy/international/6104970-netanyahu-accuses-mamdani-hamas/",
+    "publishedAt": "2026-09-22T21:01:01.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.131Z",
+    "rawDescription": "Israeli Prime Minister Benjamin Netanyahu on Tuesday accused New York City Mayor Zohran Mamdani (D) of \"supporting\" the terror group Hamas ahead of visiting the United Nations General Assembly in the city. \"Shame on you, Mr. Mamdani,\" Netanyahu said in a video posted to the social platform X. \"Shame on you for supporting the Hamas...",
+    "contentSnippet": "Israeli Prime Minister Benjamin Netanyahu on Tuesday accused New York City Mayor Zohran Mamdani (D) of \"supporting\" the terror group Hamas ahead of visiting the United Nations General Assembly in the city. \"Shame on you, Mr. Mamdani,\" Netanyahu said in a video posted to the social platform X. \"Shame on you for supporting the Hamas...",
+    "summaryZh": "基于标题/摘要生成：Israeli Prime Minister Benjamin Netanyahu on Tuesday accused New York City Mayor Zohran Mamdani (D) of \"supporting\" the terror group Hamas ahead of v…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7t9s42",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Mamdani and Trump face frosty reception in Queens over Sunnyside Yard plan",
+    "chineseTitle": "Mamdani and Trump face frosty reception in Queens over Su…",
+    "originalUrl": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/22/mamdani-and-trump-face-frosty-reception-in-queens-over-sunnyside-yard-plan-01088341",
+    "publishedAt": "2026-09-22T21:00:24.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.195Z",
+    "rawDescription": "LOCAL INPUT: Mayor Zohran Mamdani is facing fresh backlash over sidelining key stakeholders from talks about developing thousands of housing units on top of a Queens rail yard. The Sunnyside Yard project landed back in the headlines yesterday when Mamdani and President Donald Trump emerged from a chummy meeting at Gracie Mansion to announce they’d agreed to bring conversations about the long-stalled housing plan to “a new level.” The unlikely duo first announced at a White House meeting in February they were looking into reviving the project, which would be contingent on billions of dollars in federal funding and involve constructing a platform over the rail yard, on top of which 12,000 housing units would be built. But Council member Julie Won — who represents Sunnyside and voiced concer…",
+    "contentSnippet": "LOCAL INPUT: Mayor Zohran Mamdani is facing fresh backlash over sidelining key stakeholders from talks about developing thousands of housing units on top of a Queens rail yard. The Sunnyside Yard project landed back in the headlines yesterday when Mamdani and President Donald Trump emerged from a chummy meeting at Gracie Mansion to announce they’d agreed to bring conversations about the long-stalled housing plan to “a new level.” The unlikely duo first announced at a White House meeting in February they were looking into reviving the project, which would be contingent on billions of dollars in federal funding and involve constructing a platform over the rail yard, on top of which 12,000 housing units would be built. But Council member Julie Won — who represents Sunnyside and voiced concer…",
+    "summaryZh": "基于标题/摘要生成：LOCAL INPUT：Mayor Zohran Mamdani is facing fresh backlash over sidelining key stakeholders from talks about developing thousands of housing units on…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Sunnyside Yard project landed back in the headlines yesterday when Mamdani and President Donald Trump emerged from a chummy meeting at Gracie Mansion to announce they’d agreed to bring conver"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Mamdani and Trump face frosty reception in Queens over Sunnyside Yard plan By Chris Sommerfeldt and Joe Anu"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Sunnyside Yard project landed back in the headlines yesterday when Mamdani and President Donald Trump emerged from a chummy meeting at Gracie Mansion to announce they'd agreed to bring conver"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "out the long-stalled housing plan to \"a new level.\" The unlikely duo first announced at a White House meeting in February they were looking into reviving the project, which would be contingen"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g7w22q",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Don Jr.’s Wedding Trap",
+    "chineseTitle": "Don Jr.’s Wedding Trap",
+    "originalUrl": "https://www.theatlantic.com/national-security/2026/09/donald-trump-jr-kremlev-wedding/688734/",
+    "publishedAt": "2026-09-22T20:13:18.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.327Z",
+    "rawDescription": "His luxurious, Russian-funded wedding celebration was a counterintelligence nightmare.",
+    "contentSnippet": "His luxurious, Russian-funded wedding celebration was a counterintelligence nightmare.",
+    "summaryZh": "基于标题/摘要生成：His luxurious，Russian-funded wedding celebration was a counterintelligence nightmare",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "Don Jr.’s Wedding Trap Shane Harris His luxurious, Russian-funded wedding celebration was a counterintelligence nightmare. Hi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Harris",
+        "confidence": "medium",
+        "contextSnippet": "Don Jr.'s Wedding Trap Shane Harris His luxurious, Russian-funded wedding celebration was a counterintelligence nightmare. Hi"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Kamala Harris",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hibw6q",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump suggests a Ukraine deal on Russia&#039;s war could be close while meeting with Zelenskyy",
+    "chineseTitle": "Trump suggests a Ukraine deal on Russia&#039;s war could…",
+    "originalUrl": "https://thehill.com/policy/defense/russia-ukraine-strikes-zelensky-trump/",
+    "publishedAt": "2026-09-22T20:02:23.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.132Z",
+    "rawDescription": "UNITED NATIONS (AP) — Ukrainian President Volodymyr Zelenskyy met Tuesday with his U.S. counterpart, Donald Trump and said he trusted that the White House can help end Russia's 4½-year war on his country — even as attacks from both sides keep escalating. \"I hope that we will end this war, and President Trump will help...",
+    "contentSnippet": "UNITED NATIONS (AP) — Ukrainian President Volodymyr Zelenskyy met Tuesday with his U.S. counterpart, Donald Trump and said he trusted that the White House can help end Russia's 4½-year war on his country — even as attacks from both sides keep escalating. \"I hope that we will end this war, and President Trump will help...",
+    "summaryZh": "基于标题/摘要生成：UNITED NATIONS (AP) — Ukrainian President Volodymyr Zelenskyy met Tuesday with his U.S. counterpart，特朗普 and said he trusted that 白宫 can help end Russ…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ONS (AP) — Ukrainian President Volodymyr Zelenskyy met Tuesday with his U.S. counterpart, Donald Trump and said he trusted that the White House can help end Russia's 4½-year war on his country"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump suggests a Ukraine deal on Russia&#039;s war could be close while meeting with Zelenskyy"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ONS (AP) — Ukrainian President Volodymyr Zelenskyy met Tuesday with his U.S. counterpart, Donald Trump and said he trusted that the White House can help end Russia's 4½-year war on his country"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "elenskyy met Tuesday with his U.S. counterpart, Donald Trump and said he trusted that the White House can help end Russia's 4½-year war on his country — even as attacks from both sides keep e"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_p7wlvf",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Kamala Harris hits the midterm campaign trail with Abdul El-Sayed | CNN Politics",
+    "chineseTitle": "哈里斯 hits the midterm campaign trail with Abdul El-Sayed |…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdjZxdkxsb1NHZzUtSXA2Um9ENGxyZE5XU0hkbkZJLVVnN1dPSWo1YWhJUy1HQlgwZ2lYU0RhZktydy1vei1rbmZyOU4yY3JfX0VNMlpreUluckYycWlOMzZxeFJCSUY5THZESzJpNElHdnhMNkRwM3BZb2RwSzl5N0pWRzVncktSeC16V1YtVEI1QWpi?oc=5",
+    "publishedAt": "2026-09-22T09:02:57.000Z",
+    "fetchedAt": "2026-09-23T01:20:32.986Z",
+    "rawDescription": "Kamala Harris hits the midterm campaign trail with Abdul El-Sayed | CNN Politics CNN",
+    "contentSnippet": "Kamala Harris hits the midterm campaign trail with Abdul El-Sayed | CNN Politics CNN",
+    "summaryZh": "基于标题/摘要生成：哈里斯 hits the midterm campaign trail with Abdul El-Sayed | CNN Politics CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Kamala Harris hits the midterm campaign trail with Abdul El-Sayed | CNN Politics Kamala Harris hits th"
+      },
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "Kamala Harris hits the midterm campaign trail with Abdul El-Sayed | CNN Politics Kamala Harris hits th"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Kamala Harris hits the midterm campaign trail with Abdul El-Sayed | CNN Politics Kamala Harris hits the"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Kamala Harris"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Kamala Harris\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bh58qk",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Trouble With the Nuclear-AI Analogy",
+    "chineseTitle": "The Trouble With the Nuclear-AI Analogy",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/trouble-nuclear-ai-analogy",
+    "publishedAt": "2026-09-22T04:00:00.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.119Z",
+    "rawDescription": "In humanity’s quest to constrain the dangers from fast-advancing artificial intelligence, many have looked to the most revolutionary technology that preceded it: nuclear weapons. SpaceX CEO Elon Musk has called artificial intelligence “far more dangerous than nukes.” Anthropic CEO Dario Amodei, who assigns The Making of the Atomic Bomb to employees and has likened himself to the Manhattan Project scientist Leo Szilard, describes the most powerful AI models as “weaponizable nuclear materials.” When asked how a technology such as AI can be regulated, OpenAI CEO Sam Altman often references the world’s nuclear materials watchdog, the International Atomic Energy Agency. Even the director of the CIA, John Ratcliffe, has made the same comparison.",
+    "contentSnippet": "In humanity’s quest to constrain the dangers from fast-advancing artificial intelligence, many have looked to the most revolutionary technology that preceded it: nuclear weapons. SpaceX CEO Elon Musk has called artificial intelligence “far more dangerous than nukes.” Anthropic CEO Dario Amodei, who assigns The Making of the Atomic Bomb to employees and has likened himself to the Manhattan Project scientist Leo Szilard, describes the most powerful AI models as “weaponizable nuclear materials.” When asked how a technology such as AI can be regulated, OpenAI CEO Sam Altman often references the world’s nuclear materials watchdog, the International Atomic Energy Agency. Even the director of the CIA, John Ratcliffe, has made the same comparison.",
+    "summaryZh": "基于标题/摘要生成：In humanity’s quest to constrain the dangers from fast-advancing artificial intelligence，many have looked to the most revolutionary technology that p…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1txpay",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Mamdani hosts Trump in NYC, discusses midterms, Netanyahu in exclusive CNN interview | CNN Politics",
+    "chineseTitle": "Mamdani hosts Trump in NYC，discusses midterms，Netanyahu i…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjRvcFNmQUlQbV9US0Q2cEs2NVlYY2k0YUNOQ18tdzlEeUdqZlFINERYc013OXY1SGxHclZDd0Z0eTV1WlNmbXpqZnNobzlEcURFcXRydmJaQUdhWWt3S1VqS1dZcFR6SG82UmFrMXdNNWpZN21zcUloMXdrS2ExVTBlbGY5SkpER05ZbUwtbEhTdnlfZG8zbQ?oc=5",
+    "publishedAt": "2026-09-22T04:00:00.000Z",
+    "fetchedAt": "2026-09-23T01:20:33.011Z",
+    "rawDescription": "Mamdani hosts Trump in NYC, discusses midterms, Netanyahu in exclusive CNN interview | CNN Politics CNN",
+    "contentSnippet": "Mamdani hosts Trump in NYC, discusses midterms, Netanyahu in exclusive CNN interview | CNN Politics CNN",
+    "summaryZh": "基于标题/摘要生成：Mamdani hosts Trump in NYC，discusses midterms，Netanyahu in exclusive CNN interview | CNN Politics CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Mamdani hosts Trump in NYC, discusses midterms, Netanyahu in exclusive CNN interview | CNN Politics Mamdani"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Mamdani hosts Trump in NYC, discusses midterms, Netanyahu in exclusive CNN interview | CNN Politics Mamdani h"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Democratic Party\"",
+      "\"Democratic Party\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5y692g",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xNWdFVkJ4MVFwVWVQNUdUWUY3Y2NTcTB5TlNRR19aQVpBaWwyNzctMm1LWm9uWjNwbmVtcUhwWkoyNEx4ZHM1UDlMamRFLUhCZ2Y1VWJkRHpScDlUNWFadWtlWVQyYmJtdy1z?oc=5",
+    "publishedAt": "2026-09-21T12:17:02.000Z",
+    "fetchedAt": "2026-09-23T01:20:33.387Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_c8674f",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China Still Has What America Needs",
+    "chineseTitle": "中国 Still Has What America Needs",
+    "originalUrl": "https://www.foreignaffairs.com/china/china-still-has-what-america-needs-adam-posen",
+    "publishedAt": "2026-09-21T04:00:00.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.121Z",
+    "rawDescription": "The Trump-Xi summit gives Washington a chance to buy time.",
+    "contentSnippet": "The Trump-Xi summit gives Washington a chance to buy time.",
+    "summaryZh": "基于标题/摘要生成：The Trump-Xi summit gives Washington a chance to buy time",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "China Still Has What America Needs Adam S. Posen The Trump-Xi summit gives Washington a chance to buy time. The Trump-Xi summit gives Washington a c"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "China Still Has What America Needs Adam S. Posen The Trump-Xi summit gives Washington a chance to buy time. The Trump-Xi summit gives Washington a c"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ubabf2",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI",
+    "chineseTitle": "Op-Ed：五角大楼 leaks show need for these major reforms to pro…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVhxTnI4eEJrcGp0bF9aUDZGUGhQU2NXQVdENGYySnJIZmRjZVloMnpZSGdqTENkUElJTkNiT1dvUU42TjJPNjZCNTFCbGl2TURYZHAySFllWlJ6Nkh0WkZKWWxzN29DVXpaeHZYTnVxVEx3dzR2VlBaNXpRVHhEVVNYRVdiNmdwVV8yZ1RjSFlZQVVtT044MFNBRkVlX1lHcnlveElCYm5yM0h4VmRVNGVLNnd1UQ?oc=5",
+    "publishedAt": "2026-09-19T18:20:29.000Z",
+    "fetchedAt": "2026-09-23T01:20:32.925Z",
+    "rawDescription": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "contentSnippet": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Op-Ed：五角大楼 leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_o0swxh",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRFMtQjY2dHRKeXhNTGpUY3FMM2doV2YtcHlOMFpKOEpQWFdraE9nRDA2enRzak96XzVyM3c0aWpiRGhwa1F5OTBYaXZLS2lBM2VPX2pobWUzSGdhR2xkTkozRjlBeG9DWkRYYWlocTBLeWc?oc=5",
+    "publishedAt": "2026-09-14T14:10:11.000Z",
+    "fetchedAt": "2026-09-23T01:20:33.388Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-09-23T01:20:32.926Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security americafirstpolicy.com",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-23T01:20:13.490Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.398Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.399Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-23T01:20:13.489Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.272Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-23T01:20:09.271Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
