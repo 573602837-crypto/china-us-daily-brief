@@ -1,0 +1,1587 @@
+[
+  {
+    "id": "art_o5ps3i",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs",
+    "chineseTitle": "Mary Peltola’s Campaign in Alaska 参议院 Race Is Rocked，With…",
+    "originalUrl": "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html",
+    "publishedAt": "2026-09-24T01:10:26.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.452Z",
+    "rawDescription": "Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos.",
+    "contentSnippet": "Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos.",
+    "summaryZh": "基于标题/摘要生成：民主党人 hope that Mary Peltola can flip a Republican 参议院 seat in Alaska. Former aides describe a campaign and congressional office marked by chaos",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs Kellen Browning Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Mary Peltola's Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs Kellen Browning Democrats hope t"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_sgkogb",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Michigan student confronts El-Sayed over Iran stance in tense exchange: ‘Do you stand with us?’",
+    "chineseTitle": "Michigan student confronts El-Sayed over Iran stance in t…",
+    "originalUrl": "https://www.foxnews.com/politics/michigan-student-confronts-el-sayed-over-iran-stance-tense-exchange-do-you-stand-us",
+    "publishedAt": "2026-09-24T00:55:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.419Z",
+    "rawDescription": "A Persian student confronted Democratic U.S. Senate candidate Abdul El-Sayed over leaked audio about Iran's Khamenei and his silence on the IRGC.",
+    "contentSnippet": "A Persian student confronted Democratic U.S. Senate candidate Abdul El-Sayed over leaked audio about Iran's Khamenei and his silence on the IRGC.",
+    "summaryZh": "基于标题/摘要生成：A Persian student confronted Democratic U.S. 参议院 candidate Abdul El-Sayed over leaked audio about Iran's Khamenei and his silence on the IRGC",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "e in tense exchange: 'Do you stand with us?' A Persian student confronted Democratic U.S. Senate candidate Abdul El-Sayed over leaked audio about Iran's Khamenei and his silence on the I"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fmbvnk",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Senator Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+    "chineseTitle": "Senator Bernie Sanders unveils 法案 to ban artificial super…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/23/business/bernie-sanders-bill-ban-artificial-intelligence/",
+    "publishedAt": "2026-09-24T00:51:04.687Z",
+    "fetchedAt": "2026-09-24T01:15:04.669Z",
+    "rawDescription": "公开 sitemap 条目：Senator Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+    "contentSnippet": "公开 sitemap 条目：Senator Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Senator Bernie Sanders unveils 法案 to ban artificial superintelligence and create Department of AI",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_72jr05",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Timothy Mellon, a G.O.P. Billionaire, Pulls Back His Money From Senate Republicans",
+    "chineseTitle": "Timothy Mellon，a G.O.P. Billionaire，Pulls Back His Money…",
+    "originalUrl": "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html",
+    "publishedAt": "2026-09-24T00:41:26.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.451Z",
+    "rawDescription": "Timothy Mellon, one of the party’s biggest donors in 2024, has so far withheld his midterm donations for Republican senators because he is unhappy about the failure to pass a key Trump priority.",
+    "contentSnippet": "Timothy Mellon, one of the party’s biggest donors in 2024, has so far withheld his midterm donations for Republican senators because he is unhappy about the failure to pass a key Trump priority.",
+    "summaryZh": "基于标题/摘要生成：Timothy Mellon，one of the party’s biggest donors in 2024，has so far withheld his midterm donations for Republican senators because he is unhappy abou…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "m donations for Republican senators because he is unhappy about the failure to pass a key Trump priority. Timothy Mellon, one of the party’s biggest donors in 2024, has so far withheld"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "m donations for Republican senators because he is unhappy about the failure to pass a key Trump priority. Timothy Mellon, one of the party's biggest donors in 2024, has so far withheld"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Timothy Mellon, a G.O.P. Billionaire, Pulls Back His Money From Senate Republicans Theodore Schleifer Timothy Mellon, one of the party's biggest donors in 2024, has so far"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Timothy Mellon, a G.O.P. Billionaire, Pulls Back His Money From Senate Republicans Theodore Schleifer Timothy Mellon, one of the party's biggest donors in 2024,"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hcvpdp",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Tenant right-to-purchase bill nears finish line in Massachusetts, but differences remain",
+    "chineseTitle": "Tenant right-to-purchase 法案 nears finish line in Massachu…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/23/business/tenant-right-purchase-bill-massachusetts/",
+    "publishedAt": "2026-09-24T00:28:32.993Z",
+    "fetchedAt": "2026-09-24T01:15:04.671Z",
+    "rawDescription": "公开 sitemap 条目：Tenant right-to-purchase bill nears finish line in Massachusetts, but differences remain",
+    "contentSnippet": "公开 sitemap 条目：Tenant right-to-purchase bill nears finish line in Massachusetts, but differences remain",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Tenant right-to-purchase 法案 nears finish line in Massachusetts，but differences remain",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fty92t",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Mark Zuckerberg predicts Muse will become a \"personal superintelligence\" for billions.",
+    "chineseTitle": "Mark Zuckerberg predicts Muse will become a \"personal sup…",
+    "originalUrl": "https://www.axios.com/2026/09/23/meta-muse-ai-hardware-handheld-glasses",
+    "publishedAt": "2026-09-24T00:15:52.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.230Z",
+    "rawDescription": "Meta on Wednesday debuted \"Muse Charm,\" a new, keychain-sized AI handheld device it will use to bring its viral Muse assistant to the masses. Why it matters: Meta's has raced ahead of OpenAI , Apple and other companies that are racing to build a new crop of small AI devices, revving up the massive market interest that Muse has generated in the market. \"We've packed a lot of technology in this little guy,\" Chief Executive Mark Zuckerberg said at the event. \"So if you're not wearing glasses, this is going to be by far the fastest way to talk to your Muse and to show them what's going on around you.\" Driving the news: The Muse Charm will be available for purchase by December, and the company is the first tech giant to unveil its plans for an entirely new category of device. OpenAI has spent…",
+    "contentSnippet": "Meta on Wednesday debuted \"Muse Charm,\" a new, keychain-sized AI handheld device it will use to bring its viral Muse assistant to the masses. Why it matters: Meta's has raced ahead of OpenAI , Apple and other companies that are racing to build a new crop of small AI devices, revving up the massive market interest that Muse has generated in the market. \"We've packed a lot of technology in this little guy,\" Chief Executive Mark Zuckerberg said at the event. \"So if you're not wearing glasses, this is going to be by far the fastest way to talk to your Muse and to show them what's going on around you.\" Driving the news: The Muse Charm will be available for purchase by December, and the company is the first tech giant to unveil its plans for an entirely new category of device. OpenAI has spent…",
+    "summaryZh": "基于标题/摘要生成：Meta on Wednesday debuted \"Muse Charm，\" a new，keychain-sized AI handheld device it will use to bring its viral Muse assistant to the masses. Why it m…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8dstpw",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump to Venezuela's Rodriguez: Elections need to happen",
+    "chineseTitle": "Trump to Venezuela's Rodriguez：Elections need to happen",
+    "originalUrl": "https://www.axios.com/2026/09/23/trump-venezuela-rodriguez-meeting-elections",
+    "publishedAt": "2026-09-24T00:00:25.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.234Z",
+    "rawDescription": "In his first-ever meeting with Venezuela's new leader, President Trump emphasized the need to keep oil flowing, relations warm and that country's elections on the horizon, White House sources tell Axios. Why it matters: Trump did not insist on a future election date in his meeting with Venezuela's acting president Delcy Rodriguez , but he emphasized their importance as a crucial final step in Venezuela's evolution into a full-fledged democracy, the sources said. \"You have to have elections at the end of the day,\" Trump said to Rodriguez at one point, one of the sources briefed on the meeting said. Zoom in: Trump held the roughly 15-minute meeting on the sidelines of the UN General Assembly in New York to thank Rodriguez for their good working relationship after the U.S. ousted her one-tim…",
+    "contentSnippet": "In his first-ever meeting with Venezuela's new leader, President Trump emphasized the need to keep oil flowing, relations warm and that country's elections on the horizon, White House sources tell Axios. Why it matters: Trump did not insist on a future election date in his meeting with Venezuela's acting president Delcy Rodriguez , but he emphasized their importance as a crucial final step in Venezuela's evolution into a full-fledged democracy, the sources said. \"You have to have elections at the end of the day,\" Trump said to Rodriguez at one point, one of the sources briefed on the meeting said. Zoom in: Trump held the roughly 15-minute meeting on the sidelines of the UN General Assembly in New York to thank Rodriguez for their good working relationship after the U.S. ousted her one-tim…",
+    "summaryZh": "基于标题/摘要生成：In his first-ever meeting with Venezuela's new leader，President Trump emphasized the need to keep oil flowing，relations warm and that country's elect…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump to Venezuela's Rodriguez: Elections need to happen Marc Caputo In his first-ever meeting"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump to Venezuela's Rodriguez: Elections need to happen Marc Caputo In his first-ever meeting"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "the need to keep oil flowing, relations warm and that country's elections on the horizon, White House sources tell Axios. Why it matters: Trump did not insist on a future election date in his"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2u0o06",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump gives Xi Jinping rare airport welcome as summit visit begins",
+    "chineseTitle": "Trump gives Xi Jinping rare airport welcome as summit vis…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/23/trump-greets-xi-jinping-airport-rare-gesture-summit-starts/",
+    "publishedAt": "2026-09-23T23:34:25.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.604Z",
+    "rawDescription": "Trump greeted Xi on the tarmac, an unusual gesture that president's don't typically extend to foreign heads of state, underscoring his desire to court the Chinese leader.",
+    "contentSnippet": "Trump greeted Xi on the tarmac, an unusual gesture that president's don't typically extend to foreign heads of state, underscoring his desire to court the Chinese leader.",
+    "summaryZh": "基于标题/摘要生成：Trump greeted Xi on the tarmac，an unusual gesture that president's don't typically extend to foreign heads of state，underscoring his desire to court…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump gives Xi Jinping rare airport welcome as summit visit begins Cat Zakrzewski, Michael Birn"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump gives Xi Jinping rare airport welcome as summit visit begins Cat Zakrzewski, Michael Birn"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_wwrgf1",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "5 crucial issues lawmakers want Trump to address with China",
+    "chineseTitle": "5 crucial issues lawmakers want Trump to address with 中国",
+    "originalUrl": "https://thehill.com/homenews/administration/6107744-trump-xi-summit-washington/",
+    "publishedAt": "2026-09-23T23:31:50.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.298Z",
+    "rawDescription": "President Trump and Chinese President Xi Jinping will hold a series of high-stakes meetings in Washington, marking the first official state visit by China’s leader in more than a decade. The meetings come at a fragile moment in relations between the U.S. and Beijing, which have spent the better part of the last two years...",
+    "contentSnippet": "President Trump and Chinese President Xi Jinping will hold a series of high-stakes meetings in Washington, marking the first official state visit by China’s leader in more than a decade. The meetings come at a fragile moment in relations between the U.S. and Beijing, which have spent the better part of the last two years...",
+    "summaryZh": "基于标题/摘要生成：President Trump and 中国 President Xi Jinping will hold a series of high-stakes meetings in Washington，marking the first official state visit ’s leader…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "5 crucial issues lawmakers want Trump to address with China Mike Lillis President Trump and Chinese President Xi Jinping will h"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "5 crucial issues lawmakers want Trump to address with China Mike Lillis President Trump and Chinese President Xi Jinping will h"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_7o5cau",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Would a diesel export ban actually bring down prices?",
+    "chineseTitle": "Would a diesel export ban actually bring down prices",
+    "originalUrl": "https://thehill.com/policy/energy-environment/6107629-diesel-export-ban-gas-prices-oil-refineries/",
+    "publishedAt": "2026-09-23T22:50:58.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.299Z",
+    "rawDescription": "Experts are skeptical that a diesel export ban would meaningfully reduce fuel prices in the U.S. as the Trump administration sends mixed signals about if it is considering such a move. Analysts interviewed by The Hill said that an outright ban could provide some short-term relief in certain parts of the country, but that in...",
+    "contentSnippet": "Experts are skeptical that a diesel export ban would meaningfully reduce fuel prices in the U.S. as the Trump administration sends mixed signals about if it is considering such a move. Analysts interviewed by The Hill said that an outright ban could provide some short-term relief in certain parts of the country, but that in...",
+    "summaryZh": "基于标题/摘要生成：Experts are skeptical that a diesel export ban would meaningfully reduce fuel prices in the U.S. as the Trump administration sends mixed signals abou…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "eptical that a diesel export ban would meaningfully reduce fuel prices in the U.S. as the Trump administration sends mixed signals about if it is considering such a move. Analysts inter"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "eptical that a diesel export ban would meaningfully reduce fuel prices in the U.S. as the Trump administration sends mixed signals about if it is considering such a move. Analysts inter"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "eptical that a diesel export ban would meaningfully reduce fuel prices in the U.S. as the Trump administration sends mixed signals about if it is considering such a move. Analysts interviewed by The H"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ivd7jt",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "AI’s Risk to Financial Systems",
+    "chineseTitle": "AI’s Risk to Financial Systems",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/09/ai-financial-system-risk-banks/688763/",
+    "publishedAt": "2026-09-23T22:46:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.499Z",
+    "rawDescription": "The tech may soon become an existential risk to humanity, but it’s already a risk to many Americans in a more mundane way: their banks.",
+    "contentSnippet": "The tech may soon become an existential risk to humanity, but it’s already a risk to many Americans in a more mundane way: their banks.",
+    "summaryZh": "基于标题/摘要生成：The tech may soon become an existential risk to humanity，but it’s already a risk to many Americans in a more mundane way：their banks",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vsf0b6",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Current White House ballroom architect weighs in on the building’s safety",
+    "chineseTitle": "Current White 众议院 ballroom architect weighs in on the bui…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/23/current-white-house-ballroom-architect-weighs-buildings-safety/",
+    "publishedAt": "2026-09-23T22:00:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.605Z",
+    "rawDescription": "Shalom Baranes says the project’s current design meets national building code standards.",
+    "contentSnippet": "Shalom Baranes says the project’s current design meets national building code standards.",
+    "summaryZh": "基于标题/摘要生成：Shalom Baranes says the project’s current design meets national building code standards",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Current White House ballroom architect weighs in on the building's safety Jonathan O'Connell, Sarah Blaskey S"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9yxwww",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Jaishankar Leads India’s UNGA Delegation",
+    "chineseTitle": "Jaishankar Leads India’s UNGA Delegation",
+    "originalUrl": "https://foreignpolicy.com/2026/09/23/india-unga-jaishankar-us-sanctions-russia-oil/",
+    "publishedAt": "2026-09-23T21:51:02.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.483Z",
+    "rawDescription": "New Delhi’s top diplomat aims to push back against new U.S. tariffs on countries buying Russian oil.",
+    "contentSnippet": "New Delhi’s top diplomat aims to push back against new U.S. tariffs on countries buying Russian oil.",
+    "summaryZh": "基于标题/摘要生成：New Delhi’s top diplomat aims to push back against new U.S. 关税 on countries buying Russian oil",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xzl2h1",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "NRSC Chair Tim Scott leaves Georgia, North Carolina off his list of top Senate targets",
+    "chineseTitle": "NRSC Chair Tim Scott leaves Georgia，North Carolina off hi…",
+    "originalUrl": "https://www.politico.com/news/2026/09/23/nrsc-tim-scott-georgia-north-carolina-senate-01090764",
+    "publishedAt": "2026-09-23T21:43:52.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.357Z",
+    "rawDescription": "He told Senate Republicans Wednesday that the campaign arm will focus money on other targets including Maine, Ohio, Michigan, Alaska, Texas and New Hampshire.",
+    "contentSnippet": "He told Senate Republicans Wednesday that the campaign arm will focus money on other targets including Maine, Ohio, Michigan, Alaska, Texas and New Hampshire.",
+    "summaryZh": "基于标题/摘要生成：He told 参议院 共和党人 Wednesday that the campaign arm will focus money on other targets including Maine，Ohio，Michigan，Alaska，Texas and New Hampshire",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "a off his list of top Senate targets By Meredith Lee Hill and Erin Doherty He told Senate Republicans Wednesday that the campaign arm will focus money on other targets including Maine, Ohio,"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "NRSC Chair Tim Scott leaves Georgia, North Carolina off his list of top Senate targets By Meredith Lee Hill and Erin Doherty He told Senate Republicans Wednesday that t"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_inqvtt",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China Has No Use for AI Doomerism",
+    "chineseTitle": "中国 Has No Use for AI Doomerism",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/09/china-ai-panic-doomerism/688761/",
+    "publishedAt": "2026-09-23T21:31:40.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.500Z",
+    "rawDescription": "The country’s most prominent AI companies are focused on beating the U.S., no matter the cost.",
+    "contentSnippet": "The country’s most prominent AI companies are focused on beating the U.S., no matter the cost.",
+    "summaryZh": "基于标题/摘要生成：The country’s most prominent AI companies are focused on beating the U.S.，no matter the cost",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_szd8il",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The NY governor race pollster scrum",
+    "chineseTitle": "The NY governor race pollster scrum",
+    "originalUrl": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/23/the-ny-governor-race-pollster-scrum-01090375",
+    "publishedAt": "2026-09-23T21:20:49.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.362Z",
+    "rawDescription": "Q THE LANDSLIDE: Quinnipiac University released a poll today that found Gov. Kathy Hochul leading Republican Bruce Blakeman 58-39 — putting her on track for the fourth-largest landslide by a New York gubernatorial candidate in the past 200 years. It’s by far the best poll for Hochul this year and certainly better than a Siena University survey out this morning that found her with a modest 9 point lead over the Nassau County executive. So which one’s closer to reality? The last time both pollsters released New York numbers on the same day was a few weeks before Hochul’s last election in 2022. Siena found at the time that her lead over then-Rep. Lee Zeldin was quickly shrinking, having dropped from 17 to 11 points. The Q Poll painted a more dire picture for the governor. “We released a poll…",
+    "contentSnippet": "Q THE LANDSLIDE: Quinnipiac University released a poll today that found Gov. Kathy Hochul leading Republican Bruce Blakeman 58-39 — putting her on track for the fourth-largest landslide by a New York gubernatorial candidate in the past 200 years. It’s by far the best poll for Hochul this year and certainly better than a Siena University survey out this morning that found her with a modest 9 point lead over the Nassau County executive. So which one’s closer to reality? The last time both pollsters released New York numbers on the same day was a few weeks before Hochul’s last election in 2022. Siena found at the time that her lead over then-Rep. Lee Zeldin was quickly shrinking, having dropped from 17 to 11 points. The Q Poll painted a more dire picture for the governor. “We released a poll…",
+    "summaryZh": "基于标题/摘要生成：Q THE LANDSLIDE：Quinnipiac University released a poll today that found Gov. Kathy Hochul leading Republican Bruce Blakeman 58-39 — putting her on tra…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ljj3c1",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A $2.45 Billion Recovery Plan for Gaza",
+    "chineseTitle": "A $2.45 Billion Recovery Plan for Gaza",
+    "originalUrl": "https://foreignpolicy.com/2026/09/23/board-of-peace-gaza-reconstruction-plan-israel-hamas-trump-cease-fire/",
+    "publishedAt": "2026-09-23T21:04:53.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.484Z",
+    "rawDescription": "Trump claims to have brought peace to the territory. Now, he is trying to deliver it.",
+    "contentSnippet": "Trump claims to have brought peace to the territory. Now, he is trying to deliver it.",
+    "summaryZh": "基于标题/摘要生成：Trump claims to have brought peace to the territory. Now，he is trying to deliver it",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "A $2.45 Billion Recovery Plan for Gaza Alexandra Sharp Trump claims to have brought peace to the territory. Now, he is trying to deliver it. Trump cla"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "A $2.45 Billion Recovery Plan for Gaza Alexandra Sharp Trump claims to have brought peace to the territory. Now, he is trying to deliver it. Trump cla"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3kcypa",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Inside GOP Senate hopeful's financial ties to controversial data center boom",
+    "chineseTitle": "Inside GOP 参议院 hopeful's financial ties to controversial…",
+    "originalUrl": "https://www.foxnews.com/politics/inside-gop-senate-hopefuls-financial-ties-controversial-data-center-boom",
+    "publishedAt": "2026-09-23T20:58:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.422Z",
+    "rawDescription": "Michael Whatley holds up to $690,000 in energy investments tied to companies powering North Carolina's data center boom, raising conflict questions.",
+    "contentSnippet": "Michael Whatley holds up to $690,000 in energy investments tied to companies powering North Carolina's data center boom, raising conflict questions.",
+    "summaryZh": "基于标题/摘要生成：Michael Whatley holds up to $690，000 in energy investments tied to companies powering North Carolina's data center boom，raising conflict questions",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Inside GOP Senate hopeful's financial ties to controversial data center boom Michael Whatley holds u"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Inside GOP Senate hopeful's financial ties to controversial data center boom Michael Whatley holds up to $6"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4nwpvw",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Stalemate With Iran Is Not Sustainable",
+    "chineseTitle": "The Stalemate With Iran Is Not Sustainable",
+    "originalUrl": "https://www.foreignaffairs.com/iran/stalemate-iran-not-sustainable",
+    "publishedAt": "2026-09-23T04:00:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.284Z",
+    "rawDescription": "A diplomatic strategy to end the war.",
+    "contentSnippet": "A diplomatic strategy to end the war.",
+    "summaryZh": "基于标题/摘要生成：A diplomatic strategy to end the war",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bh58qk",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Trouble With the Nuclear-AI Analogy",
+    "chineseTitle": "The Trouble With the Nuclear-AI Analogy",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/trouble-nuclear-ai-analogy",
+    "publishedAt": "2026-09-22T04:00:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.288Z",
+    "rawDescription": "In humanity’s quest to constrain the dangers from fast-advancing artificial intelligence, many have looked to the most revolutionary technology that preceded it: nuclear weapons. SpaceX CEO Elon Musk has called artificial intelligence “far more dangerous than nukes.” Anthropic CEO Dario Amodei, who assigns The Making of the Atomic Bomb to employees and has likened himself to the Manhattan Project scientist Leo Szilard, describes the most powerful AI models as “weaponizable nuclear materials.” When asked how a technology such as AI can be regulated, OpenAI CEO Sam Altman often references the world’s nuclear materials watchdog, the International Atomic Energy Agency. Even the director of the CIA, John Ratcliffe, has made the same comparison.",
+    "contentSnippet": "In humanity’s quest to constrain the dangers from fast-advancing artificial intelligence, many have looked to the most revolutionary technology that preceded it: nuclear weapons. SpaceX CEO Elon Musk has called artificial intelligence “far more dangerous than nukes.” Anthropic CEO Dario Amodei, who assigns The Making of the Atomic Bomb to employees and has likened himself to the Manhattan Project scientist Leo Szilard, describes the most powerful AI models as “weaponizable nuclear materials.” When asked how a technology such as AI can be regulated, OpenAI CEO Sam Altman often references the world’s nuclear materials watchdog, the International Atomic Energy Agency. Even the director of the CIA, John Ratcliffe, has made the same comparison.",
+    "summaryZh": "基于标题/摘要生成：In humanity’s quest to constrain the dangers from fast-advancing artificial intelligence，many have looked to the most revolutionary technology that p…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z81i74",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SZUtBcl9wV0RxOWNyRi1nRDVTNmdXbzhJUDFNOWtfWnlERWU3emtpOWtOSU1LdjlOMFdtRkNGMEhGS2YtamZHZGhhNWpHSmotanhtVUgtYVRIcDBlNWhna24zZUFyTzhVSUxZU280cVZOVGM?oc=5",
+    "publishedAt": "2026-09-21T16:27:34.000Z",
+    "fetchedAt": "2026-09-24T01:15:24.575Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ihopfw",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zZTdoanZCTDlEMEx0azJyWjdUVGUyS3F4a2lYV2JHdXJQaXZvX1BJdkRkVXNIMERnRjBnT0RMVVc1NGdzdXVWM3JCN1Vrd3JXeUNXNnlDdlE4R3hyeE81V0dSRnlsQ180UF82TlVoWGp2bkE?oc=5",
+    "publishedAt": "2026-09-21T12:31:03.000Z",
+    "fetchedAt": "2026-09-24T01:15:24.575Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ubabf2",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI",
+    "chineseTitle": "Op-Ed：五角大楼 leaks show need for these major reforms to pro…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVhxTnI4eEJrcGp0bF9aUDZGUGhQU2NXQVdENGYySnJIZmRjZVloMnpZSGdqTENkUElJTkNiT1dvUU42TjJPNjZCNTFCbGl2TURYZHAySFllWlJ6Nkh0WkZKWWxzN29DVXpaeHZYTnVxVEx3dzR2VlBaNXpRVHhEVVNYRVdiNmdwVV8yZ1RjSFlZQVVtT044MFNBRkVlX1lHcnlveElCYm5yM0h4VmRVNGVLNnd1UQ?oc=5",
+    "publishedAt": "2026-09-19T18:20:29.000Z",
+    "fetchedAt": "2026-09-24T01:15:24.104Z",
+    "rawDescription": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "contentSnippet": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Op-Ed：五角大楼 leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u8mb0c",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security",
+    "chineseTitle": "Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challeng…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaVlPaG5wQmdjb2M5Y1hOdGNIR0hocW14Z2hTTDV4Y2N2enVnU3NQYmNBV2FGdXRQcXpBcHFreFhHMGhTb2VEeExsZnQ1Z3RFLU0xU0VrSmpDU3NaZGhBaHZ5ZWthY1JtQ0hZQkZaWTQxaEkzREN6cjZvMEx5dHhfX2ZWZGY5RWwtS1JOdFpxeTk1eUFfamVLbDlxVE1ZNmhJQXVOZA?oc=5",
+    "publishedAt": "2026-05-12T07:00:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:24.105Z",
+    "rawDescription": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security americafirstpolicy.com",
+    "contentSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Security americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Trump–Xi Summit：Handshakes Will Not Erase the 中国 Challenge | Expert Insights | 国家安全 americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump–Xi Summit: Handshakes Will Not Erase the China Challenge | Expert Insights | National Sec"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:04.621Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.572Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.573Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-24T01:15:04.621Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.440Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-24T01:15:00.438Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
