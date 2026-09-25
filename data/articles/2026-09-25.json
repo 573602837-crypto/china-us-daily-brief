@@ -1,0 +1,1752 @@
+[
+  {
+    "id": "art_avamr1",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Worker, 48, dies after falling from scaffolding in Jamaica Plain, police say",
+    "chineseTitle": "Worker，48，dies after falling from scaffolding in Jamaica…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/24/metro/man-dies-fall-from-scaffolding/",
+    "publishedAt": "2026-09-25T01:04:48.922Z",
+    "fetchedAt": "2026-09-25T01:16:22.165Z",
+    "rawDescription": "公开 sitemap 条目：Worker, 48, dies after falling from scaffolding in Jamaica Plain, police say",
+    "contentSnippet": "公开 sitemap 条目：Worker, 48, dies after falling from scaffolding in Jamaica Plain, police say",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Worker，48，dies after falling from scaffolding in Jamaica Plain，police say",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_23trzy",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Full Guest List for Trump’s State Dinner With Xi",
+    "chineseTitle": "Full Guest List for Trump’s State Dinner With Xi",
+    "originalUrl": "https://www.nytimes.com/2026/09/24/us/politics/full-guest-list-trump-state-dinner-xi.html",
+    "publishedAt": "2026-09-25T01:01:47.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.589Z",
+    "rawDescription": "Tech titans including Jeff Bezos, Elon Musk, Jensen Huang, Sam Altman and Tim Cook were among those invited to the event, hosted by President Trump and Melania Trump.",
+    "contentSnippet": "Tech titans including Jeff Bezos, Elon Musk, Jensen Huang, Sam Altman and Tim Cook were among those invited to the event, hosted by President Trump and Melania Trump.",
+    "summaryZh": "基于标题/摘要生成：Tech titans including Jeff Bezos，Elon Musk，Jensen Huang，Sam Altman and Tim Cook were among those invited to the event，hosted",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Full Guest List for Trump’s State Dinner With Xi The New York Times Tech titans including Jeff Bezos, Elon Musk, Je"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Full Guest List for Trump's State Dinner With Xi The New York Times Tech titans including Jeff Bezos, Elon Musk, Je"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jjplx5",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "FBI says source of its jobs portal breach still unknown as hackers allege employee data compromised",
+    "chineseTitle": "FBI says source of its jobs portal breach still unknown a…",
+    "originalUrl": "https://www.foxnews.com/politics/fbi-source-jobs-portal-breach-still-unknown-hackers-allege-employee-data-compromised",
+    "publishedAt": "2026-09-25T00:59:20.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.549Z",
+    "rawDescription": "ShinyHunters claims it stole FBI employees' names, addresses and Social Security numbers in a cyber attack targeting the FBIJobs.gov portal. An expert weighs in.",
+    "contentSnippet": "ShinyHunters claims it stole FBI employees' names, addresses and Social Security numbers in a cyber attack targeting the FBIJobs.gov portal. An expert weighs in.",
+    "summaryZh": "基于标题/摘要生成：ShinyHunters claims it stole FBI employees' names，addresses and Social Security numbers in a cyber attack targeting the FBIJobs.gov portal. An expert…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_pixmc0",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump ad airing with government funding despite law against ‘propaganda’",
+    "chineseTitle": "Trump ad airing with government funding despite law again…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQndJMmZKMHRFamRnbDV6SEtqMnNXZnFfcnFDUUxYN2kxUklZN1k1ckNPMnhkc2VibE8xOXZVZ2IyWWcwMW9tYlJaZWh0MlVRcTRWNk1zZXpiVUxmZGNfY2FxUXJwVnl1aVNnUjhuRnNsOXVjRmY1OXVHVVUzeDZsQlpLNWpDbGVjYWNTc0hwWXhZaE9OTnd0MDczRVpvV0lHUUhrVDMxSlY?oc=5",
+    "publishedAt": "2026-09-25T00:53:14.000Z",
+    "fetchedAt": "2026-09-25T01:16:43.507Z",
+    "rawDescription": "Trump ad airing with government funding despite law against ‘propaganda’ The Washington Post",
+    "contentSnippet": "Trump ad airing with government funding despite law against ‘propaganda’ The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump ad airing with government funding despite law against ‘propaganda’ The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump ad airing with government funding despite law against ‘propaganda’ Trump ad airing with"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump ad airing with government funding despite law against 'propaganda' Trump ad airing with g"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\"",
+      "\"Donald Trump\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2qoxz1",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Lawrence teens arraigned for shooting that injured three young men at housing complex",
+    "chineseTitle": "Lawrence teens arraigned for shooting that injured three…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/24/metro/three-teenagers-arraigned-lawrence-shooting-injured-three-others/",
+    "publishedAt": "2026-09-25T00:51:23.879Z",
+    "fetchedAt": "2026-09-25T01:16:22.167Z",
+    "rawDescription": "公开 sitemap 条目：Lawrence teens arraigned for shooting that injured three young men at housing complex",
+    "contentSnippet": "公开 sitemap 条目：Lawrence teens arraigned for shooting that injured three young men at housing complex",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Lawrence teens arraigned for shooting that injured three young men at housing complex",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_w5z92m",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So.",
+    "chineseTitle": "In Trump’s White 众议院，中国’s Dictator Is Welcome. American M…",
+    "originalUrl": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html",
+    "publishedAt": "2026-09-25T00:38:46.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.588Z",
+    "rawDescription": "The showdown over President Trump’s partial media ban played out as he welcomed President Xi Jinping, whose government is ranked among the most repressive in the world.",
+    "contentSnippet": "The showdown over President Trump’s partial media ban played out as he welcomed President Xi Jinping, whose government is ranked among the most repressive in the world.",
+    "summaryZh": "基于标题/摘要生成：The showdown over President Trump’s partial media ban played out as he welcomed President Xi Jinping，whose government is ranked among the most repres…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So. Peter Baker The show"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "In Trump's White House, China's Dictator Is Welcome. American Media, Less So. Peter Baker The show"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "In Trump's White House, China's Dictator Is Welcome. American Media, Less So. Peter Baker The showdown over Pres"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_h3hvp7",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Xi can’t escape protesters’ cries at deafening dinner demonstration",
+    "chineseTitle": "Xi can’t escape protesters’ cries at deafening dinner dem…",
+    "originalUrl": "https://www.foxnews.com/politics/xi-escape-protesters-cries-deafening-dinner-demonstration",
+    "publishedAt": "2026-09-25T00:27:21.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.551Z",
+    "rawDescription": "Protesters chanting \"Free Hong Kong\" and demanding freedom for political prisoners were heard over Trump's State Dinner welcoming Xi Jinping.",
+    "contentSnippet": "Protesters chanting \"Free Hong Kong\" and demanding freedom for political prisoners were heard over Trump's State Dinner welcoming Xi Jinping.",
+    "summaryZh": "基于标题/摘要生成：Protesters chanting \"Free Hong Kong\" and demanding freedom for political prisoners were heard over Trump's State Dinner welcoming Xi Jinping",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "rs chanting \"Free Hong Kong\" and demanding freedom for political prisoners were heard over Trump's State Dinner welcoming Xi Jinping. Protesters chanting \"Free Hong Kong\" and demanding"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "s chanting \"Free Hong Kong\" and demanding freedom for political prisoners were heard over Trump's State Dinner welcoming Xi Jinping. Protesters chanting \"Free Hong Kong\" and demanding f"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_6mnw0i",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Opinion | JD Vance is not ripping away anyone’s health insurance coverage",
+    "chineseTitle": "Opinion | JD Vance is not ripping away anyone’s health in…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXQtcWp5OHdId2wwQzViaXlsT3FIbS1fYTFnbkZRUUZBZHNxemRGbDl3eFhDdDNiN0pHQUxWaUpyT1VKX0JrUnh1aUZGNlU0bnhHOHNpRmNsLTJ6eTgzeUdlTTRPb0dpTjZEdHh1TDhoTS16QmtnbnRFUGM2LTJmY1JZT3pQbUJmMmVtSEhSamNpOE02NHNXWlYxNWs?oc=5",
+    "publishedAt": "2026-09-24T23:44:38.000Z",
+    "fetchedAt": "2026-09-25T01:16:43.511Z",
+    "rawDescription": "Opinion | JD Vance is not ripping away anyone’s health insurance coverage The Washington Post",
+    "contentSnippet": "Opinion | JD Vance is not ripping away anyone’s health insurance coverage The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Opinion | JD Vance is not ripping away anyone’s health insurance coverage The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "Opinion | JD Vance is not ripping away anyone’s health insurance coverage Opinion | JD Vance is not ripping"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Opinion | JD Vance is not ripping away anyone’s health insurance coverage Opinion | JD Vance is not ripping"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "Opinion | JD Vance is not ripping away anyone's health insurance coverage Opinion | JD Vance is not ripping"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "JD Vance"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"JD Vance\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8fi5aq",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Senate Democrats put Trump's D.C. makeover on notice",
+    "chineseTitle": "参议院 民主党人 put Trump's D.C. makeover on notice",
+    "originalUrl": "https://www.axios.com/2026/09/24/democrats-trump-kennedy-center-triumphal-arch",
+    "publishedAt": "2026-09-24T23:41:37.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.363Z",
+    "rawDescription": "Sen. Jeff Merkley (D-Ore.) plans to force a Senate vote next week on two new resolutions aimed at preventing President Trump from demolishing the Kennedy Center or building his proposed triumphal arch near Arlington National Cemetery. Why it matters: Senate Democrats are putting Republicans on notice that they're prepared to use every available legislative means, including the appropriations process later this year, to stymie Trump's efforts to erect or erase memorials in the D.C. area. Driving the news: Merkley will introduce his two bills when the Senate returns next week and then seek unanimous consent to consider them at the first opportunity. That's likely to fail, but Democrats will have the procedural upper hand at the end of the year in the appropriations process, making individua…",
+    "contentSnippet": "Sen. Jeff Merkley (D-Ore.) plans to force a Senate vote next week on two new resolutions aimed at preventing President Trump from demolishing the Kennedy Center or building his proposed triumphal arch near Arlington National Cemetery. Why it matters: Senate Democrats are putting Republicans on notice that they're prepared to use every available legislative means, including the appropriations process later this year, to stymie Trump's efforts to erect or erase memorials in the D.C. area. Driving the news: Merkley will introduce his two bills when the Senate returns next week and then seek unanimous consent to consider them at the first opportunity. That's likely to fail, but Democrats will have the procedural upper hand at the end of the year in the appropriations process, making individua…",
+    "summaryZh": "基于标题/摘要生成：Sen. Jeff Merkley (D-Ore.) plans to force a 参议院 vote next week on two new resolutions aimed at preventing President Trump from demolishing the Kenned…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Senate Democrats put Trump's D.C. makeover on notice Hans Nichols Sen. Jeff Merkley (D-Ore.) plans to force a Senate"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Senate Democrats put Trump's D.C. makeover on notice Hans Nichols Sen. Jeff Merkley (D-Ore.) plans to force a Senate"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Senate Democrats put Trump's D.C. makeover on notice Hans Nichols Sen. Jeff Merkley (D-Ore.) plans to forc"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "mphal arch near Arlington National Cemetery. Why it matters: Senate Democrats are putting Republicans on notice that they're prepared to use every available legislative means, including the a"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senate Democrats put Trump's D.C. makeover on notice Hans Nichols Sen. Jeff Merkley (D-Ore.) pla"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_oawro6",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scoop: NRSC pleads for $9M to defend three red seats",
+    "chineseTitle": "Scoop：NRSC pleads for $9M to defend three red seats",
+    "originalUrl": "https://www.axios.com/2026/09/24/nrsc-republicans-alaska-iowa-ohio",
+    "publishedAt": "2026-09-24T23:37:57.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.366Z",
+    "rawDescription": "The Senate GOP campaign arm is making an extraordinary late ask — $8.9 million, to be exact — for three red states: Alaska, Iowa and Ohio, according to a memo sent Thursday and obtained by Axios. Why it matters: The request is yet another sign of the headwinds facing Republicans. In a good year, they wouldn't be begging for millions to defend states President Trump carried by double digits in 2024. \"We need $8.9 million in additional hard dollars to close the media gap and sustain that progress through Election Day,\" a memo from the National Republican Senatorial Committee states. Zoom in: The memo lays out specific fundraising goals for each race, sending donors to joint fundraising accounts and campaigns. $1.2 million in Alaska , where Democratic nominee former Rep. Mary Peltola leads S…",
+    "contentSnippet": "The Senate GOP campaign arm is making an extraordinary late ask — $8.9 million, to be exact — for three red states: Alaska, Iowa and Ohio, according to a memo sent Thursday and obtained by Axios. Why it matters: The request is yet another sign of the headwinds facing Republicans. In a good year, they wouldn't be begging for millions to defend states President Trump carried by double digits in 2024. \"We need $8.9 million in additional hard dollars to close the media gap and sustain that progress through Election Day,\" a memo from the National Republican Senatorial Committee states. Zoom in: The memo lays out specific fundraising goals for each race, sending donors to joint fundraising accounts and campaigns. $1.2 million in Alaska , where Democratic nominee former Rep. Mary Peltola leads S…",
+    "summaryZh": "基于标题/摘要生成：The 参议院 GOP campaign arm is making an extraordinary late ask — $8.9 million，to be exact — for three red states：Alaska，Iowa and Ohio，according to a me…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "blicans. In a good year, they wouldn't be begging for millions to defend states President Trump carried by double digits in 2024. \"We need $8.9 million in additional hard dollars to clo"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "blicans. In a good year, they wouldn't be begging for millions to defend states President Trump carried by double digits in 2024. \"We need $8.9 million in additional hard dollars to clo"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "btained by Axios. Why it matters: The request is yet another sign of the headwinds facing Republicans. In a good year, they wouldn't be begging for millions to defend states President Trump c"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Scoop: NRSC pleads for $9M to defend three red seats Stef W. Kight The Senate GOP campaign arm is making an extraordinary late ask — $8.9 million, to be exact — for th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_knql8u",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Public Service Announcement: ‘Love Me’",
+    "chineseTitle": "Trump’s Public Service Announcement：‘Love Me’",
+    "originalUrl": "https://www.theatlantic.com/politics/2026/09/trump-ad-white-house-psa/688778/",
+    "publishedAt": "2026-09-24T23:20:00.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.641Z",
+    "rawDescription": "Taxpayers are funding a campaign-style ad for the president.",
+    "contentSnippet": "Taxpayers are funding a campaign-style ad for the president.",
+    "summaryZh": "基于标题/摘要生成：Taxpayers are funding a campaign-style ad for the president",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Public Service Announcement: ‘Love Me’ Matt Viser Taxpayers are funding a campaign-styl"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Public Service Announcement: 'Love Me' Matt Viser Taxpayers are funding a campaign-styl"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"Donald Trump\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_h0ymse",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iran&#039;s president claims Supreme Leader Khamenei healthy, able to govern",
+    "chineseTitle": "Iran&#039;s president claims Supreme Leader Khamenei heal…",
+    "originalUrl": "https://thehill.com/policy/international/6110716-masoud-pezeshkian-claims-khamenei-healthy/",
+    "publishedAt": "2026-09-24T23:16:21.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.431Z",
+    "rawDescription": "Iranian President Masoud Pezeshkian claimed Thursday that Supreme Leader Mojtaba Khamenei, who has been absent from public view for months, is “completely” healthy despite reports that he could be deceased or brain-dead. Questions have surrounded Khamenei’s condition since he was reportedly seriously injured during U.S.-Israeli airstrikes on Feb. 28 that killed his father and predecessor,...",
+    "contentSnippet": "Iranian President Masoud Pezeshkian claimed Thursday that Supreme Leader Mojtaba Khamenei, who has been absent from public view for months, is “completely” healthy despite reports that he could be deceased or brain-dead. Questions have surrounded Khamenei’s condition since he was reportedly seriously injured during U.S.-Israeli airstrikes on Feb. 28 that killed his father and predecessor,...",
+    "summaryZh": "基于标题/摘要生成：Iranian President Masoud Pezeshkian claimed Thursday that Supreme Leader Mojtaba Khamenei，who has been absent from public view for months，is “complet…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yfxeph",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Should Stop Hosting Summits",
+    "chineseTitle": "Trump Should Stop Hosting Summits",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/09/trump-xi-summit-china/688776/",
+    "publishedAt": "2026-09-24T22:50:55.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.642Z",
+    "rawDescription": "He’s turned them into a pointless ritual.",
+    "contentSnippet": "He’s turned them into a pointless ritual.",
+    "summaryZh": "基于标题/摘要生成：He’s turned them into a pointless ritual",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Should Stop Hosting Summits Tom Nichols He’s turned them into a pointless ritual. He’s tu"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Should Stop Hosting Summits Tom Nichols He's turned them into a pointless ritual. He's tu"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_24qrcw",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump eyes an October campaign rally — in Alabama",
+    "chineseTitle": "Trump eyes an October campaign rally — in Alabama",
+    "originalUrl": "https://www.politico.com/news/2026/09/24/trump-eyes-an-october-campaign-rally-in-alabama-01092853",
+    "publishedAt": "2026-09-24T22:38:10.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.492Z",
+    "rawDescription": "The event is scheduled for Oct. 2nd in Mobile, but the plans are still subject to change, according to two people with direct knowledge of the matter.",
+    "contentSnippet": "The event is scheduled for Oct. 2nd in Mobile, but the plans are still subject to change, according to two people with direct knowledge of the matter.",
+    "summaryZh": "基于标题/摘要生成：The event is scheduled for Oct. 2nd in Mobile，but the plans are still subject to change，according to two people with direct knowledge of the matter",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump eyes an October campaign rally — in Alabama By Alec Hernandez and Meredith Lee Hill The e"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump eyes an October campaign rally — in Alabama By Alec Hernandez and Meredith Lee Hill The e"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xvpmux",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Netanyahu Faces an UNGA Walkout (Again)",
+    "chineseTitle": "Netanyahu Faces an UNGA Walkout (Again)",
+    "originalUrl": "https://foreignpolicy.com/2026/09/24/netanyahu-speech-unga-israel-walkout-mamdani/",
+    "publishedAt": "2026-09-24T22:07:50.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.628Z",
+    "rawDescription": "The Israeli prime minister defended his country’s actions in Gaza and Iran—and lashed out at Mamdani.",
+    "contentSnippet": "The Israeli prime minister defended his country’s actions in Gaza and Iran—and lashed out at Mamdani.",
+    "summaryZh": "基于标题/摘要生成：The Israeli prime minister defended his country’s actions in Gaza and Iran—and lashed out at Mamdani",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ypxcjg",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump and Xi Talked a Lot but Accomplished Little",
+    "chineseTitle": "Trump and Xi Talked a Lot but Accomplished Little",
+    "originalUrl": "https://foreignpolicy.com/2026/09/24/trump-xi-white-house-ai-trade-tariffs-taiwan-critical-minerals/",
+    "publishedAt": "2026-09-24T21:39:17.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.629Z",
+    "rawDescription": "The White House summit concluded with much fanfare but few breakthroughs.",
+    "contentSnippet": "The White House summit concluded with much fanfare but few breakthroughs.",
+    "summaryZh": "基于标题/摘要生成：白宫 summit concluded with much fanfare but few breakthroughs",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump and Xi Talked a Lot but Accomplished Little Alexandra Sharp The White House summit conclu"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump and Xi Talked a Lot but Accomplished Little Alexandra Sharp The White House summit conclu"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Trump and Xi Talked a Lot but Accomplished Little Alexandra Sharp The White House summit concluded with much fanfare but few breakthroughs. The White House summit conclude"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt",
+      "\"White House\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7b5t59",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump administration asks Supreme Court to allow third-country deportations to resume",
+    "chineseTitle": "Trump administration asks Supreme Court to allow third-co…",
+    "originalUrl": "https://thehill.com/regulation/court-battles/6110459-trump-deportation-third-country-supreme-court/",
+    "publishedAt": "2026-09-24T21:15:07.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.432Z",
+    "rawDescription": "The Department of Homeland Security (DHS) asked the Supreme Court on Thursday to allow it to resume deporting immigrants to countries where they have no ties. President Trump has increasingly relied on the practice, called third-country removals, in his aggressive immigration crackdown. His administration has signed agreements to send deportees to countries across the globe, with...",
+    "contentSnippet": "The Department of Homeland Security (DHS) asked the Supreme Court on Thursday to allow it to resume deporting immigrants to countries where they have no ties. President Trump has increasingly relied on the practice, called third-country removals, in his aggressive immigration crackdown. His administration has signed agreements to send deportees to countries across the globe, with...",
+    "summaryZh": "基于标题/摘要生成：The Department of Homeland Security (DHS) asked the Supreme Court on Thursday to allow it to resume deporting immigrants to countries where they have…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump administration asks Supreme Court to allow third-country deportations to resume Zach Scho"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump administration asks Supreme Court to allow third-country deportations to resume Zach Scho"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Trump administration asks Supreme Court to allow third-country deportations to resume Zach Schonfeld The Depar"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_c76rrb",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Young men are swinging away hard from Republicans, pessimistic about economy, new poll finds",
+    "chineseTitle": "Young men are swinging away hard from 共和党人，pessimistic ab…",
+    "originalUrl": "https://www.politico.com/news/2026/09/24/young-men-splitting-from-trump-01091318",
+    "publishedAt": "2026-09-24T13:15:00.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.493Z",
+    "rawDescription": "A new poll shows congressional Democrats with a growing lead among young men, who list cost-of-living issues as their top concern.",
+    "contentSnippet": "A new poll shows congressional Democrats with a growing lead among young men, who list cost-of-living issues as their top concern.",
+    "summaryZh": "基于标题/摘要生成：A new poll shows congressional 民主党人 with a growing lead among young men，who list cost-of-living issues as their top concern",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "economy, new poll finds By Samuel Benson and Aaron Pellish A new poll shows congressional Democrats with a growing lead among young men, who list cost-of-living issues as their top concern."
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Young men are swinging away hard from Republicans, pessimistic about economy, new poll finds By Samuel Benson and Aaron Pellish A new poll"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kzt2et",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82eDJqSDdKblhYaUZkMUVWRVFTQWJlSE5VWWYtbkpJWmhLbm5ZSDdxcEZTV3dRVXc0bXl1MXdZV1YxaXczNlBCX0k0VnJjU2JtQmFSbEdfME40N1VaZzlqZVdrQnZ2YnFVSW1J?oc=5",
+    "publishedAt": "2026-09-24T11:30:15.000Z",
+    "fetchedAt": "2026-09-25T01:16:43.985Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eamlnf",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access",
+    "chineseTitle": "CNN，MS NOW and Politico allowed back into 白宫 after judge…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHRRQlVYY1o1T25Cbk5DMUVwX1o5clY0NS0zZEo1bTZ2amgxLVlxbUs2T0NPRXhvQXNrMUstSlV3TjF5NVFZWi1BaklDcVo4ZVM1ZXZHQ0pUTVNlSjB1Z2JVb1BrZXNsZDBCMTJIUkJhS2tQNV9UTzV2Qi1kSld5Q2plTjNweVloMUN0LW9xNjVzSGs?oc=5",
+    "publishedAt": "2026-09-24T05:06:33.000Z",
+    "fetchedAt": "2026-09-25T01:16:43.957Z",
+    "rawDescription": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN",
+    "contentSnippet": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN",
+    "summaryZh": "基于标题/摘要生成：CNN，MS NOW and Politico allowed back into 白宫 after judge orders Trump admin to restore access CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN, MS NOW and Politico allowed back into the White House after"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN, MS NOW and Politico allowed back into the White House after"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN, MS NOW and Politico allowed back in"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"White House\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mqrm4i",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Putin Escalates",
+    "chineseTitle": "How Putin Escalates",
+    "originalUrl": "https://www.foreignaffairs.com/russia/how-putin-escalates-ukraine-war-andrei-kolesnikov",
+    "publishedAt": "2026-09-24T04:00:00.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.417Z",
+    "rawDescription": "A new stage in Russia's confrontation with Ukraine—and the West.",
+    "contentSnippet": "A new stage in Russia's confrontation with Ukraine—and the West.",
+    "summaryZh": "基于标题/摘要生成：A new stage in Russia's confrontation with Ukraine—and the West",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4nwpvw",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Stalemate With Iran Is Not Sustainable",
+    "chineseTitle": "The Stalemate With Iran Is Not Sustainable",
+    "originalUrl": "https://www.foreignaffairs.com/iran/stalemate-iran-not-sustainable",
+    "publishedAt": "2026-09-23T04:00:00.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.419Z",
+    "rawDescription": "A diplomatic strategy to end the war.",
+    "contentSnippet": "A diplomatic strategy to end the war.",
+    "summaryZh": "基于标题/摘要生成：A diplomatic strategy to end the war",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ubabf2",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI",
+    "chineseTitle": "Op-Ed：五角大楼 leaks show need for these major reforms to pro…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVhxTnI4eEJrcGp0bF9aUDZGUGhQU2NXQVdENGYySnJIZmRjZVloMnpZSGdqTENkUElJTkNiT1dvUU42TjJPNjZCNTFCbGl2TURYZHAySFllWlJ6Nkh0WkZKWWxzN29DVXpaeHZYTnVxVEx3dzR2VlBaNXpRVHhEVVNYRVdiNmdwVV8yZ1RjSFlZQVVtT044MFNBRkVlX1lHcnlveElCYm5yM0h4VmRVNGVLNnd1UQ?oc=5",
+    "publishedAt": "2026-09-19T18:20:29.000Z",
+    "fetchedAt": "2026-09-25T01:16:43.496Z",
+    "rawDescription": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "contentSnippet": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Op-Ed：五角大楼 leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qjysbz",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Wilkie – AFPI",
+    "chineseTitle": "The Honorable Robert Wilkie – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JTEdpWVl0SlJlaDQwUHZCLUktSV90TmhMODlqNjFYdzFqOE5YcWM5bTdmM283R25nd180U0ZVUk8zZUY3emEyd2hYcDRJbkFTcVVXcHdmSXR0dkh6bUJsMWRyWlUzX3NTOTd2NEYxNVZYdw?oc=5",
+    "publishedAt": "2026-09-18T01:04:47.000Z",
+    "fetchedAt": "2026-09-25T01:16:43.496Z",
+    "rawDescription": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Wilkie – AFPI The Honorable Robert Wilkie – AFPI americafirstpolicy.com The Honorable Robert Wilkie – A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_o0swxh",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRFMtQjY2dHRKeXhNTGpUY3FMM2doV2YtcHlOMFpKOEpQWFdraE9nRDA2enRzak96XzVyM3c0aWpiRGhwa1F5OTBYaXZLS2lBM2VPX2pobWUzSGdhR2xkTkozRjlBeG9DWkRYYWlocTBLeWc?oc=5",
+    "publishedAt": "2026-09-14T14:10:11.000Z",
+    "fetchedAt": "2026-09-25T01:16:43.984Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-25T01:16:22.118Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.715Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.716Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-25T01:16:22.117Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.577Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-25T01:16:11.576Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
