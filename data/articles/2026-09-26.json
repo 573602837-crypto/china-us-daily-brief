@@ -1,0 +1,1623 @@
+[
+  {
+    "id": "art_q8bkkj",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "PublicPageProvider",
+    "originalTitle": "Money, Power, Inequality",
+    "chineseTitle": "Money，Power，Inequality",
+    "originalUrl": "https://www.bostonglobe.com/metro/money-power-inequality/?p1=BGHeader_MainNav",
+    "publishedAt": "2026-09-26T01:18:31.446Z",
+    "fetchedAt": "2026-09-26T01:18:32.669Z",
+    "rawDescription": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "contentSnippet": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "summaryZh": "基于标题/摘要生成：Money，Power，Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"，",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/nation/",
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cz99md",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Proposes $810 Million in Education and Health Cuts, Defying Congress",
+    "chineseTitle": "Trump Proposes $810 Million in Education and Health Cuts，…",
+    "originalUrl": "https://www.nytimes.com/2026/09/25/us/politics/white-house-rescissions-education-and-health-funds.html",
+    "publishedAt": "2026-09-26T01:05:34.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.730Z",
+    "rawDescription": "The attempted clawback represents the second time in as many years that the White House has sought to cancel funding approved by lawmakers.",
+    "contentSnippet": "The attempted clawback represents the second time in as many years that the White House has sought to cancel funding approved by lawmakers.",
+    "summaryZh": "基于标题/摘要生成：The attempted clawback represents the second time in as many years that 白宫 has sought to cancel funding approved by lawmakers",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Proposes $810 Million in Education and Health Cuts, Defying Congress Catie Edmondson The"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Proposes $810 Million in Education and Health Cuts, Defying Congress Catie Edmondson The"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "tie Edmondson The attempted clawback represents the second time in as many years that the White House has sought to cancel funding approved by lawmakers. The attempted clawback represents the"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Trump Proposes $810 Million in Education and Health Cuts, Defying Congress Catie Edmondson The attempted clawback represents the second time in as many years that t"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_n5xeah",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Fulton Sheen became a TV sensation preaching faith, morality and warnings Michael Knowles says still resonate",
+    "chineseTitle": "Fulton Sheen became a TV sensation preaching faith，morali…",
+    "originalUrl": "https://www.foxnews.com/politics/fulton-sheen-tv-sensation-preaching-faith-morality-warnings-michael-knowles-says-still-resonate",
+    "publishedAt": "2026-09-26T00:43:36.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.714Z",
+    "rawDescription": "Conservative commentator says famous Catholic archbishop would be branded a \"far-right extremist\" today without changing his message on faith and communism.",
+    "contentSnippet": "Conservative commentator says famous Catholic archbishop would be branded a \"far-right extremist\" today without changing his message on faith and communism.",
+    "summaryZh": "基于标题/摘要生成：Conservative commentator says famous Catholic archbishop would be branded a \"far-right extremist\" today without changing his message on faith and com…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uwlm9e",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Supreme Court Ruling Could Have Limited Impact on Voter Screening in Midterms",
+    "chineseTitle": "Supreme Court Ruling Could Have Limited Impact on Voter S…",
+    "originalUrl": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-voter-fraud-midterms-impact.html",
+    "publishedAt": "2026-09-26T00:42:23.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.731Z",
+    "rawDescription": "Federal law requires a 90-day “quiet period” before elections, likely restricting the immediate scope of a decision that allows the use of a citizenship database to examine voter rolls.",
+    "contentSnippet": "Federal law requires a 90-day “quiet period” before elections, likely restricting the immediate scope of a decision that allows the use of a citizenship database to examine voter rolls.",
+    "summaryZh": "基于标题/摘要生成：Federal law requires a 90-day “quiet period” before elections，likely restricting the immediate scope of a decision that allows the use of a citizensh…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xyajvl",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "St Paul police chief sues mayor, alleging she called herself a 'MILF,' sexually harassed him and retaliated",
+    "chineseTitle": "St Paul police chief sues mayor，alleging she called herse…",
+    "originalUrl": "https://www.foxnews.com/politics/st-paul-police-chief-sues-mayor-alleging-called-herself-milf-sexually-harassed-retaliation",
+    "publishedAt": "2026-09-25T23:53:07.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.714Z",
+    "rawDescription": "Axel Henry's 73-page lawsuit accuses St. Paul Mayor Kaohly Her of explicit sexual comments, unwanted physical contact and a retaliation campaign.",
+    "contentSnippet": "Axel Henry's 73-page lawsuit accuses St. Paul Mayor Kaohly Her of explicit sexual comments, unwanted physical contact and a retaliation campaign.",
+    "summaryZh": "基于标题/摘要生成：Axel Henry's 73-page lawsuit accuses St. Paul Mayor Kaohly Her of explicit sexual comments，unwanted physical contact and a retaliation campaign",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d99gab",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "White House has not acted on RFK Jr.’s push for proof ultra-processed foods are safe",
+    "chineseTitle": "White 众议院 has not acted on RFK Jr.’s push for proof ultra…",
+    "originalUrl": "https://www.washingtonpost.com/health/2026/09/25/white-house-has-not-acted-rfk-jrs-push-proof-ultra-processed-foods-are-safe/",
+    "publishedAt": "2026-09-25T22:53:59.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.809Z",
+    "rawDescription": "A draft letter obtained by The Post shows Kennedy’s favorable response to a petition that food experts said could lead to significant changes for the industry.",
+    "contentSnippet": "A draft letter obtained by The Post shows Kennedy’s favorable response to a petition that food experts said could lead to significant changes for the industry.",
+    "summaryZh": "基于标题/摘要生成：A draft letter obtained ’s favorable response to a petition that food experts said could lead to significant changes for the industry",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "White House has not acted on RFK Jr.'s push for proof ultra-processed foods are safe Rachel Roubein A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_avjcp8",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "OpenAI agents posted user images online, disclose dozens of third party incidents",
+    "chineseTitle": "OpenAI agents posted user images online，disclose dozens o…",
+    "originalUrl": "https://www.axios.com/2026/09/25/openai-models-posted-user-images-online-in-latest-security-episode",
+    "publishedAt": "2026-09-25T22:36:52.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.609Z",
+    "rawDescription": "OpenAI disclosed dozens of incidents in which its models behaved in ways it has deemed problematic, including leaking more than 50 images from ChatGPT users online. Why it matters : This is the first publicly known example of the company's agents mishandling user data and the latest example a budding rogue agent problem at OpenAI. The company says it could take months to fully investigate the security incidents. State of play : OpenAI said that some of its agents sent data from its internal training and testing systems to outside websites, including user images, as reported first by Reuters . The company identified 53 instances in which images that users put into ChatGPT were then posted to image-hosting sites as links that were not publicly listed. The images came from users whose ChatGP…",
+    "contentSnippet": "OpenAI disclosed dozens of incidents in which its models behaved in ways it has deemed problematic, including leaking more than 50 images from ChatGPT users online. Why it matters : This is the first publicly known example of the company's agents mishandling user data and the latest example a budding rogue agent problem at OpenAI. The company says it could take months to fully investigate the security incidents. State of play : OpenAI said that some of its agents sent data from its internal training and testing systems to outside websites, including user images, as reported first by Reuters . The company identified 53 instances in which images that users put into ChatGPT were then posted to image-hosting sites as links that were not publicly listed. The images came from users whose ChatGP…",
+    "summaryZh": "基于标题/摘要生成：OpenAI disclosed dozens of incidents in which its models behaved in ways it has deemed problematic，including leaking more than 50 images from ChatGPT…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s6wvi9",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Supreme Court blocks Missouri congressional map favoring GOP for third time",
+    "chineseTitle": "Supreme Court blocks Missouri congressional map favoring…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/25/supreme-court-blocks-missouri-congressional-map-favoring-gop-third-time/",
+    "publishedAt": "2026-09-25T22:20:42.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.810Z",
+    "rawDescription": "The ruling ends a complicated legal fight that has injected uncertainty into November’s midterm elections in the state.",
+    "contentSnippet": "The ruling ends a complicated legal fight that has injected uncertainty into November’s midterm elections in the state.",
+    "summaryZh": "基于标题/摘要生成：The ruling ends a complicated legal fight that has injected uncertainty into November’s midterm elections in the state",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Supreme Court blocks Missouri congressional map favoring GOP for third time Justin Jouvenal The ruling ends a complicated legal fight that has injecte"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_o5wozk",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iran pitches 7-day plan to restart US talks, reopen Strait of Hormuz",
+    "chineseTitle": "Iran pitches 7-day plan to restart US talks，reopen Strait…",
+    "originalUrl": "https://thehill.com/policy/international/6112561-iran-us-seven-day-peace-plan/",
+    "publishedAt": "2026-09-25T22:16:56.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.649Z",
+    "rawDescription": "Iran has shared a seven-day plan with the U.S. to end fighting between the two countries, reopen the Strait of Hormuz and restart talks for a final peace deal, Tehran’s foreign minister told multiple outlets Thursday in New York City. Iranian Foreign Minister Abbas Araghchi told a group of reporters at the United Nations General...",
+    "contentSnippet": "Iran has shared a seven-day plan with the U.S. to end fighting between the two countries, reopen the Strait of Hormuz and restart talks for a final peace deal, Tehran’s foreign minister told multiple outlets Thursday in New York City. Iranian Foreign Minister Abbas Araghchi told a group of reporters at the United Nations General...",
+    "summaryZh": "基于标题/摘要生成：Iran has shared a seven-day plan with the U.S. to end fighting between the two countries，reopen the Strait of Hormuz and restart talks for a final pe…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kl480",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iran&#039;s foreign minister details new offer to reopen strait, and other Mideast developments",
+    "chineseTitle": "Iran&#039;s foreign minister details new offer to reopen…",
+    "originalUrl": "https://thehill.com/homenews/ap/ap-international/ap-top-saudi-cleric-urges-troops-to-defend-against-the-houthis-and-other-mideast-developments/",
+    "publishedAt": "2026-09-25T21:26:57.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.650Z",
+    "rawDescription": "Word of an offer from Iran to reopen the Strait of Hormuz and resume talks on its nuclear program is emerging from the sidelines of the U.N. General Assembly. Meanwhile, Saudi Arabia’s top cleric issued a rare statement, calling on the kingdom’s troops to defend the country from neighboring Yemen’s Iran-backed Houthi rebels. In New...",
+    "contentSnippet": "Word of an offer from Iran to reopen the Strait of Hormuz and resume talks on its nuclear program is emerging from the sidelines of the U.N. General Assembly. Meanwhile, Saudi Arabia’s top cleric issued a rare statement, calling on the kingdom’s troops to defend the country from neighboring Yemen’s Iran-backed Houthi rebels. In New...",
+    "summaryZh": "基于标题/摘要生成：Word of an offer from Iran to reopen the Strait of Hormuz and resume talks on its nuclear program is emerging from the sidelines of the U.N. General…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5388mc",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump-appointed judge again holds admin in contempt over deportation",
+    "chineseTitle": "Trump-appointed judge again holds admin in contempt over…",
+    "originalUrl": "https://www.axios.com/2026/09/25/trump-dhs-contempt-asylum-seeker-deportation",
+    "publishedAt": "2026-09-25T21:23:30.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.612Z",
+    "rawDescription": "A Trump -appointed federal judge held the administration in contempt Friday for deporting a young asylum seeker to El Salvador in violation of three court orders — and ordered the government to bring him back to the U.S. Why it matters: It's the latest clash between the Trump administration and federal courts over deportations carried out despite judicial protections, with the judge finding the government violated orders dating from November 2024, April 2025 and July 2026. Driving the news: U.S. District Judge Stephanie Gallagher has now found the administration in contempt twice in the same class-action litigation, with Friday's ruling involving a man d eported to El Salvador despite three separate court orders. In a brief order Friday, Gallagher instructed the administration to return t…",
+    "contentSnippet": "A Trump -appointed federal judge held the administration in contempt Friday for deporting a young asylum seeker to El Salvador in violation of three court orders — and ordered the government to bring him back to the U.S. Why it matters: It's the latest clash between the Trump administration and federal courts over deportations carried out despite judicial protections, with the judge finding the government violated orders dating from November 2024, April 2025 and July 2026. Driving the news: U.S. District Judge Stephanie Gallagher has now found the administration in contempt twice in the same class-action litigation, with Friday's ruling involving a man d eported to El Salvador despite three separate court orders. In a brief order Friday, Gallagher instructed the administration to return t…",
+    "summaryZh": "基于标题/摘要生成：A Trump -appointed federal judge held the administration in contempt Friday for deporting a young asylum seeker to El Salvador in violation of three…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump-appointed judge again holds admin in contempt over deportation Avery Lotz A Trump -appoin"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump-appointed judge again holds admin in contempt over deportation Avery Lotz A Trump -appoin"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "overnment to bring him back to the U.S. Why it matters: It's the latest clash between the Trump administration and federal courts over deportations carried out despite judicial protections, with the j"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_zb2u03",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Absences Haunting the Trump Administration",
+    "chineseTitle": "The Absences Haunting the Trump Administration",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/09/trump-understaffed-administration/688795/",
+    "publishedAt": "2026-09-25T21:22:00.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.753Z",
+    "rawDescription": "The president has left hundreds of appointed roles open—including those that would have a central role in implementing his priorities.",
+    "contentSnippet": "The president has left hundreds of appointed roles open—including those that would have a central role in implementing his priorities.",
+    "summaryZh": "基于标题/摘要生成：The president has left hundreds of appointed roles open—including those that would have a central role in implementing his priorities",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Absences Haunting the Trump Administration David A. Graham The president has left hundreds of appointed roles open—in"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Absences Haunting the Trump Administration David A. Graham The president has left hundreds of appointed roles open—in"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "The Absences Haunting the Trump Administration David A. Graham The president has left hundreds of appointed roles open—including those t"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1tsm8m",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Egypt’s Warning to Israel",
+    "chineseTitle": "Egypt’s Warning to Israel",
+    "originalUrl": "https://www.theatlantic.com/national-security/2026/09/egypt-israel-gaza-hamas-palestinian-october-7/688720/",
+    "publishedAt": "2026-09-25T21:03:32.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.753Z",
+    "rawDescription": "Cairo’s intelligence chief visited Tel Aviv shortly before October 7 with a dire message about Gaza.",
+    "contentSnippet": "Cairo’s intelligence chief visited Tel Aviv shortly before October 7 with a dire message about Gaza.",
+    "summaryZh": "基于标题/摘要生成：Cairo’s intelligence chief visited Tel Aviv shortly before October 7 with a dire message about Gaza",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_e84omv",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump will hit several deep-red states in October campaign blitz",
+    "chineseTitle": "Trump will hit several deep-red states in October campaig…",
+    "originalUrl": "https://www.politico.com/news/2026/09/25/trump-midterms-travel-iowa-florida-red-states-01093710",
+    "publishedAt": "2026-09-25T20:48:14.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.679Z",
+    "rawDescription": "His visits come as the GOP rushes to shore up their own territory amid sky-high costs, an unpopular Iran war and some backlash to mass deportations.",
+    "contentSnippet": "His visits come as the GOP rushes to shore up their own territory amid sky-high costs, an unpopular Iran war and some backlash to mass deportations.",
+    "summaryZh": "基于标题/摘要生成：His visits come as the GOP rushes to shore up their own territory amid sky-high costs，an unpopular Iran war and some backlash to mass deportations",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump will hit several deep-red states in October campaign blitz By Meredith Lee Hill and Megan"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump will hit several deep-red states in October campaign blitz By Meredith Lee Hill and Megan"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "in October campaign blitz By Meredith Lee Hill and Megan Messerly His visits come as the GOP rushes to shore up their own territory amid sky-high costs, an unpopular Iran war and som"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wbnbp1",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘Furious’ Is an Angry Show for the World of Epstein and Trump",
+    "chineseTitle": "‘Furious’ Is an Angry Show for the World of Epstein and T…",
+    "originalUrl": "https://foreignpolicy.com/2026/09/25/furious-thriller-revenge-epstein/",
+    "publishedAt": "2026-09-25T18:30:21.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.747Z",
+    "rawDescription": "A tumultuous TV thriller delves into damage and revenge.",
+    "contentSnippet": "A tumultuous TV thriller delves into damage and revenge.",
+    "summaryZh": "基于标题/摘要生成：A tumultuous TV thriller delves into damage and revenge",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "‘Furious’ Is an Angry Show for the World of Epstein and Trump Sarah Weinman A tumultuous TV thriller delves into damage and revenge. A tumultuous TV th"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "'Furious' Is an Angry Show for the World of Epstein and Trump Sarah Weinman A tumultuous TV thriller delves into damage and revenge. A tumultuous TV th"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_pe5l70",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00M2JxMEM4ODZlS1hMSDBGc2x5eGluMHhSRVRCNnVXcUZqcHpDa0l2cUlxZW5XZFI4QnVidlJJSjgzWk5ILTlKeFNGMEF4U1AybG1DSGZxYU81R1Q1SDBoMnNfUW1CTm5wMHhGMVpwTXl6cXM?oc=5",
+    "publishedAt": "2026-09-25T18:08:22.000Z",
+    "fetchedAt": "2026-09-26T01:18:50.925Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d0eu7y",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The U.S.-Saudi Nuclear Agreement Carries Proliferation Risks",
+    "chineseTitle": "The U.S.-Saudi Nuclear Agreement Carries Proliferation Ri…",
+    "originalUrl": "https://foreignpolicy.com/2026/09/25/saudi-nuclear-agreement-dangerous-proliferation-risks-trump-riyadh-mbs/",
+    "publishedAt": "2026-09-25T14:03:14.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.749Z",
+    "rawDescription": "Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons.",
+    "contentSnippet": "Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons.",
+    "summaryZh": "基于标题/摘要生成：美国国会 should add extra safeguards to prevent Riyadh from obtaining nuclear weapons",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "The U.S.-Saudi Nuclear Agreement Carries Proliferation Risks Eric Brewer Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons. Congress sh"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_m2p5md",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Poll: A crack is emerging in Trump’s coalition over deportations",
+    "chineseTitle": "Poll：A crack is emerging in Trump’s coalition over deport…",
+    "originalUrl": "https://www.politico.com/news/2026/09/25/poll-trump-immigration-voter-cracks-maga-01091767",
+    "publishedAt": "2026-09-25T14:00:00.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.680Z",
+    "rawDescription": "The president’s most loyal supporters are more inclined than other Trump voters to support a tough immigration posture — but new POLITICO Poll results show there are limits.",
+    "contentSnippet": "The president’s most loyal supporters are more inclined than other Trump voters to support a tough immigration posture — but new POLITICO Poll results show there are limits.",
+    "summaryZh": "基于标题/摘要生成：The president’s most loyal supporters are more inclined than other Trump voters to support a tough immigration posture — but new POLITICO Poll result…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Poll: A crack is emerging in Trump’s coalition over deportations By Myah Ward and Erin Doherty The president’s most loyal su"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Poll: A crack is emerging in Trump's coalition over deportations By Myah Ward and Erin Doherty The president's most loyal su"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9m9vy6",
+    "sourceName": "The Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "CNN, MS NOW, and Politico back at the White House, hours after judge ordered Trump to lift ban",
+    "chineseTitle": "CNN，MS NOW，and Politico back at 白宫，hours after judge orde…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcWwtaElVZ3dPc1VQQTFDaXVuWkw4UmZNd2hwTUdoSVprbzYzTW5nQ1l4N0FXYzZ1MmpfYjQ3ZVh4Ukc3Mzg3MW9wdHB0UUIyNEZ1LVFRQ0VibW1WYmZrdXNKN1d0Vy00cXRiWjYza3ByTm9vTDVZUUxoSVNtblVHbkNUVnhXNi14eWJPWVlUc0lJdw?oc=5",
+    "publishedAt": "2026-09-25T06:51:37.000Z",
+    "fetchedAt": "2026-09-26T01:18:50.946Z",
+    "rawDescription": "CNN, MS NOW, and Politico back at the White House, hours after judge ordered Trump to lift ban The Boston Globe",
+    "contentSnippet": "CNN, MS NOW, and Politico back at the White House, hours after judge ordered Trump to lift ban The Boston Globe",
+    "summaryZh": "基于标题/摘要生成：CNN，MS NOW，and Politico back at 白宫，hours after judge ordered Trump to lift ban The Boston Globe",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "CNN, MS NOW, and Politico back at the White House, hours after judge ordered Trump to lift ban CNN, MS NOW, and Politico back at the White House, hours after judge ordered"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "CNN, MS NOW, and Politico back at the White House, hours after judge ordered Trump to lift ban CNN, MS NOW, and Politico back at the White House, hours after judge ordered"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "CNN, MS NOW, and Politico back at the White House, hours after judge ordered Trump to lift ban CNN, MS NOW, and Politico back at the White"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:bostonglobe.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7c6x74",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Coming Taiwan Crisis",
+    "chineseTitle": "The Coming 台湾 Crisis",
+    "originalUrl": "https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin",
+    "publishedAt": "2026-09-25T04:00:00.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.641Z",
+    "rawDescription": "Use today’s calm to prepare for the next perfect storm.",
+    "contentSnippet": "Use today’s calm to prepare for the next perfect storm.",
+    "summaryZh": "基于标题/摘要生成：Use today’s calm to prepare for the next perfect storm",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_kzt2et",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82eDJqSDdKblhYaUZkMUVWRVFTQWJlSE5VWWYtbkpJWmhLbm5ZSDdxcEZTV3dRVXc0bXl1MXdZV1YxaXczNlBCX0k0VnJjU2JtQmFSbEdfME40N1VaZzlqZVdrQnZ2YnFVSW1J?oc=5",
+    "publishedAt": "2026-09-24T11:30:15.000Z",
+    "fetchedAt": "2026-09-26T01:18:50.926Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eamlnf",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access",
+    "chineseTitle": "CNN，MS NOW and Politico allowed back into 白宫 after judge…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcHRRQlVYY1o1T25Cbk5DMUVwX1o5clY0NS0zZEo1bTZ2amgxLVlxbUs2T0NPRXhvQXNrMUstSlV3TjF5NVFZWi1BaklDcVo4ZVM1ZXZHQ0pUTVNlSjB1Z2JVb1BrZXNsZDBCMTJIUkJhS2tQNV9UTzV2Qi1kSld5Q2plTjNweVloMUN0LW9xNjVzSGs?oc=5",
+    "publishedAt": "2026-09-24T05:06:33.000Z",
+    "fetchedAt": "2026-09-26T01:18:50.872Z",
+    "rawDescription": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN",
+    "contentSnippet": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN",
+    "summaryZh": "基于标题/摘要生成：CNN，MS NOW and Politico allowed back into 白宫 after judge orders Trump admin to restore access CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN, MS NOW and Politico allowed back into the White House after"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN, MS NOW and Politico allowed back into the White House after"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "CNN, MS NOW and Politico allowed back into the White House after judge orders Trump admin to restore access CNN, MS NOW and Politico allowed back in"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mqrm4i",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Putin Escalates",
+    "chineseTitle": "How Putin Escalates",
+    "originalUrl": "https://www.foreignaffairs.com/russia/how-putin-escalates-ukraine-war-andrei-kolesnikov",
+    "publishedAt": "2026-09-24T04:00:00.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.642Z",
+    "rawDescription": "A new stage in Russia's confrontation with Ukraine—and the West.",
+    "contentSnippet": "A new stage in Russia's confrontation with Ukraine—and the West.",
+    "summaryZh": "基于标题/摘要生成：A new stage in Russia's confrontation with Ukraine—and the West",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ubabf2",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI",
+    "chineseTitle": "Op-Ed：五角大楼 leaks show need for these major reforms to pro…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVhxTnI4eEJrcGp0bF9aUDZGUGhQU2NXQVdENGYySnJIZmRjZVloMnpZSGdqTENkUElJTkNiT1dvUU42TjJPNjZCNTFCbGl2TURYZHAySFllWlJ6Nkh0WkZKWWxzN29DVXpaeHZYTnVxVEx3dzR2VlBaNXpRVHhEVVNYRVdiNmdwVV8yZ1RjSFlZQVVtT044MFNBRkVlX1lHcnlveElCYm5yM0h4VmRVNGVLNnd1UQ?oc=5",
+    "publishedAt": "2026-09-19T18:20:29.000Z",
+    "fetchedAt": "2026-09-26T01:18:50.709Z",
+    "rawDescription": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "contentSnippet": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Op-Ed：五角大楼 leaks show need for these major reforms to protect US secrets – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI Op-Ed: Pentagon leaks show need for these major reforms to protect US secrets – AFPI amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qjysbz",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Wilkie – AFPI",
+    "chineseTitle": "The Honorable Robert Wilkie – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JTEdpWVl0SlJlaDQwUHZCLUktSV90TmhMODlqNjFYdzFqOE5YcWM5bTdmM283R25nd180U0ZVUk8zZUY3emEyd2hYcDRJbkFTcVVXcHdmSXR0dkh6bUJsMWRyWlUzX3NTOTd2NEYxNVZYdw?oc=5",
+    "publishedAt": "2026-09-18T01:04:47.000Z",
+    "fetchedAt": "2026-09-26T01:18:50.709Z",
+    "rawDescription": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Wilkie – AFPI The Honorable Robert Wilkie – AFPI americafirstpolicy.com The Honorable Robert Wilkie – A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"America First Policy Institute\" technology"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-26T01:18:30.680Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.793Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.793Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-26T01:18:30.680Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.725Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-26T01:18:26.724Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
