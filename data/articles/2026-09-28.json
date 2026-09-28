@@ -1,0 +1,1414 @@
+[
+  {
+    "id": "art_2qr3tg",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Red Sox lose Tyron Guerrero to lat strain for at least two rounds of postseason",
+    "chineseTitle": "Red Sox lose Tyron Guerrero to lat strain for at least tw…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/27/sports/red-sox-injuries-wild-card-series/",
+    "publishedAt": "2026-09-28T01:20:43.907Z",
+    "fetchedAt": "2026-09-28T01:28:26.290Z",
+    "rawDescription": "公开 sitemap 条目：Red Sox lose Tyron Guerrero to lat strain for at least two rounds of postseason",
+    "contentSnippet": "公开 sitemap 条目：Red Sox lose Tyron Guerrero to lat strain for at least two rounds of postseason",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Red Sox lose Tyron Guerrero to lat strain for at least two rounds of postseason",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vn7xac",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Bruins name David Pastrnak team captain ahead of Tuesday’s season opener",
+    "chineseTitle": "Bruins name David Pastrnak team captain ahead of Tuesday’…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/27/sports/david-pastrnak-boston-bruins-team-captain/",
+    "publishedAt": "2026-09-28T00:46:35.611Z",
+    "fetchedAt": "2026-09-28T01:28:26.294Z",
+    "rawDescription": "公开 sitemap 条目：Bruins name David Pastrnak team captain ahead of Tuesday’s season opener",
+    "contentSnippet": "公开 sitemap 条目：Bruins name David Pastrnak team captain ahead of Tuesday’s season opener",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Bruins name David Pastrnak team captain ahead of Tuesday’s season opener",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_sq55uw",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+    "chineseTitle": "Trump Offered to Sell Arms to 中国，U.S. Ambassador Says",
+    "originalUrl": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
+    "publishedAt": "2026-09-27T23:33:39.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.921Z",
+    "rawDescription": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
+    "contentSnippet": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale.",
+    "summaryZh": "基于标题/摘要生成：President Trump made the offer to Xi Jinping，中国’s leader，said David Perdue，the ambassador to 中国. 白宫 later said the U.S. had no plans for such a sale",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Offered to Sell Arms to China, U.S. Ambassador Says Edward Wong President Trump made the"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Offered to Sell Arms to China, U.S. Ambassador Says Edward Wong President Trump made the"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "the offer to Xi Jinping, China's leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale. President Trump made the offer to Xi Ji"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-world https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_8eiml8",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "White House expands taxpayer-paid ad campaign boosting Trump",
+    "chineseTitle": "White 众议院 expands taxpayer-paid ad campaign boosting Trump",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/27/white-house-expands-taxpayer-paid-ad-campaign-boosting-trump/",
+    "publishedAt": "2026-09-27T22:36:37.000Z",
+    "fetchedAt": "2026-09-28T01:28:21.010Z",
+    "rawDescription": "The taxpayer-funded campaign borrows the president's political rhetoric as the White House defends the spots as “public service” announcements.",
+    "contentSnippet": "The taxpayer-funded campaign borrows the president's political rhetoric as the White House defends the spots as “public service” announcements.",
+    "summaryZh": "基于标题/摘要生成：The taxpayer-funded campaign borrows the president's political rhetoric as 白宫 defends the spots as “public service” announcements",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "White House expands taxpayer-paid ad campaign boosting Trump Katherine Doyle The taxpayer-funded campaign borrows the president's political rhetoric a"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "White House expands taxpayer-paid ad campaign boosting Trump Katherine Doyle The taxpayer-funded campaign borrows the president's political rhetoric a"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "White House expands taxpayer-paid ad campaign boosting Trump Katherine Doyle The taxpayer-funded camp"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7ioo22",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Dario Amodei of Anthropic to Dine With Trump at White House",
+    "chineseTitle": "Dario Amodei of Anthropic to Dine With Trump at White 众议院",
+    "originalUrl": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+    "publishedAt": "2026-09-27T22:12:24.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.921Z",
+    "rawDescription": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
+    "contentSnippet": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions.",
+    "summaryZh": "基于标题/摘要生成：Dario Amodei，who is also the company’s chief executive，will join the president at 白宫 for a private dinner. Mr. Trump has dismissed his cautions",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Dario Amodei of Anthropic to Dine With Trump at White House Zolan Kanno-Youngs Dario Amodei, who is also the company’s chief executive"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Dario Amodei of Anthropic to Dine With Trump at White House Zolan Kanno-Youngs Dario Amodei, who is also the company's chief executive"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Dario Amodei of Anthropic to Dine With Trump at White House Zolan Kanno-Youngs Dario Amodei, who is also the company's chief executive, will join the"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7lju2l",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Susie Wiles reveals brutal toll of fighting cancer while running Trump’s White House",
+    "chineseTitle": "Susie Wiles reveals brutal toll of fighting cancer while…",
+    "originalUrl": "https://www.foxnews.com/politics/susie-wiles-reveals-brutal-toll-fighting-cancer-while-running-trumps-white-house",
+    "publishedAt": "2026-09-27T21:54:55.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.902Z",
+    "rawDescription": "Susie Wiles reveals what it was like to undergo chemotherapy while leading the White House staff, saying some days just getting out of bed was a test.",
+    "contentSnippet": "Susie Wiles reveals what it was like to undergo chemotherapy while leading the White House staff, saying some days just getting out of bed was a test.",
+    "summaryZh": "基于标题/摘要生成：Susie Wiles reveals what it was like to undergo chemotherapy while leading 白宫 staff，saying some days just getting out of bed was a test",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "苏茜·怀尔斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Susie Wiles reveals brutal toll of fighting cancer while running Trump’s White House Susie Wiles reveals what it was like to undergo chemotherapy while leading"
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "Susie Wiles reveals brutal toll of fighting cancer while running Trump’s White House Susie Wiles rev"
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Wiles",
+        "confidence": "low",
+        "contextSnippet": "Susie Wiles reveals brutal toll of fighting cancer while running Trump’s White House Susie Wiles rev"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Susie Wiles reveals brutal toll of fighting cancer while running Trump's White House Susie Wiles reveals what it was like to undergo chemotherapy while leading"
+      },
+      {
+        "entityId": "susie-wiles",
+        "name": "Susie Wiles",
+        "type": "person",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "Susie Wiles reveals brutal toll of fighting cancer while running Trump's White House Susie Wiles reve"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Susie Wiles reveals brutal toll of fighting cancer while running Trump's White House Susie Wiles reveals what it was like to undergo chemotherapy while leading the White Hous"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Susie Wiles",
+      "White House",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_oz4u4a",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "GOP rep believes Iran was involved in thwarted terrorist plan on US air base in the UK",
+    "chineseTitle": "GOP rep believes Iran was involved in thwarted terrorist…",
+    "originalUrl": "https://thehill.com/homenews/house/6114136-uk-arrests-raf-fairford-terrorists/",
+    "publishedAt": "2026-09-27T21:46:21.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.828Z",
+    "rawDescription": "Rep. Kat Cammack (R-Fla.) said Sunday the Iranian government was “clearly” involved in an alleged terror attack authorities in the United Kingdom thwarted earlier in the day. “The simple answer is that clearly Iran was involved, but of course that is going to be investigated and determined,” the congresswoman told Laura Ingle on “NewsNation Live.”...",
+    "contentSnippet": "Rep. Kat Cammack (R-Fla.) said Sunday the Iranian government was “clearly” involved in an alleged terror attack authorities in the United Kingdom thwarted earlier in the day. “The simple answer is that clearly Iran was involved, but of course that is going to be investigated and determined,” the congresswoman told Laura Ingle on “NewsNation Live.”...",
+    "summaryZh": "基于标题/摘要生成：Rep. Kat Cammack (R-Fla.) said Sunday the Iranian government was “clearly” involved in an alleged terror attack authorities in the United Kingdom thw…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "GOP rep believes Iran was involved in thwarted terrorist plan on US air base in the UK Max Re"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-house https://thehill.com/homenews/house/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3j32sa",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "AOC test-runs a Senate bid in upstate New York",
+    "chineseTitle": "AOC test-runs a 参议院 bid in upstate New York",
+    "originalUrl": "https://www.axios.com/2026/09/27/aoc-tests-senate-bid-new-york",
+    "publishedAt": "2026-09-27T21:45:08.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.780Z",
+    "rawDescription": "BUFFALO, N.Y. — Alexandria Ocasio-Cortez 's flirtation with a 2028 Senate bid is getting real — more real than the presidential buzz around her might suggest. She's barnstorming through upstate New York, meeting with local officials, and kicking off a voter turnout program that could help her collect valuable data for a possible Senate campaign. Why it matters: Whether the House member from New York runs for Senate or the White House is one of the biggest questions hanging over the 2028 Democratic presidential primary. Zoom in: Her swing through Buffalo and Ithaca was officially aimed at boosting Democratic turnout in the midterms. But it doubled as a way to test AOC's appeal far from her home base of Queens and the Bronx, and build relationships with locals. In Buffalo, she met privately…",
+    "contentSnippet": "BUFFALO, N.Y. — Alexandria Ocasio-Cortez 's flirtation with a 2028 Senate bid is getting real — more real than the presidential buzz around her might suggest. She's barnstorming through upstate New York, meeting with local officials, and kicking off a voter turnout program that could help her collect valuable data for a possible Senate campaign. Why it matters: Whether the House member from New York runs for Senate or the White House is one of the biggest questions hanging over the 2028 Democratic presidential primary. Zoom in: Her swing through Buffalo and Ithaca was officially aimed at boosting Democratic turnout in the midterms. But it doubled as a way to test AOC's appeal far from her home base of Queens and the Bronx, and build relationships with locals. In Buffalo, she met privately…",
+    "summaryZh": "基于标题/摘要生成：BUFFALO，N.Y. — Alexandria Ocasio-Cortez 's flirtation with a 2028 参议院 bid is getting real — more real than the presidential buzz around her might sug…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "e campaign. Why it matters: Whether the House member from New York runs for Senate or the White House is one of the biggest questions hanging over the 2028 Democratic presidential primary. Zo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "AOC test-runs a Senate bid in upstate New York Holly Otterbein BUFFALO, N.Y. — Alexandria Ocasio-Cortez 's flirt"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uqaqfh",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Dems vow to confront Israel on violence against Palestinians: ‘Out of control’",
+    "chineseTitle": "Dems vow to confront Israel on violence against Palestini…",
+    "originalUrl": "https://thehill.com/homenews/house/6112471-democrats-to-confront-netanyahu-israel-west-bank/",
+    "publishedAt": "2026-09-27T21:00:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.829Z",
+    "rawDescription": "If they flip the House, Democrats say they’re ready to confront Israel on human rights. The issue has long challenged the party, pitting staunch Israel defenders against more liberal lawmakers critical of Israel’s treatment of Palestinians. Democratic leaders have taken pains to avoid legislation that might highlight those divisions. But heading into the midterms, when...",
+    "contentSnippet": "If they flip the House, Democrats say they’re ready to confront Israel on human rights. The issue has long challenged the party, pitting staunch Israel defenders against more liberal lawmakers critical of Israel’s treatment of Palestinians. Democratic leaders have taken pains to avoid legislation that might highlight those divisions. But heading into the midterms, when...",
+    "summaryZh": "基于标题/摘要生成：If they flip the 众议院，民主党人 say they’re ready to confront Israel on human rights. The issue has long challenged the party，pitting staunch Israel defend…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "el on violence against Palestinians: 'Out of control' Mike Lillis If they flip the House, Democrats say they're ready to confront Israel on human rights. The issue has long challenged the p"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-house https://thehill.com/homenews/house/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1lstv4",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Amodei critics target Trump with hit piece before White House dinner",
+    "chineseTitle": "Amodei critics target Trump with hit piece before White 众…",
+    "originalUrl": "https://www.axios.com/2026/09/27/amodei-trump-anthropic-white-house-briefing",
+    "publishedAt": "2026-09-27T18:57:29.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.782Z",
+    "rawDescription": "Opponents of Anthropic's Dario Amodei are circulating a highly negative brief about him to the White House ahead of an important dinner with President Trump , per an Axios review of the document. Why it matters: No company wants to be on Trump's bad side — and a Sunday night dinner between the president and Amodei could be what thaws relations after a year of tension. Behind the scenes: The brief, which is not an internal White House document, casts Amodei as having \"a long record of attacking Trump\" and having \"deep Democratic ties.\" It notes the company's falling out earlier this year with the Pentagon as a \"clear example of Dario showing he doesn't trust President Trump.\" The brief is intended for Trump's eyes and is likely to get in front of him, according to a source familiar with th…",
+    "contentSnippet": "Opponents of Anthropic's Dario Amodei are circulating a highly negative brief about him to the White House ahead of an important dinner with President Trump , per an Axios review of the document. Why it matters: No company wants to be on Trump's bad side — and a Sunday night dinner between the president and Amodei could be what thaws relations after a year of tension. Behind the scenes: The brief, which is not an internal White House document, casts Amodei as having \"a long record of attacking Trump\" and having \"deep Democratic ties.\" It notes the company's falling out earlier this year with the Pentagon as a \"clear example of Dario showing he doesn't trust President Trump.\" The brief is intended for Trump's eyes and is likely to get in front of him, according to a source familiar with th…",
+    "summaryZh": "基于标题/摘要生成：Opponents of Anthropic's Dario Amodei are circulating a highly negative brief about him to 白宫 ahead of an important dinner with President Trump，per a…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Amodei critics target Trump with hit piece before White House dinner Maria Curi Opponents of Anthropic's Dario Amodei"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Amodei critics target Trump with hit piece before White House dinner Maria Curi Opponents of Anthropic's Dario Amodei"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Amodei critics target Trump with hit piece before White House dinner Maria Curi Opponents of Anthropic's Dario Amodei are circulating a highly negative"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_53cq9p",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "This Texas crooner could help Democrats win Congress, one quinceañera at a time",
+    "chineseTitle": "This Texas crooner could help 民主党人 win 美国国会，one quinceañe…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/27/bobby-pulido-would-be-only-member-congress-with-latin-grammy/",
+    "publishedAt": "2026-09-27T18:11:06.000Z",
+    "fetchedAt": "2026-09-28T01:28:21.010Z",
+    "rawDescription": "Bobby Pulido would be the only member of Congress with a Latin Grammy to his name. That comes with its upsides and downsides.",
+    "contentSnippet": "Bobby Pulido would be the only member of Congress with a Latin Grammy to his name. That comes with its upsides and downsides.",
+    "summaryZh": "基于标题/摘要生成：Bobby Pulido would be the only member of 美国国会 with a Latin Grammy to his name. That comes with its upsides and downsides",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "This Texas crooner could help Democrats win Congress, one quinceañera at a time Teo Armus Bobby Pulido would be the only member o"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "This Texas crooner could help Democrats win Congress, one quinceañera at a time Teo Armus Bobby Pulido would be the only member of Congress wi"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_r7m70b",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "An SNL Exchange That Captures the AI Disconnect",
+    "chineseTitle": "An SNL Exchange That Captures the AI Disconnect",
+    "originalUrl": "https://www.theatlantic.com/culture/2026/09/saturday-night-live-season-52-premiere-dario-amodei/688803/",
+    "publishedAt": "2026-09-27T17:55:23.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.947Z",
+    "rawDescription": "The Season 52 premiere’s standout moment took an Anthropic co-founder to task.",
+    "contentSnippet": "The Season 52 premiere’s standout moment took an Anthropic co-founder to task.",
+    "summaryZh": "基于标题/摘要生成：The Season 52 premiere’s standout moment took an Anthropic co-founder to task",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_40ff7l",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Texas voters have plenty to say about whether Lone Star State could turn blue",
+    "chineseTitle": "Texas voters have plenty to say about whether Lone Star S…",
+    "originalUrl": "https://www.foxnews.com/politics/texas-voters-plenty-say-lone-star-state-turn-blue",
+    "publishedAt": "2026-09-27T17:18:18.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.903Z",
+    "rawDescription": "Texas voters at the State Fair of Texas reveal how inflation and economic frustration are shaping the Greg Abbott and Ken Paxton races this fall.",
+    "contentSnippet": "Texas voters at the State Fair of Texas reveal how inflation and economic frustration are shaping the Greg Abbott and Ken Paxton races this fall.",
+    "summaryZh": "基于标题/摘要生成：Texas voters at the State Fair of Texas reveal how inflation and economic frustration are shaping the Greg Abbott and Ken Paxton races this fall",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gt3vbs",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "ICE operations are making it hard for vulnerable Republicans fighting for their political survival",
+    "chineseTitle": "ICE operations are making it hard for vulnerable 共和党人 fig…",
+    "originalUrl": "https://www.politico.com/news/2026/09/27/ice-crackdown-immigration-republicans-midterms-01093912",
+    "publishedAt": "2026-09-27T14:00:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.865Z",
+    "rawDescription": "Immigration enforcement in Kansas, Texas, Florida and beyond is forcing battleground Republicans to answer for the fallout.",
+    "contentSnippet": "Immigration enforcement in Kansas, Texas, Florida and beyond is forcing battleground Republicans to answer for the fallout.",
+    "summaryZh": "基于标题/摘要生成：Immigration enforcement in Kansas，Texas，Florida and beyond is forcing battleground 共和党人 to answer for the fallout",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "ICE operations are making it hard for vulnerable Republicans fighting for their political survival By Samuel Benson and Eric Bazail-Eimil Immigration"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g9pao1",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Is the Meaning of Mystical Experience?",
+    "chineseTitle": "What Is the Meaning of Mystical Experience",
+    "originalUrl": "https://www.theatlantic.com/podcasts/2026/09/what-meaning-mystical-experience/688782/",
+    "publishedAt": "2026-09-27T13:00:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.949Z",
+    "rawDescription": "Subscribe here: Apple Podcasts | Spotify | YouTube What would it be like to wake up one day with the ability to greet the world with warmth, patience, grace, and affection? This is what happens to the main character in the Pulitzer Prize winner Ayad Akhtar’s magnificent new novel, The Radiance . It is a tale of spiritual transformation in which Akhtar gives a detailed description of our inner landscapes. David and Akhtar talk about what it’s like to see the world with new eyes, and how difficult it is to move from the head to the heart. The following is a transcript of the episode: David Brooks: Ayad Akhtar is one of America’s leading playwrights and writers. His plays, like The Disgraced , which won the Pulitzer Prize, and his earlier novels, including Homeland Elegies , often describe w…",
+    "contentSnippet": "Subscribe here: Apple Podcasts | Spotify | YouTube What would it be like to wake up one day with the ability to greet the world with warmth, patience, grace, and affection? This is what happens to the main character in the Pulitzer Prize winner Ayad Akhtar’s magnificent new novel, The Radiance . It is a tale of spiritual transformation in which Akhtar gives a detailed description of our inner landscapes. David and Akhtar talk about what it’s like to see the world with new eyes, and how difficult it is to move from the head to the heart. The following is a transcript of the episode: David Brooks: Ayad Akhtar is one of America’s leading playwrights and writers. His plays, like The Disgraced , which won the Pulitzer Prize, and his earlier novels, including Homeland Elegies , often describe w…",
+    "summaryZh": "基于标题/摘要生成：Subscribe here：Apple Podcasts | Spotify | YouTube What would it be like to wake up one day with the ability to greet the world with warmth，patience，g…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qjm8lt",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Poll: Trump’s MAGA loyalists don’t think he has an affordability problem",
+    "chineseTitle": "Poll：Trump’s MAGA loyalists don’t think he has an afforda…",
+    "originalUrl": "https://www.politico.com/news/2026/09/26/poll-affordability-trump-maga-splits-01086222",
+    "publishedAt": "2026-09-26T18:00:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.867Z",
+    "rawDescription": "A recent POLITICO Poll found that cost of living concerns are reinforcing partisanship divides — and driving a wedge among Republicans.",
+    "contentSnippet": "A recent POLITICO Poll found that cost of living concerns are reinforcing partisanship divides — and driving a wedge among Republicans.",
+    "summaryZh": "基于标题/摘要生成：A recent POLITICO Poll found that cost of living concerns are reinforcing partisanship divides — and driving a wedge among 共和党人",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Poll: Trump’s MAGA loyalists don’t think he has an affordability problem By Jessie Blaeser A recent P"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Poll: Trump's MAGA loyalists don't think he has an affordability problem By Jessie Blaeser A recent P"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "cost of living concerns are reinforcing partisanship divides — and driving a wedge among Republicans. A recent POLITICO Poll found that cost of living concerns are reinforcing partisanship d"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wbnbp1",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘Furious’ Is an Angry Show for the World of Epstein and Trump",
+    "chineseTitle": "‘Furious’ Is an Angry Show for the World of Epstein and T…",
+    "originalUrl": "https://foreignpolicy.com/2026/09/25/furious-thriller-revenge-epstein/",
+    "publishedAt": "2026-09-25T18:30:21.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.940Z",
+    "rawDescription": "A tumultuous TV thriller delves into damage and revenge.",
+    "contentSnippet": "A tumultuous TV thriller delves into damage and revenge.",
+    "summaryZh": "基于标题/摘要生成：A tumultuous TV thriller delves into damage and revenge",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "‘Furious’ Is an Angry Show for the World of Epstein and Trump Sarah Weinman A tumultuous TV thriller delves into damage and revenge. A tumultuous TV th"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "'Furious' Is an Angry Show for the World of Epstein and Trump Sarah Weinman A tumultuous TV thriller delves into damage and revenge. A tumultuous TV th"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d0eu7y",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The U.S.-Saudi Nuclear Agreement Carries Proliferation Risks",
+    "chineseTitle": "The U.S.-Saudi Nuclear Agreement Carries Proliferation Ri…",
+    "originalUrl": "https://foreignpolicy.com/2026/09/25/saudi-nuclear-agreement-dangerous-proliferation-risks-trump-riyadh-mbs/",
+    "publishedAt": "2026-09-25T14:03:14.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.942Z",
+    "rawDescription": "Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons.",
+    "contentSnippet": "Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons.",
+    "summaryZh": "基于标题/摘要生成：美国国会 should add extra safeguards to prevent Riyadh from obtaining nuclear weapons",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "The U.S.-Saudi Nuclear Agreement Carries Proliferation Risks Eric Brewer Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons. Congress sh"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7c6x74",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Coming Taiwan Crisis",
+    "chineseTitle": "The Coming 台湾 Crisis",
+    "originalUrl": "https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin",
+    "publishedAt": "2026-09-25T04:00:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.820Z",
+    "rawDescription": "Use today’s calm to prepare for the next perfect storm.",
+    "contentSnippet": "Use today’s calm to prepare for the next perfect storm.",
+    "summaryZh": "基于标题/摘要生成：Use today’s calm to prepare for the next perfect storm",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_mqrm4i",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Putin Escalates",
+    "chineseTitle": "How Putin Escalates",
+    "originalUrl": "https://www.foreignaffairs.com/russia/how-putin-escalates-ukraine-war-andrei-kolesnikov",
+    "publishedAt": "2026-09-24T04:00:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.821Z",
+    "rawDescription": "A new stage in Russia's confrontation with Ukraine—and the West.",
+    "contentSnippet": "A new stage in Russia's confrontation with Ukraine—and the West.",
+    "summaryZh": "基于标题/摘要生成：A new stage in Russia's confrontation with Ukraine—and the West",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:26.264Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.991Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.992Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-28T01:28:26.264Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.915Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-28T01:28:20.914Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
