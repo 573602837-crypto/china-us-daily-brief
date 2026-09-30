@@ -1,0 +1,1645 @@
+[
+  {
+    "id": "art_bcsl88",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Hegseth is set to announce more cuts to the military’s general and admiral ranks",
+    "chineseTitle": "Hegseth is set to announce more cuts to the military’s ge…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/29/nation/hegseth-cuts-military-general-admiral-ranks/",
+    "publishedAt": "2026-09-30T01:41:20.109Z",
+    "fetchedAt": "2026-09-30T01:54:12.919Z",
+    "rawDescription": "公开 sitemap 条目：Hegseth is set to announce more cuts to the military’s general and admiral ranks",
+    "contentSnippet": "公开 sitemap 条目：Hegseth is set to announce more cuts to the military’s general and admiral ranks",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Hegseth is set to announce more cuts to the military’s general and admiral ranks",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Hegseth is set to announce more cuts to the military’s general and admiral ranks 公开 sitemap 条目：H"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Hegseth is set to announce more cuts to the military's general and admiral ranks 公开 sitemap 条目：He"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vjnxn4",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Voice of America Cuts Hurt ‘U.S. National Interests,’ Internal Watchdog Says",
+    "chineseTitle": "Voice of America Cuts Hurt ‘U.S. National Interests，’ Int…",
+    "originalUrl": "https://www.nytimes.com/2026/09/29/us/politics/voice-of-america-report.html",
+    "publishedAt": "2026-09-30T01:40:19.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.883Z",
+    "rawDescription": "The assessment by the State Department’s inspector general echoes concerns raised by critics of the move to shutter V.O.A., including some Republicans in Congress.",
+    "contentSnippet": "The assessment by the State Department’s inspector general echoes concerns raised by critics of the move to shutter V.O.A., including some Republicans in Congress.",
+    "summaryZh": "基于标题/摘要生成：The assessment by the 美国国务院’s inspector general echoes concerns raised by critics of the move to shutter V.O.A.，including some 共和党人 in 美国国会",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "r general echoes concerns raised by critics of the move to shutter V.O.A., including some Republicans in Congress. The assessment by the State Department's inspector general echoes concerns r"
+      },
+      {
+        "entityId": "state-department",
+        "name": "State Department",
+        "type": "organization",
+        "matchedAlias": "State Department",
+        "confidence": "high",
+        "contextSnippet": "ts Hurt 'U.S. National Interests,' Internal Watchdog Says Minho Kim The assessment by the State Department's inspector general echoes concerns raised by critics of the move to shutter V.O.A., incl"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "s concerns raised by critics of the move to shutter V.O.A., including some Republicans in Congress. The assessment by the State Department's inspector general echoes concerns raised by cri"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "State Department",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "State Department",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_lc88mq",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Air Force Major Recommended for General Court-Martial After Protesting Trump",
+    "chineseTitle": "Air Force Major Recommended for General Court-Martial Aft…",
+    "originalUrl": "https://www.nytimes.com/2026/09/29/us/politics/air-force-major-court-martial-trump.html",
+    "publishedAt": "2026-09-30T01:18:06.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.884Z",
+    "rawDescription": "The recommendations are not binding, but it is rare for them to be ignored in the military justice system.",
+    "contentSnippet": "The recommendations are not binding, but it is rare for them to be ignored in the military justice system.",
+    "summaryZh": "基于标题/摘要生成：The recommendations are not binding，but it is rare for them to be ignored in the military justice system",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Air Force Major Recommended for General Court-Martial After Protesting Trump Anushka Patil The recommendations are not binding, but it is rare for them to be ignored"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Air Force Major Recommended for General Court-Martial After Protesting Trump Anushka Patil The recommendations are not binding, but it is rare for them to be ignored"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vk3s9r",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump says top tech firms have signed accord to ‘self-police’ AI development",
+    "chineseTitle": "Trump says top tech firms have signed accord to ‘self-pol…",
+    "originalUrl": "https://www.bostonglobe.com/2026/09/29/nation/trump-ai-leaders-lunch/",
+    "publishedAt": "2026-09-30T01:04:35.907Z",
+    "fetchedAt": "2026-09-30T01:54:12.922Z",
+    "rawDescription": "公开 sitemap 条目：Trump says top tech firms have signed accord to ‘self-police’ AI development",
+    "contentSnippet": "公开 sitemap 条目：Trump says top tech firms have signed accord to ‘self-police’ AI development",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump says top tech firms have signed accord to ‘self-police’ AI development",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump says top tech firms have signed accord to ‘self-police’ AI development 公开 sitemap 条目：Tru"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump says top tech firms have signed accord to 'self-police' AI development 公开 sitemap 条目：Trum"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9fkdog",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Boeing lands $20B-plus Navy deal for sixth-generation fighter to deliver ‘absolute air superiority’",
+    "chineseTitle": "Boeing lands $20B-plus Navy deal for sixth-generation fig…",
+    "originalUrl": "https://www.foxnews.com/politics/boeing-lands-20b-plus-navy-deal-sixth-generation-fighter-deliver-absolute-air-superiority",
+    "publishedAt": "2026-09-30T00:17:36.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.853Z",
+    "rawDescription": "Boeing's $20 billion F/A-XX contract marks the Navy's first sixth-generation fighter, designed to replace F/A-18 Super Hornets and EA-18G Growlers.",
+    "contentSnippet": "Boeing's $20 billion F/A-XX contract marks the Navy's first sixth-generation fighter, designed to replace F/A-18 Super Hornets and EA-18G Growlers.",
+    "summaryZh": "基于标题/摘要生成：Boeing's $20 billion F，A-XX contract marks the Navy's first sixth-generation fighter，designed to replace F，A-18 Super Hornets and EA-18G Growlers",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_n4zgj3",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘F--- her’: Jasmine Crockett torched by ex-Dem colleague over who she left off endorsement list",
+    "chineseTitle": "‘F--- her’：Jasmine Crockett torched by ex-Dem colleague o…",
+    "originalUrl": "https://www.foxnews.com/politics/jasmine-crockett-torched-ex-dem-colleague-who-left-off-endorsement-list",
+    "publishedAt": "2026-09-30T00:00:52.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.854Z",
+    "rawDescription": "Former Rep. Susan Wild unleashed a profane tirade against Jasmine Crockett after the Texas Democrat's FIRE PAC endorsement list omitted James Talarico.",
+    "contentSnippet": "Former Rep. Susan Wild unleashed a profane tirade against Jasmine Crockett after the Texas Democrat's FIRE PAC endorsement list omitted James Talarico.",
+    "summaryZh": "基于标题/摘要生成：Former Rep. Susan Wild unleashed a profane tirade against Jasmine Crockett after the Texas Democrat's FIRE PAC endorsement list omitted James Talarico",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_b06tq3",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Appeals court signals support for contempt inquiry on deportation flights",
+    "chineseTitle": "Appeals court signals support for contempt inquiry on dep…",
+    "originalUrl": "https://www.washingtonpost.com/national-security/2026/09/29/appeals-court-signals-support-contempt-inquiry-deportation-flights/",
+    "publishedAt": "2026-09-29T23:21:49.000Z",
+    "fetchedAt": "2026-09-30T01:54:10.025Z",
+    "rawDescription": "Judge James E. Boasberg started the inquiry after Trump officials did not abide by his orders in 2025 to turn back planes carrying Venezuelan migrants.",
+    "contentSnippet": "Judge James E. Boasberg started the inquiry after Trump officials did not abide by his orders in 2025 to turn back planes carrying Venezuelan migrants.",
+    "summaryZh": "基于标题/摘要生成：Judge James E. Boasberg started the inquiry after Trump officials did not abide by his orders in 2025 to turn back planes carrying Venezuelan migrants",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "y on deportation flights Salvador Rizzo Judge James E. Boasberg started the inquiry after Trump officials did not abide by his orders in 2025 to turn back planes carrying Venezuelan mig"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "y on deportation flights Salvador Rizzo Judge James E. Boasberg started the inquiry after Trump officials did not abide by his orders in 2025 to turn back planes carrying Venezuelan mig"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_od9ak0",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The DOJ’s Collapsing Probe Into a Supposed Anti-Trump Conspiracy",
+    "chineseTitle": "The DOJ’s Collapsing Probe Into a Supposed Anti-Trump Con…",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/09/trump-justice-department-conspiracy-fbi/688833/",
+    "publishedAt": "2026-09-29T22:55:00.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.927Z",
+    "rawDescription": "It’s buckling under the weight of strategic errors, staff turnover, and, most of all, the facts.",
+    "contentSnippet": "It’s buckling under the weight of strategic errors, staff turnover, and, most of all, the facts.",
+    "summaryZh": "基于标题/摘要生成：It’s buckling under the weight of strategic errors，staff turnover，and，most of all，the facts",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The DOJ’s Collapsing Probe Into a Supposed Anti-Trump Conspiracy David A. Graham It’s buckling under the weight of strategic errors, staff turn"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The DOJ's Collapsing Probe Into a Supposed Anti-Trump Conspiracy David A. Graham It's buckling under the weight of strategic errors, staff turn"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jlyad6",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "U.S.-Iran talks yield little, raising odds of renewed combat",
+    "chineseTitle": "U.S.-Iran talks yield little，raising odds of renewed comb…",
+    "originalUrl": "https://www.axios.com/2026/09/29/trump-iran-war-qatar-diplomacy",
+    "publishedAt": "2026-09-29T22:27:09.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.670Z",
+    "rawDescription": "Efforts this week by Qatari mediators to broker a diplomatic breakthrough between the U.S. and Iran have made little progress, with neither side willing to budge, according to three sources familiar with the talks. Why it matters: The stalemate bolsters the belief on both sides that a renewed military conflict is becoming more likely. U.S. officials think President Trump could order a return to major combat operations after the midterms. Qatari officials will keep trying but are growing increasingly frustrated with both sides, two of the sources said. Driving the news: Qatari mediator Ali al-Thawadi met Monday with Iranian Foreign Minister Abbas Araghchi and his team in New York for several hours. A source with knowledge said they discussed a two-page Qatari compromise proposal. According…",
+    "contentSnippet": "Efforts this week by Qatari mediators to broker a diplomatic breakthrough between the U.S. and Iran have made little progress, with neither side willing to budge, according to three sources familiar with the talks. Why it matters: The stalemate bolsters the belief on both sides that a renewed military conflict is becoming more likely. U.S. officials think President Trump could order a return to major combat operations after the midterms. Qatari officials will keep trying but are growing increasingly frustrated with both sides, two of the sources said. Driving the news: Qatari mediator Ali al-Thawadi met Monday with Iranian Foreign Minister Abbas Araghchi and his team in New York for several hours. A source with knowledge said they discussed a two-page Qatari compromise proposal. According…",
+    "summaryZh": "基于标题/摘要生成：Efforts this week，with neither side willing to budge，according to three sources familiar with the talks. Why it matters：The stalemate bolsters the be…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "that a renewed military conflict is becoming more likely. U.S. officials think President Trump could order a return to major combat operations after the midterms. Qatari officials will"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "that a renewed military conflict is becoming more likely. U.S. officials think President Trump could order a return to major combat operations after the midterms. Qatari officials will"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_pdfmeb",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Was Iran behind a ‘terror plot’ targeting US forces in Britain?",
+    "chineseTitle": "Was Iran behind a ‘terror plot’ targeting US forces in Br…",
+    "originalUrl": "https://thehill.com/policy/international/6119157-iran-plot-raf-fairford/",
+    "publishedAt": "2026-09-29T22:09:19.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.734Z",
+    "rawDescription": "A transatlantic mystery is capturing attention in the U.S. and Britain. The central question is whether Iran was behind some kind of plot to target a British air base that is vital to the U.S. Air Force. Alternatively, was the initial speculation about an incident that has seen five men arrested, and then released on...",
+    "contentSnippet": "A transatlantic mystery is capturing attention in the U.S. and Britain. The central question is whether Iran was behind some kind of plot to target a British air base that is vital to the U.S. Air Force. Alternatively, was the initial speculation about an incident that has seen five men arrested, and then released on...",
+    "summaryZh": "基于标题/摘要生成：A transatlantic mystery is capturing attention in the U.S. and Britain. The central question is whether Iran was behind some kind of plot to target a…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_t4himj",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Republican blocks Senate resolution criticizing Trump’s taxpayer-funded ads",
+    "chineseTitle": "Republican blocks 参议院 resolution criticizing Trump’s taxp…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/09/29/republican-blocks-senate-resolution-criticizing-trumps-taxpayer-funded-ads/",
+    "publishedAt": "2026-09-29T21:50:26.000Z",
+    "fetchedAt": "2026-09-30T01:54:10.027Z",
+    "rawDescription": "Sen. Cynthia Lummis (R-Wyoming) argued that past presidents in both parties have aired similar announcements.",
+    "contentSnippet": "Sen. Cynthia Lummis (R-Wyoming) argued that past presidents in both parties have aired similar announcements.",
+    "summaryZh": "基于标题/摘要生成：Sen. Cynthia Lummis (R-Wyoming) argued that past presidents in both parties have aired similar announcements",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Republican blocks Senate resolution criticizing Trump’s taxpayer-funded ads Theodoric Meyer Sen. Cynthia Lummis (R-Wyoming) argued that past pr"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Republican blocks Senate resolution criticizing Trump's taxpayer-funded ads Theodoric Meyer Sen. Cynthia Lummis (R-Wyoming) argued that past pr"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Republican blocks Senate resolution criticizing Trump's taxpayer-funded ads Theodoric Meyer Sen. Cynthia Lummis (R"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mkaaj1",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Boeing nabs $20B contract for Navy's futuristic fighter",
+    "chineseTitle": "Boeing nabs $20B contract for Navy's futuristic fighter",
+    "originalUrl": "https://www.axios.com/2026/09/29/navy-boeing-fighter-contract-f47",
+    "publishedAt": "2026-09-29T21:42:11.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.673Z",
+    "rawDescription": "Boeing will build the U.S. Navy's next fighter aircraft, following years of clandestine competition and multiple contracting false alarms. Why it matters: Boeing's win in the F/A-XX competition means the company's sixth-generation aircraft will succeed the Super Hornet fleet, long relied upon and recently employed across the Middle East. The company is also constructing the Air Force's F-47, previously unveiled in an Oval Office address featuring President Trump and Defense Secretary Pete Hegseth. The latest: The Pentagon announced the deal Tuesday. It's worth more than $20 billion. It comes after months of squabbling between the White House, Pentagon, lawmakers and industry. Its ups and downs and rumored award timelines were closely watched by defense analysts and reporters. Context: Boe…",
+    "contentSnippet": "Boeing will build the U.S. Navy's next fighter aircraft, following years of clandestine competition and multiple contracting false alarms. Why it matters: Boeing's win in the F/A-XX competition means the company's sixth-generation aircraft will succeed the Super Hornet fleet, long relied upon and recently employed across the Middle East. The company is also constructing the Air Force's F-47, previously unveiled in an Oval Office address featuring President Trump and Defense Secretary Pete Hegseth. The latest: The Pentagon announced the deal Tuesday. It's worth more than $20 billion. It comes after months of squabbling between the White House, Pentagon, lawmakers and industry. Its ups and downs and rumored award timelines were closely watched by defense analysts and reporters. Context: Boe…",
+    "summaryZh": "基于标题/摘要生成：Boeing will build the U.S. Navy's next fighter aircraft，following years of clandestine competition and multiple contracting false alarms. Why it matt…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "g the Air Force's F-47, previously unveiled in an Oval Office address featuring President Trump and Defense Secretary Pete Hegseth. The latest: The Pentagon announced the deal Tuesday."
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "iously unveiled in an Oval Office address featuring President Trump and Defense Secretary Pete Hegseth. The latest: The Pentagon announced the deal Tuesday. It's worth more than $20 billion. I"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "y unveiled in an Oval Office address featuring President Trump and Defense Secretary Pete Hegseth. The latest: The Pentagon announced the deal Tuesday. It's worth more than $20 billion. I"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "g the Air Force's F-47, previously unveiled in an Oval Office address featuring President Trump and Defense Secretary Pete Hegseth. The latest: The Pentagon announced the deal Tuesday."
+      },
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "iously unveiled in an Oval Office address featuring President Trump and Defense Secretary Pete Hegseth. The latest: The Pentagon announced the deal Tuesday. It's worth more than $20 billion. I"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "uesday. It's worth more than $20 billion. It comes after months of squabbling between the White House, Pentagon, lawmakers and industry. Its ups and downs and rumored award timelines were clo"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Pete Hegseth",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wwhqhw",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Spain’s Housing Reform",
+    "chineseTitle": "Spain’s Housing Reform",
+    "originalUrl": "https://foreignpolicy.com/2026/09/29/spain-housing-reform-sanchez-rent-increases-abascal-eviction-protests/",
+    "publishedAt": "2026-09-29T21:36:59.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.913Z",
+    "rawDescription": "Mass protests over an 87-year-old’s eviction prompt new proposed legislation.",
+    "contentSnippet": "Mass protests over an 87-year-old’s eviction prompt new proposed legislation.",
+    "summaryZh": "基于标题/摘要生成：Mass protests over an 87-year-old’s eviction prompt new proposed legislation",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fwyjdc",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Was Xi’s U.S. Visit a Bust?",
+    "chineseTitle": "Was Xi’s U.S. Visit a Bust",
+    "originalUrl": "https://foreignpolicy.com/2026/09/29/china-us-xi-trump-summit-ai-trade/",
+    "publishedAt": "2026-09-29T21:35:09.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.914Z",
+    "rawDescription": "In the U.S.-China relationship at present, nothing might be better than something.",
+    "contentSnippet": "In the U.S.-China relationship at present, nothing might be better than something.",
+    "summaryZh": "基于标题/摘要生成：In the U.S.-中国 relationship at present，nothing might be better than something",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "U.S.-China",
+        "confidence": "medium",
+        "contextSnippet": "Was Xi's U.S. Visit a Bust? James Palmer In the U.S.-China relationship at present, nothing might be better than something. In the U.S.-China relati"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "China policy",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_jmgz6p",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why Do AI Agents Sound So Frustrated?",
+    "chineseTitle": "Why Do AI Agents Sound So Frustrated",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/09/why-do-ai-agents-sound-so-frustrated/688828/",
+    "publishedAt": "2026-09-29T19:55:05.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.927Z",
+    "rawDescription": "\"ARGH... WHY IS THIS SO HARD.\"",
+    "contentSnippet": "\"ARGH... WHY IS THIS SO HARD.\"",
+    "summaryZh": "基于标题/摘要生成：\"ARGH... WHY IS THIS SO HARD.\"",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kairy8",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump says Canada is &#039;one of the worst countries in the entire world&#039;",
+    "chineseTitle": "Trump says Canada is &#039;one of the worst countries in…",
+    "originalUrl": "https://thehill.com/homenews/administration/6117738-trump-calls-canada-worst-country/",
+    "publishedAt": "2026-09-29T15:19:30.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.735Z",
+    "rawDescription": "President Trump said Monday that Canada is “one of the worst countries in the entire world” in the wake of heightened tensions between Washington and its historically friendly northern neighbor. “The problem is that they've treated the United States very unfairly. They have been one of the worst countries in the entire world. You know,...",
+    "contentSnippet": "President Trump said Monday that Canada is “one of the worst countries in the entire world” in the wake of heightened tensions between Washington and its historically friendly northern neighbor. “The problem is that they've treated the United States very unfairly. They have been one of the worst countries in the entire world. You know,...",
+    "summaryZh": "基于标题/摘要生成：President Trump said Monday that Canada is “one of the worst countries in the entire world” in the wake of heightened tensions between Washington and…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump says Canada is &#039;one of the worst countries in the entire world&#039; Tara Suter Pres"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump says Canada is &#039;one of the worst countries in the entire world&#039; Tara Suter Pres"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9yu8fq",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats are running pastors for office. Republicans are attacking their religious comments.",
+    "chineseTitle": "民主党人 are running pastors for office. 共和党人 are attacking t…",
+    "originalUrl": "https://www.politico.com/news/2026/09/29/talarico-hamilton-christian-democrats-republican-attacks-01096657",
+    "publishedAt": "2026-09-29T14:01:14.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.797Z",
+    "rawDescription": "Democratic Senate nominees James Talarico in Texas and Adam Hamilton in Kansas, as well as two key Iowa House nominees, are seeing their remarks on Christianity picked over by the GOP.",
+    "contentSnippet": "Democratic Senate nominees James Talarico in Texas and Adam Hamilton in Kansas, as well as two key Iowa House nominees, are seeing their remarks on Christianity picked over by the GOP.",
+    "summaryZh": "基于标题/摘要生成：Democratic 参议院 nominees James Talarico in Texas and Adam Hamilton in Kansas，as well as two key Iowa 众议院 nominees，are seeing their remarks on Christia…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats are running pastors for office. Republicans are attacking their religious comments. By Sa"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Democrats are running pastors for office. Republicans are attacking their religious comments. By Samuel Benson Democratic Senate nominees James"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "r office. Republicans are attacking their religious comments. By Samuel Benson Democratic Senate nominees James Talarico in Texas and Adam Hamilton in Kansas, as well as two key Iowa Hou"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ugeemy",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Menin’s AI moment",
+    "chineseTitle": "Menin’s AI moment",
+    "originalUrl": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/28/menins-ai-moment-01095807",
+    "publishedAt": "2026-09-28T20:50:16.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.800Z",
+    "rawDescription": "CITY HAL 9000: Amid a mad dash to try to regulate artificial intelligence, City Council Speaker Julie Menin is looking to make her mark. The Manhattan lawmaker is planning to hold a hearing with all 51 members of the legislative body next week, and today confirmed the attendance of four major AI firms to discuss both the dangers the technology poses and a suite of Council bills that seek to protect New Yorkers. “Leading experts and AI executives themselves are warning about the potentially grave risks of rapidly advancing AI, and governments have a responsibility to act,” Menin said in a statement announcing she issued a subpoena to SpaceXAI, the artificial intelligence company owned by Elon Musk, to compel the firm to attend. Council hearings — even those run by lesser-known committees —…",
+    "contentSnippet": "CITY HAL 9000: Amid a mad dash to try to regulate artificial intelligence, City Council Speaker Julie Menin is looking to make her mark. The Manhattan lawmaker is planning to hold a hearing with all 51 members of the legislative body next week, and today confirmed the attendance of four major AI firms to discuss both the dangers the technology poses and a suite of Council bills that seek to protect New Yorkers. “Leading experts and AI executives themselves are warning about the potentially grave risks of rapidly advancing AI, and governments have a responsibility to act,” Menin said in a statement announcing she issued a subpoena to SpaceXAI, the artificial intelligence company owned by Elon Musk, to compel the firm to attend. Council hearings — even those run by lesser-known committees —…",
+    "summaryZh": "基于标题/摘要生成：CITY HAL 9000：Amid a mad dash to try to regulate artificial intelligence，City Council Speaker Julie Menin is looking to make her mark. The Manhattan…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7c6x74",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Coming Taiwan Crisis",
+    "chineseTitle": "The Coming 台湾 Crisis",
+    "originalUrl": "https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin",
+    "publishedAt": "2026-09-25T04:00:00.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.724Z",
+    "rawDescription": "Use today’s calm to prepare for the next perfect storm.",
+    "contentSnippet": "Use today’s calm to prepare for the next perfect storm.",
+    "summaryZh": "基于标题/摘要生成：Use today’s calm to prepare for the next perfect storm",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_gandis",
+    "sourceName": "truthsocial.com",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3FUMzhFcDBPX18zaFFKXzhKWnlvdDJDNl9NSjFUQjZ5Q3VmNjdHWkwtUXZ2MktMa3Q1MmV2bndnX01iaWlYanptR1prRDg3YVJSYmFDU1UyYmdOS0xlSWhoQVlNenA5Ynlpd3N2MXJJT3hXWXAyV2lTWXhVNC1MLUtCdkNGSHRPNkV1ZllzMkZDY0Zab2c2a0xQUmhKMXNkYnV2VUN6VDEtaDMyeGloTERXS0ZSX3lLQnV6MlB1c2JpQUw4SGc?oc=5",
+    "publishedAt": "2026-09-24T14:30:15.000Z",
+    "fetchedAt": "2026-09-30T01:54:32.842Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) truthsocial.com",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) truthsocial.com",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) truthsocial.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) truthsocial.com Donald J. Trump (@"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) truthsocial.com Donald J. Trump (@r"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "truthsocial.com",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) truthsocial.com Donald J. Trump (@realDonaldTrump) truthsocial.com"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mqrm4i",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Putin Escalates",
+    "chineseTitle": "How Putin Escalates",
+    "originalUrl": "https://www.foreignaffairs.com/russia/how-putin-escalates-ukraine-war-andrei-kolesnikov",
+    "publishedAt": "2026-09-24T04:00:00.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.725Z",
+    "rawDescription": "A new stage in Russia's confrontation with Ukraine—and the West.",
+    "contentSnippet": "A new stage in Russia's confrontation with Ukraine—and the West.",
+    "summaryZh": "基于标题/摘要生成：A new stage in Russia's confrontation with Ukraine—and the West",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yl8y03",
+    "sourceName": "truthsocial.com",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EZHF4R0FSakQxbFdyMUF5SjdnNTNBRW1MendlZkg5dnZ2WG5sNWhlcnNRZnY0cFRpLUxhSW9reHpNb2tOblhVQndfMWM5YmNTc09rdVVGbjFfVFVWZGJEa2hfNjVpQ0tMal9z?oc=5",
+    "publishedAt": "2026-09-18T19:15:02.000Z",
+    "fetchedAt": "2026-09-30T01:54:32.842Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) truthsocial.com",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) truthsocial.com",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) truthsocial.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) truthsocial.com Donald J. Trump (@"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) truthsocial.com Donald J. Trump (@r"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "truthsocial.com",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) truthsocial.com Donald J. Trump (@realDonaldTrump) truthsocial.com"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-09-30T01:54:32.365Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eg8mld",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Royce Hood – AFPI",
+    "chineseTitle": "Royce Hood – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1maEhrX1hya0tMeUFLdFJqMzR5ZG0zVG8zSFdWb3dTZ0JlY3ZKUzc0eXZudVRSWF83ZjZqVzFmNXlrRkNrZVA1dEpTZDVTRTZrUVNDeFctdm1ic2M?oc=5",
+    "publishedAt": "2026-09-18T01:15:21.000Z",
+    "fetchedAt": "2026-09-30T01:54:32.364Z",
+    "rawDescription": "Royce Hood – AFPI americafirstpolicy.com",
+    "contentSnippet": "Royce Hood – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Royce Hood – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Royce Hood – AFPI Royce Hood – AFPI americafirstpolicy.com Royce Hood – AFPI americafirstpolicy.com"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"America First Policy Institute\" trade"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-09-30T01:54:12.872Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.999Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-09-30T01:54:10.000Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-09-30T01:54:12.871Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.873Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-09-30T01:54:09.871Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
