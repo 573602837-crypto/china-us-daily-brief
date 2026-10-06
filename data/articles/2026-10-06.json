@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "art_lrk0t7",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Bruins can’t dig out of early hole against Senators, lose second game in a row",
+    "chineseTitle": "Bruins can’t dig out of early hole against Senators，lose…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/05/sports/bruins-senators-game-score/",
+    "publishedAt": "2026-10-06T02:37:38.907Z",
+    "fetchedAt": "2026-10-06T02:46:19.860Z",
+    "rawDescription": "公开 sitemap 条目：Bruins can’t dig out of early hole against Senators, lose second game in a row",
+    "contentSnippet": "公开 sitemap 条目：Bruins can’t dig out of early hole against Senators, lose second game in a row",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Bruins can’t dig out of early hole against Senators，lose second game in a row",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_579z7g",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Leominster business owner sentenced to prison for using fraudulently obtained food stamps to stock his restaurant",
+    "chineseTitle": "Leominster business owner sentenced to prison for using f…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/05/metro/leominster-restaurant-owner-fraud-prison-el-primo-/",
+    "publishedAt": "2026-10-06T02:33:53.262Z",
+    "fetchedAt": "2026-10-06T02:46:19.861Z",
+    "rawDescription": "公开 sitemap 条目：Leominster business owner sentenced to prison for using fraudulently obtained food stamps to stock his restaurant",
+    "contentSnippet": "公开 sitemap 条目：Leominster business owner sentenced to prison for using fraudulently obtained food stamps to stock his restaurant",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Leominster business owner sentenced to prison for using fraudulently obtained food stamps to stock his restaurant",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_h2keac",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Alexandria Ocasio-Cortez Says, ‘If Abdul Can Win in Michigan, Anybody Can Win Anywhere’",
+    "chineseTitle": "Alexandria Ocasio-Cortez Says，‘If Abdul Can Win in Michig…",
+    "originalUrl": "https://www.nytimes.com/2026/10/05/us/politics/aoc-abdul-el-sayed-2028.html",
+    "publishedAt": "2026-10-06T02:25:08.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.090Z",
+    "rawDescription": "Representative Alexandria Ocasio-Cortez made the remarks about Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, as she considers whether to run for president in 2028.",
+    "contentSnippet": "Representative Alexandria Ocasio-Cortez made the remarks about Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, as she considers whether to run for president in 2028.",
+    "summaryZh": "基于标题/摘要生成：Representative Alexandria Ocasio-Cortez made the remarks about Dr. Abdul El-Sayed，the Democratic nominee for 参议院 in Michigan，as she considers whether…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "ndria Ocasio-Cortez made the remarks about Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, as she considers whether to run for president in 2028. Representative Alexan"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rntpux",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft from British Air Base",
+    "chineseTitle": "Potential Iranian Drone Attack Led to Exit of U.S. Aircra…",
+    "originalUrl": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
+    "publishedAt": "2026-10-06T02:15:03.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.090Z",
+    "rawDescription": "According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.",
+    "contentSnippet": "According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.",
+    "summaryZh": "基于标题/摘要生成：According to U.S. and British officials，12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack o…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nkjbd3",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "FBI arrests California woman accused of spying on Taiwan leader&#039;s family for China",
+    "chineseTitle": "FBI arrests California woman accused of spying on 台湾 lead…",
+    "originalUrl": "https://thehill.com/policy/national-security/fbi-arrests-accused-spy-china-taiwan-president/",
+    "publishedAt": "2026-10-06T00:51:49.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.003Z",
+    "rawDescription": "LOS ANGELES (AP) — The FBI arrested a California real estate agent as she prepared to fly to China, accusing her of secretly working for Beijing to surveil the president of Taiwan's family in the U.S., federal officials said. The case comes at a fraught moment for U.S.-China relations, with Taiwan persistently at the center...",
+    "contentSnippet": "LOS ANGELES (AP) — The FBI arrested a California real estate agent as she prepared to fly to China, accusing her of secretly working for Beijing to surveil the president of Taiwan's family in the U.S., federal officials said. The case comes at a fraught moment for U.S.-China relations, with Taiwan persistently at the center...",
+    "summaryZh": "基于标题/摘要生成：LOS ANGELES (AP) — The FBI arrested a California real estate agent as she prepared to fly to 中国，accusing her of secretly working for 北京 to surveil th…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "U.S.-China",
+        "confidence": "medium",
+        "contextSnippet": "iwan's family in the U.S., federal officials said. The case comes at a fraught moment for U.S.-China relations, with Taiwan persistently at the center... LOS ANGELES (AP) — The FBI arrested"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "China policy",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_bh70qb",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "AI safety groups aren’t buying OpenAI’s spending retreat",
+    "chineseTitle": "AI safety groups aren’t buying OpenAI’s spending retreat",
+    "originalUrl": "https://www.politico.com/news/2026/10/05/ai-groups-altman-midterms-political-spending-01108138",
+    "publishedAt": "2026-10-06T00:30:22.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.037Z",
+    "rawDescription": "They want stronger commitments to reduce the money AI super PACs push into the midterms.",
+    "contentSnippet": "They want stronger commitments to reduce the money AI super PACs push into the midterms.",
+    "summaryZh": "基于标题/摘要生成：They want stronger commitments to reduce the money AI super PACs push into the midterms",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ror5ct",
+    "sourceName": "washingtonpost.com",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "How JD Vance tried to ease diesel pain as the GOP faces midterm woes",
+    "chineseTitle": "How JD Vance tried to ease diesel pain as the GOP faces m…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVhmYWozTDJCVnphaW10NUdfdmtFV2RYcDVlZnIyaU5IdHV0d1pNRkVJdnF2ZHAxemJSOHRvUXRRaGVpakhQQUJ0TG9mT1RSbEVVT0c4MWVaRG90b0JCeEFyUE9Yc25PM0JvWHliMWlzQVBMYS11dl9SZlVjdWlhd1hNbE40MEl2d19zNnJ0UXpudXVxSjZacS1CZk1Cak9aMEtvblJyQUVUb1ljeGhv?oc=5",
+    "publishedAt": "2026-10-06T00:25:31.000Z",
+    "fetchedAt": "2026-10-06T02:46:38.580Z",
+    "rawDescription": "How JD Vance tried to ease diesel pain as the GOP faces midterm woes washingtonpost.com",
+    "contentSnippet": "How JD Vance tried to ease diesel pain as the GOP faces midterm woes washingtonpost.com",
+    "summaryZh": "基于标题/摘要生成：How JD Vance tried to ease diesel pain as the GOP faces midterm woes washingtonpost.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "How JD Vance tried to ease diesel pain as the GOP faces midterm woes How JD Vance tried to ease diese"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "How JD Vance tried to ease diesel pain as the GOP faces midterm woes How JD Vance tried to ease diese"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "How JD Vance tried to ease diesel pain as the GOP faces midterm woes How JD Vance tried to ease diesel"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "How JD Vance tried to ease diesel pain as the GOP faces midterm woes How JD Vance tried to ease diesel pain as the GOP faces midterm woes w"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "JD Vance",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"JD Vance\"",
+      "\"JD Vance\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_n8376r",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre",
+    "chineseTitle": "Trump clears way for Fort Hood terrorist to face Army fir…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-clears-way-fort-hood-terrorist-face-army-firing-squad-nearly-17-years-after-massacre",
+    "publishedAt": "2026-10-06T00:14:53.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.070Z",
+    "rawDescription": "President Trump cleared the way for Nidal Malik Hasan to face an Army firing squad nearly 17 years after the Fort Hood massacre that killed 13 people.",
+    "contentSnippet": "President Trump cleared the way for Nidal Malik Hasan to face an Army firing squad nearly 17 years after the Fort Hood massacre that killed 13 people.",
+    "summaryZh": "基于标题/摘要生成：President Trump cleared the way for Nidal Malik Hasan to face an Army firing squad nearly 17 years after the Fort Hood massacre that killed 13 people",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massac"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massac"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hruolc",
+    "sourceName": "washingtonpost.com",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump reverses course, says he won’t use taxpayer money for campaign-style ads",
+    "chineseTitle": "Trump reverses course，says he won’t use taxpayer money fo…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMkRrN1d1akpKUlJqanZ3djJVLUNZS1lsS1lvMHR4eUI5c1JtM0Z6SUtEdGp0aV94UUpYdHJvemNQUkMyTlZlakxpaXV2MGF4dFZLV2FhY2FicXFTRFVNa3luNkVtc2MzdV9EZFIwaTlyUlphMk1ONTAxSGkwM045UVlyQl9MWmtZeTdraHJLX3RYemJ0VG9XeXp1b2NTVlVZblhmbkNxTmtYVjlLS0p5Q1FTd25pMzZ4YmlvV0lpUlZQZw?oc=5",
+    "publishedAt": "2026-10-05T23:49:31.000Z",
+    "fetchedAt": "2026-10-06T02:46:38.579Z",
+    "rawDescription": "Trump reverses course, says he won’t use taxpayer money for campaign-style ads washingtonpost.com",
+    "contentSnippet": "Trump reverses course, says he won’t use taxpayer money for campaign-style ads washingtonpost.com",
+    "summaryZh": "基于标题/摘要生成：Trump reverses course，says he won’t use taxpayer money for campaign-style ads washingtonpost.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump reverses course, says he won’t use taxpayer money for campaign-style ads Trump reverses"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump reverses course, says he won't use taxpayer money for campaign-style ads Trump reverses c"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\"",
+      "\"Donald Trump\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3540ea",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Inside the transgender rights fight injecting chaos into Democrats' midterm efforts",
+    "chineseTitle": "Inside the transgender rights fight injecting chaos into…",
+    "originalUrl": "https://www.axios.com/2026/10/05/democrats-transgender-sports-ads-election-kaptur",
+    "publishedAt": "2026-10-05T22:44:23.000Z",
+    "fetchedAt": "2026-10-06T02:46:16.958Z",
+    "rawDescription": "An intra-party debate over how best to deflect Republican attacks on transgender issues has Democrats angrily sniping at each other just weeks out from the midterm elections. Why it matters: This is not the position Democrats hoped to be in two years after their 2024 election loss , which many in the party attributed to being outflanked by GOP messaging on trans issues. \"People feel you need to respond in some way to some of these attacks because people didn't do it two years ago,\" Rep. Mark Pocan (D-Wis.), a co-chair of the Congressional LGBTQ+ Equality Caucus, told Axios. \"But you also need to realize what we're winning on right now,\" Pocan added, saying Democratic candidates need to strike \"a balance.\" \"Silence is deadly, and I think we played that out in 2024,\" said Lanae Erickson, a…",
+    "contentSnippet": "An intra-party debate over how best to deflect Republican attacks on transgender issues has Democrats angrily sniping at each other just weeks out from the midterm elections. Why it matters: This is not the position Democrats hoped to be in two years after their 2024 election loss , which many in the party attributed to being outflanked by GOP messaging on trans issues. \"People feel you need to respond in some way to some of these attacks because people didn't do it two years ago,\" Rep. Mark Pocan (D-Wis.), a co-chair of the Congressional LGBTQ+ Equality Caucus, told Axios. \"But you also need to realize what we're winning on right now,\" Pocan added, saying Democratic candidates need to strike \"a balance.\" \"Silence is deadly, and I think we played that out in 2024,\" said Lanae Erickson, a…",
+    "summaryZh": "基于标题/摘要生成：An intra-party debate over how best to deflect Republican attacks on transgender issues has 民主党人 angrily sniping at each other just weeks out from th…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Inside the transgender rights fight injecting chaos into Democrats' midterm efforts Andrew Solender An intra-party debate over how best to deflect Republica"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "fter their 2024 election loss , which many in the party attributed to being outflanked by GOP messaging on trans issues. \"People feel you need to respond in some way to some of these"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8jfy7m",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Saudi-backed Yemeni forces expel Houthi rebels from several areas around key strait, officials say",
+    "chineseTitle": "Saudi-backed Yemeni forces expel Houthi rebels from sever…",
+    "originalUrl": "https://thehill.com/policy/international/ap-a-saudi-led-coalition-says-its-fighter-jets-are-bombing-yemens-iran-backed-houthi-rebels/",
+    "publishedAt": "2026-10-05T21:53:58.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.004Z",
+    "rawDescription": "ADEN, Yemen (AP) — Forces of the Saudi-led coalition fighting in Yemen have recaptured several key areas around the strategic Bab el-Mandeb Strait from Iran-backed Houthi rebels, Yemeni officials said Monday, while the Houthis claimed attacks on Saudi oil facilities, airports and military bases as fighting escalated on Yemen’s western coast. The Yemeni officials said...",
+    "contentSnippet": "ADEN, Yemen (AP) — Forces of the Saudi-led coalition fighting in Yemen have recaptured several key areas around the strategic Bab el-Mandeb Strait from Iran-backed Houthi rebels, Yemeni officials said Monday, while the Houthis claimed attacks on Saudi oil facilities, airports and military bases as fighting escalated on Yemen’s western coast. The Yemeni officials said...",
+    "summaryZh": "基于标题/摘要生成：ADEN，Yemen (AP) — Forces of the Saudi-led coalition fighting in Yemen have recaptured several key areas around the strategic Bab el-Mandeb Strait fro…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_n38eot",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "U.S. B-1 bombers evacuated from UK base because of threat of Iranian drone attack",
+    "chineseTitle": "U.S. B-1 bombers evacuated from UK base because of threat…",
+    "originalUrl": "https://www.axios.com/2026/10/04/us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran",
+    "publishedAt": "2026-10-05T21:51:57.000Z",
+    "fetchedAt": "2026-10-06T02:46:16.961Z",
+    "rawDescription": "The U.S. military evacuated a dozen B-1 bombers from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. President Trump said in Monday the threat came from Iran. Why it matters: A U.S. official said the base was under threat of attack by Iran. The latest: Secretary of State Marco Rubio told reporters on Monday that there are \"regular rotations\" of U.S. Air Force assets around the world and that the movement of the bombers was not directly tied to the Iranian threat. \"We have confidence in the security of all of our bases. All of our bases could be threatened theoretically at any moment and that is why there is so much security built around them,\" he said. Rubio said the U.S. has been working closely with the British government on an investigation into the threat \"and…",
+    "contentSnippet": "The U.S. military evacuated a dozen B-1 bombers from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. President Trump said in Monday the threat came from Iran. Why it matters: A U.S. official said the base was under threat of attack by Iran. The latest: Secretary of State Marco Rubio told reporters on Monday that there are \"regular rotations\" of U.S. Air Force assets around the world and that the movement of the bombers was not directly tied to the Iranian threat. \"We have confidence in the security of all of our bases. All of our bases could be threatened theoretically at any moment and that is why there is so much security built around them,\" he said. Rubio said the U.S. has been working closely with the British government on an investigation into the threat \"and…",
+    "summaryZh": "基于标题/摘要生成：The U.S. military evacuated a dozen B-1 bombers from the RAF Fairford airbase in the UK over the weekend，the 五角大楼 said. President Trump said in Monda…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures",
+      "other_related"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "rs from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. President Trump said in Monday the threat came from Iran. Why it matters: A U.S. official said the base w"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "official said the base was under threat of attack by Iran. The latest: Secretary of State Marco Rubio told reporters on Monday that there are \"regular rotations\" of U.S. Air Force assets arou"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "al said the base was under threat of attack by Iran. The latest: Secretary of State Marco Rubio told reporters on Monday that there are \"regular rotations\" of U.S. Air Force assets arou"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "rs from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. President Trump said in Monday the threat came from Iran. Why it matters: A U.S. official said the base w"
+      },
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "official said the base was under threat of attack by Iran. The latest: Secretary of State Marco Rubio told reporters on Monday that there are \"regular rotations\" of U.S. Air Force assets arou"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Marco Rubio",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ran8vo",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Biden-era FBI tracked Trump family travel and Wiles’ calls with lawyers in secret probe: docs",
+    "chineseTitle": "Biden-era FBI tracked Trump family travel and Wiles’ call…",
+    "originalUrl": "https://www.foxnews.com/politics/biden-era-fbi-tracked-trump-family-travel-wiles-calls-lawyers-secret-probe-docs",
+    "publishedAt": "2026-10-05T21:39:47.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.071Z",
+    "rawDescription": "Declassified records reveal the Biden-era FBI tracked Melania and Barron Trump's travel while planning the Mar-a-Lago classified documents search.",
+    "contentSnippet": "Declassified records reveal the Biden-era FBI tracked Melania and Barron Trump's travel while planning the Mar-a-Lago classified documents search.",
+    "summaryZh": "基于标题/摘要生成：Declassified records reveal the Biden-era FBI tracked Melania and Barron Trump's travel while planning the Mar-a-Lago classified documents search",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "苏茜·怀尔斯",
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Biden-era FBI tracked Trump family travel and Wiles’ calls with lawyers in secret probe: docs Declassified records r"
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Wiles",
+        "confidence": "low",
+        "contextSnippet": "Biden-era FBI tracked Trump family travel and Wiles’ calls with lawyers in secret probe: docs Declassified records reveal the Biden-era FBI"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Biden-era FBI tracked Trump family travel and Wiles’ calls with lawyers in secret probe: docs"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Biden-era FBI tracked Trump family travel and Wiles' calls with lawyers in secret probe: docs Declassified records re"
+      },
+      {
+        "entityId": "susie-wiles",
+        "name": "Susie Wiles",
+        "type": "person",
+        "matchedAlias": "Wiles",
+        "confidence": "medium",
+        "contextSnippet": "Biden-era FBI tracked Trump family travel and Wiles' calls with lawyers in secret probe: docs Declassified records reveal the Biden-era FBI t"
+      },
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "Biden-era FBI tracked Trump family travel and Wiles' calls with lawyers in secret probe: docs D"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Susie Wiles",
+      "Joe Biden",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_o0n867",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "AI Made the List—but Humans Still Did the Killing",
+    "chineseTitle": "AI Made the List—but Humans Still Did the Killing",
+    "originalUrl": "https://foreignpolicy.com/2026/10/05/israel-gaza-palestine-ai-war-naza-civilians/",
+    "publishedAt": "2026-10-05T21:08:51.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.107Z",
+    "rawDescription": "In the film “NAZA,” Israeli soldiers reveal the workings of autonomous warfare.",
+    "contentSnippet": "In the film “NAZA,” Israeli soldiers reveal the workings of autonomous warfare.",
+    "summaryZh": "基于标题/摘要生成：In the film “NAZA，” Israeli soldiers reveal the workings of autonomous warfare",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mnx6oq",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Sánchez Calls Snap Elections Over Spain’s Housing Crisis",
+    "chineseTitle": "Sánchez Calls Snap Elections Over Spain’s Housing Crisis",
+    "originalUrl": "https://foreignpolicy.com/2026/10/05/spain-snap-elections-housing-crisis-sanchez-far-right/",
+    "publishedAt": "2026-10-05T20:22:34.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.107Z",
+    "rawDescription": "The vote’s timing makes it a litmus test for progressive politics across Europe.",
+    "contentSnippet": "The vote’s timing makes it a litmus test for progressive politics across Europe.",
+    "summaryZh": "基于标题/摘要生成：The vote’s timing makes it a litmus test for progressive politics across Europe",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ufcox4",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Hegseth’s One Percent",
+    "chineseTitle": "Hegseth’s One Percent",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/10/pete-hegseth-military-superiority-bible/688887/",
+    "publishedAt": "2026-10-05T19:28:05.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.115Z",
+    "rawDescription": "A cult of military superiority over civilians is not only unwarranted, but actively dangerous.",
+    "contentSnippet": "A cult of military superiority over civilians is not only unwarranted, but actively dangerous.",
+    "summaryZh": "基于标题/摘要生成：A cult of military superiority over civilians is not only unwarranted，but actively dangerous",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Hegseth’s One Percent Eliot A. Cohen A cult of military superiority over civilians is not only un"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Hegseth's One Percent Eliot A. Cohen A cult of military superiority over civilians is not only un"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"Pete Hegseth\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a1hsye",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Photos: Human-Tower Season",
+    "chineseTitle": "Photos：Human-Tower Season",
+    "originalUrl": "https://www.theatlantic.com/photography/2026/10/photos-human-tower-season/688885/",
+    "publishedAt": "2026-10-05T17:33:52.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.116Z",
+    "rawDescription": "As autumn approaches in Spain, teams at festivals and competitions can be found forming spectacular human towers ( castells ) up to nine levels tall. The Catalan tradition is believed to have originated among local dance groups at the end of the 18th century.",
+    "contentSnippet": "As autumn approaches in Spain, teams at festivals and competitions can be found forming spectacular human towers ( castells ) up to nine levels tall. The Catalan tradition is believed to have originated among local dance groups at the end of the 18th century.",
+    "summaryZh": "基于标题/摘要生成：As autumn approaches in Spain，teams at festivals and competitions can be found forming spectacular human towers ( castells ) up to nine levels tall.…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_whp5mc",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Obama to campaign with El-Sayed and Benson in Michigan",
+    "chineseTitle": "Obama to campaign with El-Sayed and Benson in Michigan",
+    "originalUrl": "https://www.politico.com/news/2026/10/05/obama-michigan-rally-el-sayed-01107087",
+    "publishedAt": "2026-10-05T17:16:40.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.037Z",
+    "rawDescription": "The Detroit stop adds to the former president’s campaign push for Democrats ahead of the midterms.",
+    "contentSnippet": "The Detroit stop adds to the former president’s campaign push for Democrats ahead of the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Detroit stop adds to the former president’s campaign push for 民主党人 ahead of the midterms",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "higan By Jalen Beckford The Detroit stop adds to the former president's campaign push for Democrats ahead of the midterms. The Detroit stop adds to the former president's campaign push for"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xrrmsy",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Taiwan coast guard and Chinese fishing boats face off at sea",
+    "chineseTitle": "台湾 coast guard and 中国 fishing boats face off at sea",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSUlmMkpsYXR6cWFMOE5MMWxHV2gyYzRVRjBIeWtCbnFTaG9jWjJaNEhHUHU4b29uOU1ySG9tZk4wTG0wbXlHQ0llTUEtRy1HM1RKdGZuU2JkM0R3dmd1WWhpZ09Qb1A3M3JURi1ONDBGcHk1VzYzTFI2TG1DV0xfaHdpM0pCTURZeHB0SlZqaVE0NGg0akFxV1U1SWFFaExyckE?oc=5",
+    "publishedAt": "2026-10-05T12:32:00.000Z",
+    "fetchedAt": "2026-10-06T02:46:38.672Z",
+    "rawDescription": "Taiwan coast guard and Chinese fishing boats face off at sea CNN",
+    "contentSnippet": "Taiwan coast guard and Chinese fishing boats face off at sea CNN",
+    "summaryZh": "基于标题/摘要生成：台湾 coast guard and 中国 fishing boats face off at sea CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "issue"
+    ],
+    "matchedQueries": [
+      "China Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_bkn5kt",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China’s Long Twilight",
+    "chineseTitle": "中国’s Long Twilight",
+    "originalUrl": "https://www.foreignaffairs.com/china/chinas-long-twilight-carl-minzner",
+    "publishedAt": "2026-10-05T08:00:00.000Z",
+    "fetchedAt": "2026-10-06T02:46:16.994Z",
+    "rawDescription": "Demographic decline, political paralysis, and the fate of great powers.",
+    "contentSnippet": "Demographic decline, political paralysis, and the fate of great powers.",
+    "summaryZh": "基于标题/摘要生成：Demographic decline，political paralysis，and the fate of great powers",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_s2bdeo",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Brazil’s Election Won’t Fix What’s Broken",
+    "chineseTitle": "Brazil’s 选举 Won’t Fix What’s Broken",
+    "originalUrl": "https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken-matias-spektor",
+    "publishedAt": "2026-10-02T04:00:00.000Z",
+    "fetchedAt": "2026-10-06T02:46:16.995Z",
+    "rawDescription": "Reckoning with the country’s real crisis.",
+    "contentSnippet": "Reckoning with the country’s real crisis.",
+    "summaryZh": "基于标题/摘要生成：Reckoning with the country’s real crisis",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_e708se",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America now has a ‘One China, One Taiwan’ policy: TIFA and TIPA will Strengthen it – AFPI",
+    "chineseTitle": "America now has a ‘One 中国，One 台湾’ 政策：TIFA and TIPA will S…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHJ3cUxXNk5IeDgyZnZPWTBxN1hkcll5UnpyNkJveDRJSWVJcndfZ2VLNmNGUVpCU1pKNjNjZmlQLTV5ZklTcU1fc3oxSzRhWUxoc1FPb0xlSUh3NF9feko1Y0lEdGZCOHMyUC1aaEdGa2VRX2M2WFpESDdqNDQ1bnRzVjl6UDI4eHBqODU0TWpQZXpjTUhvdnY1elR6SWZock9kbjhieUFtOERwOUNrQm9rY1F6MlpN?oc=5",
+    "publishedAt": "2026-09-19T22:23:26.000Z",
+    "fetchedAt": "2026-10-06T02:46:38.573Z",
+    "rawDescription": "America now has a ‘One China, One Taiwan’ policy: TIFA and TIPA will Strengthen it – AFPI americafirstpolicy.com",
+    "contentSnippet": "America now has a ‘One China, One Taiwan’ policy: TIFA and TIPA will Strengthen it – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America now has a ‘One 中国，One 台湾’ 政策：TIFA and TIPA will Strengthen it – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "America now has a 'One China, One Taiwan' policy: TIFA and TIPA will Strengthen it – AFPI America now has a 'One China, One Taiwan' policy: TIFA and TIPA will Strengthen it – AFPI"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_eg8mld",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Royce Hood – AFPI",
+    "chineseTitle": "Royce Hood – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1maEhrX1hya0tMeUFLdFJqMzR5ZG0zVG8zSFdWb3dTZ0JlY3ZKUzc0eXZudVRSWF83ZjZqVzFmNXlrRkNrZVA1dEpTZDVTRTZrUVNDeFctdm1ic2M?oc=5",
+    "publishedAt": "2026-09-18T01:15:21.000Z",
+    "fetchedAt": "2026-10-06T02:46:38.574Z",
+    "rawDescription": "Royce Hood – AFPI americafirstpolicy.com",
+    "contentSnippet": "Royce Hood – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Royce Hood – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Royce Hood – AFPI Royce Hood – AFPI americafirstpolicy.com Royce Hood – AFPI americafirstpolicy.com"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"America First Policy Institute\" trade"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_o0swxh",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRFMtQjY2dHRKeXhNTGpUY3FMM2doV2YtcHlOMFpKOEpQWFdraE9nRDA2enRzak96XzVyM3c0aWpiRGhwa1F5OTBYaXZLS2lBM2VPX2pobWUzSGdhR2xkTkozRjlBeG9DWkRYYWlocTBLeWc?oc=5",
+    "publishedAt": "2026-09-14T14:10:11.000Z",
+    "fetchedAt": "2026-10-06T02:46:38.809Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-10-06T02:46:19.834Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z9c4cg",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5N3RsS052ZUpEQTAxMHBpQUhwNkhRbk5uYVNhLTFrWVZPMC10TjFDV2RCRWdyU19EZElONkJPbFd1ZHA5WGJpVDRpWlEtaEdJYUxXME9hdXJFRnRyX2xiQld4QVY3RlltVWF5QkVVdmRfSEU?oc=5",
+    "publishedAt": "2025-04-09T17:23:05.000Z",
+    "fetchedAt": "2026-10-06T02:46:38.809Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.159Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.160Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-06T02:46:19.833Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.083Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-06T02:46:17.082Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
