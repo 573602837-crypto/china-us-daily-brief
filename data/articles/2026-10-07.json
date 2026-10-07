@@ -1,0 +1,1632 @@
+[
+  {
+    "id": "art_fzuk0h",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Lawrence residents pack meeting, but city council must wait another week for no-confidence vote in mayor facing state, federal criminal charges",
+    "chineseTitle": "Lawrence residents pack meeting，but city council must wai…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/06/metro/lawrence-council-no-confidence-vote-mayor/",
+    "publishedAt": "2026-10-07T02:01:13.635Z",
+    "fetchedAt": "2026-10-07T02:10:56.339Z",
+    "rawDescription": "公开 sitemap 条目：Lawrence residents pack meeting, but city council must wait another week for no-confidence vote in mayor facing state, federal criminal charges",
+    "contentSnippet": "公开 sitemap 条目：Lawrence residents pack meeting, but city council must wait another week for no-confidence vote in mayor facing state, federal criminal charges",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Lawrence residents pack meeting，but city council must wait another week for no-confidence vote in mayor facing state，federal criminal c…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9ukzsj",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "OpenAI releases findings on 377 math problems, further roiling field",
+    "chineseTitle": "OpenAI releases findings on 377 math problems，further roi…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/06/nation/openai-math-problems/",
+    "publishedAt": "2026-10-07T01:45:55.424Z",
+    "fetchedAt": "2026-10-07T02:10:56.340Z",
+    "rawDescription": "公开 sitemap 条目：OpenAI releases findings on 377 math problems, further roiling field",
+    "contentSnippet": "公开 sitemap 条目：OpenAI releases findings on 377 math problems, further roiling field",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：OpenAI releases findings on 377 math problems，further roiling field",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a3xpxr",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Takeaways from the Maine Senate debate between Susan Collins, Troy Jackson",
+    "chineseTitle": "Takeaways from the Maine 参议院 debate between Susan Collins…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/10/06/takeaways-maine-senate-debate-between-susan-collins-troy-jackson/",
+    "publishedAt": "2026-10-07T01:25:23.000Z",
+    "fetchedAt": "2026-10-07T02:10:46.000Z",
+    "rawDescription": "The debate in a race for a critical Senate seat featured lots of talk about President Trump, high prices and the war in Iran.",
+    "contentSnippet": "The debate in a race for a critical Senate seat featured lots of talk about President Trump, high prices and the war in Iran.",
+    "summaryZh": "基于标题/摘要生成：The debate in a race for a critical 参议院 seat featured lots of talk about President Trump，high prices and the war in Iran",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "win The debate in a race for a critical Senate seat featured lots of talk about President Trump, high prices and the war in Iran. The debate in a race for a critical Senate seat feature"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "win The debate in a race for a critical Senate seat featured lots of talk about President Trump, high prices and the war in Iran. The debate in a race for a critical Senate seat feature"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Takeaways from the Maine Senate debate between Susan Collins, Troy Jackson Liz Goodwin The debate in a race for a critica"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_b4nxvy",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Kenya confirms its first Ebola case and death in a man who traveled from Congo",
+    "chineseTitle": "Kenya confirms its first Ebola case and death in a man wh…",
+    "originalUrl": "https://thehill.com/policy/healthcare/kenya-confirms-first-ebola-case-imported-from-congo/",
+    "publishedAt": "2026-10-07T01:19:01.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.689Z",
+    "rawDescription": "NAIROBI, Kenya (AP) — A Kenyan citizen who had been living in Congo before returning to Nairobi over the weekend became Kenya’s first confirmed case of Ebola and the country’s first death from the disease in the fast-moving outbreak, authorities said Tuesday, sparking urgent contact-tracing efforts to try to contain the spread of the virus....",
+    "contentSnippet": "NAIROBI, Kenya (AP) — A Kenyan citizen who had been living in Congo before returning to Nairobi over the weekend became Kenya’s first confirmed case of Ebola and the country’s first death from the disease in the fast-moving outbreak, authorities said Tuesday, sparking urgent contact-tracing efforts to try to contain the spread of the virus....",
+    "summaryZh": "基于标题/摘要生成：NAIROBI，Kenya (AP) — A Kenyan citizen who had been living in Congo before returning to Nairobi over the weekend became Kenya’s first confirmed case o…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jgzgel",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump says Putin call coming ‘very soon’ as US tracks suspected plague death in Russia",
+    "chineseTitle": "Trump says Putin call coming ‘very soon’ as US tracks sus…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-says-putin-call-coming-very-soon-us-tracks-suspected-plague-death-russia",
+    "publishedAt": "2026-10-07T00:08:29.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.810Z",
+    "rawDescription": "President Donald Trump says he'll speak with Vladimir Putin \"very soon\" as his administration tracks a suspected pneumonic plague death in Siberia.",
+    "contentSnippet": "President Donald Trump says he'll speak with Vladimir Putin \"very soon\" as his administration tracks a suspected pneumonic plague death in Siberia.",
+    "summaryZh": "基于标题/摘要生成：President 特朗普 says he'll speak with Vladimir Putin \"very soon\" as his administration tracks a suspected pneumonic plague death in Siberia",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ays Putin call coming ‘very soon’ as US tracks suspected plague death in Russia President Donald Trump says he'll speak with Vladimir Putin \"very soon\" as his administration tracks a suspecte"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump says Putin call coming ‘very soon’ as US tracks suspected plague death in Russia Preside"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ays Putin call coming 'very soon' as US tracks suspected plague death in Russia President Donald Trump says he'll speak with Vladimir Putin \"very soon\" as his administration tracks a suspected"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump says Putin call coming 'very soon' as US tracks suspected plague death in Russia 公开 sitem"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fshzln",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Foreign adversaries running 'psyop' to fuel anti-AI and anti-data center movement, war official says",
+    "chineseTitle": "Foreign adversaries running 'psyop' to fuel anti-AI and a…",
+    "originalUrl": "https://www.foxnews.com/politics/foreign-adversaries-running-psyop-fuel-anti-ai-anti-data-center-movement-war-official-says",
+    "publishedAt": "2026-10-06T23:45:38.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.811Z",
+    "rawDescription": "A Department of War official says foreign adversaries are running psyop campaigns to turn Americans against data centers and AI infrastructure.",
+    "contentSnippet": "A Department of War official says foreign adversaries are running psyop campaigns to turn Americans against data centers and AI infrastructure.",
+    "summaryZh": "基于标题/摘要生成：A Department of War official says foreign adversaries are running psyop campaigns to turn Americans against data centers and AI infrastructure",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3ncvib",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Girl asks Supreme Court to block Wash. state rules allowing trans athletes",
+    "chineseTitle": "Girl asks Supreme Court to block Wash. state rules allowi…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/10/06/wash-state-teen-asks-supreme-court-bar-trans-athletes-competing/",
+    "publishedAt": "2026-10-06T23:18:28.000Z",
+    "fetchedAt": "2026-10-07T02:10:46.001Z",
+    "rawDescription": "The high court has upheld bans on transgender athletes on girls’ and women’s sports teams. It has not said whether states can allow them to participate.",
+    "contentSnippet": "The high court has upheld bans on transgender athletes on girls’ and women’s sports teams. It has not said whether states can allow them to participate.",
+    "summaryZh": "基于标题/摘要生成：The high court has upheld bans on transgender athletes on girls’ and women’s sports teams. It has not said whether states can allow them to participa…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ld7vvv",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Five Takeaways in New Book From Thom Tillis, Who Turned on Trump",
+    "chineseTitle": "Five Takeaways in New Book From Thom Tillis，Who Turned on…",
+    "originalUrl": "https://www.nytimes.com/2026/10/06/us/politics/takeaways-book-thom-tillis-trump.html",
+    "publishedAt": "2026-10-06T23:06:19.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.846Z",
+    "rawDescription": "In “How to Lose Friends and Antagonize Presidents,” Senator Thom Tillis details his regrets about backing President Trump’s agenda.",
+    "contentSnippet": "In “How to Lose Friends and Antagonize Presidents,” Senator Thom Tillis details his regrets about backing President Trump’s agenda.",
+    "summaryZh": "基于标题/摘要生成：In “How to Lose Friends and Antagonize Presidents，” Senator Thom Tillis details his regrets about backing President Trump’s agenda",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Five Takeaways in New Book From Thom Tillis, Who Turned on Trump Annie Karni In “How to Lose Friends and Antagonize Presidents,” Senator Thom Tillis detai"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Five Takeaways in New Book From Thom Tillis, Who Turned on Trump Annie Karni In \"How to Lose Friends and Antagonize Presidents,\" Senator Thom Tillis detai"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3grcce",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "US tries new Sudan strategy as war fueled by &#039;external actors&#039; drags on",
+    "chineseTitle": "US tries new Sudan strategy as war fueled by &#039;extern…",
+    "originalUrl": "https://thehill.com/policy/international/6132824-sudan-arms-embargo-us-united-nations/",
+    "publishedAt": "2026-10-06T22:57:00.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.692Z",
+    "rawDescription": "The Trump administration is signaling a change in course on Sudan, facing months of failed diplomacy to achieve a ceasefire in the more than three-year conflict, a fight largely between two main warring factions but supported by a constellation of international backers. The U.S. is pushing at the United Nations Security Council a proposal to...",
+    "contentSnippet": "The Trump administration is signaling a change in course on Sudan, facing months of failed diplomacy to achieve a ceasefire in the more than three-year conflict, a fight largely between two main warring factions but supported by a constellation of international backers. The U.S. is pushing at the United Nations Security Council a proposal to...",
+    "summaryZh": "基于标题/摘要生成：The Trump administration is signaling a change in course on Sudan，facing months of failed diplomacy to achieve a ceasefire in the more than three-yea…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "new Sudan strategy as war fueled by &#039;external actors&#039; drags on Laura Kelly The Trump administration is signaling a change in course on Sudan, facing months of failed diplomac"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "new Sudan strategy as war fueled by &#039;external actors&#039; drags on Laura Kelly The Trump administration is signaling a change in course on Sudan, facing months of failed diplomac"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "new Sudan strategy as war fueled by &#039;external actors&#039; drags on Laura Kelly The Trump administration is signaling a change in course on Sudan, facing months of failed diplomacy to achieve a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vkno9g",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "\"You suck\": Emmer unloads on Senate Republicans",
+    "chineseTitle": "\"You suck\"：Emmer unloads on 参议院 共和党人",
+    "originalUrl": "https://www.axios.com/2026/10/06/tom-emmer-senate-republicans-frustration-save-act",
+    "publishedAt": "2026-10-06T22:55:09.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.622Z",
+    "rawDescription": "House Majority Whip Tom Emmer (R-Minn.) is saying out loud what House Republicans have been grumbling about for much of the year: They're fed up with the Senate. Why it matters You won't ever hear Speaker Mike Johnson (R-La.) or Majority Leader Steve Scalise (R-La.) talk about their Senate counterparts like this. \"There are no Democrats. There are no Republicans. They are just senators,\" Emmer told donors last week at a closed-door fundraiser Axios attended for Rep. Mark Harris (R-N.C.). Emmer said Senate Majority Leader John Thune (R-S.D.) \"is doing the job that he thinks he's supposed to do. There's a certain fraternity sorority that is the U.S. Senate.\" The intrigue: Emmer had a blunt message for senators who repeatedly say they can't pass House GOP priorities: \"Don't just keep telling…",
+    "contentSnippet": "House Majority Whip Tom Emmer (R-Minn.) is saying out loud what House Republicans have been grumbling about for much of the year: They're fed up with the Senate. Why it matters You won't ever hear Speaker Mike Johnson (R-La.) or Majority Leader Steve Scalise (R-La.) talk about their Senate counterparts like this. \"There are no Democrats. There are no Republicans. They are just senators,\" Emmer told donors last week at a closed-door fundraiser Axios attended for Rep. Mark Harris (R-N.C.). Emmer said Senate Majority Leader John Thune (R-S.D.) \"is doing the job that he thinks he's supposed to do. There's a certain fraternity sorority that is the U.S. Senate.\" The intrigue: Emmer had a blunt message for senators who repeatedly say they can't pass House GOP priorities: \"Don't just keep telling…",
+    "summaryZh": "基于标题/摘要生成：众议院 Majority Whip Tom Emmer (R-Minn.) is saying out loud what 众议院 共和党人 have been grumbling about for much of the year：They're fed up with the 参议院. Wh…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "迈克·约翰逊",
+      "约翰·图恩",
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "mike-johnson",
+        "nameEn": "Mike Johnson",
+        "nameZh": "迈克·约翰逊",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "h of the year: They're fed up with the Senate. Why it matters You won't ever hear Speaker Mike Johnson (R-La.) or Majority Leader Steve Scalise (R-La.) talk about their Senate counterparts lik"
+      },
+      {
+        "personId": "mike-johnson",
+        "nameEn": "Mike Johnson",
+        "nameZh": "迈克·约翰逊",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Speaker Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "for much of the year: They're fed up with the Senate. Why it matters You won't ever hear Speaker Mike Johnson (R-La.) or Majority Leader Steve Scalise (R-La.) talk about their Senate counterparts lik"
+      },
+      {
+        "personId": "john-thune",
+        "nameEn": "John Thune",
+        "nameZh": "约翰·图恩",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "John Thune",
+        "confidence": "high",
+        "contextSnippet": "undraiser Axios attended for Rep. Mark Harris (R-N.C.). Emmer said Senate Majority Leader John Thune (R-S.D.) \"is doing the job that he thinks he's supposed to do. There's a certain fraterni"
+      },
+      {
+        "personId": "john-thune",
+        "nameEn": "John Thune",
+        "nameZh": "约翰·图恩",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Thune",
+        "confidence": "low",
+        "contextSnippet": "iser Axios attended for Rep. Mark Harris (R-N.C.). Emmer said Senate Majority Leader John Thune (R-S.D.) \"is doing the job that he thinks he's supposed to do. There's a certain fraterni"
+      },
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "rs,\" Emmer told donors last week at a closed-door fundraiser Axios attended for Rep. Mark Harris (R-N.C.). Emmer said Senate Majority Leader John Thune (R-S.D.) \"is doing the job that he"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "mike-johnson",
+        "name": "Mike Johnson",
+        "type": "person",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "h of the year: They're fed up with the Senate. Why it matters You won't ever hear Speaker Mike Johnson (R-La.) or Majority Leader Steve Scalise (R-La.) talk about their Senate counterparts lik"
+      },
+      {
+        "entityId": "john-thune",
+        "name": "John Thune",
+        "type": "person",
+        "matchedAlias": "John Thune",
+        "confidence": "high",
+        "contextSnippet": "undraiser Axios attended for Rep. Mark Harris (R-N.C.). Emmer said Senate Majority Leader John Thune (R-S.D.) \"is doing the job that he thinks he's supposed to do. There's a certain fraterni"
+      },
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Harris",
+        "confidence": "medium",
+        "contextSnippet": "rs,\" Emmer told donors last week at a closed-door fundraiser Axios attended for Rep. Mark Harris (R-N.C.). Emmer said Senate Majority Leader John Thune (R-S.D.) \"is doing the job that he"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "eader Steve Scalise (R-La.) talk about their Senate counterparts like this. \"There are no Democrats. There are no Republicans. They are just senators,\" Emmer told donors last week at a clos"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "\"You suck\": Emmer unloads on Senate Republicans Kate Santaliz House Majority Whip Tom Emmer (R-Minn.) is saying out loud what House Repub"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "\"You suck\": Emmer unloads on Senate Republicans Kate Santaliz House Majority Whip Tom Emmer (R-Minn.) is saying out loud what"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Mike Johnson",
+      "John Thune",
+      "Kamala Harris",
+      "Democratic Party",
+      "Republican Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rbu0az",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House GOP leaders admit redistricting fell short",
+    "chineseTitle": "众议院 GOP leaders admit redistricting fell short",
+    "originalUrl": "https://www.axios.com/2026/10/06/house-republicans-redistricting-midterm-elections",
+    "publishedAt": "2026-10-06T22:55:01.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.625Z",
+    "rawDescription": "House GOP leaders are now openly acknowledging that their mid-decade redistricting push didn't work out as well as they'd hoped. Why it matters: Republicans kicked off the redistricting wars hoping new maps would give them a bigger cushion against the historical headwinds facing the president's party. That advantage is looking a lot smaller than they envisioned. Driving the news: House Majority Whip Tom Emmer (R-Minn.) told Axios that Republicans won't win all 13 seats they'd hoped to gain from new maps. \"We're not gonna win all 13 of those redistricted seats. That's correct. We're not,\" Emmer told Axios aboard a plane Thursday between campaign stops in North Carolina and Virginia. Emmer echoed House Republican Conference Chair Lisa McClain (R-Mich.), who told Axios last month that Republ…",
+    "contentSnippet": "House GOP leaders are now openly acknowledging that their mid-decade redistricting push didn't work out as well as they'd hoped. Why it matters: Republicans kicked off the redistricting wars hoping new maps would give them a bigger cushion against the historical headwinds facing the president's party. That advantage is looking a lot smaller than they envisioned. Driving the news: House Majority Whip Tom Emmer (R-Minn.) told Axios that Republicans won't win all 13 seats they'd hoped to gain from new maps. \"We're not gonna win all 13 of those redistricted seats. That's correct. We're not,\" Emmer told Axios aboard a plane Thursday between campaign stops in North Carolina and Virginia. Emmer echoed House Republican Conference Chair Lisa McClain (R-Mich.), who told Axios last month that Republ…",
+    "summaryZh": "基于标题/摘要生成：众议院 GOP leaders are now openly acknowledging that their mid-decade redistricting push didn't work out as well as they'd hoped. Why it matters：共和党人 ki…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "ir mid-decade redistricting push didn't work out as well as they'd hoped. Why it matters: Republicans kicked off the redistricting wars hoping new maps would give them a bigger cushion agains"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eq94lq",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "chineseTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9vOFhldnRQS1prUUkyYUdLcjBuczcyelBUWkI0emJmT085WmhVSHgxbkl6Zjk2MDZNVFJ6aVlVUW5EWGNta0dDTUxlTW5RdjJvNDZQTzQwbDFMR0ZwODRYWTBTOS16UERWemc3YXVxY1QtQmRSNUZzOWg5UV8zVFRPTDRTVC1w?oc=5",
+    "publishedAt": "2026-10-06T22:51:56.000Z",
+    "fetchedAt": "2026-10-07T02:11:16.295Z",
+    "rawDescription": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "contentSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com Robert Wilkie"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k5820b",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "In Iceland, Rubio Dodges a Diplomatic Flap Over a Trump Map",
+    "chineseTitle": "In Iceland，Rubio Dodges a Diplomatic Flap Over a Trump Map",
+    "originalUrl": "https://www.nytimes.com/2026/10/06/us/politics/trump-map-iceland-rubio.html",
+    "publishedAt": "2026-10-06T22:42:26.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.847Z",
+    "rawDescription": "President Trump had posted a map on his Truth Social account in September depicting Iceland as part of U.S. territory.",
+    "contentSnippet": "President Trump had posted a map on his Truth Social account in September depicting Iceland as part of U.S. territory.",
+    "summaryZh": "基于标题/摘要生成：President Trump had posted a map on his Truth Social account in September depicting Iceland as part of U.S. territory",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "In Iceland, Rubio Dodges a Diplomatic Flap Over a Trump Map Michael Crowley President Trump had posted a map on his Truth Social account in Septe"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "In Iceland, Rubio Dodges a Diplomatic Flap Over a Trump Map Michael Crowley President Trump had posted a ma"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "In Iceland, Rubio Dodges a Diplomatic Flap Over a Trump Map Michael Crowley President Trump had posted a map on his Truth Social account in Septe"
+      },
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Rubio",
+        "confidence": "medium",
+        "contextSnippet": "In Iceland, Rubio Dodges a Diplomatic Flap Over a Trump Map Michael Crowley President Trump had posted a ma"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Diplomatic Flap Over a Trump Map Michael Crowley President Trump had posted a map on his Truth Social account in September depicting Iceland as part of U.S. territory. President Trump had pos"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Marco Rubio",
+      "Truth Social",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wmrvxj",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Trump Rally Stuck in Time",
+    "chineseTitle": "A Trump Rally Stuck in Time",
+    "originalUrl": "https://www.theatlantic.com/politics/2026/10/trump-rally-nebraska-senate-race-midterms/688894/",
+    "publishedAt": "2026-10-06T22:36:00.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.893Z",
+    "rawDescription": "Usually presidents hold rallies to get voters excited about an upcoming election. Last night in Nebraska, the roles felt reversed.",
+    "contentSnippet": "Usually presidents hold rallies to get voters excited about an upcoming election. Last night in Nebraska, the roles felt reversed.",
+    "summaryZh": "基于标题/摘要生成：Usually presidents hold rallies to get voters excited about an upcoming 选举. Last night in Nebraska，the roles felt reversed",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "A Trump Rally Stuck in Time Ashley Parker Usually presidents hold rallies to get voters excited a"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "A Trump Rally Stuck in Time Ashley Parker Usually presidents hold rallies to get voters excited a"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wtrqzu",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘LOCK THE CLOCK!’",
+    "chineseTitle": "‘LOCK THE CLOCK!’",
+    "originalUrl": "https://www.theatlantic.com/politics/2026/10/trump-daylight-savings-time/688900/",
+    "publishedAt": "2026-10-06T21:07:05.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.895Z",
+    "rawDescription": "After shifting positions on daylight saving time, President Trump is now very much in favor of having more time to golf during the winter.",
+    "contentSnippet": "After shifting positions on daylight saving time, President Trump is now very much in favor of having more time to golf during the winter.",
+    "summaryZh": "基于标题/摘要生成：After shifting positions on daylight saving time，President Trump is now very much in favor of having more time to golf during the winter",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "‘LOCK THE CLOCK!’ Matt Viser After shifting positions on daylight saving time, President Trump is now very much in favor of having more time to golf during the winter. After shifting p"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "'LOCK THE CLOCK!' Matt Viser After shifting positions on daylight saving time, President Trump is now very much in favor of having more time to golf during the winter. After shifting p"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rd9h67",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How to Avoid Disaster in the Next Iran War",
+    "chineseTitle": "How to Avoid Disaster in the Next Iran War",
+    "originalUrl": "https://foreignpolicy.com/2026/10/06/iran-war-hormuz-oil-missile-defense-drones-gulf/",
+    "publishedAt": "2026-10-06T20:27:22.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.876Z",
+    "rawDescription": "Recent war games highlight how Washington can improve its air defenses so the next round of fighting isn’t worse.",
+    "contentSnippet": "Recent war games highlight how Washington can improve its air defenses so the next round of fighting isn’t worse.",
+    "summaryZh": "基于标题/摘要生成：Recent war games highlight how Washington can improve its air defenses so the next round of fighting isn’t worse",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_c2ygeb",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What’s Freezing the U.S. Housing Market?",
+    "chineseTitle": "What’s Freezing the U.S. Housing Market",
+    "originalUrl": "https://foreignpolicy.com/2026/10/06/us-housing-market-frozen-ai-interest-rates-economics/",
+    "publishedAt": "2026-10-06T19:28:43.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.878Z",
+    "rawDescription": "A hot, AI-driven economy certainly plays a role.",
+    "contentSnippet": "A hot, AI-driven economy certainly plays a role.",
+    "summaryZh": "基于标题/摘要生成：A hot，AI-driven economy certainly plays a role",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d96lex",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Ken Paxton’s secret weapon: Ted Cruz",
+    "chineseTitle": "Ken Paxton’s secret weapon：Ted Cruz",
+    "originalUrl": "https://www.politico.com/news/2026/10/06/ken-paxton-secret-weapon-ted-cruz-01107868",
+    "publishedAt": "2026-10-06T08:45:00.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.749Z",
+    "rawDescription": "Cruz is boosting Paxton with fundraising and advice as he mulls his own political future.",
+    "contentSnippet": "Cruz is boosting Paxton with fundraising and advice as he mulls his own political future.",
+    "summaryZh": "基于标题/摘要生成：Cruz is boosting Paxton with fundraising and advice as he mulls his own political future",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bh70qb",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Bores on OpenAI’s spending retreat: I’ll believe it when I see it",
+    "chineseTitle": "Bores on OpenAI’s spending retreat：I’ll believe it when I…",
+    "originalUrl": "https://www.politico.com/news/2026/10/05/ai-groups-altman-midterms-political-spending-01108138",
+    "publishedAt": "2026-10-06T00:30:22.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.751Z",
+    "rawDescription": "AI safety advocates want stronger commitments to reduce the money AI super PACs push into the midterms.",
+    "contentSnippet": "AI safety advocates want stronger commitments to reduce the money AI super PACs push into the midterms.",
+    "summaryZh": "基于标题/摘要生成：AI safety advocates want stronger commitments to reduce the money AI super PACs push into the midterms",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bkn5kt",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China’s Long Twilight",
+    "chineseTitle": "中国’s Long Twilight",
+    "originalUrl": "https://www.foreignaffairs.com/china/chinas-long-twilight-carl-minzner",
+    "publishedAt": "2026-10-05T08:00:00.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.678Z",
+    "rawDescription": "Demographic decline, political paralysis, and the fate of great powers.",
+    "contentSnippet": "Demographic decline, political paralysis, and the fate of great powers.",
+    "summaryZh": "基于标题/摘要生成：Demographic decline，political paralysis，and the fate of great powers",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_s2bdeo",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Brazil’s Election Won’t Fix What’s Broken",
+    "chineseTitle": "Brazil’s 选举 Won’t Fix What’s Broken",
+    "originalUrl": "https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken-matias-spektor",
+    "publishedAt": "2026-10-02T04:00:00.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.679Z",
+    "rawDescription": "Reckoning with the country’s real crisis.",
+    "contentSnippet": "Reckoning with the country’s real crisis.",
+    "summaryZh": "基于标题/摘要生成：Reckoning with the country’s real crisis",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_e708se",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America now has a ‘One China, One Taiwan’ policy: TIFA and TIPA will Strengthen it – AFPI",
+    "chineseTitle": "America now has a ‘One 中国，One 台湾’ 政策：TIFA and TIPA will S…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHJ3cUxXNk5IeDgyZnZPWTBxN1hkcll5UnpyNkJveDRJSWVJcndfZ2VLNmNGUVpCU1pKNjNjZmlQLTV5ZklTcU1fc3oxSzRhWUxoc1FPb0xlSUh3NF9feko1Y0lEdGZCOHMyUC1aaEdGa2VRX2M2WFpESDdqNDQ1bnRzVjl6UDI4eHBqODU0TWpQZXpjTUhvdnY1elR6SWZock9kbjhieUFtOERwOUNrQm9rY1F6MlpN?oc=5",
+    "publishedAt": "2026-09-19T22:23:26.000Z",
+    "fetchedAt": "2026-10-07T02:11:16.296Z",
+    "rawDescription": "America now has a ‘One China, One Taiwan’ policy: TIFA and TIPA will Strengthen it – AFPI americafirstpolicy.com",
+    "contentSnippet": "America now has a ‘One China, One Taiwan’ policy: TIFA and TIPA will Strengthen it – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America now has a ‘One 中国，One 台湾’ 政策：TIFA and TIPA will Strengthen it – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "America now has a 'One China, One Taiwan' policy: TIFA and TIPA will Strengthen it – AFPI America now has a 'One China, One Taiwan' policy: TIFA and TIPA will Strengthen it – AFPI"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_o0swxh",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wRFMtQjY2dHRKeXhNTGpUY3FMM2doV2YtcHlOMFpKOEpQWFdraE9nRDA2enRzak96XzVyM3c0aWpiRGhwa1F5OTBYaXZLS2lBM2VPX2pobWUzSGdhR2xkTkozRjlBeG9DWkRYYWlocTBLeWc?oc=5",
+    "publishedAt": "2026-09-14T14:10:11.000Z",
+    "fetchedAt": "2026-10-07T02:11:16.775Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-10-07T02:10:56.290Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z9c4cg",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5N3RsS052ZUpEQTAxMHBpQUhwNkhRbk5uYVNhLTFrWVZPMC10TjFDV2RCRWdyU19EZElONkJPbFd1ZHA5WGJpVDRpWlEtaEdJYUxXME9hdXJFRnRyX2xiQld4QVY3RlltVWF5QkVVdmRfSEU?oc=5",
+    "publishedAt": "2025-04-09T17:23:05.000Z",
+    "fetchedAt": "2026-10-07T02:11:16.776Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.971Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.972Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-07T02:10:56.289Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.835Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-07T02:10:45.833Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
