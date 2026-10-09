@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "art_cpxy01",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Takeaways from Georgia Senate debate between Jon Ossoff, Mike Collins",
+    "chineseTitle": "Takeaways from Georgia 参议院 debate between Jon Ossoff，Mike…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/10/08/takeaways-georgia-senate-debate-between-jon-ossoff-mike-collins/",
+    "publishedAt": "2026-10-09T02:49:29.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.500Z",
+    "rawDescription": "Sen. Jon Ossoff (D) hit GOP Rep. Mike Collins over accusations of ties to white nationalists. “You’ve hired half the Third Reich,\" Ossoff said.",
+    "contentSnippet": "Sen. Jon Ossoff (D) hit GOP Rep. Mike Collins over accusations of ties to white nationalists. “You’ve hired half the Third Reich,\" Ossoff said.",
+    "summaryZh": "基于标题/摘要生成：Sen. Jon Ossoff (D) hit GOP Rep. Mike Collins over accusations of ties to white nationalists. “You’ve hired half the Third Reich，\" Ossoff said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "gia Senate debate between Jon Ossoff, Mike Collins Mariana Alfaro Sen. Jon Ossoff (D) hit GOP Rep. Mike Collins over accusations of ties to white nationalists. \"You've hired half the"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Takeaways from Georgia Senate debate between Jon Ossoff, Mike Collins Mariana Alfaro Sen. Jon Ossoff (D) hit GOP Rep. M"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fyg4yi",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "5 Key Moments From Hostile Michigan Senate Debate Between El-Sayed and Rogers",
+    "chineseTitle": "5 Key Moments From Hostile Michigan 参议院 Debate Between El…",
+    "originalUrl": "https://www.nytimes.com/2026/10/08/us/politics/michigan-senate-debate-moments-el-sayed-rogers.html",
+    "publishedAt": "2026-10-09T02:46:01.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.356Z",
+    "rawDescription": "Slashing personal attacks dominated the first televised face-off between Dr. Abdul El-Sayed, the Democratic nominee for Senate, and former Representative Mike Rogers, his Republican rival.",
+    "contentSnippet": "Slashing personal attacks dominated the first televised face-off between Dr. Abdul El-Sayed, the Democratic nominee for Senate, and former Representative Mike Rogers, his Republican rival.",
+    "summaryZh": "基于标题/摘要生成：Slashing personal attacks dominated the first televised face-off between Dr. Abdul El-Sayed，the Democratic nominee for 参议院，and former Representative…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "5 Key Moments From Hostile Michigan Senate Debate Between El-Sayed and Rogers Bayliss Wagner and Kellen Browning Slashing personal a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_zccoy2",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Arlington County Sues to Block Trump’s Triumphal Arch",
+    "chineseTitle": "Arlington County Sues to Block Trump’s Triumphal Arch",
+    "originalUrl": "https://www.nytimes.com/2026/10/08/us/politics/arlington-county-lawsuit-trump-arch.html",
+    "publishedAt": "2026-10-09T02:33:21.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.357Z",
+    "rawDescription": "The county is home to Arlington National Cemetery, the military gravesite that is central to the legal battle over the planned arch.",
+    "contentSnippet": "The county is home to Arlington National Cemetery, the military gravesite that is central to the legal battle over the planned arch.",
+    "summaryZh": "基于标题/摘要生成：The county is home to Arlington National Cemetery，the military gravesite that is central to the legal battle over the planned arch",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Arlington County Sues to Block Trump’s Triumphal Arch Chris Cameron The county is home to Arlington National Cemetery, the mil"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Arlington County Sues to Block Trump's Triumphal Arch Chris Cameron The county is home to Arlington National Cemetery, the mil"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dhid3e",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Three takeaways from the second — more substantive — Susan Collins and Troy Jackson Maine Senate debate",
+    "chineseTitle": "Three takeaways from the second — more substantive — Susa…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/08/nation/susan-collins-troy-jackson-maine-denate/",
+    "publishedAt": "2026-10-09T02:30:27.785Z",
+    "fetchedAt": "2026-10-09T02:51:06.328Z",
+    "rawDescription": "公开 sitemap 条目：Three takeaways from the second — more substantive — Susan Collins and Troy Jackson Maine Senate debate",
+    "contentSnippet": "公开 sitemap 条目：Three takeaways from the second — more substantive — Susan Collins and Troy Jackson Maine Senate debate",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Three takeaways from the second — more substantive — Susan Collins and Troy Jackson Maine 参议院 debate",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Three takeaways from the second — more substantive — Susan Collins and Troy Jackson Maine Senate debate 公开 sitemap 条目：Three takeaways from the second — more substantive — Susan Collins a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ucwhc4",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Brigham nurses, hospital fail to reach deal as strike date nears",
+    "chineseTitle": "Brigham nurses，hospital fail to reach deal as strike date…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/08/business/brigham-nurses-union-strike/",
+    "publishedAt": "2026-10-09T02:05:04.631Z",
+    "fetchedAt": "2026-10-09T02:51:06.332Z",
+    "rawDescription": "公开 sitemap 条目：Brigham nurses, hospital fail to reach deal as strike date nears",
+    "contentSnippet": "公开 sitemap 条目：Brigham nurses, hospital fail to reach deal as strike date nears",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Brigham nurses，hospital fail to reach deal as strike date nears",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5ss5tt",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Vance, Rubio brush off questions about claim that Guilfoyle asked donor to pay $100K Amex bill",
+    "chineseTitle": "Vance，Rubio brush off questions about claim that Guilfoyl…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/10/08/vance-rubio-brush-off-questions-about-claim-that-guilfoyle-asked-donor-pay-100k-amex-bill/",
+    "publishedAt": "2026-10-09T01:43:57.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.501Z",
+    "rawDescription": "Allegations by former congressional candidate Eric Deters are the latest controversy to swirl around the U.S. ambassador to Greece.",
+    "contentSnippet": "Allegations by former congressional candidate Eric Deters are the latest controversy to swirl around the U.S. ambassador to Greece.",
+    "summaryZh": "基于标题/摘要生成：Allegations by former congressional candidate Eric Deters are the latest controversy to swirl around the U.S. ambassador to Greece",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china",
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯",
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Vance, Rubio brush off questions about claim that Guilfoyle asked donor to pay $100K Amex bill"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "Vance, Rubio brush off questions about claim that Guilfoyle asked donor to pay $100K Amex bill Maegan"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "Vance",
+        "confidence": "medium",
+        "contextSnippet": "Vance, Rubio brush off questions about claim that Guilfoyle asked donor to pay $100K Amex bill"
+      },
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Rubio",
+        "confidence": "medium",
+        "contextSnippet": "Vance, Rubio brush off questions about claim that Guilfoyle asked donor to pay $100K Amex bill Maegan"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "JD Vance",
+      "Marco Rubio",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d90m3o",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan 6 testimony: source",
+    "chineseTitle": "Federal grand jury hears evidence in probe of former Trum…",
+    "originalUrl": "https://www.foxnews.com/politics/federal-grand-jury-hears-evidence-probe-former-trump-aide-cassidy-hutchinson-jan-6-testimony",
+    "publishedAt": "2026-10-09T01:33:15.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.326Z",
+    "rawDescription": "A federal grand jury heard evidence about possible false statements Cassidy Hutchinson made to the Jan. 6 House select committee on the Capitol riot.",
+    "contentSnippet": "A federal grand jury heard evidence about possible false statements Cassidy Hutchinson made to the Jan. 6 House select committee on the Capitol riot.",
+    "summaryZh": "基于标题/摘要生成：A federal grand jury heard evidence about possible false statements Cassidy Hutchinson made to the Jan. 6 众议院 select committee on the Capitol riot",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan 6 testimony: source A federal grand jury heard evidence ab"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan 6 testimony: source A federal grand jury heard evidence abo"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_syobsx",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Michigan Senate debate erupts into personal attacks as Rogers, El-Sayed clash over Israel, Iran and more",
+    "chineseTitle": "Michigan 参议院 debate erupts into personal attacks as Roger…",
+    "originalUrl": "https://www.foxnews.com/politics/michigan-senate-debate-erupts-personal-attacks-rogers-el-sayed-clash-over-israel-iran-more",
+    "publishedAt": "2026-10-09T01:27:41.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.327Z",
+    "rawDescription": "Republican Mike Rogers and Democrat Abdul El-Sayed clashed in their first head-to-head public debate during a fiery showdown Thursday night filled with personal attacks and accusations.",
+    "contentSnippet": "Republican Mike Rogers and Democrat Abdul El-Sayed clashed in their first head-to-head public debate during a fiery showdown Thursday night filled with personal attacks and accusations.",
+    "summaryZh": "基于标题/摘要生成：Republican Mike Rogers and Democrat Abdul El-Sayed clashed in their first head-to-head public debate during a fiery showdown Thursday night filled wi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Michigan Senate debate erupts into personal attacks as Rogers, El-Sayed clash over Israel, Iran and more"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_zg0mny",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Huckabee aide suppressed US Embassy reports critical of Israeli government: Report",
+    "chineseTitle": "Huckabee aide suppressed US Embassy reports critical of I…",
+    "originalUrl": "https://thehill.com/homenews/administration/6137880-huckabee-aide-blocked-israel-memo-report/",
+    "publishedAt": "2026-10-08T23:46:46.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.189Z",
+    "rawDescription": "A top aide to Mike Huckabee, the U.S. ambassador to Israel, allegedly suppressed an embassy report that was critical of the Israeli government, according to The New York Times, which cited three U.S. officials who work with the aide. One of Huckabee’s senior advisors, David Milstein, reportedly quashed a memo that criticized Israel's decision to...",
+    "contentSnippet": "A top aide to Mike Huckabee, the U.S. ambassador to Israel, allegedly suppressed an embassy report that was critical of the Israeli government, according to The New York Times, which cited three U.S. officials who work with the aide. One of Huckabee’s senior advisors, David Milstein, reportedly quashed a memo that criticized Israel's decision to...",
+    "summaryZh": "基于标题/摘要生成：A top aide to Mike Huckabee，the U.S. ambassador to Israel，allegedly suppressed an embassy report that was critical of the Israeli government，accordin…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tjou1h",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "OpenAI users in Russia, Iran used models to push political agenda online, in media",
+    "chineseTitle": "OpenAI users in Russia，Iran used models to push political…",
+    "originalUrl": "https://thehill.com/policy/technology/6137774-openai-bans-iran-russia-influence-operations/",
+    "publishedAt": "2026-10-08T23:26:23.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.190Z",
+    "rawDescription": "OpenAI banned several accounts associated with two propaganda operations based in Iran and Russia, respectively, it confirmed Thursday — the latter of which the tech company said had the greatest reach it has recorded since it began reporting on and disrupting such schemes. The influence operations used OpenAI models alongside \"more traditional techniques and technologies...",
+    "contentSnippet": "OpenAI banned several accounts associated with two propaganda operations based in Iran and Russia, respectively, it confirmed Thursday — the latter of which the tech company said had the greatest reach it has recorded since it began reporting on and disrupting such schemes. The influence operations used OpenAI models alongside \"more traditional techniques and technologies...",
+    "summaryZh": "基于标题/摘要生成：OpenAI banned several accounts associated with two propaganda operations based in Iran and Russia，respectively，it confirmed Thursday — the latter of…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-technology https://thehill.com/policy/technology/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_48i5uk",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "California threatens to worsen House Democrats' 2027 headaches",
+    "chineseTitle": "California threatens to worsen 众议院 民主党人' 2027 headaches",
+    "originalUrl": "https://www.axios.com/2026/10/08/california-house-elections-democrats-jeffries",
+    "publishedAt": "2026-10-08T23:12:33.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.121Z",
+    "rawDescription": "More than half a dozen U.S. House districts in California will send a Democrat to Capitol Hill next year no matter what. Party leadership still has a lot riding on the outcome. Why it matters: Most of these Democrat vs. Democrat runoffs — a quirk of California's election system — are between an establishment candidate and an outsider vowing to make leadership's life hell. Democratic Reps. Mike Thompson, Doris Matsui and Jimmy Gomez are all facing well-funded challenges from younger, less establishment-aligned Democrats. There are also several Northern California races that feature a pro-leadership Democrat facing off against a more left-leaning rival. Sought for comment on this story, Justin Chermol, a spokesperson for House Minority Leader Hakeem Jeffries (D-N.Y.), told Axios: \"Stop wast…",
+    "contentSnippet": "More than half a dozen U.S. House districts in California will send a Democrat to Capitol Hill next year no matter what. Party leadership still has a lot riding on the outcome. Why it matters: Most of these Democrat vs. Democrat runoffs — a quirk of California's election system — are between an establishment candidate and an outsider vowing to make leadership's life hell. Democratic Reps. Mike Thompson, Doris Matsui and Jimmy Gomez are all facing well-funded challenges from younger, less establishment-aligned Democrats. There are also several Northern California races that feature a pro-leadership Democrat facing off against a more left-leaning rival. Sought for comment on this story, Justin Chermol, a spokesperson for House Minority Leader Hakeem Jeffries (D-N.Y.), told Axios: \"Stop wast…",
+    "summaryZh": "基于标题/摘要生成：More than half a dozen U.S. 众议院 districts in California will send a Democrat to Capitol Hill next year no matter what. Party leadership still has a l…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "哈基姆·杰弗里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "hakeem-jeffries",
+        "nameEn": "Hakeem Jeffries",
+        "nameZh": "哈基姆·杰弗里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Hakeem Jeffries",
+        "confidence": "high",
+        "contextSnippet": "ought for comment on this story, Justin Chermol, a spokesperson for House Minority Leader Hakeem Jeffries (D-N.Y.), told Axios: \"Stop wast… More than half a dozen U.S. House districts in Californ"
+      },
+      {
+        "personId": "hakeem-jeffries",
+        "nameEn": "Hakeem Jeffries",
+        "nameZh": "哈基姆·杰弗里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Jeffries",
+        "confidence": "low",
+        "contextSnippet": "or comment on this story, Justin Chermol, a spokesperson for House Minority Leader Hakeem Jeffries (D-N.Y.), told Axios: \"Stop wast… More than half a dozen U.S. House districts in Californ"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "hakeem-jeffries",
+        "name": "Hakeem Jeffries",
+        "type": "person",
+        "matchedAlias": "Hakeem Jeffries",
+        "confidence": "high",
+        "contextSnippet": "ought for comment on this story, Justin Chermol, a spokesperson for House Minority Leader Hakeem Jeffries (D-N.Y.), told Axios: \"Stop wast… More than half a dozen U.S. House districts in Californ"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "California threatens to worsen House Democrats' 2027 headaches Andrew Solender More than half a dozen U.S. House districts in California"
+      },
+      {
+        "entityId": "hakeem-jeffries",
+        "name": "Hakeem Jeffries",
+        "type": "person",
+        "matchedAlias": "Jeffries",
+        "confidence": "medium",
+        "contextSnippet": "California House Elections Democrats Jeffries 公开 sitemap 条目：California House Elections Democrats Jeffries 公开 sitemap 条目：California Hous"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Hakeem Jeffries",
+      "Democratic Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Hakeem Jeffries\""
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_paogtr",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘Nothing About This Was Inevitable’",
+    "chineseTitle": "‘Nothing About This Was Inevitable’",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/10/ai-inevitability-trap-kevin-roose-book/688944/",
+    "publishedAt": "2026-10-08T22:38:25.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.402Z",
+    "rawDescription": "The leaders of AI’s biggest companies refuse to admit they’re in control.",
+    "contentSnippet": "The leaders of AI’s biggest companies refuse to admit they’re in control.",
+    "summaryZh": "基于标题/摘要生成：The leaders of AI’s biggest companies refuse to admit they’re in control",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_453846",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Team of Mercenaries",
+    "chineseTitle": "Trump’s Team of Mercenaries",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/10/trump-guilfoyle-blair-lacivita-mercenaries/688943/",
+    "publishedAt": "2026-10-08T22:30:00.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.403Z",
+    "rawDescription": "People around the president are using their roles to cash in. They learned it by watching him.",
+    "contentSnippet": "People around the president are using their roles to cash in. They learned it by watching him.",
+    "summaryZh": "基于标题/摘要生成：People around the president are using their roles to cash in. They learned it by watching him",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Team of Mercenaries David A. Graham People around the president are using their roles t"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Team of Mercenaries David A. Graham People around the president are using their roles t"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic",
+      "Trump team"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"Trump team\"",
+      "\"Trump team\" Trump",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_52l3ol",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Kushner, Witkoff to pitch \"new ideas\" to end Russia-Ukraine war",
+    "chineseTitle": "Kushner，Witkoff to pitch \"new ideas\" to end Russia-Ukrain…",
+    "originalUrl": "https://www.axios.com/2026/10/08/ukraine-russia-war-kushner-witkoff-negotiations-winter",
+    "publishedAt": "2026-10-08T21:30:49.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.127Z",
+    "rawDescription": "Presidential envoys Steve Witkoff and Jared Kushner will meet with Ukrainian negotiators and European officials in Miami on Friday to present \"new ideas and proposals\" to break the stalemate in the Russia -Ukraine war, U.S. and Ukrainian officials say. Why it matters: The Trump administration is hoping to reach a diplomatic breakthrough ahead of the midterm elections and before brutal winter weather grips Ukraine. One of the ideas is a partial ceasefire that halts attacks on energy infrastructure and grain shipments. While Ukraine has said it's willing to take that step, Russia has shown little willingness. \"They are all nervous about the winter. It will be a tough winter if the war does not stop. So the U.S. is trying to mediate with the sides, with the goal of creating a unified proposa…",
+    "contentSnippet": "Presidential envoys Steve Witkoff and Jared Kushner will meet with Ukrainian negotiators and European officials in Miami on Friday to present \"new ideas and proposals\" to break the stalemate in the Russia -Ukraine war, U.S. and Ukrainian officials say. Why it matters: The Trump administration is hoping to reach a diplomatic breakthrough ahead of the midterm elections and before brutal winter weather grips Ukraine. One of the ideas is a partial ceasefire that halts attacks on energy infrastructure and grain shipments. While Ukraine has said it's willing to take that step, Russia has shown little willingness. \"They are all nervous about the winter. It will be a tough winter if the war does not stop. So the U.S. is trying to mediate with the sides, with the goal of creating a unified proposa…",
+    "summaryZh": "基于标题/摘要生成：Presidential envoys Steve Witkoff and Jared Kushner will meet with Ukrainian negotiators and European officials in Miami on Friday to present \"new id…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "alemate in the Russia -Ukraine war, U.S. and Ukrainian officials say. Why it matters: The Trump administration is hoping to reach a diplomatic breakthrough ahead of the midterm election"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "alemate in the Russia -Ukraine war, U.S. and Ukrainian officials say. Why it matters: The Trump administration is hoping to reach a diplomatic breakthrough ahead of the midterm election"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "alemate in the Russia -Ukraine war, U.S. and Ukrainian officials say. Why it matters: The Trump administration is hoping to reach a diplomatic breakthrough ahead of the midterm elections and before br"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ufbief",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How America and China Compare on AI",
+    "chineseTitle": "How America and 中国 Compare on AI",
+    "originalUrl": "https://foreignpolicy.com/2026/10/08/united-states-china-ai-artificial-intelligence-race-winning-matt-sheehan/",
+    "publishedAt": "2026-10-08T21:00:00.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.386Z",
+    "rawDescription": "And why the two countries have different definitions of winning.",
+    "contentSnippet": "And why the two countries have different definitions of winning.",
+    "summaryZh": "基于标题/摘要生成：And why the two countries have different definitions of winning",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_k0bb5y",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Is Reopening the Middle East’s Deadliest Sectarian Fault Lines",
+    "chineseTitle": "Trump Is Reopening the Middle East’s Deadliest Sectarian…",
+    "originalUrl": "https://foreignpolicy.com/2026/10/08/iraq-trump-sectarian-war/",
+    "publishedAt": "2026-10-08T20:34:49.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.387Z",
+    "rawDescription": "Washington is pressing Shiite groups to disarm while ignoring the real fears that keep them armed.",
+    "contentSnippet": "Washington is pressing Shiite groups to disarm while ignoring the real fears that keep them armed.",
+    "summaryZh": "基于标题/摘要生成：Washington is pressing Shiite groups to disarm while ignoring the real fears that keep them armed",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Is Reopening the Middle East’s Deadliest Sectarian Fault Lines Hekmat Aboukhater Washingt"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Is Reopening the Middle East's Deadliest Sectarian Fault Lines Hekmat Aboukhater Washingt"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_38vwas",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Justice Democrats announce new executive director",
+    "chineseTitle": "Justice 民主党人 announce new executive director",
+    "originalUrl": "https://www.politico.com/news/2026/10/08/justice-democrats-announce-new-executive-director-01111319",
+    "publishedAt": "2026-10-08T09:50:00.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.253Z",
+    "rawDescription": "Rev. Hodari Williams will succeed co-founder Alexandra Rojas in leading the progressive PAC.",
+    "contentSnippet": "Rev. Hodari Williams will succeed co-founder Alexandra Rojas in leading the progressive PAC.",
+    "summaryZh": "基于标题/摘要生成：Rev. Hodari Williams will succeed co-founder Alexandra Rojas in leading the progressive PAC",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Justice Democrats announce new executive director By Cheyanne M. Daniels Rev. Hodari Williams will succeed"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "\"Democratic Party\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_p31e33",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The End of Gaza",
+    "chineseTitle": "The End of Gaza",
+    "originalUrl": "https://www.foreignaffairs.com/palestinian-territories/end-gaza",
+    "publishedAt": "2026-10-08T08:00:00.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.175Z",
+    "rawDescription": "A failing peace process leads to only one outcome.",
+    "contentSnippet": "A failing peace process leads to only one outcome.",
+    "summaryZh": "基于标题/摘要生成：A failing peace process leads to only one outcome",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6v5d0g",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iowa’s Ashley Hinson slams the savings habits of millennials",
+    "chineseTitle": "Iowa’s Ashley Hinson slams the savings habits of millenni…",
+    "originalUrl": "https://www.politico.com/live-updates/2026/10/07/congress/hinson-faults-millennials-on-saving-01111399",
+    "publishedAt": "2026-10-08T02:08:43.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.255Z",
+    "rawDescription": "In a debate, the Iowa Republican candidate for Senate said millennials are “the worst group of savers” during a discussion about Social Security.",
+    "contentSnippet": "In a debate, the Iowa Republican candidate for Senate said millennials are “the worst group of savers” during a discussion about Social Security.",
+    "summaryZh": "基于标题/摘要生成：In a debate，the Iowa Republican candidate for 参议院 said millennials are “the worst group of savers” during a discussion about Social Security",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "ngs habits of millennials By Samuel Benson In a debate, the Iowa Republican candidate for Senate said millennials are \"the worst group of savers\" during a discussion about Social Securit"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "politico-congress https://rss.politico.com/congress.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eljks5",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Russia’s Hybrid War Has Entered a Dangerous New Phase",
+    "chineseTitle": "Russia’s Hybrid War Has Entered a Dangerous New Phase",
+    "originalUrl": "https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-new-phase",
+    "publishedAt": "2026-10-07T08:00:00.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.178Z",
+    "rawDescription": "Julianne Smith, who represented the United States at NATO during the Biden administration, argues that Russian hybrid warfare in Europe is escalating quickly, and NATO is not doing enough to deter it. Putin is attempting to discourage support for Ukraine and undermine faith in Article 5, and NATO is responding with an outdated playbook.",
+    "contentSnippet": "Julianne Smith, who represented the United States at NATO during the Biden administration, argues that Russian hybrid warfare in Europe is escalating quickly, and NATO is not doing enough to deter it. Putin is attempting to discourage support for Ukraine and undermine faith in Article 5, and NATO is responding with an outdated playbook.",
+    "summaryZh": "基于标题/摘要生成：Julianne Smith，who represented the United States at NATO during the Biden administration，argues that Russian hybrid warfare in Europe is escalating q…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Phase Julianne Smith Julianne Smith, who represented the United States at NATO during the Biden administration, argues that Russian hybrid warfare in Europe is escalating quickly, and N"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "Phase Julianne Smith Julianne Smith, who represented the United States at NATO during the Biden administration, argues that Russian hybrid warfare in Europe is escalating quickly, and N"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eq94lq",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "chineseTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9vOFhldnRQS1prUUkyYUdLcjBuczcyelBUWkI0emJmT085WmhVSHgxbkl6Zjk2MDZNVFJ6aVlVUW5EWGNta0dDTUxlTW5RdjJvNDZQTzQwbDFMR0ZwODRYWTBTOS16UERWemc3YXVxY1QtQmRSNUZzOWg5UV8zVFRPTDRTVC1w?oc=5",
+    "publishedAt": "2026-10-06T22:51:56.000Z",
+    "fetchedAt": "2026-10-09T02:51:26.413Z",
+    "rawDescription": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "contentSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com Robert Wilkie"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k5wl9a",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IZzhnczhvcVpjaHQxS0NYdmctZ1duT0QtV0dic0Fvb0dmUVdfeDI5Y1p3WktQUHZ5Z2J5Q0pUZWcwY21Vc3EwS3Q0SllGWDNZSUc2MzF3QzEyWXdRc29pRS11aExGWEgwWWY4MDRVXzBBaFE?oc=5",
+    "publishedAt": "2026-10-04T21:37:42.000Z",
+    "fetchedAt": "2026-10-09T02:51:26.897Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eg8mld",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Royce Hood – AFPI",
+    "chineseTitle": "Royce Hood – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1maEhrX1hya0tMeUFLdFJqMzR5ZG0zVG8zSFdWb3dTZ0JlY3ZKUzc0eXZudVRSWF83ZjZqVzFmNXlrRkNrZVA1dEpTZDVTRTZrUVNDeFctdm1ic2M?oc=5",
+    "publishedAt": "2026-09-18T01:15:21.000Z",
+    "fetchedAt": "2026-10-09T02:51:26.414Z",
+    "rawDescription": "Royce Hood – AFPI americafirstpolicy.com",
+    "contentSnippet": "Royce Hood – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Royce Hood – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Royce Hood – AFPI Royce Hood – AFPI americafirstpolicy.com Royce Hood – AFPI americafirstpolicy.com"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"America First Policy Institute\" trade",
+      "AFPI"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-10-09T02:51:06.282Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z9c4cg",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5N3RsS052ZUpEQTAxMHBpQUhwNkhRbk5uYVNhLTFrWVZPMC10TjFDV2RCRWdyU19EZElONkJPbFd1ZHA5WGJpVDRpWlEtaEdJYUxXME9hdXJFRnRyX2xiQld4QVY3RlltVWF5QkVVdmRfSEU?oc=5",
+    "publishedAt": "2025-04-09T17:23:05.000Z",
+    "fetchedAt": "2026-10-09T02:51:26.898Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.474Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.475Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-09T02:51:06.281Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.346Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-09T02:51:03.345Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
