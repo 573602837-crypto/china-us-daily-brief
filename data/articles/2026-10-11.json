@@ -1,0 +1,1614 @@
+[
+  {
+    "id": "art_75nhkb",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "DOJ investigating five TV networks over White House pool coverage",
+    "chineseTitle": "DOJ investigating five TV networks over White 众议院 pool co…",
+    "originalUrl": "https://www.washingtonpost.com/business/2026/10/10/doj-investigating-five-tv-networks-over-white-house-pool-coverage/",
+    "publishedAt": "2026-10-11T01:37:44.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.353Z",
+    "rawDescription": "The agency said the probe seeks to determine whether Fox News, CNN, ABC, CBS and NBC violated antitrust laws. It marks a sharp escalation in the Trump administration’s use of its powers against perceived enemies in the press.",
+    "contentSnippet": "The agency said the probe seeks to determine whether Fox News, CNN, ABC, CBS and NBC violated antitrust laws. It marks a sharp escalation in the Trump administration’s use of its powers against perceived enemies in the press.",
+    "summaryZh": "基于标题/摘要生成：The agency said the probe seeks to determine whether Fox News，CNN，ABC，CBS and NBC violated antitrust laws. It marks a sharp escalation in the Trump a…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "x News, CNN, ABC, CBS and NBC violated antitrust laws. It marks a sharp escalation in the Trump administration’s use of its powers against perceived enemies in the press. The agency sai"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "x News, CNN, ABC, CBS and NBC violated antitrust laws. It marks a sharp escalation in the Trump administration's use of its powers against perceived enemies in the press. The agency sai"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "x News, CNN, ABC, CBS and NBC violated antitrust laws. It marks a sharp escalation in the Trump administration's use of its powers against perceived enemies in the press. The agency said the probe see"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "DOJ investigating five TV networks over White House pool coverage Perry Stein, Miriam Waldvogel, Scott Nover The agency said the probe seeks"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "White House",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5weccx",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+    "chineseTitle": "Justice Dept. Is Investigating TV Networks Over Trump Poo…",
+    "originalUrl": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+    "publishedAt": "2026-10-11T00:39:17.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.217Z",
+    "rawDescription": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+    "contentSnippet": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+    "summaryZh": "基于标题/摘要生成：Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage David McCabe, Michael M. Grynbaum, Benjamin Mullin, Lauren Hirsch and Glenn"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage David McCabe, Michael M. Grynbaum, Benjamin Mullin, Lauren Hirsch and Glenn"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jog3sj",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution",
+    "chineseTitle": "‘Not Pleasant’ but ‘Necessary’：Support at Trump Rally for…",
+    "originalUrl": "https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html",
+    "publishedAt": "2026-10-11T00:11:51.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.216Z",
+    "rawDescription": "A sample of people at the president’s midterm stump speech in Tennessee defended the Pentagon’s announcement that it would livestream the execution of a mass shooter.",
+    "contentSnippet": "A sample of people at the president’s midterm stump speech in Tennessee defended the Pentagon’s announcement that it would livestream the execution of a mass shooter.",
+    "summaryZh": "基于标题/摘要生成：A sample of people at the president’s midterm stump speech in Tennessee defended the 五角大楼’s announcement that it would livestream the execution of a…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution Shawn McCreesh A sample of people at the president’s midterm s"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "'Not Pleasant' but 'Necessary': Support at Trump Rally for Public Execution Shawn McCreesh A sample of people at the president's midterm s"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rey0ys",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Anonymous no more: Meet the 36-year-old Boston software engineer behind the viral Mass Daily News website",
+    "chineseTitle": "Anonymous no more：Meet the 36-year-old Boston software en…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/10/business/mass-daily-news-wu-boston/",
+    "publishedAt": "2026-10-10T23:35:21.400Z",
+    "fetchedAt": "2026-10-11T01:41:10.567Z",
+    "rawDescription": "公开 sitemap 条目：Anonymous no more: Meet the 36-year-old Boston software engineer behind the viral Mass Daily News website",
+    "contentSnippet": "公开 sitemap 条目：Anonymous no more: Meet the 36-year-old Boston software engineer behind the viral Mass Daily News website",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Anonymous no more：Meet the 36-year-old Boston software engineer behind the viral Mass Daily News website",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2a1siy",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "President talks 'Trump Ocean,' trades jokes with Tennessee crowd as Kid Rock kicks off sprawling rally",
+    "chineseTitle": "President talks 'Trump Ocean，' trades jokes with Tennesse…",
+    "originalUrl": "https://www.foxnews.com/politics/president-talks-trump-ocean-trades-jokes-tennessee-crowd-kid-rock-kicks-sprawling-rally",
+    "publishedAt": "2026-10-10T23:07:06.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.185Z",
+    "rawDescription": "Trump called Iranian leaders \"crazy\" and floated renaming an ocean after himself during a wide-ranging Tennessee rally with Kid Rock opening.",
+    "contentSnippet": "Trump called Iranian leaders \"crazy\" and floated renaming an ocean after himself during a wide-ranging Tennessee rally with Kid Rock opening.",
+    "summaryZh": "基于标题/摘要生成：Trump called Iranian leaders \"crazy\" and floated renaming an ocean after himself during a wide-ranging Tennessee rally with Kid Rock opening",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "President talks 'Trump Ocean,' trades jokes with Tennessee crowd as Kid Rock kicks off sprawling rally Trump ca"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "President talks 'Trump Ocean,' trades jokes with Tennessee crowd as Kid Rock kicks off sprawling rally Trump cal"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vlbr2x",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+    "chineseTitle": "Attack on Riyadh airport killed 12 people and wounded ove…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/10/world/houthi-attack-riyadh-airport/",
+    "publishedAt": "2026-10-10T22:51:59.782Z",
+    "fetchedAt": "2026-10-11T01:41:10.569Z",
+    "rawDescription": "公开 sitemap 条目：Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+    "contentSnippet": "公开 sitemap 条目：Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Attack on Riyadh airport killed 12 people and wounded over 300 more，Saudi authorities say",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_870pyf",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Bipartisan bill barring U.S. purchase of Russian oil on the horizon: Fitzpatrick",
+    "chineseTitle": "Bipartisan 法案 barring U.S. purchase of Russian oil on the…",
+    "originalUrl": "https://thehill.com/homenews/house/6140830-fitzpatrick-bill-block-russian-oil/",
+    "publishedAt": "2026-10-10T22:02:33.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.068Z",
+    "rawDescription": "Rep. Brian Fitzpatrick (R-Pa.) announced on Saturday he would be introducing a bipartisan bill aimed at stopping President Trump from lifting sanctions on Russian oil amid global fuel shortages. “We will be introducing bipartisan legislation to block any and all purchases of Russian oil. It will be called the ‘Ronald Reagan Peace Through Strength Act,’”...",
+    "contentSnippet": "Rep. Brian Fitzpatrick (R-Pa.) announced on Saturday he would be introducing a bipartisan bill aimed at stopping President Trump from lifting sanctions on Russian oil amid global fuel shortages. “We will be introducing bipartisan legislation to block any and all purchases of Russian oil. It will be called the ‘Ronald Reagan Peace Through Strength Act,’”...",
+    "summaryZh": "基于标题/摘要生成：Rep. Brian Fitzpatrick (R-Pa.) announced on Saturday he would be introducing a bipartisan 法案 aimed at stopping President Trump from lifting sanctions…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "nounced on Saturday he would be introducing a bipartisan bill aimed at stopping President Trump from lifting sanctions on Russian oil amid global fuel shortages. “We will be introducing"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "nounced on Saturday he would be introducing a bipartisan bill aimed at stopping President Trump from lifting sanctions on Russian oil amid global fuel shortages. \"We will be introducing"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-house https://thehill.com/homenews/house/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s33kya",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
+    "chineseTitle": "众议院 Republican，invoking Reagan，moves to block Trump's Rus…",
+    "originalUrl": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
+    "publishedAt": "2026-10-10T21:50:50.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.003Z",
+    "rawDescription": "Rep. Brian Fitzpatrick (R-Pa.) vowed Saturday to force a House vote to block Russian oil purchases, challenging President Trump's diesel deal with President Vladimir Putin. Why it matters: Trump has touted the deal as a way to lower fuel prices, but it could also provide revenue for Russia's war in Ukraine. Driving the news: Fitzpatrick, co-chair of the Congressional Ukraine Caucus, said he would introduce the \"Ronald Reagan Peace Through Strength Act\" and force a vote through a discharge petition. \"It will be forced to the Floor via discharge and it will pass overwhelmingly,\" Fitzpatrick wrote on X . Retiring Rep. Don Bacon (R-Neb.) tells Axios he has \"already agreed\" to sign the petition. Catch up quick: Trump said Friday Russia would immediately supply more than 300,000 tons of diesel…",
+    "contentSnippet": "Rep. Brian Fitzpatrick (R-Pa.) vowed Saturday to force a House vote to block Russian oil purchases, challenging President Trump's diesel deal with President Vladimir Putin. Why it matters: Trump has touted the deal as a way to lower fuel prices, but it could also provide revenue for Russia's war in Ukraine. Driving the news: Fitzpatrick, co-chair of the Congressional Ukraine Caucus, said he would introduce the \"Ronald Reagan Peace Through Strength Act\" and force a vote through a discharge petition. \"It will be forced to the Floor via discharge and it will pass overwhelmingly,\" Fitzpatrick wrote on X . Retiring Rep. Don Bacon (R-Neb.) tells Axios he has \"already agreed\" to sign the petition. Catch up quick: Trump said Friday Russia would immediately supply more than 300,000 tons of diesel…",
+    "summaryZh": "基于标题/摘要生成：Rep. Brian Fitzpatrick (R-Pa.) vowed Saturday to force a 众议院 vote to block Russian oil purchases，challenging President Trump's diesel deal with Presi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal Rep. Brian Fitzpatrick (R-Pa.) vowed Saturday to force a House vote to"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal Rep. Brian Fitzpatrick (R-Pa.) vowed Saturday to force a House vote to"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios",
+      "Congress",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "Congress",
+      "\"Republican Party\" Trump",
+      "Congress Trump"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5l4ugj",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump suggests ‘Ocean of Americas’ as new name for Atlantic or Pacific",
+    "chineseTitle": "Trump suggests ‘Ocean of Americas’ as new name for Atlant…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/10/10/trump-suggests-ocean-americas-new-name-atlantic-or-pacific/",
+    "publishedAt": "2026-10-10T21:49:48.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.354Z",
+    "rawDescription": "The president also floated the idea of naming an ocean after himself.",
+    "contentSnippet": "The president also floated the idea of naming an ocean after himself.",
+    "summaryZh": "基于标题/摘要生成：The president also floated the idea of naming an ocean after himself",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump suggests ‘Ocean of Americas’ as new name for Atlantic or Pacific Dan Diamond The presiden"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump suggests 'Ocean of Americas' as new name for Atlantic or Pacific Dan Diamond The presiden"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_y02kpy",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Supreme Court climate case could bankrupt oil companies, send gas prices soaring, experts warn",
+    "chineseTitle": "Supreme Court climate case could bankrupt oil companies，s…",
+    "originalUrl": "https://www.foxnews.com/politics/supreme-court-climate-case-could-bankrupt-oil-companies-send-gas-prices-soaring-experts-warn",
+    "publishedAt": "2026-10-10T20:05:53.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.185Z",
+    "rawDescription": "Energy experts warn the Supreme Court's Suncor v. Boulder case could trigger thousands of climate liability lawsuits that raise gas prices.",
+    "contentSnippet": "Energy experts warn the Supreme Court's Suncor v. Boulder case could trigger thousands of climate liability lawsuits that raise gas prices.",
+    "summaryZh": "基于标题/摘要生成：Energy experts warn the Supreme Court's Suncor v. Boulder case could trigger thousands of climate liability lawsuits that raise gas prices",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_37no31",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump rips Zelensky amid Russia diesel deal feud: &#039;I suggest they get a new leader&#039;",
+    "chineseTitle": "Trump rips Zelensky amid Russia diesel deal feud：&#039;I…",
+    "originalUrl": "https://thehill.com/homenews/administration/6140694-trump-defends-russian-diesel-deal/",
+    "publishedAt": "2026-10-10T18:26:04.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.070Z",
+    "rawDescription": "President Trump on Saturday pushed back on criticism from Ukrainian President Volodymyr Zelensky to the White House’s decision to lift sanctions on Russian diesel amid the Russia-Ukraine war. The president told reporters outside the White House that Zelensky “could have settled this war many times,” but “chose not to.” “He wants to make problems for...",
+    "contentSnippet": "President Trump on Saturday pushed back on criticism from Ukrainian President Volodymyr Zelensky to the White House’s decision to lift sanctions on Russian diesel amid the Russia-Ukraine war. The president told reporters outside the White House that Zelensky “could have settled this war many times,” but “chose not to.” “He wants to make problems for...",
+    "summaryZh": "基于标题/摘要生成：President Trump on Saturday pushed back on criticism from Ukrainian President Volodymyr Zelensky to 白宫’s decision to lift sanctions on Russian diesel…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump rips Zelensky amid Russia diesel deal feud: &#039;I suggest they get a new leader&#039; S"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump rips Zelensky amid Russia diesel deal feud: &#039;I suggest they get a new leader&#039; S"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "p on Saturday pushed back on criticism from Ukrainian President Volodymyr Zelensky to the White House's decision to lift sanctions on Russian diesel amid the Russia-Ukraine war. The president"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s7kdsk",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Is an Easy Mark for Putin",
+    "chineseTitle": "Trump Is an Easy Mark for Putin",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/10/trumps-diesel-deal-sells-out-ukraine/688964/",
+    "publishedAt": "2026-10-10T18:14:00.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.256Z",
+    "rawDescription": "The president’s diesel deal sells out Ukraine, and does nothing for Americans.",
+    "contentSnippet": "The president’s diesel deal sells out Ukraine, and does nothing for Americans.",
+    "summaryZh": "基于标题/摘要生成：The president’s diesel deal sells out Ukraine，and does nothing for Americans",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Is an Easy Mark for Putin David Frum The president’s diesel deal sells out Ukraine, and d"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Is an Easy Mark for Putin David Frum The president's diesel deal sells out Ukraine, and d"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"Donald Trump\"",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_y5q4fw",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump tells Ukraine to replace Zelensky over Russia fuel deal",
+    "chineseTitle": "Trump tells Ukraine to replace Zelensky over Russia fuel…",
+    "originalUrl": "https://www.axios.com/2026/10/10/trump-ukraine-zelensky-replace-putin-diesel",
+    "publishedAt": "2026-10-10T17:27:15.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.006Z",
+    "rawDescription": "President Trump called Saturday for Ukraine to replace President Volodymyr Zelensky with someone willing to make a deal with Russia to end the war. Why it matters: Trump's attack on Zelensky after the Ukrainian president criticized his diesel deal with Russia signals the most serious crisis between the two leaders since their February 2025 meeting exploded in front of cameras. Driving the news: Trump announced Friday he had reached a deal with Russia to lift sanctions to allow Russian diesel exports to the U.S. and the global energy market. Zelensky, who was surprised by the deal made behind Ukraine's back, attacked the move and told Axios it was \"not fair and not honest\" and was a \"sign of weakness\" by Trump and a \"birthday gift\" to Putin. A U.S. official told Axios later that Trump stru…",
+    "contentSnippet": "President Trump called Saturday for Ukraine to replace President Volodymyr Zelensky with someone willing to make a deal with Russia to end the war. Why it matters: Trump's attack on Zelensky after the Ukrainian president criticized his diesel deal with Russia signals the most serious crisis between the two leaders since their February 2025 meeting exploded in front of cameras. Driving the news: Trump announced Friday he had reached a deal with Russia to lift sanctions to allow Russian diesel exports to the U.S. and the global energy market. Zelensky, who was surprised by the deal made behind Ukraine's back, attacked the move and told Axios it was \"not fair and not honest\" and was a \"sign of weakness\" by Trump and a \"birthday gift\" to Putin. A U.S. official told Axios later that Trump stru…",
+    "summaryZh": "基于标题/摘要生成：President Trump called Saturday for Ukraine to replace President Volodymyr Zelensky with someone willing to make a deal with Russia to end the war. W…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump tells Ukraine to replace Zelensky over Russia fuel deal Barak Ravid President Trump calle"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump tells Ukraine to replace Zelensky over Russia fuel deal Barak Ravid President Trump calle"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hjy26k",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Referendum on the President’s Policies",
+    "chineseTitle": "A Referendum on the President’s Policies",
+    "originalUrl": "https://www.theatlantic.com/national/2026/10/trump-red-states-washington-week/688963/",
+    "publishedAt": "2026-10-10T15:38:25.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.257Z",
+    "rawDescription": "Panelists joined to discuss what the crucial races in battleground states and districts could mean for both parties in the midterm elections.",
+    "contentSnippet": "Panelists joined to discuss what the crucial races in battleground states and districts could mean for both parties in the midterm elections.",
+    "summaryZh": "基于标题/摘要生成：Panelists joined to discuss what the crucial races in battleground states and districts could mean for both parties in the midterm elections",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s3duza",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Republicans’ SNAP changes land in crunch time for midterms",
+    "chineseTitle": "共和党人’ SNAP changes land in crunch time for midterms",
+    "originalUrl": "https://www.politico.com/news/2026/10/10/snap-changes-republicans-midterms-01115721",
+    "publishedAt": "2026-10-10T14:01:20.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.131Z",
+    "rawDescription": "Changes to SNAP from Republicans’ megalaw are rolling out in a year when affordability woes top voters’ priority lists and grocery prices strain their wallets.",
+    "contentSnippet": "Changes to SNAP from Republicans’ megalaw are rolling out in a year when affordability woes top voters’ priority lists and grocery prices strain their wallets.",
+    "summaryZh": "基于标题/摘要生成：Changes to SNAP from 共和党人’ megalaw are rolling out in a year when affordability woes top voters’ priority lists and grocery prices strain their walle…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Republicans' SNAP changes land in crunch time for midterms By Eli Okun Changes to SNAP from Republica"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wmhu5c",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "David Plouffe warns Dems: Don’t take North Carolina for granted",
+    "chineseTitle": "David Plouffe warns Dems：Don’t take North Carolina for gr…",
+    "originalUrl": "https://www.politico.com/news/2026/10/10/david-plouffe-dems-north-carolina-01115652",
+    "publishedAt": "2026-10-10T13:00:00.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.132Z",
+    "rawDescription": "The veteran Democratic strategist, who managed Barack Obama’s narrow 2008 victory in the state, urged donors and supporters to stay focused on Roy Cooper’s Senate campaign.",
+    "contentSnippet": "The veteran Democratic strategist, who managed Barack Obama’s narrow 2008 victory in the state, urged donors and supporters to stay focused on Roy Cooper’s Senate campaign.",
+    "summaryZh": "基于标题/摘要生成：The veteran Democratic strategist，who managed Barack Obama’s narrow 2008 victory in the state，urged donors and supporters to stay focused on Roy Coop…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "ow 2008 victory in the state, urged donors and supporters to stay focused on Roy Cooper's Senate campaign. The veteran Democratic strategist, who managed Barack Obama's narrow 2008 victo"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9xgf8k",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Global Diesel Crisis, Explained",
+    "chineseTitle": "The Global Diesel Crisis，Explained",
+    "originalUrl": "https://foreignpolicy.com/2026/10/09/diesel-crisis-oil-fuel-refineries-iran-ukraine-war/",
+    "publishedAt": "2026-10-09T19:21:33.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.245Z",
+    "rawDescription": "How did the world reach a tipping point, and who holds the leverage?",
+    "contentSnippet": "How did the world reach a tipping point, and who holds the leverage?",
+    "summaryZh": "基于标题/摘要生成：How did the world reach a tipping point，and who holds the leverage",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ykzzwp",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What in the World?",
+    "chineseTitle": "What in the World",
+    "originalUrl": "https://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-election-sanchez-ebola-nobel-prize/",
+    "publishedAt": "2026-10-09T17:15:31.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.249Z",
+    "rawDescription": "Test yourself on the week of Oct. 3: Brazilians and Pakistanis protest, Spain calls for snap elections, and Ebola spreads in East Africa.",
+    "contentSnippet": "Test yourself on the week of Oct. 3: Brazilians and Pakistanis protest, Spain calls for snap elections, and Ebola spreads in East Africa.",
+    "summaryZh": "基于标题/摘要生成：Test yourself on the week of Oct. 3：Brazilians and Pakistanis protest，Spain calls for snap elections，and Ebola spreads in East Africa",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5iqmv5",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Is Gutting America’s Core Geopolitical Advantage",
+    "chineseTitle": "Trump Is Gutting America’s Core Geopolitical Advantage",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/trump-gutting-americas-core-geopolitical-advantage",
+    "publishedAt": "2026-10-09T08:00:00.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.054Z",
+    "rawDescription": "Robert Zoellick, an expert on the global economy who served as U.S. trade representative and World Bank president, makes the authoritative case that President Donald Trump’s antagonism toward Canada and Mexico is destroying an economic and security partnership that that enables the United States to project power globally.",
+    "contentSnippet": "Robert Zoellick, an expert on the global economy who served as U.S. trade representative and World Bank president, makes the authoritative case that President Donald Trump’s antagonism toward Canada and Mexico is destroying an economic and security partnership that that enables the United States to project power globally.",
+    "summaryZh": "基于标题/摘要生成：Robert Zoellick，an expert on the global economy who served as U.S. 贸易 representative and World Bank president，makes the authoritative case that Presi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "rade representative and World Bank president, makes the authoritative case that President Donald Trump’s antagonism toward Canada and Mexico is destroying an economic and security partnership"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Is Gutting America’s Core Geopolitical Advantage Robert B. Zoellick Robert Zoellick, an e"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "rade representative and World Bank president, makes the authoritative case that President Donald Trump's antagonism toward Canada and Mexico is destroying an economic and security partnership"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/topic/Trade/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_p31e33",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The End of Gaza",
+    "chineseTitle": "The End of Gaza",
+    "originalUrl": "https://www.foreignaffairs.com/palestinian-territories/end-gaza",
+    "publishedAt": "2026-10-08T08:00:00.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.058Z",
+    "rawDescription": "A failing peace process leads to only one outcome.",
+    "contentSnippet": "A failing peace process leads to only one outcome.",
+    "summaryZh": "基于标题/摘要生成：A failing peace process leads to only one outcome",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eq94lq",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "chineseTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9vOFhldnRQS1prUUkyYUdLcjBuczcyelBUWkI0emJmT085WmhVSHgxbkl6Zjk2MDZNVFJ6aVlVUW5EWGNta0dDTUxlTW5RdjJvNDZQTzQwbDFMR0ZwODRYWTBTOS16UERWemc3YXVxY1QtQmRSNUZzOWg5UV8zVFRPTDRTVC1w?oc=5",
+    "publishedAt": "2026-10-06T22:51:56.000Z",
+    "fetchedAt": "2026-10-11T01:41:31.044Z",
+    "rawDescription": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "contentSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com Robert Wilkie"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k5wl9a",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IZzhnczhvcVpjaHQxS0NYdmctZ1duT0QtV0dic0Fvb0dmUVdfeDI5Y1p3WktQUHZ5Z2J5Q0pUZWcwY21Vc3EwS3Q0SllGWDNZSUc2MzF3QzEyWXdRc29pRS11aExGWEgwWWY4MDRVXzBBaFE?oc=5",
+    "publishedAt": "2026-10-04T21:37:42.000Z",
+    "fetchedAt": "2026-10-11T01:41:31.512Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_opmr94",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HUXo3c3IxM2huak1DWjhNeTdzNGJwNDJDU3FLbTdTankzdldQSGdkSng0akVnNkpkQnJva2dMSUtsdUpZUmZRNFMteVdsSGxqV3NMVll0ZHBjbjFKT1NnZHh4aHFaRHF1QnVR?oc=5",
+    "publishedAt": "2026-09-19T17:24:04.000Z",
+    "fetchedAt": "2026-10-11T01:41:31.511Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eg8mld",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Royce Hood – AFPI",
+    "chineseTitle": "Royce Hood – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1maEhrX1hya0tMeUFLdFJqMzR5ZG0zVG8zSFdWb3dTZ0JlY3ZKUzc0eXZudVRSWF83ZjZqVzFmNXlrRkNrZVA1dEpTZDVTRTZrUVNDeFctdm1ic2M?oc=5",
+    "publishedAt": "2026-09-18T01:15:21.000Z",
+    "fetchedAt": "2026-10-11T01:41:31.045Z",
+    "rawDescription": "Royce Hood – AFPI americafirstpolicy.com",
+    "contentSnippet": "Royce Hood – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Royce Hood – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Royce Hood – AFPI Royce Hood – AFPI americafirstpolicy.com Royce Hood – AFPI americafirstpolicy.com"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"America First Policy Institute\" trade"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T01:41:10.515Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.327Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.327Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T01:41:10.514Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.205Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-11T01:41:08.203Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
