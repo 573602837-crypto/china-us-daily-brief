@@ -1,0 +1,1849 @@
+[
+  {
+    "id": "art_nezggi",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Watchdog group challenges legality of Kushner’s role in Trump administration",
+    "chineseTitle": "Watchdog group challenges legality of Kushner’s role in T…",
+    "originalUrl": "https://thehill.com/regulation/court-battles/6149653-crew-sues-jared-kushner/",
+    "publishedAt": "2026-10-15T00:59:27.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.521Z",
+    "rawDescription": "A watchdog group in a lawsuit on Wednesday challenged the legality of Jared Kushner’s role in his father-in-law’s administration. “Primarily, this suit seeks to bar Kushner from occupying his government position and exercising government authority in violation of the Appointments Clause,” the lawsuit, from Citizens for Responsibility and Ethics in Washington (CREW), reads. “If not...",
+    "contentSnippet": "A watchdog group in a lawsuit on Wednesday challenged the legality of Jared Kushner’s role in his father-in-law’s administration. “Primarily, this suit seeks to bar Kushner from occupying his government position and exercising government authority in violation of the Appointments Clause,” the lawsuit, from Citizens for Responsibility and Ethics in Washington (CREW), reads. “If not...",
+    "summaryZh": "基于标题/摘要生成：A watchdog group in a lawsuit on Wednesday challenged the legality of Jared Kushner’s role in his father-in-law’s administration. “Primarily，this sui…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Watchdog group challenges legality of Kushner’s role in Trump administration Tara Suter A watchdog group in a lawsuit on Wednesday challenged the legal"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Watchdog group challenges legality of Kushner's role in Trump administration Tara Suter A watchdog group in a lawsuit on Wednesday challenged the legal"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Watchdog group challenges legality of Kushner's role in Trump administration Tara Suter A watchdog group in a lawsuit on Wednesday challenged the legality of Jared Ku"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mxch5j",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Trump Voters Feel About High Grocery Prices Ahead of The Midterms",
+    "chineseTitle": "How Trump Voters Feel About High Grocery Prices Ahead of…",
+    "originalUrl": "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html",
+    "publishedAt": "2026-10-15T00:55:40.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.672Z",
+    "rawDescription": "With the midterms nearing, some are venting frustration with the president while others are standing by him.",
+    "contentSnippet": "With the midterms nearing, some are venting frustration with the president while others are standing by him.",
+    "summaryZh": "基于标题/摘要生成：With the midterms nearing，some are venting frustration with the president while others are standing by him",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "How Trump Voters Feel About High Grocery Prices Ahead of The Midterms Tim Balk, Ann Hinga Klein, Ke"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "How Trump Voters Feel About High Grocery Prices Ahead of The Midterms Tim Balk, Ann Hinga Klein, Ke"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vmi9gr",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Son accused of killing his mother in their Reading home to be arraigned Thursday",
+    "chineseTitle": "Son accused of killing his mother in their Reading home t…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/14/metro/reading-mother-killed-son-arraignment-ryan-hanafin/",
+    "publishedAt": "2026-10-15T00:48:33.843Z",
+    "fetchedAt": "2026-10-15T01:18:13.095Z",
+    "rawDescription": "公开 sitemap 条目：Son accused of killing his mother in their Reading home to be arraigned Thursday",
+    "contentSnippet": "公开 sitemap 条目：Son accused of killing his mother in their Reading home to be arraigned Thursday",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Son accused of killing his mother in their Reading home to be arraigned Thursday",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_whec0v",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
+    "chineseTitle": "Katie Zacharia Is Trump’s New Press Secretary. But Is She…",
+    "originalUrl": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
+    "publishedAt": "2026-10-15T00:45:41.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.671Z",
+    "rawDescription": "Katie Zacharia told The New York Times that the confusion over her legal credentials is the result of one big misunderstanding.",
+    "contentSnippet": "Katie Zacharia told The New York Times that the confusion over her legal credentials is the result of one big misunderstanding.",
+    "summaryZh": "基于标题/摘要生成：Katie Zacharia told The New York Times that the confusion over her legal credentials is the result of one big misunderstanding",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer? Shawn McCreesh Katie Zacharia told The New Yo"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Katie Zacharia Is Trump's New Press Secretary. But Is She a Lawyer? Shawn McCreesh Katie Zacharia told The New Yo"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g325qd",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump’s Truth Social faces a sharp decline in traffic",
+    "chineseTitle": "Trump’s Truth Social faces a sharp decline in traffic",
+    "originalUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWhzVnloQTBYeUEyN1hsa3U4MEwyX1lseXFEams0VUkxSzQ4UVIyVFI5VjJmNVNMYXVabGFBX3VJN01JRHJrMGYtWDQ3ZjE4ZHJFQVZPeU4zSWZ2aWxNN3lERFBmM0FLVzFCeVIxV2w5Z0dodm44eHBzbTZyc3hSa2RMMjAxWHl5SktjSEJ3Y1JQZFAtZXBUcDVlX2RRcFdM?oc=5",
+    "publishedAt": "2026-10-15T00:34:21.000Z",
+    "fetchedAt": "2026-10-15T01:18:34.974Z",
+    "rawDescription": "Trump’s Truth Social faces a sharp decline in traffic The Washington Post",
+    "contentSnippet": "Trump’s Truth Social faces a sharp decline in traffic The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump’s Truth Social faces a sharp decline in traffic The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Truth Social faces a sharp decline in traffic Trump’s Truth Social faces a sharp decli"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Truth Social faces a sharp decline in traffic Trump's Truth Social faces a sharp declin"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Trump's Truth Social faces a sharp decline in traffic Trump's Truth Social faces a sharp decline in traffic Th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\"",
+      "\"Truth Social\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k3wai0",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump torches Democrats at Arizona rally, warns they will ‘destroy our country’ ahead of midterms",
+    "chineseTitle": "Trump torches 民主党人 at Arizona rally，warns they will ‘dest…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-torches-democrats-arizona-rally-warns-destroy-country-ahead-midterms",
+    "publishedAt": "2026-10-15T00:06:31.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.637Z",
+    "rawDescription": "Trump rallied for Andy Biggs in Bullhead City, blasting Dem Gov. Katie Hobbs and urging Arizona voters to turn the state red in honor of Charlie Kirk.",
+    "contentSnippet": "Trump rallied for Andy Biggs in Bullhead City, blasting Dem Gov. Katie Hobbs and urging Arizona voters to turn the state red in honor of Charlie Kirk.",
+    "summaryZh": "基于标题/摘要生成：Trump rallied for Andy Biggs in Bullhead City，blasting Dem Gov. Katie Hobbs and urging Arizona voters to turn the state red in honor of Charlie Kirk",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump torches Democrats at Arizona rally, warns they will ‘destroy our country’ ahead of midter"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump torches Democrats at Arizona rally, warns they will 'destroy our country' ahead of midter"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Trump torches Democrats at Arizona rally, warns they will 'destroy our country' ahead of midterms Trump rallied f"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cuc655",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Trump parades new Air Force One, defends accepting the Qatari royal family’s 747 gift",
+    "chineseTitle": "Trump parades new Air Force One，defends accepting the Qat…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/14/nation/trump-arizona-montana-republicans/",
+    "publishedAt": "2026-10-14T23:45:21.633Z",
+    "fetchedAt": "2026-10-15T01:18:13.099Z",
+    "rawDescription": "公开 sitemap 条目：Trump parades new Air Force One, defends accepting the Qatari royal family’s 747 gift",
+    "contentSnippet": "公开 sitemap 条目：Trump parades new Air Force One, defends accepting the Qatari royal family’s 747 gift",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Trump parades new Air Force One，defends accepting the Qatari royal family’s 747 gift",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump parades new Air Force One, defends accepting the Qatari royal family’s 747 gift 公开 sitem"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump parades new Air Force One, defends accepting the Qatari royal family's 747 gift 公开 sitema"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1acnxc",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Unexpected House battles pop up deep in Trump country",
+    "chineseTitle": "Unexpected 众议院 battles pop up deep in Trump country",
+    "originalUrl": "https://www.axios.com/2026/10/14/house-candidates-trump-districts-democrats",
+    "publishedAt": "2026-10-14T23:31:15.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.451Z",
+    "rawDescription": "Republicans who haven't faced serious reelection fights in years are suddenly campaigning like they're running in swing districts. Why it matters: Democrats are eyeing House districts so Republican that they weren't even on the party's radar at the start of the 2026 midterm election cycle. That includes incumbents like Reps. John McGuire (R-Va.) and Lauren Boebert (R-Colo.), neither of whom were seen as remotely vulnerable coming into the second Trump term. Most of these seats haven't elected a Democrat in years or even decades and are only truly in play if the party is winning nationally by double digits. Even then, some are a stretch. But candidates in Trump country say frustration with rising prices, corruption, the war in Iran and political incumbency in general have led to a sea chan…",
+    "contentSnippet": "Republicans who haven't faced serious reelection fights in years are suddenly campaigning like they're running in swing districts. Why it matters: Democrats are eyeing House districts so Republican that they weren't even on the party's radar at the start of the 2026 midterm election cycle. That includes incumbents like Reps. John McGuire (R-Va.) and Lauren Boebert (R-Colo.), neither of whom were seen as remotely vulnerable coming into the second Trump term. Most of these seats haven't elected a Democrat in years or even decades and are only truly in play if the party is winning nationally by double digits. Even then, some are a stretch. But candidates in Trump country say frustration with rising prices, corruption, the war in Iran and political incumbency in general have led to a sea chan…",
+    "summaryZh": "基于标题/摘要生成：共和党人 who haven't faced serious reelection fights in years are suddenly campaigning like they're running in swing districts. Why it matters：民主党人 are e…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Unexpected House battles pop up deep in Trump country Andrew Solender Republicans who haven't faced serious reelection fights in years"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Unexpected House battles pop up deep in Trump country Andrew Solender Republicans who haven't faced serious reelection fights in years"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "n years are suddenly campaigning like they're running in swing districts. Why it matters: Democrats are eyeing House districts so Republican that they weren't even on the party's radar at t"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Unexpected House battles pop up deep in Trump country Andrew Solender Republicans who haven't faced serious reelection fights in years are suddenly campaigning like they'r"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1xrnv5",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Republicans brace for three-way leader fight if they lose",
+    "chineseTitle": "共和党人 brace for three-way leader fight if they lose",
+    "originalUrl": "https://www.axios.com/2026/10/14/house-gop-brewing-three-way-leadership-fight",
+    "publishedAt": "2026-10-14T23:30:48.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.455Z",
+    "rawDescription": "Speaker Mike Johnson's sudden frank talk about his political future is upending the quiet maneuvering ahead of a post-election GOP leadership contest. Why it matters: The race could become a three-way fight if Johnson follows former Speaker Nancy Pelosi's example and tries to stay in leadership if Republicans lose the majority. Majority Leader Steve Scalise (R-La.) has widely been viewed as a top contender for the job — and Rep. Jim Jordan (R-Ohio) did not seek a waiver to remain Judiciary chair, fueling speculation that he's preparing to run for leader. Many Republicans privately worry they're going to lose and expected Johnson to step aside if the majority slips away. But his new blunt and unexpected musings on his own future challenge that assumption. Driving the news: \"In the unlikely…",
+    "contentSnippet": "Speaker Mike Johnson's sudden frank talk about his political future is upending the quiet maneuvering ahead of a post-election GOP leadership contest. Why it matters: The race could become a three-way fight if Johnson follows former Speaker Nancy Pelosi's example and tries to stay in leadership if Republicans lose the majority. Majority Leader Steve Scalise (R-La.) has widely been viewed as a top contender for the job — and Rep. Jim Jordan (R-Ohio) did not seek a waiver to remain Judiciary chair, fueling speculation that he's preparing to run for leader. Many Republicans privately worry they're going to lose and expected Johnson to step aside if the majority slips away. But his new blunt and unexpected musings on his own future challenge that assumption. Driving the news: \"In the unlikely…",
+    "summaryZh": "基于标题/摘要生成：Speaker Mike Johnson's sudden frank talk about his political future is upending the quiet maneuvering ahead of a post-选举 GOP leadership contest. Why…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "迈克·约翰逊",
+      "南希·佩洛西"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "mike-johnson",
+        "nameEn": "Mike Johnson",
+        "nameZh": "迈克·约翰逊",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "Republicans brace for three-way leader fight if they lose Kate Santaliz Speaker Mike Johnson's sudden frank talk about his political future is upending the quiet maneuvering ahead of"
+      },
+      {
+        "personId": "mike-johnson",
+        "nameEn": "Mike Johnson",
+        "nameZh": "迈克·约翰逊",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Speaker Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "Republicans brace for three-way leader fight if they lose Kate Santaliz Speaker Mike Johnson's sudden frank talk about his political future is upending the quiet maneuvering ahead of"
+      },
+      {
+        "personId": "nancy-pelosi",
+        "nameEn": "Nancy Pelosi",
+        "nameZh": "南希·佩洛西",
+        "team": "民主党重点人物",
+        "matchedAlias": "Nancy Pelosi",
+        "confidence": "high",
+        "contextSnippet": "Why it matters: The race could become a three-way fight if Johnson follows former Speaker Nancy Pelosi's example and tries to stay in leadership if Republicans lose the majority. Majority Lead"
+      },
+      {
+        "personId": "nancy-pelosi",
+        "nameEn": "Nancy Pelosi",
+        "nameZh": "南希·佩洛西",
+        "team": "民主党重点人物",
+        "matchedAlias": "Pelosi",
+        "confidence": "low",
+        "contextSnippet": "matters: The race could become a three-way fight if Johnson follows former Speaker Nancy Pelosi's example and tries to stay in leadership if Republicans lose the majority. Majority Lead"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "mike-johnson",
+        "name": "Mike Johnson",
+        "type": "person",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "Republicans brace for three-way leader fight if they lose Kate Santaliz Speaker Mike Johnson's sudden frank talk about his political future is upending the quiet maneuvering ahead of"
+      },
+      {
+        "entityId": "nancy-pelosi",
+        "name": "Nancy Pelosi",
+        "type": "person",
+        "matchedAlias": "Nancy Pelosi",
+        "confidence": "high",
+        "contextSnippet": "Why it matters: The race could become a three-way fight if Johnson follows former Speaker Nancy Pelosi's example and tries to stay in leadership if Republicans lose the majority. Majority Lead"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Republicans brace for three-way leader fight if they lose Kate Santaliz Speaker Mike Johnson's sudden"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "House Gop Brewing Three Way Leadership Fight 公开 sitemap 条目：House Gop Brewing Three Way Leadership F"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Mike Johnson",
+      "Nancy Pelosi",
+      "Republican Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Mike Johnson\""
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_lkklsq",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Federal agents seize phone of Rep. Ilhan Omar in raid tied to immigration fraud probe",
+    "chineseTitle": "Federal agents seize phone of Rep. Ilhan Omar in raid tie…",
+    "originalUrl": "https://www.foxnews.com/politics/federal-agents-seize-phone-rep-ilhan-omar-raid-tied-immigration-fraud-probe",
+    "publishedAt": "2026-10-14T23:18:07.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.638Z",
+    "rawDescription": "Federal agents raided Ilhan Omar's D.C. home and seized her cell phone as part of a criminal fraud investigation into her immigration paperwork.",
+    "contentSnippet": "Federal agents raided Ilhan Omar's D.C. home and seized her cell phone as part of a criminal fraud investigation into her immigration paperwork.",
+    "summaryZh": "基于标题/摘要生成：Federal agents raided Ilhan Omar's D.C. home and seized her cell phone as part of a criminal fraud investigation into her immigration paperwork",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_b3m06w",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Algeria Sets Its Sights on the Sahel",
+    "chineseTitle": "Algeria Sets Its Sights on the Sahel",
+    "originalUrl": "https://foreignpolicy.com/2026/10/14/algeria-sahel-african-politics-security/",
+    "publishedAt": "2026-10-14T23:00:14.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.701Z",
+    "rawDescription": "The North African country seeks to reclaim its status as a security mediator in the region.",
+    "contentSnippet": "The North African country seeks to reclaim its status as a security mediator in the region.",
+    "summaryZh": "基于标题/摘要生成：The North African country seeks to reclaim its status as a security mediator in the region",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wwd3oe",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Now We’re Seeing the Extent of American Decay",
+    "chineseTitle": "Now We’re Seeing the Extent of American Decay",
+    "originalUrl": "https://foreignpolicy.com/2026/10/14/trump-administration-hegseth-rubio-nobel-us-decay/",
+    "publishedAt": "2026-10-14T21:58:25.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.701Z",
+    "rawDescription": "From Hegseth’s plans to Trump’s theatrics, it’s hard to know what to be most outraged about.",
+    "contentSnippet": "From Hegseth’s plans to Trump’s theatrics, it’s hard to know what to be most outraged about.",
+    "summaryZh": "基于标题/摘要生成：From Hegseth’s plans to Trump’s theatrics，it’s hard to know what to be most outraged about",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Now We’re Seeing the Extent of American Decay Howard W. French From Hegseth’s plans to Trump’s theatrics, it’s hard to know what to be most outraged about. From Hegseth’s plans to Tr"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Now We’re Seeing the Extent of American Decay Howard W. French From Hegseth’s plans to Trump’s theatrics, it’s hard to know what to be most outraged about. From Hegs"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Now We're Seeing the Extent of American Decay Howard W. French From Hegseth's plans to Trump's theatrics, it's hard to know what to be most outraged about. From Hegseth's plans to Tr"
+      },
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Now We're Seeing the Extent of American Decay Howard W. French From Hegseth's plans to Trump's theatrics, it's hard to know what to be most outraged about. From Hegs"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Pete Hegseth",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mdxqli",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Kimberly Guilfoyle Broke Trump’s Most Important Rule",
+    "chineseTitle": "Kimberly Guilfoyle Broke Trump’s Most Important Rule",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/10/kimberly-guilfoyle-trump-greece-davos/688996/",
+    "publishedAt": "2026-10-14T20:54:33.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.715Z",
+    "rawDescription": "The president doesn’t seem to care about corruption; he cares about embarrassment.",
+    "contentSnippet": "The president doesn’t seem to care about corruption; he cares about embarrassment.",
+    "summaryZh": "基于标题/摘要生成：The president doesn’t seem to care about corruption; he cares about embarrassment",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Kimberly Guilfoyle Broke Trump’s Most Important Rule Tom Nichols The president doesn’t seem to care about corruption; he"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Kimberly Guilfoyle Broke Trump's Most Important Rule Tom Nichols The president doesn't seem to care about corruption; he"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic",
+      "Trump team"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"Donald Trump\"",
+      "\"Trump team\"",
+      "\"Donald Trump\" Trump",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yl7j55",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "GOP lawmaker defends Trump’s energy ceasefire push, rips Putin over betrayal",
+    "chineseTitle": "GOP lawmaker defends Trump’s energy ceasefire push，rips P…",
+    "originalUrl": "https://thehill.com/homenews/house/6148929-crenshaw-putin-energy-ceasefire/",
+    "publishedAt": "2026-10-14T19:59:39.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.522Z",
+    "rawDescription": "Rep. Dan Crenshaw (R-Texas) on Wednesday expressed his support for President Trump’s recent push for an energy ceasefire between Russia and Ukraine, but he also slammed Russian President Vladimir Putin over Russia’s apparent betrayal of the claimed ceasefire. “President Trump did the right thing by trying to force an energy ceasefire. You have to *try*....",
+    "contentSnippet": "Rep. Dan Crenshaw (R-Texas) on Wednesday expressed his support for President Trump’s recent push for an energy ceasefire between Russia and Ukraine, but he also slammed Russian President Vladimir Putin over Russia’s apparent betrayal of the claimed ceasefire. “President Trump did the right thing by trying to force an energy ceasefire. You have to *try*....",
+    "summaryZh": "基于标题/摘要生成：Rep. Dan Crenshaw (R-Texas) on Wednesday expressed his support for President Trump’s recent push for an energy ceasefire between Russia and Ukraine，b…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "GOP lawmaker defends Trump’s energy ceasefire push, rips Putin over betrayal Tara Suter Rep. Dan Crenshaw (R-Texas)"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "GOP lawmaker defends Trump's energy ceasefire push, rips Putin over betrayal Tara Suter Rep. Dan Crenshaw (R-Texas)"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "GOP lawmaker defends Trump's energy ceasefire push, rips Putin over betrayal Tara Suter Rep."
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-house https://thehill.com/homenews/house/feed/",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_y67hwk",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection",
+    "chineseTitle": "‘I think Alaska’s turning blue’：共和党人 fret Sullivan’s path…",
+    "originalUrl": "https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073",
+    "publishedAt": "2026-10-14T18:18:37.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.584Z",
+    "rawDescription": "Alaska strategists and voters acknowledge GOP Sen. Dan Sullivan is facing a difficult road, despite Trump’s support and the outside money pouring in.",
+    "contentSnippet": "Alaska strategists and voters acknowledge GOP Sen. Dan Sullivan is facing a difficult road, despite Trump’s support and the outside money pouring in.",
+    "summaryZh": "基于标题/摘要生成：Alaska strategists and voters acknowledge GOP Sen. Dan Sullivan is facing a difficult road，despite Trump’s support and the outside money pouring in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ategists and voters acknowledge GOP Sen. Dan Sullivan is facing a difficult road, despite Trump’s support and the outside money pouring in. Alaska strategists and voters acknowledge GOP"
+      },
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection By Irie Sentner Alaska strategists and voters acknowledge GOP Sen. D"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "ategists and voters acknowledge GOP Sen. Dan Sullivan is facing a difficult road, despite Trump's support and the outside money pouring in. Alaska strategists and voters acknowledge GOP"
+      },
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "'I think Alaska's turning blue': Republicans fret Sullivan's path to reelection By Irie Sentner Alaska strategists and voters acknowledge GOP Sen. D"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "'I think Alaska's turning blue': Republicans fret Sullivan's path to reelection By Irie Sentner Alaska strategists and voters acknowle"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Jake Sullivan",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "\"Donald Trump\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4ijlj2",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Trump Is Selling Out Ukraine",
+    "chineseTitle": "How Trump Is Selling Out Ukraine",
+    "originalUrl": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-illia-ponomarenko-ukraine-trump/688994/",
+    "publishedAt": "2026-10-14T18:00:00.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.716Z",
+    "rawDescription": "The Ukrainian journalist Illia Ponomarenko on his new book, The Land of Tears and Hope , a history of his country",
+    "contentSnippet": "The Ukrainian journalist Illia Ponomarenko on his new book, The Land of Tears and Hope , a history of his country",
+    "summaryZh": "基于标题/摘要生成：The Ukrainian journalist Illia Ponomarenko on his new book，The Land of Tears and Hope，a history of his country",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "How Trump Is Selling Out Ukraine David Frum The Ukrainian journalist Illia Ponomarenko on his new b"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "How Trump Is Selling Out Ukraine David Frum The Ukrainian journalist Illia Ponomarenko on his new b"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6t9ezb",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House control all but gone, top Republicans privately concede",
+    "chineseTitle": "众议院 control all but gone，top 共和党人 privately concede",
+    "originalUrl": "https://www.politico.com/news/2026/10/14/house-republicans-private-lost-cause-01117673",
+    "publishedAt": "2026-10-14T08:45:00.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.585Z",
+    "rawDescription": "Republican groups are trying to limit their losses. But few in the party believe they have a good shot at keeping control of Congress.",
+    "contentSnippet": "Republican groups are trying to limit their losses. But few in the party believe they have a good shot at keeping control of Congress.",
+    "summaryZh": "基于标题/摘要生成：Republican groups are trying to limit their losses. But few in the party believe they have a good shot at keeping control of 美国国会",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "House control all but gone, top Republicans privately concede By Meredith Lee Hill, Andrew Howard and Mia McCarthy Republican groups"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "it their losses. But few in the party believe they have a good shot at keeping control of Congress. Republican groups are trying to limit their losses. But few in the party believe they ha"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Congress",
+      "Politico",
+      "Mike Johnson"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "\"Republican Party\"",
+      "\"Mike Johnson\" Trump",
+      "\"Republican Party\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_amf2ae",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Ukraine Can Turn Imminent Peril to Its Advantage",
+    "chineseTitle": "Ukraine Can Turn Imminent Peril to Its Advantage",
+    "originalUrl": "https://www.foreignaffairs.com/ukraine/ukraine-can-turn-imminent-peril-its-advantage",
+    "publishedAt": "2026-10-14T08:00:00.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.504Z",
+    "rawDescription": "How a true “energy cease-Fire” can curb Putin.",
+    "contentSnippet": "How a true “energy cease-Fire” can curb Putin.",
+    "summaryZh": "基于标题/摘要生成：How a true “energy cease-Fire” can curb Putin",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_n4l6a6",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China’s Next Frontier",
+    "chineseTitle": "中国’s Next Frontier",
+    "originalUrl": "https://www.foreignaffairs.com/china/chinas-next-frontier",
+    "publishedAt": "2026-10-14T08:00:00.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.505Z",
+    "rawDescription": "Technology experts Kathleen Curlee and Sam Bresnick argue that China is catching up to the United States in space, commercially and militarily. This poses a threat to U.S. military operations, which rely on space-based capabilities. Washington must invest in space defense and also reduce its reliance on the domain.",
+    "contentSnippet": "Technology experts Kathleen Curlee and Sam Bresnick argue that China is catching up to the United States in space, commercially and militarily. This poses a threat to U.S. military operations, which rely on space-based capabilities. Washington must invest in space defense and also reduce its reliance on the domain.",
+    "summaryZh": "基于标题/摘要生成：Technology experts Kathleen Curlee and Sam Bresnick argue that 中国 is catching up to the United States in space，commercially and militarily. This pose…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_qnb7aw",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "White House scrambles over questions on new press secretary’s background",
+    "chineseTitle": "White 众议院 scrambles over questions on new press secretary…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNFdlS1JXZlJuZm90RllaajV6RTZ0YklMNzJwWDhramhoRjc0Q0ktbWh5eTdGb1UzZUtSUWNwdlNSLXE5eEw3cGM3aS1rbjM2ZC1rVWw2T3ZzVGlzNXIzTDdKOHVwWnhHRUdlRWcyanJNWWV2b2xFTWNfMFNTd1NGbUYzNmM2NGhXX2ZoYlBRQWdPVkJfT09pS1U5amZyMGlwMUw3WXB5ai0?oc=5",
+    "publishedAt": "2026-10-14T03:31:14.000Z",
+    "fetchedAt": "2026-10-15T01:18:34.988Z",
+    "rawDescription": "White House scrambles over questions on new press secretary’s background The Washington Post",
+    "contentSnippet": "White House scrambles over questions on new press secretary’s background The Washington Post",
+    "summaryZh": "基于标题/摘要生成：White 众议院 scrambles over questions on new press secretary’s background The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "White House scrambles over questions on new press secretary's background White House scrambles over q"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Donald Trump",
+      "Susie Wiles"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\"",
+      "\"Susie Wiles\" China",
+      "\"White House\" China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_piv1n5",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44d2wtdjdraW1LNm52RDB2OFdyeHMyVkZNV1VGQ1d1TDhtYW9GM2RHcFp2QzdZeDhRZ1BQT0tPNDREbG1RZTNGcFFjNUZ0bE1ucTVubDlxczJnVGZ1NnFXa2RDTGd4aVk0dkRaNk9jMUd3V28?oc=5",
+    "publishedAt": "2026-10-13T05:43:47.000Z",
+    "fetchedAt": "2026-10-15T01:18:35.448Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_crna9l",
+    "sourceName": "Fox News",
+    "sourceDomain": "noticias.foxnews.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+    "chineseTitle": "Inside Israel's plot to kill Hezbollah chief as Netanyahu…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlJzTGJYUmI4bW96NU5TeXFpNk5obUNBQnltUFFPSGp2SkgxZ0NnekJrNmhkTEdmZF9feTh4U3A4NUhqWFZ5azlhYXp1WlJmZzJaVmgyakRBVzBiSGhKaGtyZzFHUXIybUlQbDBXUEFqN1NhYVB2Y184S1BJakYtY1MtbmgwMk5ESHp3ZjdyWDVqMGhjRVBETjg2eGVXZmwzMWVmZ0RrTk4zdXI0NE5DQVpiaDR5Q0tJanpZd3NpaG55cEwyT3c?oc=5",
+    "publishedAt": "2026-10-11T10:00:18.000Z",
+    "fetchedAt": "2026-10-15T01:18:35.027Z",
+    "rawDescription": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Fox News",
+    "contentSnippet": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Fox News",
+    "summaryZh": "基于标题/摘要生成：Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Fox News",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Inside Israel's plot to kill Hezbollah chief as Netany"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Inside Israel's plot to kill Hezbollah chief as Netanya"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Jake Sullivan"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Jake Sullivan\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eq94lq",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "chineseTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9vOFhldnRQS1prUUkyYUdLcjBuczcyelBUWkI0emJmT085WmhVSHgxbkl6Zjk2MDZNVFJ6aVlVUW5EWGNta0dDTUxlTW5RdjJvNDZQTzQwbDFMR0ZwODRYWTBTOS16UERWemc3YXVxY1QtQmRSNUZzOWg5UV8zVFRPTDRTVC1w?oc=5",
+    "publishedAt": "2026-10-06T22:51:57.000Z",
+    "fetchedAt": "2026-10-15T01:18:34.977Z",
+    "rawDescription": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "contentSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com Robert Wilkie"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eg8mld",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Royce Hood – AFPI",
+    "chineseTitle": "Royce Hood – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1maEhrX1hya0tMeUFLdFJqMzR5ZG0zVG8zSFdWb3dTZ0JlY3ZKUzc0eXZudVRSWF83ZjZqVzFmNXlrRkNrZVA1dEpTZDVTRTZrUVNDeFctdm1ic2M?oc=5",
+    "publishedAt": "2026-09-18T01:15:21.000Z",
+    "fetchedAt": "2026-10-15T01:18:34.978Z",
+    "rawDescription": "Royce Hood – AFPI americafirstpolicy.com",
+    "contentSnippet": "Royce Hood – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Royce Hood – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Royce Hood – AFPI Royce Hood – AFPI americafirstpolicy.com Royce Hood – AFPI americafirstpolicy.com"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"America First Policy Institute\" trade"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-10-15T01:18:13.042Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.789Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.791Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-15T01:18:13.041Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.660Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-15T01:18:09.658Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ky0cb",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUUtyTnV2Nm5EQUd1VnJ3RTN6czVoMzBYQ1NxUEhISmNiQ3RnUHZnYjFTMWp1bTlHVElOVl9wdmJsM3lfQ2VfWHU2VFVJODdVaFE?oc=5",
+    "publishedAt": "2022-05-17T16:17:39.000Z",
+    "fetchedAt": "2026-10-15T01:18:35.449Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
