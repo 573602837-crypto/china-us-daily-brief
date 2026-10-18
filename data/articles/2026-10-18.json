@@ -1,0 +1,1717 @@
+[
+  {
+    "id": "art_47nyyz",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Bruins’ Nikita Zadorvov benched for game against the Kings because of penalty",
+    "chineseTitle": "Bruins’ Nikita Zadorvov benched for game against the King…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/17/sports/bruins-nikita-zadorov-benched/",
+    "publishedAt": "2026-10-18T00:32:04.515Z",
+    "fetchedAt": "2026-10-18T00:44:01.165Z",
+    "rawDescription": "公开 sitemap 条目：Bruins’ Nikita Zadorvov benched for game against the Kings because of penalty",
+    "contentSnippet": "公开 sitemap 条目：Bruins’ Nikita Zadorvov benched for game against the Kings because of penalty",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Bruins’ Nikita Zadorvov benched for game against the Kings because of penalty",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6t5mqh",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Minnesota Senate race takes bizarre turn after dark family history uncovered",
+    "chineseTitle": "Minnesota 参议院 race takes bizarre turn after dark family h…",
+    "originalUrl": "https://www.foxnews.com/politics/minnesota-senate-race-takes-bizarre-turn-dark-family-history-uncovered",
+    "publishedAt": "2026-10-18T00:30:40.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.123Z",
+    "rawDescription": "Minnesota Democratic Lt. Gov. Peggy Flanagan's grandfather spent decades in psychiatric custody and was suspected in multiple killings, records show.",
+    "contentSnippet": "Minnesota Democratic Lt. Gov. Peggy Flanagan's grandfather spent decades in psychiatric custody and was suspected in multiple killings, records show.",
+    "summaryZh": "基于标题/摘要生成：Minnesota Democratic Lt. Gov. Peggy Flanagan's grandfather spent decades in psychiatric custody and was suspected in multiple killings，records show",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Minnesota Senate race takes bizarre turn after dark family history uncovered Minnesota Democratic Lt. Gov."
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2maxik",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
+    "chineseTitle": "In Midterm Campaign’s Final Stretch，Trump Can’t Stop Prai…",
+    "originalUrl": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html",
+    "publishedAt": "2026-10-17T23:54:30.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.154Z",
+    "rawDescription": "As he stumps for midterm candidates, the president has been especially eager to talk about the physical appearance of some men.",
+    "contentSnippet": "As he stumps for midterm candidates, the president has been especially eager to talk about the physical appearance of some men.",
+    "summaryZh": "基于标题/摘要生成：As he stumps for midterm candidates，the president has been especially eager to talk about the physical appearance of some men",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies Tim Balk As he stumps for midterm candidates, the presid"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "In Midterm Campaign's Final Stretch, Trump Can't Stop Praising Men's Bodies Tim Balk As he stumps for midterm candidates, the presid"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xqw1d8",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Taunton hospital failed to act on worker’s sex misconduct, suit alleges",
+    "chineseTitle": "Taunton hospital failed to act on worker’s sex misconduct…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/15/metro/massachusetts-state-hospital-taunton-arrest-harassment-sex/",
+    "publishedAt": "2026-10-17T23:46:06.843Z",
+    "fetchedAt": "2026-10-18T00:44:01.170Z",
+    "rawDescription": "公开 sitemap 条目：Taunton hospital failed to act on worker’s sex misconduct, suit alleges",
+    "contentSnippet": "公开 sitemap 条目：Taunton hospital failed to act on worker’s sex misconduct, suit alleges",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Taunton hospital failed to act on worker’s sex misconduct，suit alleges",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9pk3n3",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+    "chineseTitle": "Zelensky says Musk-owned satellite system still restricte…",
+    "originalUrl": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
+    "publishedAt": "2026-10-17T23:26:59.000Z",
+    "fetchedAt": "2026-10-18T00:43:56.950Z",
+    "rawDescription": "Ukrainian President Volodymyr Zelensky said Ukraine's use of the Elon Musk -owned SpaceX satellite system remains partially restricted, despite earlier signs this week that it had been fully restored. Why it matters: The current restrictions limit the Ukrainian military from using drones to intercept Russian attack drones and from using its drones to send supplies to soldiers on the front lines, Zelensky said. The intrigue: Ukrainian officials say they are still scrambling to determine whether the restrictions result from a political decision by the Trump administration or Musk. Ukrainian officials have heard different versions of what happened, with the Trump administration and SpaceX executives accusing each other. \"SpaceX as a company tells us it is a technical problem. But our contact…",
+    "contentSnippet": "Ukrainian President Volodymyr Zelensky said Ukraine's use of the Elon Musk -owned SpaceX satellite system remains partially restricted, despite earlier signs this week that it had been fully restored. Why it matters: The current restrictions limit the Ukrainian military from using drones to intercept Russian attack drones and from using its drones to send supplies to soldiers on the front lines, Zelensky said. The intrigue: Ukrainian officials say they are still scrambling to determine whether the restrictions result from a political decision by the Trump administration or Musk. Ukrainian officials have heard different versions of what happened, with the Trump administration and SpaceX executives accusing each other. \"SpaceX as a company tells us it is a technical problem. But our contact…",
+    "summaryZh": "基于标题/摘要生成：Ukrainian President Volodymyr Zelensky said Ukraine's use of the Elon Musk -owned SpaceX satellite system remains partially restricted，despite earlie…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "scrambling to determine whether the restrictions result from a political decision by the Trump administration or Musk. Ukrainian officials have heard different versions of what happene"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "scrambling to determine whether the restrictions result from a political decision by the Trump administration or Musk. Ukrainian officials have heard different versions of what happene"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "scrambling to determine whether the restrictions result from a political decision by the Trump administration or Musk. Ukrainian officials have heard different versions of what happened, with the Tru"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_o9mhu2",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
+    "chineseTitle": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
+    "originalUrl": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
+    "publishedAt": "2026-10-17T22:54:25.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.155Z",
+    "rawDescription": "Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning states. He rallied in Tampa for Ms. Nixon, the underdog Democratic nominee for Florida Senate.",
+    "contentSnippet": "Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning states. He rallied in Tampa for Ms. Nixon, the underdog Democratic nominee for Florida Senate.",
+    "summaryZh": "基于标题/摘要生成：Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning states. He rallied in Tampa for Ms. Nixon，the underdog Democrat…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "ng states. He rallied in Tampa for Ms. Nixon, the underdog Democratic nominee for Florida Senate. Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning st"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qknd3m",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump's Russia waiver draws instant bipartisan backlash",
+    "chineseTitle": "Trump's Russia waiver draws instant bipartisan backlash",
+    "originalUrl": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
+    "publishedAt": "2026-10-17T19:18:15.000Z",
+    "fetchedAt": "2026-10-18T00:43:56.953Z",
+    "rawDescription": "Top Republicans and Democrats alike lined up Saturday to condemn President Trump 's decision to waive recent sanctions on Russia , calling it \"irresponsible\" and \"a deal with the devil.\" Why it matters : Trump already faces a bipartisan effort to overturn his Russian diesel deal when Congress returns after the election. Now he may have to deal with even broader outrage over sanctions Congress approved just a month ago. Driving the news: Late Friday night, Trump issued an executive order waiving implementation of the Lindsey O. Graham Sanctioning Russia and Iran Act, which he signed in September. The act would have imposed broad sanctions not only on Russia, but on other countries buying its oil. What they're saying: Democrats forcefully criticized Trump's decision. \"By giving the Russian…",
+    "contentSnippet": "Top Republicans and Democrats alike lined up Saturday to condemn President Trump 's decision to waive recent sanctions on Russia , calling it \"irresponsible\" and \"a deal with the devil.\" Why it matters : Trump already faces a bipartisan effort to overturn his Russian diesel deal when Congress returns after the election. Now he may have to deal with even broader outrage over sanctions Congress approved just a month ago. Driving the news: Late Friday night, Trump issued an executive order waiving implementation of the Lindsey O. Graham Sanctioning Russia and Iran Act, which he signed in September. The act would have imposed broad sanctions not only on Russia, but on other countries buying its oil. What they're saying: Democrats forcefully criticized Trump's decision. \"By giving the Russian…",
+    "summaryZh": "基于标题/摘要生成：Top 共和党人 and 民主党人 alike lined up Saturday to condemn President Trump 's decision to waive recent sanctions on Russia，calling it \"irresponsible\" and \"…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump's Russia waiver draws instant bipartisan backlash Ben Berkowitz Top Republicans and Democ"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Russia waiver draws instant bipartisan backlash Ben Berkowitz Top Republicans and Democ"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Russia waiver draws instant bipartisan backlash Ben Berkowitz Top Republicans and Democrats alike lined up Saturday to condemn President Trump 's decision to waive recent sanctions"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Russia waiver draws instant bipartisan backlash Ben Berkowitz Top Republicans and Democrats alike lined up Saturday to condemn President Trump 's decision to waive rec"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "atters : Trump already faces a bipartisan effort to overturn his Russian diesel deal when Congress returns after the election. Now he may have to deal with even broader outrage over sancti"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "Congress Trump"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jtajp4",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Zelensky says Ukraine is &#039;ready to negotiate&#039;",
+    "chineseTitle": "Zelensky says Ukraine is &#039;ready to negotiate&#039;",
+    "originalUrl": "https://thehill.com/policy/international/6156034-zelensky-open-us-negotiations/",
+    "publishedAt": "2026-10-17T18:46:21.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.020Z",
+    "rawDescription": "Ukrainian President Volodymyr Zelensky on Saturday expressed his openness to engaging in U.S.-led negotiations to end the yearslong Russia-Ukraine war after President Trump placed a hold on Russian sanctions days before they were set to go into effect. “The American negotiating track will continue,” Zelensky wrote on the social platform X. “We’re counting on them...",
+    "contentSnippet": "Ukrainian President Volodymyr Zelensky on Saturday expressed his openness to engaging in U.S.-led negotiations to end the yearslong Russia-Ukraine war after President Trump placed a hold on Russian sanctions days before they were set to go into effect. “The American negotiating track will continue,” Zelensky wrote on the social platform X. “We’re counting on them...",
+    "summaryZh": "基于标题/摘要生成：Ukrainian President Volodymyr Zelensky on Saturday expressed his openness to engaging in U.S.-led negotiations to end the yearslong Russia-Ukraine wa…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "engaging in U.S.-led negotiations to end the yearslong Russia-Ukraine war after President Trump placed a hold on Russian sanctions days before they were set to go into effect. “The Amer"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "engaging in U.S.-led negotiations to end the yearslong Russia-Ukraine war after President Trump placed a hold on Russian sanctions days before they were set to go into effect. \"The Amer"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1ic0t7",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "'Moderate' AG's office turned to groups that spent years suing prisons for recruiting help: emails reveal",
+    "chineseTitle": "'Moderate' AG's office turned to groups that spent years…",
+    "originalUrl": "https://www.foxnews.com/politics/moderate-ags-office-turned-groups-spent-years-suing-prisons-recruiting-help-emails-reveal",
+    "publishedAt": "2026-10-17T17:00:58.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.125Z",
+    "rawDescription": "Kris Mayes rejected defund the police calls, but emails show her Arizona AG office asked the ACLU to help recruit key corrections attorneys.",
+    "contentSnippet": "Kris Mayes rejected defund the police calls, but emails show her Arizona AG office asked the ACLU to help recruit key corrections attorneys.",
+    "summaryZh": "基于标题/摘要生成：Kris Mayes rejected defund the police calls，but emails show her Arizona AG office asked the ACLU to help recruit key corrections attorneys",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eootva",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Fight to Control Congress",
+    "chineseTitle": "The Fight to Control 美国国会",
+    "originalUrl": "https://www.theatlantic.com/national/2026/10/fight-to-control-congress-washington-week/689050/",
+    "publishedAt": "2026-10-17T16:27:37.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.195Z",
+    "rawDescription": "Panelists discuss the midterm elections in a special edition of Washington Week With The Atlantic in Austin, Texas.",
+    "contentSnippet": "Panelists discuss the midterm elections in a special edition of Washington Week With The Atlantic in Austin, Texas.",
+    "summaryZh": "基于标题/摘要生成：Panelists discuss the midterm elections in a special edition of Washington Week With The Atlantic in Austin，Texas",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "The Fight to Control Congress The Editors Panelists discuss the midterm elections in a special edition of Washington We"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_njj9km",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump’s election fraud task force is going after the people who investigated him",
+    "chineseTitle": "Trump’s 选举 fraud task force is going after the people who…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2ZGc1NIWVAyLXYyZGFKSDBNWUZQb3R6V2x0Q1Ffem00OFBfaHlId3d1dUpkNE9CejlwYS1yRG1ycUUtNk1XSU5iekJlVWtjZlRvTmRvZUpiS3V1ZDUwSUZZdDFOQmE5YkNtX2x4S2JZRFZOZWtqNlpuUU1Nc09oMEwtV3hqaC1UN29aWFU4M3ZBQl9DbEt2SUVjUkV4cWJWLWZYQjN2RS1KYnRLN3RlbG5OcHBFUUZtZkFraUx0U25iTnN5Wmc?oc=5",
+    "publishedAt": "2026-10-17T16:00:00.000Z",
+    "fetchedAt": "2026-10-18T00:44:23.285Z",
+    "rawDescription": "Trump’s election fraud task force is going after the people who investigated him The Washington Post",
+    "contentSnippet": "Trump’s election fraud task force is going after the people who investigated him The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump’s 选举 fraud task force is going after the people who investigated him The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s election fraud task force is going after the people who investigated him Trump’s elect"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's election fraud task force is going after the people who investigated him Trump's electi"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\"",
+      "\"Donald Trump\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_e5148p",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘Is this like a hit piece or what?': Dan Sullivan's MAGA balancing act",
+    "chineseTitle": "‘Is this like a hit piece or what?'：Dan Sullivan's MAGA b…",
+    "originalUrl": "https://www.politico.com/news/2026/10/17/alaska-senate-sullivan-trump-peltola-01125231",
+    "publishedAt": "2026-10-17T14:45:00.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.072Z",
+    "rawDescription": "The senator in an interview with POLITICO declined to put distance between himself and President Donald Trump.",
+    "contentSnippet": "The senator in an interview with POLITICO declined to put distance between himself and President Donald Trump.",
+    "summaryZh": "基于标题/摘要生成：The senator in an interview with POLITICO declined to put distance between himself and President 特朗普",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ator in an interview with POLITICO declined to put distance between himself and President Donald Trump. The senator in an interview with POLITICO declined to put distance between himself and P"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "an interview with POLITICO declined to put distance between himself and President Donald Trump. The senator in an interview with POLITICO declined to put distance between himself and P"
+      },
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "‘Is this like a hit piece or what?': Dan Sullivan's MAGA balancing act By Irie Sentner The senator in an interview with POLITICO declined t"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ator in an interview with POLITICO declined to put distance between himself and President Donald Trump. The senator in an interview with POLITICO declined to put distance between himself and P"
+      },
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "'Is this like a hit piece or what?': Dan Sullivan's MAGA balancing act By Irie Sentner The senator in an interview with POLITICO declined t"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Jake Sullivan",
+      "Politico",
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "\"Democratic Party\" Trump",
+      "\"Republican Party\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xwcytk",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Zelensky says Russian sanctions Trump waived &#039;could have helped enormously&#039;",
+    "chineseTitle": "Zelensky says Russian sanctions Trump waived &#039;could…",
+    "originalUrl": "https://thehill.com/policy/international/6155800-zelensky-condemns-trump-russia-sanctions-waiver/",
+    "publishedAt": "2026-10-17T14:08:22.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.021Z",
+    "rawDescription": "Ukrainian President Volodymyr Zelensky decried President Trump’s late-night decision to waive sanctions and tariffs against Russia days before they were set to take effect under a new law. “At a time when the Russians have carried out such a massive attack on our energy sector, a decision was unfortunately made in America to completely disregard...",
+    "contentSnippet": "Ukrainian President Volodymyr Zelensky decried President Trump’s late-night decision to waive sanctions and tariffs against Russia days before they were set to take effect under a new law. “At a time when the Russians have carried out such a massive attack on our energy sector, a decision was unfortunately made in America to completely disregard...",
+    "summaryZh": "基于标题/摘要生成：Ukrainian President Volodymyr Zelensky decried President Trump’s late-night decision to waive sanctions and 关税 against Russia days before they were s…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Zelensky says Russian sanctions Trump waived &#039;could have helped enormously&#039; Sarah Davis Ukrainian President Volodymyr"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Zelensky says Russian sanctions Trump waived &#039;could have helped enormously&#039; Sarah Davis Ukrainian President Volodymyr"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vc93mb",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Not all Republicans want to show Trump off",
+    "chineseTitle": "Not all 共和党人 want to show Trump off",
+    "originalUrl": "https://www.politico.com/news/2026/10/17/trump-candidates-ads-midterms-01124957",
+    "publishedAt": "2026-10-17T14:00:00.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.073Z",
+    "rawDescription": "GOP candidates are avoiding talking about Trump in their ads, including in deep-red districts where they used to feature him. Some don’t even want to join him at events.",
+    "contentSnippet": "GOP candidates are avoiding talking about Trump in their ads, including in deep-red districts where they used to feature him. Some don’t even want to join him at events.",
+    "summaryZh": "基于标题/摘要生成：GOP candidates are avoiding talking about Trump in their ads，including in deep-red districts where they used to feature him. Some don’t even want to…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Not all Republicans want to show Trump off By Jessica Piper, Jason Beeferman and Meredith Lee Hill GOP candidates are avoiding t"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Not all Republicans want to show Trump off By Jessica Piper, Jason Beeferman and Meredith Lee Hill GOP candidates are avoiding t"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Not all Republicans want to show Trump off By Jessica Piper, Jason Beeferman and Meredith Lee Hill GOP candid"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dassei",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Another Battle Between the Catholic Church and the Trump Administration",
+    "chineseTitle": "Another Battle Between the Catholic Church and the Trump…",
+    "originalUrl": "https://www.theatlantic.com/culture/2026/10/catholic-church-sacraments/689063/",
+    "publishedAt": "2026-10-17T12:00:00.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.196Z",
+    "rawDescription": "The Church has fought the government multiple times to ensure that detained migrants have access to sacraments.",
+    "contentSnippet": "The Church has fought the government multiple times to ensure that detained migrants have access to sacraments.",
+    "summaryZh": "基于标题/摘要生成：The Church has fought the government multiple times to ensure that detained migrants have access to sacraments",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Another Battle Between the Catholic Church and the Trump Administration Luis Parrales The Church has fought the government multiple times to ensur"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Another Battle Between the Catholic Church and the Trump Administration Luis Parrales The Church has fought the government multiple times to ensur"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Another Battle Between the Catholic Church and the Trump Administration Luis Parrales The Church has fought the government multiple times to ensure that detained"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dru8st",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How This Year’s Economics Nobel Winners Shaped the World",
+    "chineseTitle": "How This Year’s Economics Nobel Winners Shaped the World",
+    "originalUrl": "https://foreignpolicy.com/2026/10/16/economics-nobel-central-banks-fed-warsh-woodford-hall/",
+    "publishedAt": "2026-10-16T20:05:43.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.185Z",
+    "rawDescription": "The work of Michael Woodford and Robert Hall laid the groundwork for today’s central bankers.",
+    "contentSnippet": "The work of Michael Woodford and Robert Hall laid the groundwork for today’s central bankers.",
+    "summaryZh": "基于标题/摘要生成：The work of Michael Woodford and Robert Hall laid the groundwork for today’s central bankers",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rwyq37",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Axis of Upheaval Goes to War",
+    "chineseTitle": "The Axis of Upheaval Goes to War",
+    "originalUrl": "https://www.foreignaffairs.com/iran/axis-upheaval-goes-war",
+    "publishedAt": "2026-10-16T08:00:00.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.000Z",
+    "rawDescription": "Andrea Kendall-Taylor and Richard Fontaine, former members of the National Security Council, argue that the members of what they call the “axis of upheaval”—Russia, China, Iran, and North Korea—are deepening their cooperation. Meanwhile, Washington is creating friction with many of its own partnerships. If these developments continue unabated, the United States will squander the strength of its network just as its adversaries learn to make the most of theirs.",
+    "contentSnippet": "Andrea Kendall-Taylor and Richard Fontaine, former members of the National Security Council, argue that the members of what they call the “axis of upheaval”—Russia, China, Iran, and North Korea—are deepening their cooperation. Meanwhile, Washington is creating friction with many of its own partnerships. If these developments continue unabated, the United States will squander the strength of its network just as its adversaries learn to make the most of theirs.",
+    "summaryZh": "基于标题/摘要生成：Andrea Kendall-Taylor and Richard Fontaine，former members of the 国家安全 Council，argue that the members of what they call the “axis of upheaval”—Russia，…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ujgmmz",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Nuclear Deal That Could Save NATO",
+    "chineseTitle": "The Nuclear Deal That Could Save NATO",
+    "originalUrl": "https://www.foreignaffairs.com/europe/nuclear-deal-could-save-nato",
+    "publishedAt": "2026-10-16T08:00:00.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.003Z",
+    "rawDescription": "Former U.S. NATO ambassador Ivo Daalder argues that the scramble to shore up Europe's conventional defense risks overlooking the continent's greatest security weakness: nuclear deterrence. Europe knows it can't fully trust Washington's guarantee anymore. But he lays out a middle path between dependence and nuclearization that would extend France's and the United Kingdom's nuclear umbrella—a course, he argues, that could even repair the transatlantic alliance.",
+    "contentSnippet": "Former U.S. NATO ambassador Ivo Daalder argues that the scramble to shore up Europe's conventional defense risks overlooking the continent's greatest security weakness: nuclear deterrence. Europe knows it can't fully trust Washington's guarantee anymore. But he lays out a middle path between dependence and nuclearization that would extend France's and the United Kingdom's nuclear umbrella—a course, he argues, that could even repair the transatlantic alliance.",
+    "summaryZh": "基于标题/摘要生成：Former U.S. NATO ambassador Ivo Daalder argues that the scramble to shore up Europe's conventional defense risks overlooking the continent's greatest…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g325qd",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump’s Truth Social faces a sharp decline in traffic",
+    "chineseTitle": "Trump’s Truth Social faces a sharp decline in traffic",
+    "originalUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWhzVnloQTBYeUEyN1hsa3U4MEwyX1lseXFEams0VUkxSzQ4UVIyVFI5VjJmNVNMYXVabGFBX3VJN01JRHJrMGYtWDQ3ZjE4ZHJFQVZPeU4zSWZ2aWxNN3lERFBmM0FLVzFCeVIxV2w5Z0dodm44eHBzbTZyc3hSa2RMMjAxWHl5SktjSEJ3Y1JQZFAtZXBUcDVlX2RRcFdM?oc=5",
+    "publishedAt": "2026-10-16T00:43:03.000Z",
+    "fetchedAt": "2026-10-18T00:44:23.277Z",
+    "rawDescription": "Trump’s Truth Social faces a sharp decline in traffic The Washington Post",
+    "contentSnippet": "Trump’s Truth Social faces a sharp decline in traffic The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump’s Truth Social faces a sharp decline in traffic The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Truth Social faces a sharp decline in traffic Trump’s Truth Social faces a sharp decli"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Truth Social faces a sharp decline in traffic Trump's Truth Social faces a sharp declin"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Trump's Truth Social faces a sharp decline in traffic Trump's Truth Social faces a sharp decline in traffic Th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\"",
+      "\"Truth Social\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cu227i",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Tale of Two Elon Musk Fights",
+    "chineseTitle": "A Tale of Two Elon Musk Fights",
+    "originalUrl": "https://foreignpolicy.com/2026/10/15/elon-musk-india-ukraine-starlink/",
+    "publishedAt": "2026-10-15T21:46:09.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.189Z",
+    "rawDescription": "Musk and his Starlink internet service face geopolitical pressures in Ukraine and India.",
+    "contentSnippet": "Musk and his Starlink internet service face geopolitical pressures in Ukraine and India.",
+    "summaryZh": "基于标题/摘要生成：Musk and his Starlink internet service face geopolitical pressures in Ukraine and India",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_piv1n5",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44d2wtdjdraW1LNm52RDB2OFdyeHMyVkZNV1VGQ1d1TDhtYW9GM2RHcFp2QzdZeDhRZ1BQT0tPNDREbG1RZTNGcFFjNUZ0bE1ucTVubDlxczJnVGZ1NnFXa2RDTGd4aVk0dkRaNk9jMUd3V28?oc=5",
+    "publishedAt": "2026-10-13T05:43:47.000Z",
+    "fetchedAt": "2026-10-18T00:44:23.745Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_crna9l",
+    "sourceName": "Fox News",
+    "sourceDomain": "noticias.foxnews.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+    "chineseTitle": "Inside Israel's plot to kill Hezbollah chief as Netanyahu…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlJzTGJYUmI4bW96NU5TeXFpNk5obUNBQnltUFFPSGp2SkgxZ0NnekJrNmhkTEdmZF9feTh4U3A4NUhqWFZ5azlhYXp1WlJmZzJaVmgyakRBVzBiSGhKaGtyZzFHUXIybUlQbDBXUEFqN1NhYVB2Y184S1BJakYtY1MtbmgwMk5ESHp3ZjdyWDVqMGhjRVBETjg2eGVXZmwzMWVmZ0RrTk4zdXI0NE5DQVpiaDR5Q0tJanpZd3NpaG55cEwyT3c?oc=5",
+    "publishedAt": "2026-10-11T10:00:18.000Z",
+    "fetchedAt": "2026-10-18T00:44:23.329Z",
+    "rawDescription": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Fox News",
+    "contentSnippet": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Fox News",
+    "summaryZh": "基于标题/摘要生成：Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Fox News",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Inside Israel's plot to kill Hezbollah chief as Netany"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Inside Israel's plot to kill Hezbollah chief as Netanya"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Jake Sullivan"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Jake Sullivan\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5a7k8b",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "This is the woman who received the Nobel Peace Prize over the Great United States of America, whose Representative, ME, settled eight Wars, and many other things. I know nothing about this woman, and neither does anyone else! In fact, to the best of my kn",
+    "chineseTitle": "This is the woman who received the Nobel Peace Prize over…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tWXR5cm9hZ1NZR2ZhNl9ZazdMQ1Y1ZGRoNWxWM3l5X19nQ0Z1bW5DeHRiV19YODVaSHV5aWpEaExFb001dGxxbHlnQ2VWU2xIVFYwSkp4YktFNXBYN2d1bUNEZmlOb0NFU1VRY0p3WEhRTGM?oc=5",
+    "publishedAt": "2026-10-07T16:15:39.000Z",
+    "fetchedAt": "2026-10-18T00:44:23.747Z",
+    "rawDescription": "This is the woman who received the Nobel Peace Prize over the Great United States of America, whose Representative, ME, settled eight Wars, and many other things. I know nothing about this woman, and neither does anyone else! In fact, to the best of my kn Truth Social",
+    "contentSnippet": "This is the woman who received the Nobel Peace Prize over the Great United States of America, whose Representative, ME, settled eight Wars, and many other things. I know nothing about this woman, and neither does anyone else! In fact, to the best of my kn Truth Social",
+    "summaryZh": "基于标题/摘要生成：This is the woman who received the Nobel Peace Prize over the Great United States of America，whose Representative，ME，settled eight Wars，and many othe…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "now nothing about this woman, and neither does anyone else! In fact, to the best of my kn Truth Social This is the woman who received the Nobel Peace Prize over the Great United States of Amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eq94lq",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "chineseTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9vOFhldnRQS1prUUkyYUdLcjBuczcyelBUWkI0emJmT085WmhVSHgxbkl6Zjk2MDZNVFJ6aVlVUW5EWGNta0dDTUxlTW5RdjJvNDZQTzQwbDFMR0ZwODRYWTBTOS16UERWemc3YXVxY1QtQmRSNUZzOWg5UV8zVFRPTDRTVC1w?oc=5",
+    "publishedAt": "2026-10-06T22:51:57.000Z",
+    "fetchedAt": "2026-10-18T00:44:23.279Z",
+    "rawDescription": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "contentSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com Robert Wilkie"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-10-18T00:44:23.279Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-10-18T00:44:01.118Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.269Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.270Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-18T00:44:01.117Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.143Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-18T00:43:57.141Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
