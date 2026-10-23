@@ -1,0 +1,1803 @@
+[
+  {
+    "id": "art_kmc3dl",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate",
+    "chineseTitle": "Trump pushback，Biden 'disaster' and gender surprise：5 key…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate",
+    "publishedAt": "2026-10-23T10:00:04.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.199Z",
+    "rawDescription": "Republican Sen. Roger Marshall and Democrat Adam Hamilton clashed over Trump, transgender athletes and AI in a heated Kansas Senate debate on Wednesday.",
+    "contentSnippet": "Republican Sen. Roger Marshall and Democrat Adam Hamilton clashed over Trump, transgender athletes and AI in a heated Kansas Senate debate on Wednesday.",
+    "summaryZh": "基于标题/摘要生成：Republican Sen. Roger Marshall and Democrat Adam Hamilton clashed over Trump，transgender athletes and AI in a heated Kansas 参议院 debate on Wednesday",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate Republican Sen."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate R"
+      },
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate Republican Sen. R"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Trump pushback, Biden 'disaster' and gender surprise: 5 key moments from Kansas Senate debate Republican Sen. Roger Marshall and Democrat Adam Hamilton clashed over Trump, tran"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Joe Biden",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5g49n",
+    "sourceName": "Truth Social",
+    "sourceDomain": "oann.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Trump announces the return of American who was jailed by Russia during Biden admin .",
+    "chineseTitle": "Trump announces the return of American who was jailed",
+    "originalUrl": "https://www.oann.com/newsroom/trump-announces-the-return-of-american-who-was-jailed-by-russia-during-biden-admin/",
+    "publishedAt": "2026-10-23T01:23:45.177Z",
+    "fetchedAt": "2026-10-23T01:23:45.181Z",
+    "rawDescription": "",
+    "contentSnippet": "Trump announces the return of American who was jailed by Russia during Biden admin .",
+    "summaryZh": "基于标题/摘要生成：Trump announces the return of American who was jailed",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump announces the return of American who was jailed by Russia during Biden admin . Trump an"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Trump announces the return of American who was jailed by Russia during Biden admin . Trump announces the return of American who was jailed by Russia during Biden ad"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump announces the return of American who was jailed by Russia during Biden admin . Trump anno"
+      },
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "Trump announces the return of American who was jailed by Russia during Biden admin . Trump announces the return of American who was jailed by Russia during Biden admi"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Joe Biden",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_554h9y",
+    "sourceName": "Truth Social",
+    "sourceDomain": "cbc.ca",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Trump walks back threat to ban Bombardier sales in the U . S .",
+    "chineseTitle": "Trump walks back threat to ban Bombardier sales in the U…",
+    "originalUrl": "https://www.cbc.ca/news/world/trump-bombardier-threat-9.7389332",
+    "publishedAt": "2026-10-23T01:23:45.177Z",
+    "fetchedAt": "2026-10-23T01:23:45.183Z",
+    "rawDescription": "",
+    "contentSnippet": "Trump walks back threat to ban Bombardier sales in the U . S .",
+    "summaryZh": "基于标题/摘要生成：Trump walks back threat to ban Bombardier sales in the U . S",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump walks back threat to ban Bombardier sales in the U . S . Trump walks back threat to ban"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump walks back threat to ban Bombardier sales in the U . S . Trump walks back threat to ban B"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ttewlf",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race",
+    "chineseTitle": "Pete Ricketts’s Wealth Puts Class at the Center of Nebras…",
+    "originalUrl": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html",
+    "publishedAt": "2026-10-23T01:04:07.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.231Z",
+    "rawDescription": "In a year when the wealth of the rich soared while workers lost ground to inflation, class has become political, especially in the Nebraska Senate race.",
+    "contentSnippet": "In a year when the wealth of the rich soared while workers lost ground to inflation, class has become political, especially in the Nebraska Senate race.",
+    "summaryZh": "基于标题/摘要生成：In a year when the wealth of the rich soared while workers lost ground to inflation，class has become political，especially in the Nebraska 参议院 race",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Pete Ricketts's Wealth Puts Class at the Center of Nebraska's Senate Race Emma Schartz In a year when the wealth of the rich soared while workers lost ground"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jpmccu",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
+    "chineseTitle": "Trump Asked Musk to Reverse Limits on Ukraine’s Military…",
+    "originalUrl": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+    "publishedAt": "2026-10-23T00:54:47.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.232Z",
+    "rawDescription": "The call from the president about the Starshield network came after officials in Ukraine reported that they found new limits on the use of military drones in their war against Russia.",
+    "contentSnippet": "The call from the president about the Starshield network came after officials in Ukraine reported that they found new limits on the use of military drones in their war against Russia.",
+    "summaryZh": "基于标题/摘要生成：The call from the president about the Starshield network came after officials in Ukraine reported that they found new limits on the use of military d…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use Michael Crowley, Maggie H"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Asked Musk to Reverse Limits on Ukraine's Military Internet Use Michael Crowley, Maggie H"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6est12",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Airbnb says guests shouldn’t have to do the dishes anymore",
+    "chineseTitle": "Airbnb says guests shouldn’t have to do the dishes anymore",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/22/lifestyle/airbnb-chores-restrictions-guests-hosts/",
+    "publishedAt": "2026-10-23T00:43:41.904Z",
+    "fetchedAt": "2026-10-23T01:20:22.635Z",
+    "rawDescription": "公开 sitemap 条目：Airbnb says guests shouldn’t have to do the dishes anymore",
+    "contentSnippet": "公开 sitemap 条目：Airbnb says guests shouldn’t have to do the dishes anymore",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Airbnb says guests shouldn’t have to do the dishes anymore",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2hqwli",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "AI is embedded in your election experience. So are its dangers.",
+    "chineseTitle": "AI is embedded in your 选举 experience. So are its dangers",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/22/nation/midterm-elections-ai-dangers/",
+    "publishedAt": "2026-10-23T00:42:17.601Z",
+    "fetchedAt": "2026-10-23T01:20:22.635Z",
+    "rawDescription": "公开 sitemap 条目：AI is embedded in your election experience. So are its dangers.",
+    "contentSnippet": "公开 sitemap 条目：AI is embedded in your election experience. So are its dangers.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：AI is embedded in your 选举 experience. So are its dangers",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4wa17v",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Canadian diplomats barred interacting with US midterm candidates: Reports",
+    "chineseTitle": "Canadian diplomats barred interacting with US midterm can…",
+    "originalUrl": "https://thehill.com/policy/international/6166951-canada-diplomats-barred-american-midterm-candidates/",
+    "publishedAt": "2026-10-22T23:37:06.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.085Z",
+    "rawDescription": "Canada has allegedly barred its diplomats from interacting with U.S. midterm candidates to avoid any allegations of election interference from the Trump administration, according to multiple reports. Written guidance issued earlier this week reportedly ordered Canadian officials based in the U.S. not to meet with candidates — or even be in the same room with...",
+    "contentSnippet": "Canada has allegedly barred its diplomats from interacting with U.S. midterm candidates to avoid any allegations of election interference from the Trump administration, according to multiple reports. Written guidance issued earlier this week reportedly ordered Canadian officials based in the U.S. not to meet with candidates — or even be in the same room with...",
+    "summaryZh": "基于标题/摘要生成：Canada has allegedly barred its diplomats from interacting with U.S. midterm candidates to avoid any allegations of 选举 interference from the Trump ad…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "g with U.S. midterm candidates to avoid any allegations of election interference from the Trump administration, according to multiple reports. Written guidance issued earlier this week"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "g with U.S. midterm candidates to avoid any allegations of election interference from the Trump administration, according to multiple reports. Written guidance issued earlier this week"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "g with U.S. midterm candidates to avoid any allegations of election interference from the Trump administration, according to multiple reports. Written guidance issued earlier this week reportedly orde"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_j8l2ny",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit",
+    "chineseTitle": "NYC votes to end nearly 170-year-old horse carriage tradi…",
+    "originalUrl": "https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit",
+    "publishedAt": "2026-10-22T23:32:56.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.200Z",
+    "rawDescription": "The Transport Workers Union threatened federal court action after the New York City Council voted 40-7 to ban horse-drawn carriages by June 2028.",
+    "contentSnippet": "The Transport Workers Union threatened federal court action after the New York City Council voted 40-7 to ban horse-drawn carriages by June 2028.",
+    "summaryZh": "基于标题/摘要生成：The Transport Workers Union threatened federal court action after the New York City Council voted 40-7 to ban horse-drawn carriages 2028",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit The Transport Workers Union threatened federal cour"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit The Transport Workers Union threatened federal court"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gtn81e",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scoop: Some Freedom Caucus members want Brandon Gill out",
+    "chineseTitle": "Scoop：Some Freedom Caucus members want Brandon Gill out",
+    "originalUrl": "https://www.axios.com/2026/10/22/texas-brandon-gill-freedom-caucus-house-republican",
+    "publishedAt": "2026-10-22T22:57:22.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.009Z",
+    "rawDescription": "A small group of Rep. Brandon Gill's fellow House Freedom Caucus members are privately questioning whether he still belongs in the hardline group, Axios has learned. Why it matters: The 32-year-old Texas freshman's rapid rise through House Republican ranks has transformed him into one of the party's most prominent young stars — and earned him a growing list of critics. Driving the news: Multiple House Republicans told Axios that Gill is the future of their party, but several Freedom Caucus members told Axios that his engagement with the group has faded as his national profile has grown. The lawmakers spoke on condition of anonymity to offer candid assessments of a colleague. \"He's not really in the Freedom Caucus. He's just using it for conservative bonafides,\" one HFC member told Axios.…",
+    "contentSnippet": "A small group of Rep. Brandon Gill's fellow House Freedom Caucus members are privately questioning whether he still belongs in the hardline group, Axios has learned. Why it matters: The 32-year-old Texas freshman's rapid rise through House Republican ranks has transformed him into one of the party's most prominent young stars — and earned him a growing list of critics. Driving the news: Multiple House Republicans told Axios that Gill is the future of their party, but several Freedom Caucus members told Axios that his engagement with the group has faded as his national profile has grown. The lawmakers spoke on condition of anonymity to offer candid assessments of a colleague. \"He's not really in the Freedom Caucus. He's just using it for conservative bonafides,\" one HFC member told Axios.…",
+    "summaryZh": "基于标题/摘要生成：A small group of Rep. Brandon Gill's fellow 众议院 Freedom Caucus members are privately questioning whether he still belongs in the hardline group，Axios…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "young stars — and earned him a growing list of critics. Driving the news: Multiple House Republicans told Axios that Gill is the future of their party, but several Freedom Caucus members tol"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qah6ko",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House Democrats demand answers from CDC on African hepatitis B study",
+    "chineseTitle": "众议院 民主党人 demand answers from CDC on African hepatitis B s…",
+    "originalUrl": "https://thehill.com/policy/healthcare/6166854-cdc-hepatitis-b-vaccine-trial-rfk-hhs/",
+    "publishedAt": "2026-10-22T22:03:54.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.087Z",
+    "rawDescription": "Top Democrats on the House Energy and Commerce Committee demanded answers Thursday from the Centers for Disease Control and Prevention (CDC) about the agency’s funding of a controversial hepatitis B clinical trial in Guinea-Bissau. The CDC awarded $1.6 million last year to Danish researchers to conduct the study in Guinea-Bissau, a small country in West...",
+    "contentSnippet": "Top Democrats on the House Energy and Commerce Committee demanded answers Thursday from the Centers for Disease Control and Prevention (CDC) about the agency’s funding of a controversial hepatitis B clinical trial in Guinea-Bissau. The CDC awarded $1.6 million last year to Danish researchers to conduct the study in Guinea-Bissau, a small country in West...",
+    "summaryZh": "基于标题/摘要生成：Top 民主党人 on the 众议院 Energy and Commerce Committee demanded answers Thursday from the Centers for Disease Control and Prevention (CDC) about the agenc…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "House Democrats demand answers from CDC on African hepatitis B study Nathaniel Weixel Top Democrats on th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-house https://thehill.com/homenews/house/feed/",
+      "the-hill https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wpmh77",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats’ top Senate super PAC has raised $354M this year",
+    "chineseTitle": "民主党人’ top 参议院 super PAC has raised $354M this year",
+    "originalUrl": "https://www.politico.com/live-updates/2026/10/22/congress/senate-dems-big-haul-01132834",
+    "publishedAt": "2026-10-22T22:00:00.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.141Z",
+    "rawDescription": "The figure is a record for the group and includes roughly $88 million in the first two weeks of October.",
+    "contentSnippet": "The figure is a record for the group and includes roughly $88 million in the first two weeks of October.",
+    "summaryZh": "基于标题/摘要生成：The figure is a record for the group and includes roughly $88 million in the first two weeks of October",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats' top Senate super PAC has raised $354M this year By Andrew Howard The figure is a record"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Democrats' top Senate super PAC has raised $354M this year By Andrew Howard The figure is a record for the grou"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "politico-congress https://rss.politico.com/congress.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_63ffrx",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Airlines' new normal: Higher fares, fewer flights",
+    "chineseTitle": "Airlines' new normal：Higher fares，fewer flights",
+    "originalUrl": "https://www.axios.com/2026/10/22/airline-prices-fuel-costs",
+    "publishedAt": "2026-10-22T21:49:30.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.012Z",
+    "rawDescription": "That wince you just made while researching travel options? Get used to it. Why it matters: Soaring jet fuel prices are accelerating changes across the airline industry, seen in higher fares, premium-heavy cabins and fewer flight options for travelers. Airfares rose 22% year over year in September, marking a 10th straight monthly increase in the government's airfare price index , which hit an all-time high. State of play: All the major airlines are feeling the pain: American Airlines reported today that its fuel bill jumped nearly 70% in the third quarter from a year ago, adding $1.9 billion in costs and undercutting its revenue growth. Southwest and United Airlines both slashed their profit forecasts this week on higher fuel costs. And Delta Air Lines expects its fuel bill this year to co…",
+    "contentSnippet": "That wince you just made while researching travel options? Get used to it. Why it matters: Soaring jet fuel prices are accelerating changes across the airline industry, seen in higher fares, premium-heavy cabins and fewer flight options for travelers. Airfares rose 22% year over year in September, marking a 10th straight monthly increase in the government's airfare price index , which hit an all-time high. State of play: All the major airlines are feeling the pain: American Airlines reported today that its fuel bill jumped nearly 70% in the third quarter from a year ago, adding $1.9 billion in costs and undercutting its revenue growth. Southwest and United Airlines both slashed their profit forecasts this week on higher fuel costs. And Delta Air Lines expects its fuel bill this year to co…",
+    "summaryZh": "基于标题/摘要生成：That wince you just made while researching travel options? Get used to it. Why it matters：Soaring jet fuel prices are accelerating changes across the…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xtuefg",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Gamble to End the Iran War",
+    "chineseTitle": "Trump’s Gamble to End the Iran War",
+    "originalUrl": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
+    "publishedAt": "2026-10-22T21:41:50.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.276Z",
+    "rawDescription": "The president is considering another escalation in the Middle East.",
+    "contentSnippet": "The president is considering another escalation in the Middle East.",
+    "summaryZh": "基于标题/摘要生成：The president is considering another escalation in the Middle East",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Gamble to End the Iran War The president is considering another escalation in the Midd"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Gamble to End the Iran War The president is considering another escalation in the Middl"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_byfzif",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Hegseth Could Face Impeachment if Democrats Win in November",
+    "chineseTitle": "Hegseth Could Face Impeachment if 民主党人 Win in November",
+    "originalUrl": "https://foreignpolicy.com/2026/10/22/hegseth-impeachment-democrats-win-november/",
+    "publishedAt": "2026-10-22T21:21:02.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.261Z",
+    "rawDescription": "One lawmaker lays out the case for indicting the defense secretary.",
+    "contentSnippet": "One lawmaker lays out the case for indicting the defense secretary.",
+    "summaryZh": "基于标题/摘要生成：One lawmaker lays out the case for indicting the defense secretary",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Hegseth Could Face Impeachment if Democrats Win in November Rachel Oswald One lawmaker lays out t"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Hegseth Could Face Impeachment if Democrats Win in November Rachel Oswald One lawmaker lays out t"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Hegseth Could Face Impeachment if Democrats Win in November Rachel Oswald One lawmaker lays out the case for indicting the defense se"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Pete Hegseth",
+      "Democratic Party",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_81x37s",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Puts His Faith in Putin",
+    "chineseTitle": "Trump Puts His Faith in Putin",
+    "originalUrl": "https://foreignpolicy.com/2026/10/22/trump-putin-russia-ukraine-peace-talks/",
+    "publishedAt": "2026-10-22T20:52:58.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.262Z",
+    "rawDescription": "Trump wants a foreign-policy win, but Moscow is unlikely to deliver.",
+    "contentSnippet": "Trump wants a foreign-policy win, but Moscow is unlikely to deliver.",
+    "summaryZh": "基于标题/摘要生成：Trump wants a foreign-政策 win，but Moscow is unlikely to deliver",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Puts His Faith in Putin John Haltiwanger Trump wants a foreign-policy win, but Moscow is"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Puts His Faith in Putin John Haltiwanger Trump wants a foreign-policy win, but Moscow is"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4qe7pa",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Hegseth wanted Eisenhower’s globe for his office. His staff broke it.",
+    "chineseTitle": "Hegseth wanted Eisenhower’s globe for his office. His sta…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQTE3MEhEbHVRX1Y2ekMzRmFXTHZTczlCTTRybW1yZUt1WG1hYzlzZ2pka3dhbkl2Q2o1SUhOY1h3RTdRTjJBczNRVlhOeGxwcUlNWk9XSEl3N2Z0MzZzZ0twak95eWV3YmhSREJoSjdKNVJaU3BVNjVJaGZCTG43WUV2UV9Pcy1KZmFhZ2pXbXBYTG1id0xPVmt1Rm9xTkRHTmVUd0Z1RnRpUTItamt2V1NaVFNTSlF1RnNjbzd6MlA?oc=5",
+    "publishedAt": "2026-10-22T20:44:50.000Z",
+    "fetchedAt": "2026-10-23T01:20:43.373Z",
+    "rawDescription": "Hegseth wanted Eisenhower’s globe for his office. His staff broke it. The Washington Post",
+    "contentSnippet": "Hegseth wanted Eisenhower’s globe for his office. His staff broke it. The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Hegseth wanted Eisenhower’s globe for his office. His staff broke it. The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Hegseth wanted Eisenhower’s globe for his office. His staff broke it. Hegseth wanted Eisenhower’"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Hegseth wanted Eisenhower's globe for his office. His staff broke it. Hegseth wanted Eisenhower's"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Pete Hegseth\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_19dy32",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Myth of Safe AI",
+    "chineseTitle": "The Myth of Safe AI",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/10/false-promise-of-safe-ai/689114/",
+    "publishedAt": "2026-10-22T19:12:03.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.278Z",
+    "rawDescription": "Silicon Valley promises to make AI benevolent. That may be technically impossible.",
+    "contentSnippet": "Silicon Valley promises to make AI benevolent. That may be technically impossible.",
+    "summaryZh": "基于标题/摘要生成：Silicon Valley promises to make AI benevolent. That may be technically impossible",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7ile8o",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The good, the bad and the unruly from over two dozen candidate debates",
+    "chineseTitle": "The good，the bad and the unruly from over two dozen candi…",
+    "originalUrl": "https://www.politico.com/news/2026/10/22/senate-governor-debates-midterms-takeaways-01131948",
+    "publishedAt": "2026-10-22T16:14:56.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.144Z",
+    "rawDescription": "POLITICO watched all the key Senate and gubernatorial debates so you didn’t have to",
+    "contentSnippet": "POLITICO watched all the key Senate and gubernatorial debates so you didn’t have to",
+    "summaryZh": "基于标题/摘要生成：POLITICO watched all the key 参议院 and gubernatorial debates so you didn’t have to",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "nruly from over two dozen candidate debates By Samuel Benson POLITICO watched all the key Senate and gubernatorial debates so you didn't have to POLITICO watched all the key Senate and g"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4fp7wm",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Hakeem Jeffries is poised to make history. His leadership style faces a test.",
+    "chineseTitle": "Hakeem Jeffries is poised to make history. His leadership…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRG0wamdfYk5TVk01c3dfRVJWVG1MU3Z3aHkxQkIxaDY5UjNvLUIyNWpibERrTXphU3V6T2NZLTFHRlYyWjJac0JicHByZWswLXVTV3Y5YnlWalZ2anFsdnNnNzNwMWMtTWJ4SEZEeFhiT0xQWWZxTUVFY3BGSGRTNU43bUF1VGV1QUFOU09DaTA5RUtLLXk0VndYTlZZUHhmRVVuNFFRRlVXN3oxMnNoVFRYeDBRYjB1VmdDVkxlYw?oc=5",
+    "publishedAt": "2026-10-22T16:00:00.000Z",
+    "fetchedAt": "2026-10-23T01:20:43.417Z",
+    "rawDescription": "Hakeem Jeffries is poised to make history. His leadership style faces a test. The Washington Post",
+    "contentSnippet": "Hakeem Jeffries is poised to make history. His leadership style faces a test. The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Hakeem Jeffries is poised to make history. His leadership style faces a test. The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "哈基姆·杰弗里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "hakeem-jeffries",
+        "nameEn": "Hakeem Jeffries",
+        "nameZh": "哈基姆·杰弗里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Hakeem Jeffries",
+        "confidence": "high",
+        "contextSnippet": "Hakeem Jeffries is poised to make history. His leadership style faces a test. Hakeem Jeffries is poised"
+      },
+      {
+        "personId": "hakeem-jeffries",
+        "nameEn": "Hakeem Jeffries",
+        "nameZh": "哈基姆·杰弗里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Jeffries",
+        "confidence": "low",
+        "contextSnippet": "Hakeem Jeffries is poised to make history. His leadership style faces a test. Hakeem Jeffries is poised"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "hakeem-jeffries",
+        "name": "Hakeem Jeffries",
+        "type": "person",
+        "matchedAlias": "Hakeem Jeffries",
+        "confidence": "high",
+        "contextSnippet": "Hakeem Jeffries is poised to make history. His leadership style faces a test. Hakeem Jeffries is poised t"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Hakeem Jeffries"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Hakeem Jeffries\"",
+      "\"Hakeem Jeffries\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dq9c75",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Brazil’s Economic Impasse",
+    "chineseTitle": "Brazil’s Economic Impasse",
+    "originalUrl": "https://www.foreignaffairs.com/brazil/brazils-economic-impasse",
+    "publishedAt": "2026-10-22T08:00:00.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.060Z",
+    "rawDescription": "Monica de Bolle, an expert in Brazilian economic policy, makes an authoritative argument that Brazil’s economic problems will persist no matter the outcome of the country’s presidential election. A Flávio Bolsonaro administration would fare no better than Lula when it comes to reducing debt and delivering growth—and Bolsonaro’s illiberal policies could make the economic picture even worse.",
+    "contentSnippet": "Monica de Bolle, an expert in Brazilian economic policy, makes an authoritative argument that Brazil’s economic problems will persist no matter the outcome of the country’s presidential election. A Flávio Bolsonaro administration would fare no better than Lula when it comes to reducing debt and delivering growth—and Bolsonaro’s illiberal policies could make the economic picture even worse.",
+    "summaryZh": "基于标题/摘要生成：Monica de Bolle，an expert in Brazilian economic 政策，makes an authoritative argument that Brazil’s economic problems will persist no matter the outcome…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_zdzadh",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Less-Is-More Strategy for America",
+    "chineseTitle": "A Less-Is-More Strategy for America",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/less-more-strategy-america",
+    "publishedAt": "2026-10-22T08:00:00.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.062Z",
+    "rawDescription": "Barry Posen, a professor at MIT, is one of America's leading experts on international security. He argues that the United States military is breaking down because it has been overused and overextended over the last 30 years, and that the only way to repair it is for Washington to exercise much more restraint.",
+    "contentSnippet": "Barry Posen, a professor at MIT, is one of America's leading experts on international security. He argues that the United States military is breaking down because it has been overused and overextended over the last 30 years, and that the only way to repair it is for Washington to exercise much more restraint.",
+    "summaryZh": "基于标题/摘要生成：Barry Posen，a professor at MIT，is one of America's leading experts on international security. He argues that the United States military is breaking d…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yu9vry",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump’s approval rating hits a new low as midterms enter final stretch: CNN poll",
+    "chineseTitle": "Trump’s approval rating hits a new low as midterms enter…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeURwdkMzbFFMNXBpWkhOTUZIVWtBcEhSN19EOVVnM00zdkdmZVBiTEI4QjZQZjk2X3FtUVpFMFVUSjZsNm1LWjI4LTBoSFc0UUdSbk1hZVpaenctRmEtU2U3XzhXcFBmNHNrNzAtQ1ZhakpOWWRKVmhxTGdRZjhwcGxNY21jc0M1VmwwQ1BzbF93Nnc?oc=5",
+    "publishedAt": "2026-10-21T08:00:45.000Z",
+    "fetchedAt": "2026-10-23T01:20:43.783Z",
+    "rawDescription": "Trump’s approval rating hits a new low as midterms enter final stretch: CNN poll CNN",
+    "contentSnippet": "Trump’s approval rating hits a new low as midterms enter final stretch: CNN poll CNN",
+    "summaryZh": "基于标题/摘要生成：Trump’s approval rating hits a new low as midterms enter final stretch：CNN poll CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s approval rating hits a new low as midterms enter final stretch: CNN poll Trump’s appro"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's approval rating hits a new low as midterms enter final stretch: CNN poll Trump's approv"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Democratic Party\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eq94lq",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "chineseTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9vOFhldnRQS1prUUkyYUdLcjBuczcyelBUWkI0emJmT085WmhVSHgxbkl6Zjk2MDZNVFJ6aVlVUW5EWGNta0dDTUxlTW5RdjJvNDZQTzQwbDFMR0ZwODRYWTBTOS16UERWemc3YXVxY1QtQmRSNUZzOWg5UV8zVFRPTDRTVC1w?oc=5",
+    "publishedAt": "2026-10-06T22:51:57.000Z",
+    "fetchedAt": "2026-10-23T01:20:43.357Z",
+    "rawDescription": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "contentSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com Robert Wilkie"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qjysbz",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Wilkie – AFPI",
+    "chineseTitle": "The Honorable Robert Wilkie – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JTEdpWVl0SlJlaDQwUHZCLUktSV90TmhMODlqNjFYdzFqOE5YcWM5bTdmM283R25nd180U0ZVUk8zZUY3emEyd2hYcDRJbkFTcVVXcHdmSXR0dkh6bUJsMWRyWlUzX3NTOTd2NEYxNVZYdw?oc=5",
+    "publishedAt": "2026-09-18T01:04:47.000Z",
+    "fetchedAt": "2026-10-23T01:20:43.358Z",
+    "rawDescription": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Wilkie – AFPI The Honorable Robert Wilkie – AFPI americafirstpolicy.com The Honorable Robert Wilkie – A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"America First Policy Institute\" technology",
+      "AFPI"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-10-23T01:20:22.589Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z9c4cg",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5N3RsS052ZUpEQTAxMHBpQUhwNkhRbk5uYVNhLTFrWVZPMC10TjFDV2RCRWdyU19EZElONkJPbFd1ZHA5WGJpVDRpWlEtaEdJYUxXME9hdXJFRnRyX2xiQld4QVY3RlltVWF5QkVVdmRfSEU?oc=5",
+    "publishedAt": "2025-04-09T17:23:05.000Z",
+    "fetchedAt": "2026-10-23T01:20:43.817Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.351Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.352Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-23T01:20:22.588Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.220Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-23T01:20:20.218Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ky0cb",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUUtyTnV2Nm5EQUd1VnJ3RTN6czVoMzBYQ1NxUEhISmNiQ3RnUHZnYjFTMWp1bTlHVElOVl9wdmJsM3lfQ2VfWHU2VFVJODdVaFE?oc=5",
+    "publishedAt": "2022-05-17T16:17:39.000Z",
+    "fetchedAt": "2026-10-23T01:20:43.816Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
