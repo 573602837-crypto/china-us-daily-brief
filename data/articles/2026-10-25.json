@@ -1,0 +1,1593 @@
+[
+  {
+    "id": "art_q8bkkj",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "PublicPageProvider",
+    "originalTitle": "Money, Power, Inequality",
+    "chineseTitle": "Money，Power，Inequality",
+    "originalUrl": "https://www.bostonglobe.com/metro/money-power-inequality/?p1=BGHeader_MainNav",
+    "publishedAt": "2026-10-25T00:55:00.057Z",
+    "fetchedAt": "2026-10-25T00:55:02.055Z",
+    "rawDescription": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "contentSnippet": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "summaryZh": "基于标题/摘要生成：Money，Power，Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"，",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/nation/",
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_80s0jc",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Musk says he was behind Starlink&#039;s slowdown in Ukraine",
+    "chineseTitle": "Musk says he was behind Starlink&#039;s slowdown in Ukrai…",
+    "originalUrl": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/",
+    "publishedAt": "2026-10-25T00:44:31.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.507Z",
+    "rawDescription": "Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” Musk said in a post on social platform X. The slowdown happened...",
+    "contentSnippet": "Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” Musk said in a post on social platform X. The slowdown happened...",
+    "summaryZh": "基于标题/摘要生成：Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine m…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-technology https://thehill.com/policy/technology/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tfebd3",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Audi to Build Factory in Georgia, Trump Says",
+    "chineseTitle": "Audi to Build Factory in Georgia，Trump Says",
+    "originalUrl": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
+    "publishedAt": "2026-10-25T00:38:14.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.593Z",
+    "rawDescription": "The Volkswagen division, which imports all its cars from Europe or Mexico, has been hit hard by U.S. tariffs.",
+    "contentSnippet": "The Volkswagen division, which imports all its cars from Europe or Mexico, has been hit hard by U.S. tariffs.",
+    "summaryZh": "基于标题/摘要生成：The Volkswagen division，which imports all its cars from Europe or Mexico，has been hit hard",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Audi to Build Factory in Georgia, Trump Says Jack Ewing The Volkswagen division, which imports all its cars from Europe or Mexico"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Audi to Build Factory in Georgia, Trump Says Jack Ewing The Volkswagen division, which imports all its cars from Europe or Mexico"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2wmar8",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Ukraine's Starlink restored as Elon Musk claims Kyiv violated terms of service 'to kill people'",
+    "chineseTitle": "Ukraine's Starlink restored as Elon Musk claims Kyiv viol…",
+    "originalUrl": "https://www.foxnews.com/politics/ukraines-starlink-restored-elon-musk-claims-kyiv-violated-terms-service-kill-people",
+    "publishedAt": "2026-10-25T00:24:35.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.575Z",
+    "rawDescription": "Elon Musk claims Ukraine violated Starlink terms of service by using the civilian system for deadly drone strikes, saying the loophole was closed.",
+    "contentSnippet": "Elon Musk claims Ukraine violated Starlink terms of service by using the civilian system for deadly drone strikes, saying the loophole was closed.",
+    "summaryZh": "基于标题/摘要生成：Elon Musk claims Ukraine violated Starlink terms of service by using the civilian system for deadly drone strikes，saying the loophole was closed",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wbzc1k",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Boston College football escapes early hole once again, runs past Georgia Tech",
+    "chineseTitle": "Boston College football escapes early hole once again，run…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/24/sports/boston-college-georgia-tech-football/",
+    "publishedAt": "2026-10-25T00:14:24.224Z",
+    "fetchedAt": "2026-10-25T00:54:59.487Z",
+    "rawDescription": "公开 sitemap 条目：Boston College football escapes early hole once again, runs past Georgia Tech",
+    "contentSnippet": "公开 sitemap 条目：Boston College football escapes early hole once again, runs past Georgia Tech",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Boston College football escapes early hole once again，runs past Georgia Tech",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2p14s1",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Obama compares Trump's White House renovations to 'Saddam Hussein opening a Cheesecake Factory' at Ohio rally",
+    "chineseTitle": "Obama compares Trump's White 众议院 renovations to 'Saddam H…",
+    "originalUrl": "https://www.foxnews.com/politics/obama-compares-trumps-white-house-renovations-saddam-hussein-opening-cheesecake-factory-ohio-rally",
+    "publishedAt": "2026-10-24T22:35:34.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.575Z",
+    "rawDescription": "Barack Obama compared Trump's White House renovations to a Cheesecake Factory run by Saddam Hussein at a Cleveland rally for Ohio Democrats.",
+    "contentSnippet": "Barack Obama compared Trump's White House renovations to a Cheesecake Factory run by Saddam Hussein at a Cleveland rally for Ohio Democrats.",
+    "summaryZh": "基于标题/摘要生成：Barack Obama compared Trump's White 众议院 renovations to a Cheesecake Factory run",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Obama compares Trump's White House renovations to 'Saddam Hussein opening a Cheesecake Factory' at Ohio rally"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Obama compares Trump's White House renovations to 'Saddam Hussein opening a Cheesecake Factory' at Ohio rally"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "e renovations to a Cheesecake Factory run by Saddam Hussein at a Cleveland rally for Ohio Democrats. Barack Obama compared Trump's White House renovations to a Cheesecake Factory run by Sad"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Obama compares Trump's White House renovations to 'Saddam Hussein opening a Cheesecake Factory' at Ohio rally Barack Obama c"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "White House",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tkk95z",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot",
+    "chineseTitle": "Trump，Who Once Called Early Voting ‘Ridiculous，’ Casts a…",
+    "originalUrl": "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html",
+    "publishedAt": "2026-10-24T21:40:56.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.593Z",
+    "rawDescription": "The president voted at a polling station in Palm Beach County, Fla.",
+    "contentSnippet": "The president voted at a polling station in Palm Beach County, Fla.",
+    "summaryZh": "基于标题/摘要生成：The president voted at a polling station in Palm Beach County，Fla",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot Tim Balk The president"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump, Who Once Called Early Voting 'Ridiculous,' Casts a Midterm Ballot Tim Balk The president"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ih351m",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China urges US Treasury to stop proposed restrictions on tech investments",
+    "chineseTitle": "中国 urges US 美国财政部 to stop proposed restrictions on tech i…",
+    "originalUrl": "https://thehill.com/policy/international/6170202-china-opposes-us-tech-investment-rules/",
+    "publishedAt": "2026-10-24T19:40:47.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.508Z",
+    "rawDescription": "Chinese officials called on the U.S. Saturday to reconsider its proposed rule seeking to further restrict American investments into its tech industry, saying the move would disrupt trade relations between the two countries. On Thursday, the Treasury Department proposed a rule expanding existing restrictions in the Outbound Investment Security Program (OISP) on hypersonic systems, quantum...",
+    "contentSnippet": "Chinese officials called on the U.S. Saturday to reconsider its proposed rule seeking to further restrict American investments into its tech industry, saying the move would disrupt trade relations between the two countries. On Thursday, the Treasury Department proposed a rule expanding existing restrictions in the Outbound Investment Security Program (OISP) on hypersonic systems, quantum...",
+    "summaryZh": "基于标题/摘要生成：中国 officials called on the U.S. Saturday to reconsider its proposed rule seeking to further restrict American investments into its tech industry，sayi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "trade_tariffs",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "site:thehill.com technology China OR AI OR chip OR semiconductor",
+      "site:thehill.com China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ady17k",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Washington's message to AI execs: please shut up",
+    "chineseTitle": "Washington's message to AI execs：please shut up",
+    "originalUrl": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
+    "publishedAt": "2026-10-24T16:32:03.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.429Z",
+    "rawDescription": "Washington has always viewed Silicon Valley as culturally strange. But the current crop of AI leaders is becoming a monumental political liability, lawmakers and White House advisers tell Axios. Why it matters: Even pro-AI government officials and lawmakers wish AI founders would do what every other major industry chief does — shut up and just build their products ... safely. By centering the conversation around digital sentience and global catastrophe, AI leaders are turning an already complicated regulatory debate into an impossible moral panic. State of play : Rather than leading the charge to persuade Americans about the benefits of AI, and the potential for shared prosperity — the core elements of any winning political campaign — industry leaders are constantly warning of its existen…",
+    "contentSnippet": "Washington has always viewed Silicon Valley as culturally strange. But the current crop of AI leaders is becoming a monumental political liability, lawmakers and White House advisers tell Axios. Why it matters: Even pro-AI government officials and lawmakers wish AI founders would do what every other major industry chief does — shut up and just build their products ... safely. By centering the conversation around digital sentience and global catastrophe, AI leaders are turning an already complicated regulatory debate into an impossible moral panic. State of play : Rather than leading the charge to persuade Americans about the benefits of AI, and the potential for shared prosperity — the core elements of any winning political campaign — industry leaders are constantly warning of its existen…",
+    "summaryZh": "基于标题/摘要生成：Washington has always viewed Silicon Valley as culturally strange. But the current crop of AI leaders is becoming a monumental political liability，la…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "he current crop of AI leaders is becoming a monumental political liability, lawmakers and White House advisers tell Axios. Why it matters: Even pro-AI government officials and lawmakers wish"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_frvref",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Shifting U.S. Support May Mean for Ukraine",
+    "chineseTitle": "What Shifting U.S. Support May Mean for Ukraine",
+    "originalUrl": "https://www.theatlantic.com/national/2026/10/what-shifting-us-support-may-mean-ukraine/689140/",
+    "publishedAt": "2026-10-24T14:06:36.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.621Z",
+    "rawDescription": "Panelists on Washington Week With The Atlantic joined to discuss how Donald Trump’s dismissal of Russian aggression against Ukraine has prompted bipartisan backlash.",
+    "contentSnippet": "Panelists on Washington Week With The Atlantic joined to discuss how Donald Trump’s dismissal of Russian aggression against Ukraine has prompted bipartisan backlash.",
+    "summaryZh": "基于标题/摘要生成：Panelists on Washington Week With The Atlantic joined to discuss how 特朗普’s dismissal of Russian aggression against Ukraine has prompted bipartisan ba…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Ukraine The Editors Panelists on Washington Week With The Atlantic joined to discuss how Donald Trump’s dismissal of Russian aggression against Ukraine has prompted bipartisan backlash. Panel"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "e The Editors Panelists on Washington Week With The Atlantic joined to discuss how Donald Trump’s dismissal of Russian aggression against Ukraine has prompted bipartisan backlash. Panel"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Ukraine The Editors Panelists on Washington Week With The Atlantic joined to discuss how Donald Trump's dismissal of Russian aggression against Ukraine has prompted bipartisan backlash. Panel"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_juuufl",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu",
+    "chineseTitle": "As Israeli 选举 looms，Trump advisers see opportunity beyond…",
+    "originalUrl": "https://www.axios.com/2026/10/24/israel-election-trump-netanyahu-advisers",
+    "publishedAt": "2026-10-24T12:56:30.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.435Z",
+    "rawDescription": "President Trump has endorsed Benjamin Netanyahu in Tuesday's Israeli election, but some of his advisers see opportunity for his Middle East agenda in a government led by someone else, U.S. officials tell Axios. Why it matters: Trump has never worked with an Israeli prime minister other than Netanyahu, and doesn't personally know any of the other candidates. The two have forged a close but often turbulent relationship. \"He's the devil he knows,\" one Trump adviser said, describing the president's view of Netanyahu. Driving the news: After weeks of hesitation, Trump endorsed Netanyahu on Sunday — and even suggested his defeat would have consequences for U.S.-Israel relations. One U.S. official described the endorsement as a win-win for Trump, regardless of the outcome. If Netanyahu wins — or…",
+    "contentSnippet": "President Trump has endorsed Benjamin Netanyahu in Tuesday's Israeli election, but some of his advisers see opportunity for his Middle East agenda in a government led by someone else, U.S. officials tell Axios. Why it matters: Trump has never worked with an Israeli prime minister other than Netanyahu, and doesn't personally know any of the other candidates. The two have forged a close but often turbulent relationship. \"He's the devil he knows,\" one Trump adviser said, describing the president's view of Netanyahu. Driving the news: After weeks of hesitation, Trump endorsed Netanyahu on Sunday — and even suggested his defeat would have consequences for U.S.-Israel relations. One U.S. official described the endorsement as a win-win for Trump, regardless of the outcome. If Netanyahu wins — or…",
+    "summaryZh": "基于标题/摘要生成：President Trump has endorsed Benjamin Netanyahu in Tuesday's Israeli 选举，but some of his advisers see opportunity for his Middle East agenda in a gove…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu Barak Ravid President Trump has endorsed Benjam"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "As Israeli election looms, Trump advisers see opportunity beyond Netanyahu Barak Ravid President Trump has endorsed Benjam"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ziffiq",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "AI Terrorism Is Just Terrorism",
+    "chineseTitle": "AI Terrorism Is Just Terrorism",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/",
+    "publishedAt": "2026-10-24T12:00:00.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.622Z",
+    "rawDescription": "The new technology hasn’t fundamentally transformed the problem—at least not yet.",
+    "contentSnippet": "The new technology hasn’t fundamentally transformed the problem—at least not yet.",
+    "summaryZh": "基于标题/摘要生成：The new technology hasn’t fundamentally transformed the problem—at least not yet",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_apogt0",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Facing an electoral wipeout, Trump goes after the system",
+    "chineseTitle": "Facing an electoral wipeout，Trump goes after the system",
+    "originalUrl": "https://www.politico.com/news/2026/10/24/trump-alaska-election-justice-department-01134590",
+    "publishedAt": "2026-10-24T11:00:00.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.542Z",
+    "rawDescription": "The move by the Justice Department to try and preemptively block Alaska’s Senate results if Republican Sen. Dan Sullivan loses stunned officials in both parties.",
+    "contentSnippet": "The move by the Justice Department to try and preemptively block Alaska’s Senate results if Republican Sen. Dan Sullivan loses stunned officials in both parties.",
+    "summaryZh": "基于标题/摘要生成：The move by the Justice Department to try and preemptively block Alaska’s 参议院 results if Republican Sen. Dan Sullivan loses stunned officials in both…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Facing an electoral wipeout, Trump goes after the system By Andrew Howard, Erin Doherty, Alec Hernandez, Samuel Benson and L"
+      },
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "e Department to try and preemptively block Alaska’s Senate results if Republican Sen. Dan Sullivan loses stunned officials in both parties. The move by the Justice Department to try and pr"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Facing an electoral wipeout, Trump goes after the system By Andrew Howard, Erin Doherty, Alec Hernandez, Samuel Benson and L"
+      },
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "e Department to try and preemptively block Alaska's Senate results if Republican Sen. Dan Sullivan loses stunned officials in both parties. The move by the Justice Department to try and pr"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "nd Lauren Fedor The move by the Justice Department to try and preemptively block Alaska's Senate results if Republican Sen. Dan Sullivan loses stunned officials in both parties. The move"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Jake Sullivan",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "\"Donald Trump\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_h1wuir",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Hegseth’s staff tried to block troops’ participation in Paris NFL game",
+    "chineseTitle": "Hegseth’s staff tried to block troops’ participation in P…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkJaRkFEWjZKalQ4N0ZycmQwejBmNW9LWS1NcndFcGtfdVVFZkV3ZzcxT0hoUnJvNHQyeFZnWGo5OG54QzBERXJLS1BoY1BvQlg1YldleVJLeUR3Q3FkMm45YjQtWC1MM0gzaUFISnU5RFdmRDJYeEk0V3h4YWVZVW5JQUI0dUFsX28zWjlvc0Jxckp0Q0xRODhsM3MwNGF0bG83d3piVENWZHBIMm1sbEJhZHNlZXBJaUdicTZmRzc?oc=5",
+    "publishedAt": "2026-10-24T05:34:29.000Z",
+    "fetchedAt": "2026-10-25T00:55:19.597Z",
+    "rawDescription": "Hegseth’s staff tried to block troops’ participation in Paris NFL game The Washington Post",
+    "contentSnippet": "Hegseth’s staff tried to block troops’ participation in Paris NFL game The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Hegseth’s staff tried to block troops’ participation in Paris NFL game The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Hegseth’s staff tried to block troops’ participation in Paris NFL game Hegseth’s staff tried to"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Hegseth's staff tried to block troops' participation in Paris NFL game Hegseth's staff tried to b"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Pete Hegseth\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_169l7u",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Vance will return to Kansas as GOP worries it may lose Senate race",
+    "chineseTitle": "Vance will return to Kansas as GOP worries it may lose 参议…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2ROemtGblkwR1dhRGg1RktOZUFsVXdlVGFvVzVMeE5UZkZQMGJlUjdaTUlteXRWMnBsVTZMMHAzTzhaR0EtNG5FbC1YWnpIRk45R09wenA1YTFHN0xlUEM0ekZGSUFvd0t1OXVPM0JBWTlySEx0bWdmZWNvdnhSTkp1ZjR4ZTJIWFl2MGhDeDZBdm0wWFAxNXVjZDBDMURsN1JGN1NqZ1hud0Q4V3dYbTRB?oc=5",
+    "publishedAt": "2026-10-24T04:00:00.000Z",
+    "fetchedAt": "2026-10-25T00:55:19.593Z",
+    "rawDescription": "Vance will return to Kansas as GOP worries it may lose Senate race The Washington Post",
+    "contentSnippet": "Vance will return to Kansas as GOP worries it may lose Senate race The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Vance will return to Kansas as GOP worries it may lose 参议院 race The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Vance will return to Kansas as GOP worries it may lose Senate race Vance will return to Kansas"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "Vance",
+        "confidence": "medium",
+        "contextSnippet": "Vance will return to Kansas as GOP worries it may lose Senate race Vance will return to Kansas"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Vance will return to Kansas as GOP worries it may lose Senate race Vance will return to Kansas as GOP worries it may lose Se"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Vance will return to Kansas as GOP worries it may lose Senate race Vance will return to Kansas as GOP worries it may lose Senate race The Washington Po"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "JD Vance",
+      "Republican Party",
+      "Congress"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"JD Vance\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_sq0eyc",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House battleground map tightens as GOP scrambles to shore up red seats",
+    "chineseTitle": "众议院 battleground map tightens as GOP scrambles to shore u…",
+    "originalUrl": "https://www.politico.com/news/2026/10/23/democrats-house-map-election-expectations-01134127",
+    "publishedAt": "2026-10-23T20:20:28.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.543Z",
+    "rawDescription": "Democrats are warning their party not to get too bullish about a big House majority.",
+    "contentSnippet": "Democrats are warning their party not to get too bullish about a big House majority.",
+    "summaryZh": "基于标题/摘要生成：民主党人 are warning their party not to get too bullish about a big 众议院 majority",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "ap tightens as GOP scrambles to shore up red seats By Meredith Lee Hill and Andrew Howard Democrats are warning their party not to get too bullish about a big House majority. Democrats are"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "House battleground map tightens as GOP scrambles to shore up red seats By Meredith Lee Hill and Andrew Howard Democrats are warn"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_njilrb",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Real Danger of Big Tech",
+    "chineseTitle": "The Real Danger of Big Tech",
+    "originalUrl": "https://foreignpolicy.com/2026/10/23/musk-starlink-big-tech-dangers-ultrarich-us-democracy/",
+    "publishedAt": "2026-10-23T19:51:32.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.611Z",
+    "rawDescription": "The biggest risks of AI and other advanced technologies have less to do with their growing power than the men behind them.",
+    "contentSnippet": "The biggest risks of AI and other advanced technologies have less to do with their growing power than the men behind them.",
+    "summaryZh": "基于标题/摘要生成：The biggest risks of AI and other advanced technologies have less to do with their growing power than the men behind them",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1paqna",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What in the World?",
+    "chineseTitle": "What in the World",
+    "originalUrl": "https://foreignpolicy.com/2026/10/23/news-quiz-france-protests-israel-police-trump-vote-bailout/",
+    "publishedAt": "2026-10-23T16:28:02.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.613Z",
+    "rawDescription": "Test yourself on the week of Oct. 17: French protests intensify, Israeli police make arrests, and Trump tempts voters.",
+    "contentSnippet": "Test yourself on the week of Oct. 17: French protests intensify, Israeli police make arrests, and Trump tempts voters.",
+    "summaryZh": "基于标题/摘要生成：Test yourself on the week of Oct. 17：French protests intensify，Israeli police make arrests，and Trump tempts voters",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "rself on the week of Oct. 17: French protests intensify, Israeli police make arrests, and Trump tempts voters. Test yourself on the week of Oct. 17: French protests intensify, Israeli p"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "rself on the week of Oct. 17: French protests intensify, Israeli police make arrests, and Trump tempts voters. Test yourself on the week of Oct. 17: French protests intensify, Israeli p"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_efrinc",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The New Energy Stalemate in Ukraine",
+    "chineseTitle": "The New Energy Stalemate in Ukraine",
+    "originalUrl": "https://www.foreignaffairs.com/ukraine/new-energy-stalemate-ukraine",
+    "publishedAt": "2026-10-23T12:33:00.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.490Z",
+    "rawDescription": "Tatiana Mitrova, a fellow at Columbia University’s Center on Global Energy Policy and former energy scholar at Moscow’s Russian Academy of Sciences, and Sergey Vakulenko, an oil and gas expert at Carnegie’s Russia Eurasia Center, argue that Russia and Ukraine are locked in an energy war that has become an adaptation spiral, despite growing human and economic costs and despite current US pressure on Ukraine. They observe Ukraine’s remarkable ability to withstand Russian strikes, while questioning claims that long-range Ukrainian strikes will be able to achieve game-changing damage on Russia. Ukraine and Russia have transformed the role of energy warfare in modern conflict, drawing on low costs drones but also new forms of technological resilience that are likely to make wars longer and mor…",
+    "contentSnippet": "Tatiana Mitrova, a fellow at Columbia University’s Center on Global Energy Policy and former energy scholar at Moscow’s Russian Academy of Sciences, and Sergey Vakulenko, an oil and gas expert at Carnegie’s Russia Eurasia Center, argue that Russia and Ukraine are locked in an energy war that has become an adaptation spiral, despite growing human and economic costs and despite current US pressure on Ukraine. They observe Ukraine’s remarkable ability to withstand Russian strikes, while questioning claims that long-range Ukrainian strikes will be able to achieve game-changing damage on Russia. Ukraine and Russia have transformed the role of energy warfare in modern conflict, drawing on low costs drones but also new forms of technological resilience that are likely to make wars longer and mor…",
+    "summaryZh": "基于标题/摘要生成：Tatiana Mitrova，a fellow at Columbia University’s Center on Global Energy 政策 and former energy scholar at Moscow’s Russian Academy of Sciences，and Se…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ruw9rz",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Israel’s Election Won't Change",
+    "chineseTitle": "What Israel’s 选举 Won't Change",
+    "originalUrl": "https://www.foreignaffairs.com/israel/what-israels-election-wont-change",
+    "publishedAt": "2026-10-23T04:00:00.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.490Z",
+    "rawDescription": "The constraints and costs of the new security consensus.",
+    "contentSnippet": "The constraints and costs of the new security consensus.",
+    "summaryZh": "基于标题/摘要生成：The constraints and costs of the new security consensus",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ldgsdv",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IMVlTS0NpdXZmRTZaWDFjakhuYTZ0XzdUWFBCazI2ckN5ZzVyM20xU2dIXzV4cmwwWU9oaW1SbFE0MHJ4UnF5MTZuSWVPOEc3bU16V1ByOWFoNVM1TUxmTW9iUi04d01LNThDRVlKYU1GaUk?oc=5",
+    "publishedAt": "2025-10-10T15:10:56.000Z",
+    "fetchedAt": "2026-10-25T00:55:19.811Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z9c4cg",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5N3RsS052ZUpEQTAxMHBpQUhwNkhRbk5uYVNhLTFrWVZPMC10TjFDV2RCRWdyU19EZElONkJPbFd1ZHA5WGJpVDRpWlEtaEdJYUxXME9hdXJFRnRyX2xiQld4QVY3RlltVWF5QkVVdmRfSEU?oc=5",
+    "publishedAt": "2025-04-09T17:23:05.000Z",
+    "fetchedAt": "2026-10-25T00:55:19.811Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.667Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.668Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9yaq0h",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Addressing Americans Concerns The Case For Funding Ukraines War Against Russia",
+    "chineseTitle": "Addressing Americans Concerns The Case For Funding Ukrain…",
+    "originalUrl": "https://nationalsecurityaction.org/addressing-americans-concerns-the-case-for-funding-ukraines-war-against-russia",
+    "publishedAt": "2024-12-05T00:00:00.000Z",
+    "fetchedAt": "2026-10-25T00:54:59.459Z",
+    "rawDescription": "公开 sitemap 条目：Addressing Americans Concerns The Case For Funding Ukraines War Against Russia",
+    "contentSnippet": "公开 sitemap 条目：Addressing Americans Concerns The Case For Funding Ukraines War Against Russia",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Addressing Americans Concerns The Case For Funding Ukraines War Against Russia",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-25T00:54:59.460Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_qjuliu",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "AFPI Trip to Taiwan & Japan – AFPI",
+    "chineseTitle": "AFPI Trip to 台湾 & Japan – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBub0hXa09EYmxrT3ZJeFJuaE9oMXlYejh0MjBOZEI5TmhkaWlBVG9obFBubjNCd1ZDdktEX2hKQ0cyMGI5dHZTd1BTOXdtc1NPN1FWb3JfYnpDLS1BZzZ2cW9OMlFaaHZFMDNrUGJyS3RQdWtwYklz?oc=5",
+    "publishedAt": "2024-06-25T07:00:00.000Z",
+    "fetchedAt": "2026-10-25T00:55:19.586Z",
+    "rawDescription": "AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com",
+    "contentSnippet": "AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：AFPI Trip to 台湾 & Japan – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "AFPI Trip to Taiwan & Japan – AFPI AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.586Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-25T00:54:55.585Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cd2lm8",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI",
+    "chineseTitle": "America First 中国 政策 Principles in Practice – Center Overv…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVE1XcU85dTdibkp6RGdjRjhaMUh0Z0lKOEJRWDdGZm9oaDdvY0FEU2dLcjNUV09vWk1yT2lDV1piZnd2QllBM1l3c3pnbXhlLUVSVi1WWU5fY3FmRlBTcVBsaFM0QVJ1YTMwM2FRNjVNNkM1Tl9WMGk3cHVJa3BpbGxUNmJHaUVCZnZVZy15eHdZeDZPM2hlR29XUUtMY194RTlXWW55Zmp2aFpHWHdiS2NYM1Y3VjZoSUdWczlCQS1XZVBKWGc?oc=5",
+    "publishedAt": "2022-12-07T08:00:00.000Z",
+    "fetchedAt": "2026-10-25T00:55:19.586Z",
+    "rawDescription": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First 中国 政策 Principles in Practice – Center Overview – 中国 政策 Initiative – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "a First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First China Policy Principles in Practice – Center Overview – China Policy Initia"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First C"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  }
+]
