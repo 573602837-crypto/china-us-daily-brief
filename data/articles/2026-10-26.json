@@ -1,0 +1,1734 @@
+[
+  {
+    "id": "art_3zve2h",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+    "chineseTitle": "Trump’s 选举 Attacks Enter New Pre-emptive Phase",
+    "originalUrl": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+    "publishedAt": "2026-10-26T00:46:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.053Z",
+    "rawDescription": "A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election results.",
+    "contentSnippet": "A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election results.",
+    "summaryZh": "基于标题/摘要生成：A lawsuit by the Justice Department challenging a potential narrow loss by the GOP 参议院 incumbent in Alaska reflects a new tactic by the president to…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Election Attacks Enter New Pre-emptive Phase Zolan Kanno-Youngs A lawsuit by the Justic"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Election Attacks Enter New Pre-emptive Phase Zolan Kanno-Youngs A lawsuit by the Justic"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "nno-Youngs A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the ele"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Youngs A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election r"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_57r9xp",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Lula beats Bolsonaro to win Brazil presidential election",
+    "chineseTitle": "Lula beats Bolsonaro to win Brazil presidential 选举",
+    "originalUrl": "https://www.axios.com/2026/10/26/brazil-election-results-bolsonaro-lula-trump",
+    "publishedAt": "2026-10-26T00:26:15.000Z",
+    "fetchedAt": "2026-10-26T01:03:11.832Z",
+    "rawDescription": "Brazil President Luiz Inácio Lula da Silva was elected to a fourth, nonconsecutive term in the nation's presidential election according to early results released Sunday evening. Why it matters: Lula's victory deals a setback to Brazil's right-wing populist movement and preserves a major counterweight to President Trump 's influence in Latin America, with tensions over trade and tariffs threatening to persist. Lula, the incumbent candidate, was facing Flávio Bolsonaro, the son of former Brazilian President Jair Bolsonaro . Flávio was widely seen as the heir to the nation's right-wing populist movement. The big picture: The election has been shaped by the impact of U.S. tariffs, climate change and the Amazon rainforest, 60% of which is in Brazil. Bolsonaro campaigned on public security and…",
+    "contentSnippet": "Brazil President Luiz Inácio Lula da Silva was elected to a fourth, nonconsecutive term in the nation's presidential election according to early results released Sunday evening. Why it matters: Lula's victory deals a setback to Brazil's right-wing populist movement and preserves a major counterweight to President Trump 's influence in Latin America, with tensions over trade and tariffs threatening to persist. Lula, the incumbent candidate, was facing Flávio Bolsonaro, the son of former Brazilian President Jair Bolsonaro . Flávio was widely seen as the heir to the nation's right-wing populist movement. The big picture: The election has been shaped by the impact of U.S. tariffs, climate change and the Amazon rainforest, 60% of which is in Brazil. Bolsonaro campaigned on public security and…",
+    "summaryZh": "基于标题/摘要生成：Brazil President Luiz Inácio Lula da Silva was elected to a fourth，nonconsecutive term in the nation's presidential 选举 according to early results rel…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "to Brazil's right-wing populist movement and preserves a major counterweight to President Trump 's influence in Latin America, with tensions over trade and tariffs threatening to persis"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "to Brazil's right-wing populist movement and preserves a major counterweight to President Trump 's influence in Latin America, with tensions over trade and tariffs threatening to persis"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mlm7l8",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "‘The check on Donald Trump’: Democrats frame deep-blue Mass. as crest of Democratic wave in closing midterms message",
+    "chineseTitle": "‘The check on 特朗普’：民主党人 frame deep-blue Mass. as crest of…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/25/metro/massachusetts-democrats-rally-election-day-trump/",
+    "publishedAt": "2026-10-26T00:09:06.666Z",
+    "fetchedAt": "2026-10-26T01:03:18.928Z",
+    "rawDescription": "公开 sitemap 条目：‘The check on Donald Trump’: Democrats frame deep-blue Mass. as crest of Democratic wave in closing midterms message",
+    "contentSnippet": "公开 sitemap 条目：‘The check on Donald Trump’: Democrats frame deep-blue Mass. as crest of Democratic wave in closing midterms message",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：‘The check on 特朗普’：民主党人 frame deep-blue Mass. as crest of Democratic wave in closing midterms message",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "‘The check on Donald Trump’: Democrats frame deep-blue Mass. as crest of Democratic wave in closing midterms message"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "‘The check on Donald Trump’: Democrats frame deep-blue Mass. as crest of Democratic wave in closing midterms message"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "'The check on Donald Trump': Democrats frame deep-blue Mass. as crest of Democratic wave in closing midterms message"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "'The check on Donald Trump': Democrats frame deep-blue Mass. as crest of Democratic wave in closing midterms message 公开 sitemap"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a34yic",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Patriots mailbag: How can the Patriots get more out of TreVeyon Henderson? Should they trade for a lineman?",
+    "chineseTitle": "Patriots mailbag：How can the Patriots get more out of Tre…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/25/sports/patriots-treveyon-henderson-mailbag-questions-answers/",
+    "publishedAt": "2026-10-26T00:06:23.426Z",
+    "fetchedAt": "2026-10-26T01:03:18.929Z",
+    "rawDescription": "公开 sitemap 条目：Patriots mailbag: How can the Patriots get more out of TreVeyon Henderson? Should they trade for a lineman?",
+    "contentSnippet": "公开 sitemap 条目：Patriots mailbag: How can the Patriots get more out of TreVeyon Henderson? Should they trade for a lineman?",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Patriots mailbag：How can the Patriots get more out of TreVeyon Henderson? Should they 贸易 for a lineman",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ayuzzl",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+    "chineseTitle": "How Obama and Trump Made their Cases in Dueling Midterm S…",
+    "originalUrl": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
+    "publishedAt": "2026-10-25T23:35:31.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.052Z",
+    "rawDescription": "At rallies this weekend, Mr. Obama and Mr. Trump delivered two starkly contrasting pitches, differing in style and substance.",
+    "contentSnippet": "At rallies this weekend, Mr. Obama and Mr. Trump delivered two starkly contrasting pitches, differing in style and substance.",
+    "summaryZh": "基于标题/摘要生成：At rallies this weekend，Mr. Obama and Mr. Trump delivered two starkly contrasting pitches，differing in style and substance",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "How Obama and Trump Made their Cases in Dueling Midterm Speeches Tim Balk At rallies this weekend, Mr. Obama"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "How Obama and Trump Made their Cases in Dueling Midterm Speeches Tim Balk At rallies this weekend, Mr. Obama"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_apkst4",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election",
+    "chineseTitle": "Scoop：Netanyahu presses Trump for more support ahead of t…",
+    "originalUrl": "https://www.axios.com/2026/10/25/netanyahu-trump-israeli-elections",
+    "publishedAt": "2026-10-25T23:15:08.000Z",
+    "fetchedAt": "2026-10-26T01:03:11.835Z",
+    "rawDescription": "TEL AVIV, Israel — Israeli Prime Minister Benjamin Netanyahu — fighting for political survival in Tuesday's elections — has pleaded with President Trump in recent days to show more public support for his campaign, according to a U.S. source with knowledge and an Israeli source briefed on the matter. Why it matters: The U.S. source said the White House sees Netanyahu's aggressive lobbying as a \"sign of desperation\" and an indication that the Israeli leader thinks he's trailing. Neta Molcho, a spokesperson for Netanyahu's Likud party, denied the prime minister asked Trump to support his campaign \"in recent days or before his endorsement statement.\" The White House did not respond to a request for comment. Trump said in an interview with Newsmax two weeks ago that people in Israel asked him…",
+    "contentSnippet": "TEL AVIV, Israel — Israeli Prime Minister Benjamin Netanyahu — fighting for political survival in Tuesday's elections — has pleaded with President Trump in recent days to show more public support for his campaign, according to a U.S. source with knowledge and an Israeli source briefed on the matter. Why it matters: The U.S. source said the White House sees Netanyahu's aggressive lobbying as a \"sign of desperation\" and an indication that the Israeli leader thinks he's trailing. Neta Molcho, a spokesperson for Netanyahu's Likud party, denied the prime minister asked Trump to support his campaign \"in recent days or before his endorsement statement.\" The White House did not respond to a request for comment. Trump said in an interview with Newsmax two weeks ago that people in Israel asked him…",
+    "summaryZh": "基于标题/摘要生成：TEL AVIV，Israel — Israeli Prime Minister Benjamin Netanyahu — fighting for political survival in Tuesday's elections — has pleaded with President Tru…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election Barak Ravid TEL AVIV, Israel — Israeli P"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Scoop: Netanyahu presses Trump for more support ahead of tight Tuesday election Barak Ravid TEL AVIV, Israel — Israeli P"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "dge and an Israeli source briefed on the matter. Why it matters: The U.S. source said the White House sees Netanyahu's aggressive lobbying as a \"sign of desperation\" and an indication that th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_caw11g",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iowa’s Senate rivals pitch independence from their parties",
+    "chineseTitle": "Iowa’s 参议院 rivals pitch independence from their parties",
+    "originalUrl": "https://www.politico.com/news/2026/10/25/iowa-senate-hinson-turek-independence-01134978",
+    "publishedAt": "2026-10-25T20:04:23.000Z",
+    "fetchedAt": "2026-10-26T01:03:11.972Z",
+    "rawDescription": "Ashley Hinson qualified her pledge to be Trump’s strongest ally, while Josh Turek praised the president’s border record.",
+    "contentSnippet": "Ashley Hinson qualified her pledge to be Trump’s strongest ally, while Josh Turek praised the president’s border record.",
+    "summaryZh": "基于标题/摘要生成：Ashley Hinson qualified her pledge to be Trump’s strongest ally，while Josh Turek praised the president’s border record",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ndependence from their parties By Jalen Beckford Ashley Hinson qualified her pledge to be Trump’s strongest ally, while Josh Turek praised the president’s border record. Ashley Hinson q"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "ndependence from their parties By Jalen Beckford Ashley Hinson qualified her pledge to be Trump's strongest ally, while Josh Turek praised the president's border record. Ashley Hinson q"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Iowa's Senate rivals pitch independence from their parties By Jalen Beckford Ashley Hinson qualified he"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_i2n39w",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "AI has a language gap. That could be a problem for some voters.",
+    "chineseTitle": "AI has a language gap. That could be a problem for some v…",
+    "originalUrl": "https://www.politico.com/news/2026/10/25/ai-non-english-language-voters-01132772",
+    "publishedAt": "2026-10-25T20:00:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:11.973Z",
+    "rawDescription": "AI models underperform in non-English languages, which national organizations and experts say unintentionally disenfranchises communities using AI for election information.",
+    "contentSnippet": "AI models underperform in non-English languages, which national organizations and experts say unintentionally disenfranchises communities using AI for election information.",
+    "summaryZh": "基于标题/摘要生成：AI models underperform in non-English languages，which national organizations and experts say unintentionally disenfranchises communities using AI for…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_m7tp9v",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "MAPPED: The states Trump and top Democrats are targeting before Election Day",
+    "chineseTitle": "MAPPED：The states Trump and top 民主党人 are targeting before…",
+    "originalUrl": "https://www.foxnews.com/politics/mapped-states-trump-top-democrats-targeting-election-day",
+    "publishedAt": "2026-10-25T18:15:23.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.025Z",
+    "rawDescription": "With Election Day less than two weeks away, Trump rallied in Florida, Georgia and Michigan as both parties deploy top surrogates to battlegrounds.",
+    "contentSnippet": "With Election Day less than two weeks away, Trump rallied in Florida, Georgia and Michigan as both parties deploy top surrogates to battlegrounds.",
+    "summaryZh": "基于标题/摘要生成：With 选举 Day less than two weeks away，Trump rallied in Florida，Georgia and Michigan as both parties deploy top surrogates to battlegrounds",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "MAPPED: The states Trump and top Democrats are targeting before Election Day With Election Day less than two week"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "MAPPED: The states Trump and top Democrats are targeting before Election Day With Election Day less than two weeks"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "MAPPED: The states Trump and top Democrats are targeting before Election Day With Election Day less than two weeks away, Trump ralli"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z0jdzy",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump’s DOJ told a judge how to rule. Then it pulled her from court.",
+    "chineseTitle": "Trump’s DOJ told a judge how to rule. Then it pulled her…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0htNUJMWXBSUndWaDdLRDBXYjRub2l5UVpFSEJOc1hRaFB4RjRMRmVOQ2dsekdnOUdfdWxVVVlEdURtRnBsOEF0U05Hb3RKbjl6eDFwQ0htUHBJNXJRZklxeVA4UTBPWkJQX3hQNW9uRjdzQXdZQ1lQcm44aF94ck5USFQ2c241SndLMWxPek5Pck5JYzVmLXVWWDhkeEdyUHJ0N3kyVGRDY09sMFE?oc=5",
+    "publishedAt": "2026-10-25T17:00:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:38.710Z",
+    "rawDescription": "Trump’s DOJ told a judge how to rule. Then it pulled her from court. The Washington Post",
+    "contentSnippet": "Trump’s DOJ told a judge how to rule. Then it pulled her from court. The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump’s DOJ told a judge how to rule. Then it pulled her from court. The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s DOJ told a judge how to rule. Then it pulled her from court. Trump’s DOJ told a judge"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's DOJ told a judge how to rule. Then it pulled her from court. Trump's DOJ told a judge h"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wud1sn",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump immigration win could strengthen admin's hand in looming Supreme Court fight",
+    "chineseTitle": "Trump immigration win could strengthen admin's hand in lo…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-immigration-win-could-strengthen-admins-hand-looming-supreme-court-fight",
+    "publishedAt": "2026-10-25T16:00:14.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.025Z",
+    "rawDescription": "The Fifth Circuit Friday ruled illegal immigrants never formally admitted to the U.S. have no constitutional right to individualized bond hearings.",
+    "contentSnippet": "The Fifth Circuit Friday ruled illegal immigrants never formally admitted to the U.S. have no constitutional right to individualized bond hearings.",
+    "summaryZh": "基于标题/摘要生成：The Fifth Circuit Friday ruled illegal immigrants never formally admitted to the U.S. have no constitutional right to individualized bond hearings",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump immigration win could strengthen admin's hand in looming Supreme Court fight The Fifth C"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump immigration win could strengthen admin's hand in looming Supreme Court fight The Fifth Ci"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1hpvrb",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Bill Ackman urges Israelis to exclude far-right ministers ahead of elections",
+    "chineseTitle": "法案 Ackman urges Israelis to exclude far-right ministers a…",
+    "originalUrl": "https://thehill.com/policy/international/6170670-israel-ackman-ben-gvir-smotrich/",
+    "publishedAt": "2026-10-25T13:24:48.000Z",
+    "fetchedAt": "2026-10-26T01:03:11.909Z",
+    "rawDescription": "Billionaire hedge fund investor Bill Ackman called for Israel’s next government to exclude far-right National Security Minister Itamar Ben-Gvir and Finance Minister Bezalel Smotrich days before Israeli voters head to the polls, arguing that both have damaged the country’s international reputation. “Itamar Ben-Gvir and Bezalel Smotrich have caused Israel enormous reputational damage with their statements...",
+    "contentSnippet": "Billionaire hedge fund investor Bill Ackman called for Israel’s next government to exclude far-right National Security Minister Itamar Ben-Gvir and Finance Minister Bezalel Smotrich days before Israeli voters head to the polls, arguing that both have damaged the country’s international reputation. “Itamar Ben-Gvir and Bezalel Smotrich have caused Israel enormous reputational damage with their statements...",
+    "summaryZh": "基于标题/摘要生成：Billionaire hedge fund investor 法案 Ackman called for Israel’s next government to exclude far-right 国家安全 Minister Itamar Ben-Gvir and Finance Minister…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wn6uxq",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Do Miracles Really Happen?",
+    "chineseTitle": "Do Miracles Really Happen",
+    "originalUrl": "https://www.theatlantic.com/podcasts/2026/10/do-miracles-really-happen/689116/",
+    "publishedAt": "2026-10-25T13:00:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.094Z",
+    "rawDescription": "People throughout history have claimed to witness impossible occurrences. Historian Carlos Eire asks: What if they’re telling the truth?",
+    "contentSnippet": "People throughout history have claimed to witness impossible occurrences. Historian Carlos Eire asks: What if they’re telling the truth?",
+    "summaryZh": "基于标题/摘要生成：People throughout history have claimed to witness impossible occurrences. Historian Carlos Eire asks：What if they’re telling the truth",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_pbsljs",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Mathematician Reads the AI Future",
+    "chineseTitle": "A Mathematician Reads the AI Future",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+    "publishedAt": "2026-10-25T12:00:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.095Z",
+    "rawDescription": "My field is as much an expression of the human spirit as music and literature. Is it for the machines now?",
+    "contentSnippet": "My field is as much an expression of the human spirit as music and literature. Is it for the machines now?",
+    "summaryZh": "基于标题/摘要生成：My field is as much an expression of the human spirit as music and literature. Is it for the machines now",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_80s0jc",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Musk says he was behind Starlink&#039;s slowdown in Ukraine",
+    "chineseTitle": "Musk says he was behind Starlink&#039;s slowdown in Ukrai…",
+    "originalUrl": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/",
+    "publishedAt": "2026-10-25T00:44:31.000Z",
+    "fetchedAt": "2026-10-26T01:03:11.911Z",
+    "rawDescription": "Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” Musk wrote on social media Saturday. The slowdown happened as Ukraine’s military...",
+    "contentSnippet": "Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,” Musk wrote on social media Saturday. The slowdown happened as Ukraine’s military...",
+    "summaryZh": "基于标题/摘要生成：Elon Musk on Saturday alluded to being behind last week’s Starlink slowdown in Ukraine which impacted the country’s military capabilities. “Ukraine m…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-technology https://thehill.com/policy/technology/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g80gwd",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races",
+    "chineseTitle": "Mike Johnson asks Trump for more midterm money as 共和党人 se…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uYVN4LVdreVV6V0tsSzM2aVFJS1pSZkY0dmJfNDhpLThtOE9CZ1hXbnFJRVVkOTR1Mjd4QjRCNmNDdDN5LVFJTmJTb21WbTBPVjhoc1JITFo3YU5MbWd1bnpLb2xPc0QyREhSMTNoaTZ0eERNTTMtV0FPQm1tMkk?oc=5",
+    "publishedAt": "2026-10-23T21:13:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:38.727Z",
+    "rawDescription": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races CNN",
+    "contentSnippet": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races CNN",
+    "summaryZh": "基于标题/摘要生成：Mike Johnson asks Trump for more midterm money as 共和党人 seek to avert disaster in 众议院 races CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "迈克·约翰逊"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races Mike Johnson"
+      },
+      {
+        "personId": "mike-johnson",
+        "nameEn": "Mike Johnson",
+        "nameZh": "迈克·约翰逊",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races M"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races Mike Johnson"
+      },
+      {
+        "entityId": "mike-johnson",
+        "name": "Mike Johnson",
+        "type": "person",
+        "matchedAlias": "Mike Johnson",
+        "confidence": "high",
+        "contextSnippet": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races Mi"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races Mike Johnson asks Trump for more midterm money as R"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Mike Johnson",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Mike Johnson\"",
+      "\"Mike Johnson\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_njilrb",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Real Danger of Big Tech",
+    "chineseTitle": "The Real Danger of Big Tech",
+    "originalUrl": "https://foreignpolicy.com/2026/10/23/musk-starlink-big-tech-dangers-ultrarich-us-democracy/",
+    "publishedAt": "2026-10-23T19:51:32.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.080Z",
+    "rawDescription": "The biggest risks of AI and other advanced technologies have less to do with their growing power than the men behind them.",
+    "contentSnippet": "The biggest risks of AI and other advanced technologies have less to do with their growing power than the men behind them.",
+    "summaryZh": "基于标题/摘要生成：The biggest risks of AI and other advanced technologies have less to do with their growing power than the men behind them",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1paqna",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What in the World?",
+    "chineseTitle": "What in the World",
+    "originalUrl": "https://foreignpolicy.com/2026/10/23/news-quiz-france-protests-israel-police-trump-vote-bailout/",
+    "publishedAt": "2026-10-23T16:28:02.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.082Z",
+    "rawDescription": "Test yourself on the week of Oct. 17: French protests intensify, Israeli police make arrests, and Trump tempts voters.",
+    "contentSnippet": "Test yourself on the week of Oct. 17: French protests intensify, Israeli police make arrests, and Trump tempts voters.",
+    "summaryZh": "基于标题/摘要生成：Test yourself on the week of Oct. 17：French protests intensify，Israeli police make arrests，and Trump tempts voters",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "rself on the week of Oct. 17: French protests intensify, Israeli police make arrests, and Trump tempts voters. Test yourself on the week of Oct. 17: French protests intensify, Israeli p"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "rself on the week of Oct. 17: French protests intensify, Israeli police make arrests, and Trump tempts voters. Test yourself on the week of Oct. 17: French protests intensify, Israeli p"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_efrinc",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The New Energy Stalemate in Ukraine",
+    "chineseTitle": "The New Energy Stalemate in Ukraine",
+    "originalUrl": "https://www.foreignaffairs.com/ukraine/new-energy-stalemate-ukraine",
+    "publishedAt": "2026-10-23T12:33:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:11.882Z",
+    "rawDescription": "Tatiana Mitrova, a fellow at Columbia University’s Center on Global Energy Policy and former energy scholar at Moscow’s Russian Academy of Sciences, and Sergey Vakulenko, an oil and gas expert at Carnegie’s Russia Eurasia Center, argue that Russia and Ukraine are locked in an energy war that has become an adaptation spiral, despite growing human and economic costs and despite current US pressure on Ukraine. They observe Ukraine’s remarkable ability to withstand Russian strikes, while questioning claims that long-range Ukrainian strikes will be able to achieve game-changing damage on Russia. Ukraine and Russia have transformed the role of energy warfare in modern conflict, drawing on low costs drones but also new forms of technological resilience that are likely to make wars longer and mor…",
+    "contentSnippet": "Tatiana Mitrova, a fellow at Columbia University’s Center on Global Energy Policy and former energy scholar at Moscow’s Russian Academy of Sciences, and Sergey Vakulenko, an oil and gas expert at Carnegie’s Russia Eurasia Center, argue that Russia and Ukraine are locked in an energy war that has become an adaptation spiral, despite growing human and economic costs and despite current US pressure on Ukraine. They observe Ukraine’s remarkable ability to withstand Russian strikes, while questioning claims that long-range Ukrainian strikes will be able to achieve game-changing damage on Russia. Ukraine and Russia have transformed the role of energy warfare in modern conflict, drawing on low costs drones but also new forms of technological resilience that are likely to make wars longer and mor…",
+    "summaryZh": "基于标题/摘要生成：Tatiana Mitrova，a fellow at Columbia University’s Center on Global Energy 政策 and former energy scholar at Moscow’s Russian Academy of Sciences，and Se…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ruw9rz",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Israel’s Election Won't Change",
+    "chineseTitle": "What Israel’s 选举 Won't Change",
+    "originalUrl": "https://www.foreignaffairs.com/israel/what-israels-election-wont-change",
+    "publishedAt": "2026-10-23T04:00:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:11.883Z",
+    "rawDescription": "The constraints and costs of the new security consensus.",
+    "contentSnippet": "The constraints and costs of the new security consensus.",
+    "summaryZh": "基于标题/摘要生成：The constraints and costs of the new security consensus",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yza0eu",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SN0VBdFQ2M3NjZklpWE1mVWVDb1ZvX1lYaVoxSktxWkk0QWg2RGVBaS1LdTlnaUZ6SDF1MUhQWFIwWUY3Zl9zMjZDY0ZwS0VOUEVSTzRtSG1uUTVMNEtoYjlRcDVfSm9SVlNN?oc=5",
+    "publishedAt": "2026-10-22T14:59:12.000Z",
+    "fetchedAt": "2026-10-26T01:03:39.056Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eq94lq",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "chineseTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9vOFhldnRQS1prUUkyYUdLcjBuczcyelBUWkI0emJmT085WmhVSHgxbkl6Zjk2MDZNVFJ6aVlVUW5EWGNta0dDTUxlTW5RdjJvNDZQTzQwbDFMR0ZwODRYWTBTOS16UERWemc3YXVxY1QtQmRSNUZzOWg5UV8zVFRPTDRTVC1w?oc=5",
+    "publishedAt": "2026-10-06T22:51:57.000Z",
+    "fetchedAt": "2026-10-26T01:03:38.702Z",
+    "rawDescription": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "contentSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com Robert Wilkie"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-10-26T01:03:38.702Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade",
+      "AFPI"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ewrwwd",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Senate Majority Leader John Thune warns Republicans could lose the Senate",
+    "chineseTitle": "参议院 Majority Leader John Thune warns 共和党人 could lose the…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVZvSEtHbEpiMlYtQ0ZHMHdza3kzRm5YRnUzUTVPS280VUZPa2JtWkltN0VXVm0yNDgzcm1PLTEycWEzSU5QUXI2bThQRFF5cXFURVg4Q2tsRjAxOGMtbWNaMlZWNHF4VldTMDltS0JaNlhHcG53NEJxY2w3YmtIRkc5cmtlZ0NNRUh5ZFVYYjRXVm5nN1ZPRVlPVGYtaC01YjNpQ0V6SDhfc2J5aUZYRnFEcXhlOTk1UjZUMzVlQQ?oc=5",
+    "publishedAt": "2026-09-02T07:00:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:38.733Z",
+    "rawDescription": "Senate Majority Leader John Thune warns Republicans could lose the Senate The Washington Post",
+    "contentSnippet": "Senate Majority Leader John Thune warns Republicans could lose the Senate The Washington Post",
+    "summaryZh": "基于标题/摘要生成：参议院 Majority Leader John Thune warns 共和党人 could lose the 参议院 The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "约翰·图恩"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "john-thune",
+        "nameEn": "John Thune",
+        "nameZh": "约翰·图恩",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "John Thune",
+        "confidence": "high",
+        "contextSnippet": "Senate Majority Leader John Thune warns Republicans could lose the Senate Senate Majority Leader John Thune warns Republic"
+      },
+      {
+        "personId": "john-thune",
+        "nameEn": "John Thune",
+        "nameZh": "约翰·图恩",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Thune",
+        "confidence": "low",
+        "contextSnippet": "Senate Majority Leader John Thune warns Republicans could lose the Senate Senate Majority Leader John Thune warns Republic"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "john-thune",
+        "name": "John Thune",
+        "type": "person",
+        "matchedAlias": "John Thune",
+        "confidence": "high",
+        "contextSnippet": "Senate Majority Leader John Thune warns Republicans could lose the Senate Senate Majority Leader John Thune warns Republica"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Senate Majority Leader John Thune warns Republicans could lose the Senate Senate Majority Leader John Thune warns Republicans could lose the"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senate Majority Leader John Thune warns Republicans could lose the Senate Senate Majority Leader"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "John Thune",
+      "Republican Party",
+      "Congress"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"John Thune\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z9c4cg",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5N3RsS052ZUpEQTAxMHBpQUhwNkhRbk5uYVNhLTFrWVZPMC10TjFDV2RCRWdyU19EZElONkJPbFd1ZHA5WGJpVDRpWlEtaEdJYUxXME9hdXJFRnRyX2xiQld4QVY3RlltVWF5QkVVdmRfSEU?oc=5",
+    "publishedAt": "2025-04-09T17:23:05.000Z",
+    "fetchedAt": "2026-10-26T01:03:39.056Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.164Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.165Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9yaq0h",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Addressing Americans Concerns The Case For Funding Ukraines War Against Russia",
+    "chineseTitle": "Addressing Americans Concerns The Case For Funding Ukrain…",
+    "originalUrl": "https://nationalsecurityaction.org/addressing-americans-concerns-the-case-for-funding-ukraines-war-against-russia",
+    "publishedAt": "2024-12-05T00:00:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:18.885Z",
+    "rawDescription": "公开 sitemap 条目：Addressing Americans Concerns The Case For Funding Ukraines War Against Russia",
+    "contentSnippet": "公开 sitemap 条目：Addressing Americans Concerns The Case For Funding Ukraines War Against Russia",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Addressing Americans Concerns The Case For Funding Ukraines War Against Russia",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-26T01:03:18.886Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.043Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-26T01:03:12.041Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
