@@ -1,0 +1,1704 @@
+[
+  {
+    "id": "art_1i4lpc",
+    "sourceName": "Fox News",
+    "sourceDomain": "radio.foxnews.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Are Democrats Setting Up Their Base for Disappointment ?",
+    "chineseTitle": "Are 民主党人 Setting Up Their Base for Disappointment",
+    "originalUrl": "https://radio.foxnews.com/2026/10/24/are-democrats-setting-up-their-base-for-disappointment/",
+    "publishedAt": "2026-10-27T01:54:35.421Z",
+    "fetchedAt": "2026-10-27T01:56:53.578Z",
+    "rawDescription": "",
+    "contentSnippet": "Are Democrats Setting Up Their Base for Disappointment ?",
+    "summaryZh": "基于标题/摘要生成：Are 民主党人 Setting Up Their Base for Disappointment",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Are Democrats Setting Up Their Base for Disappointment ? Are Democrats Setting Up Their Base for Disapp"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Fox News"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "domain:foxnews.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_q8bkkj",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "PublicPageProvider",
+    "originalTitle": "Money, Power, Inequality",
+    "chineseTitle": "Money，Power，Inequality",
+    "originalUrl": "https://www.bostonglobe.com/metro/money-power-inequality/?p1=BGHeader_MainNav",
+    "publishedAt": "2026-10-27T01:53:33.127Z",
+    "fetchedAt": "2026-10-27T01:53:34.958Z",
+    "rawDescription": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "contentSnippet": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "summaryZh": "基于标题/摘要生成：Money，Power，Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"，",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/nation/",
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_geyqf9",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Raskin says oil companies will face consequences for importing Russian diesel",
+    "chineseTitle": "Raskin says oil companies will face consequences for impo…",
+    "originalUrl": "https://thehill.com/homenews/house/6173911-raskin-warns-oil-companies-diesel/",
+    "publishedAt": "2026-10-27T01:49:19.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.717Z",
+    "rawDescription": "Rep. Jamie Raskin (D-Md.), the ranking member on the House Judiciary Committee, said that oil companies will face repercussions if they import Russian diesel, comments that come shortly after President Trump announced a diesel deal with Moscow. In a Monday letter addressed to energy companies, Raskin said oil companies are going to “be held accountable”...",
+    "contentSnippet": "Rep. Jamie Raskin (D-Md.), the ranking member on the House Judiciary Committee, said that oil companies will face repercussions if they import Russian diesel, comments that come shortly after President Trump announced a diesel deal with Moscow. In a Monday letter addressed to energy companies, Raskin said oil companies are going to “be held accountable”...",
+    "summaryZh": "基于标题/摘要生成：Rep. Jamie Raskin (D-Md.)，the ranking member on the 众议院 Judiciary Committee，said that oil companies will face repercussions if they import Russian di…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "e repercussions if they import Russian diesel, comments that come shortly after President Trump announced a diesel deal with Moscow. In a Monday letter addressed to energy companies, Ra"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "e repercussions if they import Russian diesel, comments that come shortly after President Trump announced a diesel deal with Moscow. In a Monday letter addressed to energy companies, Ra"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-house https://thehill.com/homenews/house/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qziv7t",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Judge Temporarily Blocks Further Alterations at D.C.’s East Potomac Park",
+    "chineseTitle": "Judge Temporarily Blocks Further Alterations at D.C.’s Ea…",
+    "originalUrl": "https://www.nytimes.com/2026/10/26/us/politics/trump-golf-reyes-judge-ruling.html",
+    "publishedAt": "2026-10-27T01:29:15.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.831Z",
+    "rawDescription": "A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the president has sought to overhaul a golf course.",
+    "contentSnippet": "A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the president has sought to overhaul a golf course.",
+    "summaryZh": "基于标题/摘要生成：A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the president has sought to overha…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Further Alterations at D.C.’s East Potomac Park Zach Montague A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the pres"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Further Alterations at D.C.'s East Potomac Park Zach Montague A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the pres"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Further Alterations at D.C.'s East Potomac Park Zach Montague A federal judge stopped the Trump administration from cutting trees and prohibited other changes at the park where the president has sough"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4t1m6y",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Judge halts tree removal, imposes new limits on Trump’s golf project",
+    "chineseTitle": "Judge halts tree removal，imposes new limits on Trump’s go…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaE4yTlMweHlSMkVPbWxYY1VibDM1QmJ5QmRObkF6N09xaGNiRVRUcWkwemtjaTd0SVlMdzl5NFJPNXdqZ3lrOVd6TjJsc0h1Y2NqNG56ai1EQUZxdy01WHo1cGl3WnA1VjY0amdwRWZCZDhoV2FSMVpfWENJc1NvU0hnYWF4THNULVpUanU4Tk9oVGhnSWR5WURZVm0wLUdXUUNyb3QyTjNMbHo4VUMxVzVtUQ?oc=5",
+    "publishedAt": "2026-10-27T01:27:49.000Z",
+    "fetchedAt": "2026-10-27T01:53:51.563Z",
+    "rawDescription": "Judge halts tree removal, imposes new limits on Trump’s golf project The Washington Post",
+    "contentSnippet": "Judge halts tree removal, imposes new limits on Trump’s golf project The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Judge halts tree removal，imposes new limits on Trump’s golf project The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Judge halts tree removal, imposes new limits on Trump’s golf project Judge halts tree removal, imposes new limits on Trump’s golf project The"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Judge halts tree removal, imposes new limits on Trump's golf project Judge halts tree removal, imposes new limits on Trump's golf project The W"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\"",
+      "\"Donald Trump\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wjp4ht",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Healey activating National Guard to help contain wildfire that spread into western Mass.",
+    "chineseTitle": "Healey activating National Guard to help contain wildfire…",
+    "originalUrl": "https://www.bostonglobe.com/2026/10/26/metro/healey-activating-national-guard-williamstown-wildfire/",
+    "publishedAt": "2026-10-27T00:58:00.783Z",
+    "fetchedAt": "2026-10-27T01:53:32.392Z",
+    "rawDescription": "公开 sitemap 条目：Healey activating National Guard to help contain wildfire that spread into western Mass.",
+    "contentSnippet": "公开 sitemap 条目：Healey activating National Guard to help contain wildfire that spread into western Mass.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Healey activating National Guard to help contain wildfire that spread into western Mass",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_63vyhe",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How the Campaign War Chests Are Being Spent",
+    "chineseTitle": "How the Campaign War Chests Are Being Spent",
+    "originalUrl": "https://www.theatlantic.com/podcasts/2026/10/ra-midterm-scramble/689146/",
+    "publishedAt": "2026-10-27T00:57:08.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.865Z",
+    "rawDescription": "The Republican spending strategy is about turnout, not persuasion.",
+    "contentSnippet": "The Republican spending strategy is about turnout, not persuasion.",
+    "summaryZh": "基于标题/摘要生成：The Republican spending strategy is about turnout，not persuasion",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "How the Campaign War Chests Are Being Spent Adam Harris The Republican spending strategy is about turnout, not persuasion. The Republican spendin"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Harris",
+        "confidence": "medium",
+        "contextSnippet": "How the Campaign War Chests Are Being Spent Adam Harris The Republican spending strategy is about turnout, not persuasion. The Republican spendin"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Kamala Harris",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a3aqj1",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "DHS suspends visa-free travel program for Chinese nationals amid birth tourism, security concerns",
+    "chineseTitle": "DHS suspends visa-free travel program for 中国 nationals am…",
+    "originalUrl": "https://www.foxnews.com/politics/dhs-suspends-visa-free-travel-program-chinese-nationals-amid-birth-tourism-security-concerns",
+    "publishedAt": "2026-10-27T00:37:54.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.805Z",
+    "rawDescription": "The Trump administration suspended visa-free travel for Chinese nationals to the Northern Mariana Islands amid birth tourism and espionage concerns.",
+    "contentSnippet": "The Trump administration suspended visa-free travel for Chinese nationals to the Northern Mariana Islands amid birth tourism and espionage concerns.",
+    "summaryZh": "基于标题/摘要生成：The Trump administration suspended visa-free travel for 中国 nationals to the Northern Mariana Islands amid birth tourism and espionage concerns",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "visa-free travel program for Chinese nationals amid birth tourism, security concerns The Trump administration suspended visa-free travel for Chinese nationals to the Northern Mariana"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "visa-free travel program for Chinese nationals amid birth tourism, security concerns The Trump administration suspended visa-free travel for Chinese nationals to the Northern Mariana I"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "visa-free travel program for Chinese nationals amid birth tourism, security concerns The Trump administration suspended visa-free travel for Chinese nationals to the Northern Mariana Islands amid bir"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_gk7nkc",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
+    "chineseTitle": "Bob Woodward Criticizes Jeff Bezos in New Memoir",
+    "originalUrl": "https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html",
+    "publishedAt": "2026-10-27T00:24:09.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.832Z",
+    "rawDescription": "Six takeaways from a new memoir by Mr. Woodward, the star Washington Post reporter, including his disappointment with the newspaper’s billionaire owner.",
+    "contentSnippet": "Six takeaways from a new memoir by Mr. Woodward, the star Washington Post reporter, including his disappointment with the newspaper’s billionaire owner.",
+    "summaryZh": "基于标题/摘要生成：Six takeaways from a new memoir，the star Washington Post reporter，including his disappointment with the newspaper’s billionaire owner",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5zao9u",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Hitchhiker's Guide to why removing Ilhan Omar from Congress could be harder than Trump expects",
+    "chineseTitle": "The Hitchhiker's Guide to why removing Ilhan Omar from 美国…",
+    "originalUrl": "https://www.foxnews.com/politics/hitchhikers-guide-why-removing-ilhan-omar-from-congress-could-harder-than-trump-expects",
+    "publishedAt": "2026-10-27T00:14:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.806Z",
+    "rawDescription": "President Trump is urging Rep. Ilhan Omar to resign as the Justice Department investigates potential immigration fraud, raising questions about whether House Republicans could take action against the Minnesota Democrat.",
+    "contentSnippet": "President Trump is urging Rep. Ilhan Omar to resign as the Justice Department investigates potential immigration fraud, raising questions about whether House Republicans could take action against the Minnesota Democrat.",
+    "summaryZh": "基于标题/摘要生成：President Trump is urging Rep. Ilhan Omar to resign as the Justice Department investigates potential immigration fraud，raising questions about whethe…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Hitchhiker's Guide to why removing Ilhan Omar from Congress could be harder than Trump expects President Trump is urging Rep. Ilhan Omar to resign as the Justice Department in"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Hitchhiker's Guide to why removing Ilhan Omar from Congress could be harder than Trump expects President Trump is urging Rep. Ilhan Omar to resign as the Justice Department inv"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "epartment investigates potential immigration fraud, raising questions about whether House Republicans could take action against the Minnesota Democrat. President Trump is urging Rep. Ilhan Om"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "The Hitchhiker's Guide to why removing Ilhan Omar from Congress could be harder than Trump expects President Trump is urging Rep. Ilhan Omar to resign as"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d1x0or",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Islamophobia Is Trump’s Closing Midterm Gambit",
+    "chineseTitle": "Islamophobia Is Trump’s Closing Midterm Gambit",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/10/islamophobia-trump-midterms-el-sayed/689168/",
+    "publishedAt": "2026-10-26T23:22:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.866Z",
+    "rawDescription": "President Trump and his allies are ending the campaign with naked but nonsensical appeals to anti-Muslim bigotry.",
+    "contentSnippet": "President Trump and his allies are ending the campaign with naked but nonsensical appeals to anti-Muslim bigotry.",
+    "summaryZh": "基于标题/摘要生成：President Trump and his allies are ending the campaign with naked but nonsensical appeals to anti-Muslim bigotry",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Islamophobia Is Trump’s Closing Midterm Gambit David A. Graham President Trump and his allies are ending the ca"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Islamophobia Is Trump's Closing Midterm Gambit David A. Graham President Trump and his allies are ending the ca"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_m6wljn",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "James Comey charged again by the DOJ",
+    "chineseTitle": "James Comey charged again by the DOJ",
+    "originalUrl": "https://www.axios.com/2026/10/26/james-comey-national-defense-information-charges",
+    "publishedAt": "2026-10-26T23:05:31.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.654Z",
+    "rawDescription": "Former FBI director James Comey is facing new federal charges, according to a charging document made public on Monday. Why it matters: The charges mark the third time the Trump administration has charged Comey. He has been a subject of the president's ire since his dismissal from the first Trump administration in 2017. Driving the news: Prosecutors allege Comey directed the disclosure of national defense information to a reporter through one or more co-conspirators in October 2016, while he was serving as FBI director . He is charged with participating in the transmission of national defense information and conspiracy to transmit national defense information. The case has been ongoing under seal since early October. What they're saying: A DOJ spokesperson told Axios that the case is an \"o…",
+    "contentSnippet": "Former FBI director James Comey is facing new federal charges, according to a charging document made public on Monday. Why it matters: The charges mark the third time the Trump administration has charged Comey. He has been a subject of the president's ire since his dismissal from the first Trump administration in 2017. Driving the news: Prosecutors allege Comey directed the disclosure of national defense information to a reporter through one or more co-conspirators in October 2016, while he was serving as FBI director . He is charged with participating in the transmission of national defense information and conspiracy to transmit national defense information. The case has been ongoing under seal since early October. What they're saying: A DOJ spokesperson told Axios that the case is an \"o…",
+    "summaryZh": "基于标题/摘要生成：Former FBI director James Comey is facing new federal charges，according to a charging document made public on Monday. Why it matters：The charges mark…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "rging document made public on Monday. Why it matters: The charges mark the third time the Trump administration has charged Comey. He has been a subject of the president's ire since his"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "rging document made public on Monday. Why it matters: The charges mark the third time the Trump administration has charged Comey. He has been a subject of the president's ire since his"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "rging document made public on Monday. Why it matters: The charges mark the third time the Trump administration has charged Comey. He has been a subject of the president's ire since his dismissal from"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vguu86",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Inside Anthropic's massive — and wild — IPO prospectus",
+    "chineseTitle": "Inside Anthropic's massive — and wild — IPO prospectus",
+    "originalUrl": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
+    "publishedAt": "2026-10-26T22:58:44.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.656Z",
+    "rawDescription": "There has never been a company like Anthropic. It owes almost $650 billion for computing, generates eye-popping revenue per employee and wants every investor to know that its product poses existential risks to humanity. Why it matters : The future of the AI race, the market and the global economy rest within Anthropic's IPO prospectus, where some of Silicon Valley's most seasoned investors found new reasons to be bullish. They also found warning signs. A wager on Anthropic is a bet not just that AI will deliver on its enormous promise, but that customers will keep spending at a rate that keeps pace with massive computing costs. It's also a bet that Anthropic can continue to deliver models good enough to justify premium prices, even as competition intensifies and cheaper alternatives impro…",
+    "contentSnippet": "There has never been a company like Anthropic. It owes almost $650 billion for computing, generates eye-popping revenue per employee and wants every investor to know that its product poses existential risks to humanity. Why it matters : The future of the AI race, the market and the global economy rest within Anthropic's IPO prospectus, where some of Silicon Valley's most seasoned investors found new reasons to be bullish. They also found warning signs. A wager on Anthropic is a bet not just that AI will deliver on its enormous promise, but that customers will keep spending at a rate that keeps pace with massive computing costs. It's also a bet that Anthropic can continue to deliver models good enough to justify premium prices, even as competition intensifies and cheaper alternatives impro…",
+    "summaryZh": "基于标题/摘要生成：There has never been a company like Anthropic. It owes almost $650 billion for computing，generates eye-popping revenue per employee and wants every i…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ozq1ap",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Lula Defies Latin America’s Pro-Trump Wave",
+    "chineseTitle": "Lula Defies Latin America’s Pro-Trump Wave",
+    "originalUrl": "https://foreignpolicy.com/2026/10/26/brazil-election-lula-flavio-bolsonaro-far-right-trump/",
+    "publishedAt": "2026-10-26T19:20:32.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.857Z",
+    "rawDescription": "Brazil’s left-wing president won a historic fourth term in office.",
+    "contentSnippet": "Brazil’s left-wing president won a historic fourth term in office.",
+    "summaryZh": "基于标题/摘要生成：Brazil’s left-wing president won a historic fourth term in office",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Lula Defies Latin America’s Pro-Trump Wave Catherine Osborn Brazil’s left-wing president won a historic fourth term in office."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Lula Defies Latin America's Pro-Trump Wave Catherine Osborn Brazil's left-wing president won a historic fourth term in office."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5n6mjs",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats, world leaders congratulate Trump critic Lula on reelection in Brazil",
+    "chineseTitle": "民主党人，world leaders congratulate Trump critic Lula on reel…",
+    "originalUrl": "https://thehill.com/policy/international/6172962-lula-wins-brazilian-presidency/",
+    "publishedAt": "2026-10-26T18:59:57.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.718Z",
+    "rawDescription": "Democratic lawmakers in the U.S. and leaders around the world congratulated Brazilian President Luiz Inácio Lula da Silva, commonly known as Lula, for winning an unprecedented fourth term Sunday. Lula, an outspoken critic of President Trump, defeated Flávio Bolsonaro in Sunday’s runoff election. Bolsonaro is the son of Brazil’s former far-right leader Jair Bolsonaro, who is...",
+    "contentSnippet": "Democratic lawmakers in the U.S. and leaders around the world congratulated Brazilian President Luiz Inácio Lula da Silva, commonly known as Lula, for winning an unprecedented fourth term Sunday. Lula, an outspoken critic of President Trump, defeated Flávio Bolsonaro in Sunday’s runoff election. Bolsonaro is the son of Brazil’s former far-right leader Jair Bolsonaro, who is...",
+    "summaryZh": "基于标题/摘要生成：Democratic lawmakers in the U.S. and leaders around the world congratulated Brazilian President Luiz Inácio Lula da Silva，commonly known as Lula，for…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Democrats, world leaders congratulate Trump critic Lula on reelection in Brazil Ryan Mancini Democratic lawmakers in the U.S. and lea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Democrats, world leaders congratulate Trump critic Lula on reelection in Brazil Ryan Mancini Democratic lawmakers in the U.S. and lea"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats, world leaders congratulate Trump critic Lula on reelection in Brazil Ryan Mancini Democr"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ant2zw",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China’s Overcapacity Has a Mind of Its Own",
+    "chineseTitle": "中国’s Overcapacity Has a Mind of Its Own",
+    "originalUrl": "https://foreignpolicy.com/2026/10/26/beijing-overcapacity-exports-manufacturing/",
+    "publishedAt": "2026-10-26T16:28:58.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.858Z",
+    "rawDescription": "Beijing can’t rein in its own industrial machine.",
+    "contentSnippet": "Beijing can’t rein in its own industrial machine.",
+    "summaryZh": "基于标题/摘要生成：北京 can’t rein in its own industrial machine",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_mwkphf",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Epstein election?",
+    "chineseTitle": "The Epstein 选举",
+    "originalUrl": "https://www.politico.com/video/2026/10/26/the-epstein-election-2211771",
+    "publishedAt": "2026-10-26T09:45:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.767Z",
+    "rawDescription": "The Epstein election? lead image",
+    "contentSnippet": "The Epstein election? lead image",
+    "summaryZh": "基于标题/摘要生成：The Epstein 选举? lead image",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kkzduv",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Spurned by Trump, these outgoing Republicans aren’t helping their potential successors",
+    "chineseTitle": "Spurned，these outgoing 共和党人 aren’t helping their potentia…",
+    "originalUrl": "https://www.politico.com/news/2026/10/26/republicans-trump-spurned-cornyn-tillis-amodei-01134258",
+    "publishedAt": "2026-10-26T08:45:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.768Z",
+    "rawDescription": "They were snubbed on their way out of office. Their revenge is indifference.",
+    "contentSnippet": "They were snubbed on their way out of office. Their revenge is indifference.",
+    "summaryZh": "基于标题/摘要生成：They were snubbed on their way out of office. Their revenge is indifference",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Spurned by Trump, these outgoing Republicans aren’t helping their potential successors By Alec Hernandez,"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Spurned by Trump, these outgoing Republicans aren't helping their potential successors By Alec Hernandez,"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Spurned by Trump, these outgoing Republicans aren't helping their potential successors By Alec Hernandez, Andrew Howard, Jordain Carne"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "site:politico.com Congress China OR Taiwan OR Trump",
+      "\"Republican Party\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_efrinc",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The New Energy Stalemate in Ukraine",
+    "chineseTitle": "The New Energy Stalemate in Ukraine",
+    "originalUrl": "https://www.foreignaffairs.com/ukraine/new-energy-stalemate-ukraine",
+    "publishedAt": "2026-10-23T12:33:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.695Z",
+    "rawDescription": "Tatiana Mitrova, a fellow at Columbia University’s Center on Global Energy Policy and former energy scholar at Moscow’s Russian Academy of Sciences, and Sergey Vakulenko, an oil and gas expert at Carnegie’s Russia Eurasia Center, argue that Russia and Ukraine are locked in an energy war that has become an adaptation spiral, despite growing human and economic costs and despite current US pressure on Ukraine. They observe Ukraine’s remarkable ability to withstand Russian strikes, while questioning claims that long-range Ukrainian strikes will be able to achieve game-changing damage on Russia. Ukraine and Russia have transformed the role of energy warfare in modern conflict, drawing on low costs drones but also new forms of technological resilience that are likely to make wars longer and mor…",
+    "contentSnippet": "Tatiana Mitrova, a fellow at Columbia University’s Center on Global Energy Policy and former energy scholar at Moscow’s Russian Academy of Sciences, and Sergey Vakulenko, an oil and gas expert at Carnegie’s Russia Eurasia Center, argue that Russia and Ukraine are locked in an energy war that has become an adaptation spiral, despite growing human and economic costs and despite current US pressure on Ukraine. They observe Ukraine’s remarkable ability to withstand Russian strikes, while questioning claims that long-range Ukrainian strikes will be able to achieve game-changing damage on Russia. Ukraine and Russia have transformed the role of energy warfare in modern conflict, drawing on low costs drones but also new forms of technological resilience that are likely to make wars longer and mor…",
+    "summaryZh": "基于标题/摘要生成：Tatiana Mitrova，a fellow at Columbia University’s Center on Global Energy 政策 and former energy scholar at Moscow’s Russian Academy of Sciences，and Se…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ruw9rz",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Israel’s Election Won’t Change",
+    "chineseTitle": "What Israel’s 选举 Won’t Change",
+    "originalUrl": "https://www.foreignaffairs.com/israel/what-israels-election-wont-change",
+    "publishedAt": "2026-10-23T04:00:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.696Z",
+    "rawDescription": "The constraints and costs of the new security consensus.",
+    "contentSnippet": "The constraints and costs of the new security consensus.",
+    "summaryZh": "基于标题/摘要生成：The constraints and costs of the new security consensus",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yza0eu",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SN0VBdFQ2M3NjZklpWE1mVWVDb1ZvX1lYaVoxSktxWkk0QWg2RGVBaS1LdTlnaUZ6SDF1MUhQWFIwWUY3Zl9zMjZDY0ZwS0VOUEVSTzRtSG1uUTVMNEtoYjlRcDVfSm9SVlNN?oc=5",
+    "publishedAt": "2026-10-22T14:59:12.000Z",
+    "fetchedAt": "2026-10-27T01:53:51.917Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xa1scc",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Power struggle erupts in Trump’s White House as midterm losses loom",
+    "chineseTitle": "Power struggle erupts in Trump’s White 众议院 as midterm los…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVVVTURrb1VQcVNwWEFMX2xYUnlQSV95TFV6MVJ4ZTBKSENmcmtHM29HeGVsYkZKMUI0RC1DbHpJdDM2dXNmcDFEanlFUnd6QmtNeEtQNzR0c1FhanlnbW9scU02cXpLdkRmWU9XTTRfZG9YWFd3UDJYbHVuR0dhTHpsV2FmRk9JbElGVDBWRFAycHJuT0E0NDh5ZG1sYnRtUXNOVU5SUUdoVkJhMnc?oc=5",
+    "publishedAt": "2026-10-16T07:00:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:51.591Z",
+    "rawDescription": "Power struggle erupts in Trump’s White House as midterm losses loom The Washington Post",
+    "contentSnippet": "Power struggle erupts in Trump’s White House as midterm losses loom The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Power struggle erupts in Trump’s White 众议院 as midterm losses loom The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Power struggle erupts in Trump’s White House as midterm losses loom Power struggle erupts in Trump’s White House as mid"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Power struggle erupts in Trump's White House as midterm losses loom Power struggle erupts in Trump's White House as midt"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Power struggle erupts in Trump's White House as midterm losses loom Power struggle erupts in Trump's White House as midterm losses loo"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Susie Wiles"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Susie Wiles\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eq94lq",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "chineseTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9vOFhldnRQS1prUUkyYUdLcjBuczcyelBUWkI0emJmT085WmhVSHgxbkl6Zjk2MDZNVFJ6aVlVUW5EWGNta0dDTUxlTW5RdjJvNDZQTzQwbDFMR0ZwODRYWTBTOS16UERWemc3YXVxY1QtQmRSNUZzOWg5UV8zVFRPTDRTVC1w?oc=5",
+    "publishedAt": "2026-10-06T22:51:57.000Z",
+    "fetchedAt": "2026-10-27T01:53:51.555Z",
+    "rawDescription": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "contentSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com Robert Wilkie"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-10-27T01:53:51.556Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade",
+      "\"Robert Lighthizer\" Trump",
+      "AFPI"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:32.355Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.926Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.927Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-27T01:53:32.354Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.822Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-10-27T01:53:27.821Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ky0cb",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUUtyTnV2Nm5EQUd1VnJ3RTN6czVoMzBYQ1NxUEhISmNiQ3RnUHZnYjFTMWp1bTlHVElOVl9wdmJsM3lfQ2VfWHU2VFVJODdVaFE?oc=5",
+    "publishedAt": "2022-05-17T16:17:39.000Z",
+    "fetchedAt": "2026-10-27T01:53:51.916Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
