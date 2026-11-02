@@ -1,0 +1,1670 @@
+[
+  {
+    "id": "art_46qe0e",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Final Polls Show a Blue Surge. Can We Trust Them?",
+    "chineseTitle": "The Final Polls Show a Blue Surge. Can We Trust Them",
+    "originalUrl": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
+    "publishedAt": "2026-11-02T02:03:37.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.811Z",
+    "rawDescription": "New Times/Siena surveys show Democrats leading in all the key battlegrounds that will decide Senate control.",
+    "contentSnippet": "New Times/Siena surveys show Democrats leading in all the key battlegrounds that will decide Senate control.",
+    "summaryZh": "基于标题/摘要生成：New Times，Siena surveys show 民主党人 leading in all the key battlegrounds that will decide 参议院 control",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Final Polls Show a Blue Surge. Can We Trust Them? Nate Cohn New Times/Siena surveys show Democrats leading in all the key battlegrounds that will decide Senate control. New Times/Siena sur"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Times/Siena surveys show Democrats leading in all the key battlegrounds that will decide Senate control. New Times/Siena surveys show Democrats leading in all the key battlegrounds that"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tzxg0u",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "JD Vance may announce a 2028 run. First, he has to get through the midterms.",
+    "chineseTitle": "JD Vance may announce a 2028 run. First，he has to get thr…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObi1jZ2pGb1FORjl5RDJBallnLUtGU0JCU2dSbVc0TVhyNm0xd1ZUanExWEI1WkFRdURSZmxmS0Z1NkZ2NUhHWnBJMXN6RUp0ZW5JVDZYYlNuTHlqajI1TGltYlJQbTZ2Q2lyWHp0dWJqMGd5VE1ReWV5TlpjZEgxbEZ2REtsbVZkRXY3R0piaC1CSEVoenZQYTZKZUdVSXc2YmlPY1hxbEdlTnBpLTN5a2FnZ1RSZEE?oc=5",
+    "publishedAt": "2026-11-02T02:02:33.000Z",
+    "fetchedAt": "2026-11-02T02:11:14.087Z",
+    "rawDescription": "JD Vance may announce a 2028 run. First, he has to get through the midterms. The Washington Post",
+    "contentSnippet": "JD Vance may announce a 2028 run. First, he has to get through the midterms. The Washington Post",
+    "summaryZh": "基于标题/摘要生成：JD Vance may announce a 2028 run. First，he has to get through the midterms. The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "JD Vance may announce a 2028 run. First, he has to get through the midterms. JD Vance may announc"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "JD Vance may announce a 2028 run. First, he has to get through the midterms. JD Vance may announc"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "JD Vance may announce a 2028 run. First, he has to get through the midterms. JD Vance may announce"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "JD Vance",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"JD Vance\"",
+      "\"JD Vance\" Trump",
+      "\"Republican Party\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_sf2ni",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Sweden’s Andreas Almgren, Kenya’s Sheila Chepkirui claim New York City marathon titles",
+    "chineseTitle": "Sweden’s Andreas Almgren，Kenya’s Sheila Chepkirui claim N…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/01/sports/new-york-city-marathon-winners-results/",
+    "publishedAt": "2026-11-02T02:01:48.247Z",
+    "fetchedAt": "2026-11-02T02:10:55.301Z",
+    "rawDescription": "公开 sitemap 条目：Sweden’s Andreas Almgren, Kenya’s Sheila Chepkirui claim New York City marathon titles",
+    "contentSnippet": "公开 sitemap 条目：Sweden’s Andreas Almgren, Kenya’s Sheila Chepkirui claim New York City marathon titles",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Sweden’s Andreas Almgren，Kenya’s Sheila Chepkirui claim New York City marathon titles",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d8ewje",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Stingy defense, Jayson Tatum’s 32 points help Celtics put away Magic for fifth straight win",
+    "chineseTitle": "Stingy defense，Jayson Tatum’s 32 points help Celtics put…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/01/sports/celtics-magic/",
+    "publishedAt": "2026-11-02T02:01:35.451Z",
+    "fetchedAt": "2026-11-02T02:10:55.302Z",
+    "rawDescription": "公开 sitemap 条目：Stingy defense, Jayson Tatum’s 32 points help Celtics put away Magic for fifth straight win",
+    "contentSnippet": "公开 sitemap 条目：Stingy defense, Jayson Tatum’s 32 points help Celtics put away Magic for fifth straight win",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Stingy defense，Jayson Tatum’s 32 points help Celtics put away Magic for fifth straight win",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9prkzt",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+    "chineseTitle": "民主党人 Show Strength in Final Days of Race for the 参议院，New…",
+    "originalUrl": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+    "publishedAt": "2026-11-02T00:53:08.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.812Z",
+    "rawDescription": "Democrats are up in Michigan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found.",
+    "contentSnippet": "Democrats are up in Michigan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found.",
+    "summaryZh": "基于标题/摘要生成：民主党人 are up in Michigan，Texas，Kansas，Maine and Ohio，have an edge in Alaska and are effectively tied with 共和党人 in Iowa，new New York Times，Siena polls…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find Shane Goldmacher and R"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "igan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found. Democrats are up in Michigan, Texas, Kansa"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find Shane Goldmacher and Ruth Igielnik Democrats are up in Michigan, Texas, K"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_l34n2e",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+    "chineseTitle": "Haley Stevens endorses Mike Rogers amid Michigan Democrat…",
+    "originalUrl": "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+    "publishedAt": "2026-11-01T23:29:34.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.641Z",
+    "rawDescription": "Rep. Haley Stevens (D-Mich.) made a stunning last-minute endorsement of Republican Mike Rogers on Sunday, two days before Michigan's closely watched Senate election . Why it matters: Her endorsement gives Rogers a striking photo op as his party tries to peel away Black and Jewish voters in a tight race that could determine control of the Senate . Driving the news: Stevens appeared Sunday alongside Rogers at Detroit's Perfecting Church, where she praised his support for Black-owned businesses. Stevens later posted an endorsement on X. In a video, she said Democratic nominee Abdul El-Sayed told her she was no longer welcome in his campaign. \"And he's right, and that's why I am endorsing Mike Rogers for the United States Senate today,\" Stevens said. Stevens' appearance with Rogers was arrang…",
+    "contentSnippet": "Rep. Haley Stevens (D-Mich.) made a stunning last-minute endorsement of Republican Mike Rogers on Sunday, two days before Michigan's closely watched Senate election . Why it matters: Her endorsement gives Rogers a striking photo op as his party tries to peel away Black and Jewish voters in a tight race that could determine control of the Senate . Driving the news: Stevens appeared Sunday alongside Rogers at Detroit's Perfecting Church, where she praised his support for Black-owned businesses. Stevens later posted an endorsement on X. In a video, she said Democratic nominee Abdul El-Sayed told her she was no longer welcome in his campaign. \"And he's right, and that's why I am endorsing Mike Rogers for the United States Senate today,\" Stevens said. Stevens' appearance with Rogers was arrang…",
+    "summaryZh": "基于标题/摘要生成：Rep. Haley Stevens (D-Mich.) made a stunning last-minute endorsement of Republican Mike Rogers on Sunday，two days before Michigan's closely watched 参…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "dorsement of Republican Mike Rogers on Sunday, two days before Michigan's closely watched Senate election . Why it matters: Her endorsement gives Rogers a striking photo op as his party"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k4ixdp",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Where Dems eyeing the White House are putting their midterm chips",
+    "chineseTitle": "Where Dems eyeing 白宫 are putting their midterm 芯片",
+    "originalUrl": "https://www.axios.com/2026/11/01/2028-democrats-midterm-bets",
+    "publishedAt": "2026-11-01T22:45:06.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.644Z",
+    "rawDescription": "Pennsylvania Gov. Josh Shapiro 's chances of being a presidential contender in 2028 are riding on his winning reelection in a landslide Tuesday. New York Rep. Alexandria Ocasio-Cortez 's future hinges on whether a fellow progressive can carry a swing state, for once. California Gov. Gavin Newsom has to show that his congressional redistricting gambit worked for Democrats — and he needs to beat back a state wealth tax proposal supported by Sen. Bernie Sanders (I-Vt.). Driving the news: Democrats eyeing White House runs have spent the past year preparing to emerge from Tuesday's midterms with momentum, and an argument for a 2028 candidacy. They want Democrats to do well — but to each, some races are especially important. Some have focused their time and money on particular contests for ideo…",
+    "contentSnippet": "Pennsylvania Gov. Josh Shapiro 's chances of being a presidential contender in 2028 are riding on his winning reelection in a landslide Tuesday. New York Rep. Alexandria Ocasio-Cortez 's future hinges on whether a fellow progressive can carry a swing state, for once. California Gov. Gavin Newsom has to show that his congressional redistricting gambit worked for Democrats — and he needs to beat back a state wealth tax proposal supported by Sen. Bernie Sanders (I-Vt.). Driving the news: Democrats eyeing White House runs have spent the past year preparing to emerge from Tuesday's midterms with momentum, and an argument for a 2028 candidacy. They want Democrats to do well — but to each, some races are especially important. Some have focused their time and money on particular contests for ideo…",
+    "summaryZh": "基于标题/摘要生成：Pennsylvania Gov. Josh Shapiro 's chances of being a presidential contender in 2028 are riding on his winning reelection in a landslide Tuesday. New…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "加文·纽森"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "gavin-newsom",
+        "nameEn": "Gavin Newsom",
+        "nameZh": "加文·纽森",
+        "team": "民主党重点人物",
+        "matchedAlias": "Gavin Newsom",
+        "confidence": "high",
+        "contextSnippet": "hinges on whether a fellow progressive can carry a swing state, for once. California Gov. Gavin Newsom has to show that his congressional redistricting gambit worked for Democrats — and he ne"
+      },
+      {
+        "personId": "gavin-newsom",
+        "nameEn": "Gavin Newsom",
+        "nameZh": "加文·纽森",
+        "team": "民主党重点人物",
+        "matchedAlias": "Newsom",
+        "confidence": "low",
+        "contextSnippet": "s on whether a fellow progressive can carry a swing state, for once. California Gov. Gavin Newsom has to show that his congressional redistricting gambit worked for Democrats — and he ne"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "gavin-newsom",
+        "name": "Gavin Newsom",
+        "type": "person",
+        "matchedAlias": "Gavin Newsom",
+        "confidence": "high",
+        "contextSnippet": "hinges on whether a fellow progressive can carry a swing state, for once. California Gov. Gavin Newsom has to show that his congressional redistricting gambit worked for Democrats — and he nee"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "rnia Gov. Gavin Newsom has to show that his congressional redistricting gambit worked for Democrats — and he needs to beat back a state wealth tax proposal supported by Sen. Bernie Sanders"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Where Dems eyeing the White House are putting their midterm chips Pennsylvania Gov. Josh Shapiro 's chances of being a pres"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Gavin Newsom",
+      "Democratic Party",
+      "White House",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"White House\""
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ichs2",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "DOJ set to appeal ruling in Alaska Senate race dispute over ‘Decoy Dan’",
+    "chineseTitle": "DOJ set to appeal ruling in Alaska 参议院 race dispute over…",
+    "originalUrl": "https://www.foxnews.com/politics/doj-set-appeal-ruling-alaska-senate-race-dispute-over-decoy-dan",
+    "publishedAt": "2026-11-01T22:16:21.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.785Z",
+    "rawDescription": "A federal judge rejected the DOJ's lawsuit to delay Alaska Senate election certification over the Dan Sullivan candidate controversy.",
+    "contentSnippet": "A federal judge rejected the DOJ's lawsuit to delay Alaska Senate election certification over the Dan Sullivan candidate controversy.",
+    "summaryZh": "基于标题/摘要生成：A federal judge rejected the DOJ's lawsuit to delay Alaska 参议院 选举 certification over the Dan Sullivan candidate controversy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "udge rejected the DOJ's lawsuit to delay Alaska Senate election certification over the Dan Sullivan candidate controversy. A federal judge rejected the DOJ's lawsuit to delay Alaska Senate"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "dge rejected the DOJ's lawsuit to delay Alaska Senate election certification over the Dan Sullivan candidate controversy. A federal judge rejected the DOJ's lawsuit to delay Alaska Senate"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "DOJ set to appeal ruling in Alaska Senate race dispute over 'Decoy Dan' A federal judge rejected the DOJ's lawsuit to delay Alaska"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Jake Sullivan",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cap997",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Haley Stevens Is Sending the Wrong Message",
+    "chineseTitle": "Haley Stevens Is Sending the Wrong Message",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/11/haley-stevens-sending-wrong-message/689250/",
+    "publishedAt": "2026-11-01T21:18:01.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.843Z",
+    "rawDescription": "In trying to stand up for one minority religious group, she is conveying her comfort with bigotry toward another.",
+    "contentSnippet": "In trying to stand up for one minority religious group, she is conveying her comfort with bigotry toward another.",
+    "summaryZh": "基于标题/摘要生成：In trying to stand up for one minority religious group，she is conveying her comfort with bigotry toward another",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fr001h",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats eye state supreme court races — this year and beyond",
+    "chineseTitle": "民主党人 eye state supreme court races — this year and beyond",
+    "originalUrl": "https://www.politico.com/news/2026/11/01/state-supreme-court-midterm-elections-01144147",
+    "publishedAt": "2026-11-01T21:00:00.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.742Z",
+    "rawDescription": "National groups are spending money in battleground judicial races with the hope of liberal majorities in two years.",
+    "contentSnippet": "National groups are spending money in battleground judicial races with the hope of liberal majorities in two years.",
+    "summaryZh": "基于标题/摘要生成：National groups are spending money in battleground judicial races with the hope of liberal majorities in two years",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats eye state supreme court races — this year and beyond By Casey He National groups are spen"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gexiz",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Searches for a Fall Guy to Blame for Iran",
+    "chineseTitle": "Trump Searches for a Fall Guy to Blame for Iran",
+    "originalUrl": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247/",
+    "publishedAt": "2026-11-01T19:16:17.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.844Z",
+    "rawDescription": "The president might resume strikes, but he is also questioning allies about the performances of Pete Hegseth and Dan Caine.",
+    "contentSnippet": "The president might resume strikes, but he is also questioning allies about the performances of Pete Hegseth and Dan Caine.",
+    "summaryZh": "基于标题/摘要生成：The president might resume strikes，but he is also questioning allies about the performances of Pete Hegseth and Dan Caine",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Searches for a Fall Guy to Blame for Iran The president might resume strikes, but he is"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "resident might resume strikes, but he is also questioning allies about the performances of Pete Hegseth and Dan Caine. The president might resume strikes, but he is also questioning allies abo"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "ent might resume strikes, but he is also questioning allies about the performances of Pete Hegseth and Dan Caine. The president might resume strikes, but he is also questioning allies abo"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Searches for a Fall Guy to Blame for Iran The president might resume strikes, but he is a"
+      },
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "esident might resume strikes, but he is also questioning allies about the performances of Pete Hegseth and Dan Caine. The president might resume strikes, but he is also questioning allies abou"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Pete Hegseth",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"Donald Trump\"",
+      "\"Pete Hegseth\"",
+      "\"Donald Trump\" Trump",
+      "\"Pete Hegseth\" Trump",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_oz0hvf",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan Senate",
+    "chineseTitle": "Democratic Rep. Haley Stevens endorses Republican Mike Ro…",
+    "originalUrl": "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698",
+    "publishedAt": "2026-11-01T17:44:25.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.743Z",
+    "rawDescription": "It's a blow for Democratic nominee Abdul El-Sayed in the final days of his campaign, and an escalation of their feud.",
+    "contentSnippet": "It's a blow for Democratic nominee Abdul El-Sayed in the final days of his campaign, and an escalation of their feud.",
+    "summaryZh": "基于标题/摘要生成：It's a blow for Democratic nominee Abdul El-Sayed in the final days of his campaign，and an escalation of their feud",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan Senate By Lisa Kashinsky It's a blow for Democratic nominee Abdul El-Sayed in the final days of"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_x81wpj",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "'Squad' rakes in record $2.35M while slamming the door on cop donations",
+    "chineseTitle": "'Squad' rakes in record $2.35M while slamming the door on…",
+    "originalUrl": "https://www.foxnews.com/politics/squad-rakes-record-2-35m-slamming-door-cop-donations",
+    "publishedAt": "2026-11-01T16:50:54.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.786Z",
+    "rawDescription": "The Squad Victory Fund raised a record $2.35 million this cycle while explicitly barring donations from the Fraternal Order of Police union.",
+    "contentSnippet": "The Squad Victory Fund raised a record $2.35 million this cycle while explicitly barring donations from the Fraternal Order of Police union.",
+    "summaryZh": "基于标题/摘要生成：The Squad Victory Fund raised a record $2.35 million this cycle while explicitly barring donations from the Fraternal Order of Police union",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_e8uvok",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Evacuees from Russia-controlled Oleshky arrive back in Ukraine amid U.S.-brokered ceasefire",
+    "chineseTitle": "Evacuees from Russia-controlled Oleshky arrive back in Uk…",
+    "originalUrl": "https://thehill.com/policy/international/6186192-oleshky-residents-return-ukraine/",
+    "publishedAt": "2026-10-31T17:22:03.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.696Z",
+    "rawDescription": "Residents evacuated from the Russian-occupied city of Oleshky arrived back in Ukraine on Saturday amid a localized U.S.-brokered ceasefire agreement. The halt in fighting, which was secured earlier this month by first lady Melania Trump, went into effect on Tuesday and is set to last through Saturday. Residents were given the choice of being transported...",
+    "contentSnippet": "Residents evacuated from the Russian-occupied city of Oleshky arrived back in Ukraine on Saturday amid a localized U.S.-brokered ceasefire agreement. The halt in fighting, which was secured earlier this month by first lady Melania Trump, went into effect on Tuesday and is set to last through Saturday. Residents were given the choice of being transported...",
+    "summaryZh": "基于标题/摘要生成：Residents evacuated from the Russian-occupied city of Oleshky arrived back in Ukraine on Saturday amid a localized U.S.-brokered ceasefire agreement.…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "reement. The halt in fighting, which was secured earlier this month by first lady Melania Trump, went into effect on Tuesday and is set to last through Saturday. Residents were given th"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "reement. The halt in fighting, which was secured earlier this month by first lady Melania Trump, went into effect on Tuesday and is set to last through Saturday. Residents were given th"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jmyqex",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iran&#039;s Supreme Leader threatens US with response if strikes are launched after midterms",
+    "chineseTitle": "Iran&#039;s Supreme Leader threatens US with response if…",
+    "originalUrl": "https://thehill.com/policy/international/6186134-khamenei-warns-iran-strikes/",
+    "publishedAt": "2026-10-31T15:51:26.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.698Z",
+    "rawDescription": "Iranian Supreme Leader Mojtaba Khamenei issued a stark message on Friday, warning the U.S. against its reported plans to resume strikes against the country following the midterm elections. Khamenei directed senior Iranian military officials in a meeting to deliver an “immediate, impactful response without geographical limitations,” according to Iran’s official IRNA news agency. The leader...",
+    "contentSnippet": "Iranian Supreme Leader Mojtaba Khamenei issued a stark message on Friday, warning the U.S. against its reported plans to resume strikes against the country following the midterm elections. Khamenei directed senior Iranian military officials in a meeting to deliver an “immediate, impactful response without geographical limitations,” according to Iran’s official IRNA news agency. The leader...",
+    "summaryZh": "基于标题/摘要生成：Iranian Supreme Leader Mojtaba Khamenei issued a stark message on Friday，warning the U.S. against its reported plans to resume strikes against the co…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g0f3p8",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Why this Mississippi Dem invited Kamala Harris to campaign | CNN Politics",
+    "chineseTitle": "Why this Mississippi Dem invited 哈里斯 to campaign | CNN Po…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVERzMmhFOXNaSWRndDVZYV9jdnFVYnRuVEtIYnFkTFJPOWQyd1hjbjJLMWxQRW9uVmV5WmlMems3VDFrRXhaTUMxWEdGMUhiTE1fV2tSUG03YmFPNWpCNDZNQlNuVmMxd0NUNlJiMk5KQ285YUpjZ01jY0pUTlhnampzZEpNQXlHSHY5Z0VreERkUV93UDczSERabExKUVJLUmgwdl9DZGU5WDlRUkFIcEw2ZUROdw?oc=5",
+    "publishedAt": "2026-10-31T14:44:00.000Z",
+    "fetchedAt": "2026-11-02T02:11:14.125Z",
+    "rawDescription": "Why this Mississippi Dem invited Kamala Harris to campaign | CNN Politics CNN",
+    "contentSnippet": "Why this Mississippi Dem invited Kamala Harris to campaign | CNN Politics CNN",
+    "summaryZh": "基于标题/摘要生成：Why this Mississippi Dem invited 哈里斯 to campaign | CNN Politics CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Why this Mississippi Dem invited Kamala Harris to campaign | CNN Politics Why this Mississippi Dem invited Kamala Harris to campaign |"
+      },
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "Why this Mississippi Dem invited Kamala Harris to campaign | CNN Politics Why this Mississippi Dem invited Kamala Harris to campaign |"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Kamala Harris",
+        "confidence": "high",
+        "contextSnippet": "Why this Mississippi Dem invited Kamala Harris to campaign | CNN Politics Why this Mississippi Dem invited Kamala Harris to campaign | C"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Kamala Harris"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Kamala Harris\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dz5x55",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "AI Isn’t a Revolution—Yet",
+    "chineseTitle": "AI Isn’t a Revolution—Yet",
+    "originalUrl": "https://foreignpolicy.com/2026/10/30/artificial-intelligence-ai-revolution-technology-history-luddites/",
+    "publishedAt": "2026-10-30T19:00:32.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.835Z",
+    "rawDescription": "Just as British people did with steam power, the American public can shape how this technology spreads.",
+    "contentSnippet": "Just as British people did with steam power, the American public can shape how this technology spreads.",
+    "summaryZh": "基于标题/摘要生成：Just as British people did with steam power，the American public can shape how this technology spreads",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_av040r",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Fame, Fortune, and Murder in 1960s France",
+    "chineseTitle": "Fame，Fortune，and Murder in 1960s France",
+    "originalUrl": "https://foreignpolicy.com/2026/10/30/french-history-edward-chisholm-murder-paris-68-alain-delon-scandal/",
+    "publishedAt": "2026-10-30T18:45:17.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.836Z",
+    "rawDescription": "What a scandal involving movie star Alain Delon can—and can’t—tell us about French society.",
+    "contentSnippet": "What a scandal involving movie star Alain Delon can—and can’t—tell us about French society.",
+    "summaryZh": "基于标题/摘要生成：What a scandal involving movie star Alain Delon can—and can’t—tell us about French society",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wi0wks",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "General ousted by Hegseth referred for possible criminal prosecution, officials say",
+    "chineseTitle": "General ousted，officials say",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRE9KdHd0andocmFMZ1RncFZfNWFtRTZLRUpmdHRJMGN0bzV4MDJqMEFjRlBHU1ExRjBhbVFSamtubllhb0JLekViSG0zMHlaVnBUZ2NiUnY5bFBfdUpLdy1Rb1k5NFF4cVdDUlZOeENYb29VZExqTlFvM29HbEFhZ1EzWFFWaVhLVTVoVEwyN0xUblJyYVo2eGZwWVBTeWRSamlWc3ROakpDYW5vZENIblg2alZFZzBCY1VjZFRPbkdCSjdmX2R3d2J3?oc=5",
+    "publishedAt": "2026-10-30T03:09:49.000Z",
+    "fetchedAt": "2026-11-02T02:11:14.096Z",
+    "rawDescription": "General ousted by Hegseth referred for possible criminal prosecution, officials say The Washington Post",
+    "contentSnippet": "General ousted by Hegseth referred for possible criminal prosecution, officials say The Washington Post",
+    "summaryZh": "基于标题/摘要生成：General ousted，officials say The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "General ousted by Hegseth referred for possible criminal prosecution, officials say General ousted by Hegseth refe"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "General ousted by Hegseth referred for possible criminal prosecution, officials say General ousted by Hegseth refer"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Pete Hegseth\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fqenzu",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Don’t Go Backward on China Policy",
+    "chineseTitle": "Don’t Go Backward on 中国 政策",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/dont-go-backward-china-policy",
+    "publishedAt": "2026-10-29T08:00:00.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.683Z",
+    "rawDescription": "The folly of a hawkish restoration.",
+    "contentSnippet": "The folly of a hawkish restoration.",
+    "summaryZh": "基于标题/摘要生成：The folly of a hawkish restoration",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "Don't Go Backward on China Policy Ali Wyne, Ryan Hass The folly of a hawkish restoration. The folly of a hawkish restoratio"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "China policy",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_7enny0",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How to Secure the Straits",
+    "chineseTitle": "How to Secure the Straits",
+    "originalUrl": "https://www.foreignaffairs.com/iran/how-secure-straits",
+    "publishedAt": "2026-10-28T08:00:00.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.684Z",
+    "rawDescription": "Why Iran and the Houthis keep winning the waterways.",
+    "contentSnippet": "Why Iran and the Houthis keep winning the waterways.",
+    "summaryZh": "基于标题/摘要生成：Why Iran and the Houthis keep winning the waterways",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_y7cktc",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florid",
+    "chineseTitle": "President Xi and Madam Peng have just left D.C.，heading f…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTVHM19TckZ5bjVMODFpYkZzR2QzbDd4STAwdnZNTjVkemlvSDF0dnNUai1iYjZkeGROZW9QQmtNTFRReEdnSjZZd3QybU1BTUR1QnVxcnFXUEZjd1RwR1hkOXNxVWJaVjN2QnNUUEJ5ZndIZy1scUhtTGUwX1BrWlg5b3Fyb0U1a2Q1bnBhX2VKaWxYYnktWE5kb0NIV1VLU1k3eWhYVDEyaVE?oc=5",
+    "publishedAt": "2026-09-26T18:27:36.000Z",
+    "fetchedAt": "2026-11-02T02:11:14.431Z",
+    "rawDescription": "President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florid Truth Social",
+    "contentSnippet": "President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florid Truth Social",
+    "summaryZh": "基于标题/摘要生成：President Xi and Madam Peng have just left D.C.，heading for 中国. The meeting was one of Friendship，Strength，and Success，for both 中国 and the U.S.A. We…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "be meeting again in November, in China, and then at the G20 in December, in Miami, Florid Truth Social President Xi and Madam Peng have just left D.C., heading for China. The meeting was one o"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-11-02T02:11:14.079Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade",
+      "\"Robert Lighthizer\" Trump",
+      "AFPI"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qmdea4",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First AI Agenda – AFPI",
+    "chineseTitle": "America First AI Agenda – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PeGRPbWxtODFGUmdjeGdvbW1sbF9TWFdtZFIwX01qM05DaUlHUHpra0pKLUdBeFhPNGRJOTF3MElWZG9CWGVuMnFLTVlxY0dzWVRFS1hYSnZBLUtLYTljMXc0RGxWVXp6aUYwVTNicw?oc=5",
+    "publishedAt": "2025-11-24T08:00:00.000Z",
+    "fetchedAt": "2026-11-02T02:11:14.078Z",
+    "rawDescription": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "America First AI Agenda – AFPI America First AI Agenda – AFPI americafirstpolicy.com America First AI Agenda – AFPI amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-02T02:10:55.268Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.904Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.905Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-02T02:10:55.267Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.802Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-02T02:10:51.801Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ls8g67",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Truth Social",
+    "chineseTitle": "Truth Social",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUjVkbVoySHdjYXZtUE9abTdHNVdxSTdnUnA4TEpBcE9FS3c0bkw1ZnBPRkRWbl9qcUxsUnlVcGNxeVRHT1FHaDZHS1FIWFJRaEE?oc=5",
+    "publishedAt": "2022-09-09T19:59:23.000Z",
+    "fetchedAt": "2026-11-02T02:11:14.430Z",
+    "rawDescription": "Truth Social Truth Social",
+    "contentSnippet": "Truth Social Truth Social",
+    "summaryZh": "基于标题/摘要生成：Truth Social Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Truth Social Truth Social Truth Social Truth Social Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
