@@ -1,0 +1,1705 @@
+[
+  {
+    "id": "art_koxuif",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Mass. ballot questions are too early to call, while votes are tallied in key US Senate races. Follow live updates.",
+    "chineseTitle": "Mass. ballot questions are too early to call，while votes…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/03/nation/massachusetts-election-live-updates-results-2026/",
+    "publishedAt": "2026-11-04T02:48:27.694Z",
+    "fetchedAt": "2026-11-04T02:57:20.310Z",
+    "rawDescription": "公开 sitemap 条目：Mass. ballot questions are too early to call, while votes are tallied in key US Senate races. Follow live updates.",
+    "contentSnippet": "公开 sitemap 条目：Mass. ballot questions are too early to call, while votes are tallied in key US Senate races. Follow live updates.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Mass. ballot questions are too early to call，while votes are tallied in key US 参议院 races. Follow live updates",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Mass. ballot questions are too early to call, while votes are tallied in key US Senate races. Follow live updates. 公开 sitemap 条目：Mass. ballot questions are too early to call, w"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ntffiw",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Dems rolling Republicans as Trump rages",
+    "chineseTitle": "Dems rolling 共和党人 as Trump rages",
+    "originalUrl": "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans",
+    "publishedAt": "2026-11-04T02:48:11.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.029Z",
+    "rawDescription": "The state of North Carolina produced the first flips of the 2026 midterms, with Democrats winning a House and Senate seat. Why it matters: The results tonight will be the clearest national test of President Trump's second presidency , following war abroad, economic anxiety at home and sweeping changes in Washington. Trump has made himself the face of the Republican campaign for control. Data: AP; Chart: Erin Davis/Axios The latest: In a major win of the night, Democrat Jon Ossoff won reelection to U.S. Senate from Georgia, AP projects. In North Carolina, Democrat Roy Cooper defeated Trump's handpicked candidate, Michael Whatley, flipping one of the Republican party's two U.S. Senate seats . In North Carolina's 11th House district, Jamie Ager flipped the seat for Democrats. The seat is hel…",
+    "contentSnippet": "The state of North Carolina produced the first flips of the 2026 midterms, with Democrats winning a House and Senate seat. Why it matters: The results tonight will be the clearest national test of President Trump's second presidency , following war abroad, economic anxiety at home and sweeping changes in Washington. Trump has made himself the face of the Republican campaign for control. Data: AP; Chart: Erin Davis/Axios The latest: In a major win of the night, Democrat Jon Ossoff won reelection to U.S. Senate from Georgia, AP projects. In North Carolina, Democrat Roy Cooper defeated Trump's handpicked candidate, Michael Whatley, flipping one of the Republican party's two U.S. Senate seats . In North Carolina's 11th House district, Jamie Ager flipped the seat for Democrats. The seat is hel…",
+    "summaryZh": "基于标题/摘要生成：The state of North Carolina produced the first flips of the 2026 midterms，with 民主党人 winning a 众议院 and 参议院 seat. Why it matters：The results tonight wi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Dems rolling Republicans as Trump rages Herb Scribner The state of North Carolina produced the first flips of the 2026 midt"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Dems rolling Republicans as Trump rages Herb Scribner The state of North Carolina produced the first flips of the 2026 midt"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Scribner The state of North Carolina produced the first flips of the 2026 midterms, with Democrats winning a House and Senate seat. Why it matters: The results tonight will be the clearest"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republican Party",
+        "confidence": "high",
+        "contextSnippet": "at Roy Cooper defeated Trump's handpicked candidate, Michael Whatley, flipping one of the Republican party's two U.S. Senate seats . In North Carolina's 11th House district, Jamie Ager flipped the"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "arolina produced the first flips of the 2026 midterms, with Democrats winning a House and Senate seat. Why it matters: The results tonight will be the clearest national test of President"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Election Day Midterm Trump Democrats Republicans 公开 sitemap 条目：Election Day Midterm Trump Democrats Republicans 公开 sitemap 条目：Election Day"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xph5t9",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats Flip North Carolina Senate Seat",
+    "chineseTitle": "民主党人 Flip North Carolina 参议院 Seat",
+    "originalUrl": "https://www.nytimes.com/video/us/politics/100000011238044/democrats-flip-north-carolina-senate-seat.html",
+    "publishedAt": "2026-11-04T02:46:56.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.210Z",
+    "rawDescription": "The Democrats flipped their first Senate seat of the night. Our national political correspondent Shane Goldmacher explains why this wasn’t a surprise, and why it’s one of at least four seats the party needs to win to secure a majority in the Senate.",
+    "contentSnippet": "The Democrats flipped their first Senate seat of the night. Our national political correspondent Shane Goldmacher explains why this wasn’t a surprise, and why it’s one of at least four seats the party needs to win to secure a majority in the Senate.",
+    "summaryZh": "基于标题/摘要生成：The 民主党人 flipped their first 参议院 seat of the night. Our national political correspondent Shane Goldmacher explains why this wasn’t a surprise，and why…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Flip North Carolina Senate Seat Shane Goldmacher, Alexandra Ostasiewicz, Thomas Vollkomme"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Flip North Carolina Senate Seat Shane Goldmacher, Alexandra Ostasiewicz, Thomas Vollkommer, James Surdam and Edward"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_e0y5vr",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "In N.H., Chris Pappas defeats John E. Sununu in US Senate race, Shaheen wins US House seat",
+    "chineseTitle": "In N.H.，Chris Pappas defeats John E. Sununu in US 参议院 rac…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/03/metro/new-hampshire-election-pappas-shaheen-goodlander-ayotte/",
+    "publishedAt": "2026-11-04T02:42:35.921Z",
+    "fetchedAt": "2026-11-04T02:57:20.311Z",
+    "rawDescription": "公开 sitemap 条目：In N.H., Chris Pappas defeats John E. Sununu in US Senate race, Shaheen wins US House seat",
+    "contentSnippet": "公开 sitemap 条目：In N.H., Chris Pappas defeats John E. Sununu in US Senate race, Shaheen wins US House seat",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：In N.H.，Chris Pappas defeats John E. Sununu in US 参议院 race，Shaheen wins US 众议院 seat",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "In N.H., Chris Pappas defeats John E. Sununu in US Senate race, Shaheen wins US House seat 公开 sitemap 条目：In N.H., Chris Pappas defeats John E. Sunu"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5jj2bv",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Stratton's win sets up Senate first for 3 Black women",
+    "chineseTitle": "Stratton's win sets up 参议院 first for 3 Black women",
+    "originalUrl": "https://www.axios.com/2026/11/04/juliana-stratton-black-women-senate-record",
+    "publishedAt": "2026-11-04T02:36:34.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.031Z",
+    "rawDescription": "For the first time in history, three Black women will serve simultaneously in the U.S. Senate when Illinois Lt. Gov. Juliana Stratton takes office in January. Why it matters: It took over 235 years for two Black women to serve in the U.S. Senate at the same time. Two years later, that number will grow to three. Driving the news: Stratton won election to the U.S. Senate on Tuesday, defeating Republican Don Tracy, per AP. She'll join Sens. Lisa Blunt Rochester (D-Delaware) and Angela Alsobrooks (D-Maryland), who were both elected in 2024 and became the first two Black women to serve simultaneously in 2025. The Stratton campaign did not immediately respond to Axios' request for comment. By the numbers: Stratton will become the sixth Black woman to serve in the U.S. Senate and the second from…",
+    "contentSnippet": "For the first time in history, three Black women will serve simultaneously in the U.S. Senate when Illinois Lt. Gov. Juliana Stratton takes office in January. Why it matters: It took over 235 years for two Black women to serve in the U.S. Senate at the same time. Two years later, that number will grow to three. Driving the news: Stratton won election to the U.S. Senate on Tuesday, defeating Republican Don Tracy, per AP. She'll join Sens. Lisa Blunt Rochester (D-Delaware) and Angela Alsobrooks (D-Maryland), who were both elected in 2024 and became the first two Black women to serve simultaneously in 2025. The Stratton campaign did not immediately respond to Axios' request for comment. By the numbers: Stratton will become the sixth Black woman to serve in the U.S. Senate and the second from…",
+    "summaryZh": "基于标题/摘要生成：For the first time in history，three Black women will serve simultaneously in the U.S. 参议院 when Illinois Lt. Gov. Juliana Stratton takes office in Jan…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Stratton's win sets up Senate first for 3 Black women Josephine Walker For the first time in history, three Black women"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_c9zm89",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Is Watching Fox News, and He Is Not Thrilled",
+    "chineseTitle": "Trump Is Watching Fox News，and He Is Not Thrilled",
+    "originalUrl": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
+    "publishedAt": "2026-11-04T01:59:57.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.211Z",
+    "rawDescription": "On a consequential midterm night, the president offered some harsh criticism of the cable news channel on his social media account.",
+    "contentSnippet": "On a consequential midterm night, the president offered some harsh criticism of the cable news channel on his social media account.",
+    "summaryZh": "基于标题/摘要生成：On a consequential midterm night，the president offered some harsh criticism of the cable news channel on his social media account",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Is Watching Fox News, and He Is Not Thrilled Michael M. Grynbaum On a consequential midte"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Is Watching Fox News, and He Is Not Thrilled Michael M. Grynbaum On a consequential midte"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mxq1be",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Paul Pelosi hit with 6-month driving ban after pleading no contest to misdemeanor hit-and-run",
+    "chineseTitle": "Paul Pelosi hit with 6-month driving ban after pleading n…",
+    "originalUrl": "https://www.foxnews.com/politics/paul-pelosi-hit-6-month-driving-ban-pleading-no-contest-misdemeanor-hit-and-run",
+    "publishedAt": "2026-11-04T01:39:18.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.180Z",
+    "rawDescription": "A Napa County judge banned Paul Pelosi from driving for six months and ordered probation after the 86-year-old struck a parked car and fled.",
+    "contentSnippet": "A Napa County judge banned Paul Pelosi from driving for six months and ordered probation after the 86-year-old struck a parked car and fled.",
+    "summaryZh": "基于标题/摘要生成：A Napa County judge banned Paul Pelosi from driving for six months and ordered probation after the 86-year-old struck a parked car and fled",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "南希·佩洛西"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "nancy-pelosi",
+        "nameEn": "Nancy Pelosi",
+        "nameZh": "南希·佩洛西",
+        "team": "民主党重点人物",
+        "matchedAlias": "Pelosi",
+        "confidence": "low",
+        "contextSnippet": "Paul Pelosi hit with 6-month driving ban after pleading no contest to misdemeanor hit-and-run A Napa"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "nancy-pelosi",
+        "name": "Nancy Pelosi",
+        "type": "person",
+        "matchedAlias": "Pelosi",
+        "confidence": "medium",
+        "contextSnippet": "Paul Pelosi hit with 6-month driving ban after pleading no contest to misdemeanor hit-and-run A Napa"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Nancy Pelosi",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dyx46h",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump-backed Byron Donalds to make history as Florida’s first Black governor",
+    "chineseTitle": "Trump-backed Byron Donalds to make history as Florida’s f…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-backed-byron-donalds-make-history-floridas-first-black-governor",
+    "publishedAt": "2026-11-04T01:20:02.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.181Z",
+    "rawDescription": "Byron Donalds makes history as the first Black Republican governor in the nation, defeating David Jolly in Florida's heated gubernatorial race.",
+    "contentSnippet": "Byron Donalds makes history as the first Black Republican governor in the nation, defeating David Jolly in Florida's heated gubernatorial race.",
+    "summaryZh": "基于标题/摘要生成：Byron Donalds makes history as the first Black Republican governor in the nation，defeating David Jolly in Florida's heated gubernatorial race",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump-backed Byron Donalds to make history as Florida’s first Black governor Byron Donalds mak"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump-backed Byron Donalds to make history as Florida's first Black governor Byron Donalds make"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_33qw92",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iran speaker: Ball in Trump administration court to prevent renewed war",
+    "chineseTitle": "Iran speaker：Ball in Trump administration court to preven…",
+    "originalUrl": "https://thehill.com/policy/international/6194470-us-iran-strait-hormuz-conflict/",
+    "publishedAt": "2026-11-03T23:50:31.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.091Z",
+    "rawDescription": "Iran’s chief negotiator says it’s on the United States to stop a return to all-out war after Tehran gave Washington a “firm and rational response” to its demands around nuclear weapons and opening the Strait of Hormuz. Mohammad Bagher Qalibaf did not specify what “response” he was referring to, though the comments came after the...",
+    "contentSnippet": "Iran’s chief negotiator says it’s on the United States to stop a return to all-out war after Tehran gave Washington a “firm and rational response” to its demands around nuclear weapons and opening the Strait of Hormuz. Mohammad Bagher Qalibaf did not specify what “response” he was referring to, though the comments came after the...",
+    "summaryZh": "基于标题/摘要生成：Iran’s chief negotiator says it’s on the United States to stop a return to all-out war after Tehran gave Washington a “firm and rational response” to…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "taiwan",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Iran speaker: Ball in Trump administration court to prevent renewed war Ellen Mitchell Iran’s chief negotiator says i"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Iran speaker: Ball in Trump administration court to prevent renewed war Ellen Mitchell Iran's chief negotiator says i"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Iran speaker: Ball in Trump administration court to prevent renewed war Ellen Mitchell Iran's chief negotiator says it's on the Unit"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uw1p52",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Greene: Trump’s Israel aid announcement shows ‘how bad the polling is’",
+    "chineseTitle": "Greene：Trump’s Israel aid announcement shows ‘how bad the…",
+    "originalUrl": "https://thehill.com/policy/international/6194330-greene-criticizes-trump-israel-aid/",
+    "publishedAt": "2026-11-03T23:06:04.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.093Z",
+    "rawDescription": "Former Rep. Marjorie Taylor Greene (R-Ga.) said Tuesday that President Trump’s recent announcement about cutting aid to Israel shows “how bad the polling is” when it comes to the issue. “Trump getting permission from [Israeli Prime Minister Benjamin] Netanyahu to end annual aid to Israel isn’t going to change today’s election results,” Greene wrote on...",
+    "contentSnippet": "Former Rep. Marjorie Taylor Greene (R-Ga.) said Tuesday that President Trump’s recent announcement about cutting aid to Israel shows “how bad the polling is” when it comes to the issue. “Trump getting permission from [Israeli Prime Minister Benjamin] Netanyahu to end annual aid to Israel isn’t going to change today’s election results,” Greene wrote on...",
+    "summaryZh": "基于标题/摘要生成：Former Rep. Marjorie Taylor Greene (R-Ga.) said Tuesday that President Trump’s recent announcement about cutting aid to Israel shows “how bad the pol…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Greene: Trump’s Israel aid announcement shows ‘how bad the polling is’ Tara Suter Former Rep. Marjorie"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Greene: Trump's Israel aid announcement shows 'how bad the polling is' Tara Suter Former Rep. Marjorie"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jxqwr1",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
+    "chineseTitle": "Iran Strikes and Israel Aid Cuts Shake Up 选举 Day",
+    "originalUrl": "https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia/",
+    "publishedAt": "2026-11-03T23:02:31.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.234Z",
+    "rawDescription": "Two last-minute foreign-policy developments could impact U.S. voters’ midterm decisions.",
+    "contentSnippet": "Two last-minute foreign-policy developments could impact U.S. voters’ midterm decisions.",
+    "summaryZh": "基于标题/摘要生成：Two last-minute foreign-政策 developments could impact U.S. voters’ midterm decisions",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7mig5j",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Repeats a Centuries-Old Mistake",
+    "chineseTitle": "Trump Repeats a Centuries-Old Mistake",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/11/andrew-johnson-midterms/689269/",
+    "publishedAt": "2026-11-03T21:53:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.245Z",
+    "rawDescription": "This isn’t the first time a president has made the midterm elections all about himself.",
+    "contentSnippet": "This isn’t the first time a president has made the midterm elections all about himself.",
+    "summaryZh": "基于标题/摘要生成：This isn’t the first time a president has made the midterm elections all about himself",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Repeats a Centuries-Old Mistake Jake Lundberg This isn’t the first time a president has m"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Repeats a Centuries-Old Mistake Jake Lundberg This isn't the first time a president has m"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9kpstw",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Chinese AI Stocks Are Slumping, Too",
+    "chineseTitle": "中国 AI Stocks Are Slumping，Too",
+    "originalUrl": "https://foreignpolicy.com/2026/11/03/china-ai-stock-market-downturn-bubble-economics/",
+    "publishedAt": "2026-11-03T20:49:19.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.234Z",
+    "rawDescription": "The correction is less painful for Chinese firms but reflects broader economic headwinds.",
+    "contentSnippet": "The correction is less painful for Chinese firms but reflects broader economic headwinds.",
+    "summaryZh": "基于标题/摘要生成：The correction is less painful for 中国 firms but reflects broader economic headwinds",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_r844xy",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Opinion | Why Trump’s defiance is bound to get worse",
+    "chineseTitle": "Opinion | Why Trump’s defiance is bound to get worse",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnY3cmJWMzU0LUtueHhRZVNHWnBhczNNX3NCVzRDcHpCX2xNcnNlOE04QXdZT3NvcG5tMnUxM1preDRCMzlHNjZUVWJOcnpvQld6TFVTUHdYMjF1eHd4aHN3dnBxdXpUS3pHX1IzeTRKTmh0c29xNTBYYURsOW94eEdXN1BUZ2EtT1kxckN4ZE1ZSUFKN0VYeUFlM2NUcXo2U1pBNg?oc=5",
+    "publishedAt": "2026-11-03T19:30:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:39.435Z",
+    "rawDescription": "Opinion | Why Trump’s defiance is bound to get worse The Washington Post",
+    "contentSnippet": "Opinion | Why Trump’s defiance is bound to get worse The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Opinion | Why Trump’s defiance is bound to get worse The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Opinion | Why Trump’s defiance is bound to get worse Opinion | Why Trump’s defiance is bound to get worse Th"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Opinion | Why Trump's defiance is bound to get worse Opinion | Why Trump's defiance is bound to get worse The"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Donald Trump\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hdw86n",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Three Tips for Watching the Results Roll In",
+    "chineseTitle": "Three Tips for Watching the Results Roll In",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/11/how-track-midterms-results/689261/",
+    "publishedAt": "2026-11-03T17:01:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.247Z",
+    "rawDescription": "The best bet is to just wait a few days. But if you must follow more closely, here are some suggestions.",
+    "contentSnippet": "The best bet is to just wait a few days. But if you must follow more closely, here are some suggestions.",
+    "summaryZh": "基于标题/摘要生成：The best bet is to just wait a few days. But if you must follow more closely，here are some suggestions",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_97847x",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Poll: GOP voters say the party isn’t focused enough on the economy",
+    "chineseTitle": "Poll：GOP voters say the party isn’t focused enough on the…",
+    "originalUrl": "https://www.politico.com/news/2026/11/03/poll-gop-voters-economy-midterms-01145083",
+    "publishedAt": "2026-11-03T17:00:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.139Z",
+    "rawDescription": "Hours before polls close, a new survey shows a stark disconnect between what Republican voters want their party to focus on and what they say the party actually is focusing on.",
+    "contentSnippet": "Hours before polls close, a new survey shows a stark disconnect between what Republican voters want their party to focus on and what they say the party actually is focusing on.",
+    "summaryZh": "基于标题/摘要生成：Hours before polls close，a new survey shows a stark disconnect between what Republican voters want their party to focus on and what they say the part…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Poll: GOP voters say the party isn't focused enough on the economy By Erin Doherty, Andrew Howard a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_rbe66r",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The affordability election that teaches Democrats nothing",
+    "chineseTitle": "The affordability 选举 that teaches 民主党人 nothing",
+    "originalUrl": "https://www.politico.com/news/2026/11/03/democrats-affordability-2026-midterms-cost-living-01145086",
+    "publishedAt": "2026-11-03T10:55:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.140Z",
+    "rawDescription": "If Democrats do as well tonight as polls suggest, everyone knows the two reasons why: affordability and President Donald Trump.",
+    "contentSnippet": "If Democrats do as well tonight as polls suggest, everyone knows the two reasons why: affordability and President Donald Trump.",
+    "summaryZh": "基于标题/摘要生成：If 民主党人 do as well tonight as polls suggest，everyone knows the two reasons why：affordability and President 特朗普",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "tonight as polls suggest, everyone knows the two reasons why: affordability and President Donald Trump. If Democrats do as well tonight as polls suggest, everyone knows the two reasons why: af"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "as polls suggest, everyone knows the two reasons why: affordability and President Donald Trump. If Democrats do as well tonight as polls suggest, everyone knows the two reasons why: af"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "tonight as polls suggest, everyone knows the two reasons why: affordability and President Donald Trump. If Democrats do as well tonight as polls suggest, everyone knows the two reasons why: af"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "The affordability election that teaches Democrats nothing By Seb Wride (PF Global) and Anna Wiederkehr If Democrats do as well tonight as p"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_r9ly3w",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Sanctions Get Right",
+    "chineseTitle": "What Sanctions Get Right",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/what-sanctions-get-right-s-c-m-paine",
+    "publishedAt": "2026-11-03T09:00:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.077Z",
+    "rawDescription": "A useful tool has been unjustly maligned.",
+    "contentSnippet": "A useful tool has been unjustly maligned.",
+    "summaryZh": "基于标题/摘要生成：A useful tool has been unjustly maligned",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wz4mh9",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "America’s AI Ambitions Depend on Taiwan",
+    "chineseTitle": "America’s AI Ambitions Depend on 台湾",
+    "originalUrl": "https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan-lin-chia-lung",
+    "publishedAt": "2026-11-03T05:00:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.080Z",
+    "rawDescription": "The United States and China are locked in a global competition to determine who will dominate artificial intelligence and whether it will be democracies or autocracies that set the standards and values of the new digital age. The United States leads the world in the sophistication and power of its artificial intelligence models, and its innovation base and investment in research and development remain unparalleled.But AI competition is much broader than modeling alone. It encompasses a technology ecosystem that includes power generation, servers, and deployment in real-world applications. Jensen Huang, co-founder and CEO of Nvidia, has described the AI industry as a five-layer cake with energy at its base and chips, infrastructure, models, and applications above it. To win the AI race wit…",
+    "contentSnippet": "The United States and China are locked in a global competition to determine who will dominate artificial intelligence and whether it will be democracies or autocracies that set the standards and values of the new digital age. The United States leads the world in the sophistication and power of its artificial intelligence models, and its innovation base and investment in research and development remain unparalleled.But AI competition is much broader than modeling alone. It encompasses a technology ecosystem that includes power generation, servers, and deployment in real-world applications. Jensen Huang, co-founder and CEO of Nvidia, has described the AI industry as a five-layer cake with energy at its base and chips, infrastructure, models, and applications above it. To win the AI race wit…",
+    "summaryZh": "基于标题/摘要生成：The United States and 中国 are locked in a global competition to determine who will dominate artificial intelligence and whether it will be democracies…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "us_china_relations",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/topic/Trade/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_tpdrdq",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Opinion | Hegseth just showed again why he needs to go",
+    "chineseTitle": "Opinion | Hegseth just showed again why he needs to go",
+    "originalUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbk9Wa2dMLTR4bHZnT2NWRFg0TFlhX0ZPSDdpYzU5ZkxKbHNya0MzM09tVjFDSkhFb212RXJTQkkxREowb1ZfUjJpOUlJTGNLVWEzUkxhMGJEMl9lcUc3M0xZRDhJMmlaSW5EMlNCckdNQWpFd0VrWU5WR296YTNoTzQyYXFCQ3dqeElmb0VWV1hXb1oy?oc=5",
+    "publishedAt": "2026-11-02T19:30:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:39.443Z",
+    "rawDescription": "Opinion | Hegseth just showed again why he needs to go The Washington Post",
+    "contentSnippet": "Opinion | Hegseth just showed again why he needs to go The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Opinion | Hegseth just showed again why he needs to go The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Opinion | Hegseth just showed again why he needs to go Opinion | Hegseth just showed again why he needs to"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Opinion | Hegseth just showed again why he needs to go Opinion | Hegseth just showed again why he needs to"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Pete Hegseth\"",
+      "\"Pete Hegseth\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_crna9l",
+    "sourceName": "Fox News",
+    "sourceDomain": "noticias.foxnews.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+    "chineseTitle": "Inside Israel's plot to kill Hezbollah chief as Netanyahu…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlJzTGJYUmI4bW96NU5TeXFpNk5obUNBQnltUFFPSGp2SkgxZ0NnekJrNmhkTEdmZF9feTh4U3A4NUhqWFZ5azlhYXp1WlJmZzJaVmgyakRBVzBiSGhKaGtyZzFHUXIybUlQbDBXUEFqN1NhYVB2Y184S1BJakYtY1MtbmgwMk5ESHp3ZjdyWDVqMGhjRVBETjg2eGVXZmwzMWVmZ0RrTk4zdXI0NE5DQVpiaDR5Q0tJanpZd3NpaG55cEwyT3c?oc=5",
+    "publishedAt": "2026-10-11T10:00:18.000Z",
+    "fetchedAt": "2026-11-04T02:57:39.468Z",
+    "rawDescription": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Fox News",
+    "contentSnippet": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Fox News",
+    "summaryZh": "基于标题/摘要生成：Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Fox News",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Inside Israel's plot to kill Hezbollah chief as Netany"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Biden",
+        "confidence": "medium",
+        "contextSnippet": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin' Inside Israel's plot to kill Hezbollah chief as Netanya"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Jake Sullivan"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Jake Sullivan\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_eq94lq",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "chineseTitle": "Robert Wilkie | Danube Institute Speech 2026 – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcV9vOFhldnRQS1prUUkyYUdLcjBuczcyelBUWkI0emJmT085WmhVSHgxbkl6Zjk2MDZNVFJ6aVlVUW5EWGNta0dDTUxlTW5RdjJvNDZQTzQwbDFMR0ZwODRYWTBTOS16UERWemc3YXVxY1QtQmRSNUZzOWg5UV8zVFRPTDRTVC1w?oc=5",
+    "publishedAt": "2026-10-06T22:51:57.000Z",
+    "fetchedAt": "2026-11-04T02:57:39.428Z",
+    "rawDescription": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "contentSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "Robert Wilkie | Danube Institute Speech 2026 – AFPI Robert Wilkie | Danube Institute Speech 2026 – AFPI americafirstpolicy.com Robert Wilkie"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_y7cktc",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florid",
+    "chineseTitle": "President Xi and Madam Peng have just left D.C.，heading f…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTVHM19TckZ5bjVMODFpYkZzR2QzbDd4STAwdnZNTjVkemlvSDF0dnNUai1iYjZkeGROZW9QQmtNTFRReEdnSjZZd3QybU1BTUR1QnVxcnFXUEZjd1RwR1hkOXNxVWJaVjN2QnNUUEJ5ZndIZy1scUhtTGUwX1BrWlg5b3Fyb0U1a2Q1bnBhX2VKaWxYYnktWE5kb0NIV1VLU1k3eWhYVDEyaVE?oc=5",
+    "publishedAt": "2026-09-26T18:27:36.000Z",
+    "fetchedAt": "2026-11-04T02:57:39.778Z",
+    "rawDescription": "President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florid Truth Social",
+    "contentSnippet": "President Xi and Madam Peng have just left D.C., heading for China. The meeting was one of Friendship, Strength, and Success, for both China and the U.S.A. We will be meeting again in November, in China, and then at the G20 in December, in Miami, Florid Truth Social",
+    "summaryZh": "基于标题/摘要生成：President Xi and Madam Peng have just left D.C.，heading for 中国. The meeting was one of Friendship，Strength，and Success，for both 中国 and the U.S.A. We…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "be meeting again in November, in China, and then at the G20 in December, in Miami, Florid Truth Social President Xi and Madam Peng have just left D.C., heading for China. The meeting was one o"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-11-04T02:57:39.429Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade",
+      "\"Robert Lighthizer\" Trump",
+      "AFPI"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d2bbvw",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the",
+    "chineseTitle": "As everyone knows，the Country of Canada has treated the U…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01UFozd3BBVG9yVjFYU0dteEdwSzFUanhQVlNQYy16aDJ1Nm9YTTdfYU1GRHBwRlA2V2ZRYmY3bHdaYlJUSHV4aE9UYVVQdklKUC1nMDV5REJqQWVxeFJlQ0lnMTdpMDdITVl5Q1hOSWFKdFk?oc=5",
+    "publishedAt": "2026-02-09T23:16:30.000Z",
+    "fetchedAt": "2026-11-04T02:57:39.777Z",
+    "rawDescription": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social",
+    "contentSnippet": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social",
+    "summaryZh": "基于标题/摘要生成：As everyone knows，the Country of Canada has treated the United States very unfairly for decades. Now，things are turning around for the U.S.A.，and FAS…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "gine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social As everyone knows, the Country of Canada has treated the United States very unfairly for"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:20.276Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.306Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.307Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-04T02:57:20.275Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.201Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-04T02:57:16.199Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
