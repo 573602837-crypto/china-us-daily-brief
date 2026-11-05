@@ -1,0 +1,1701 @@
+[
+  {
+    "id": "art_rukw4s",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump concedes Iran war angered voters, triggered Democratic landslide",
+    "chineseTitle": "Trump concedes Iran war angered voters，triggered Democrat…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUlGcnVxOUNGdUpRN1hoM2FIcHRHMGdqQUpGRGZJeWVqb0NBNmgtbzBXV3I2eWt4bVd1U3h6MXJQTURlRnRVc1RZMEZRNm4zSlNSQnUwNzhrMWxqNmcyVFdtdmFwN3Awd0ZSNmpEckdmbXlhUkM0NmdYSjQtQlNYZllyVXRsOW9EU1BWNU9rMTJDcTAtR2FWTjdaSE9OR2RpU2JFV3c5cw?oc=5",
+    "publishedAt": "2026-11-05T03:07:50.000Z",
+    "fetchedAt": "2026-11-05T03:19:24.964Z",
+    "rawDescription": "Trump concedes Iran war angered voters, triggered Democratic landslide The Washington Post",
+    "contentSnippet": "Trump concedes Iran war angered voters, triggered Democratic landslide The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump concedes Iran war angered voters，triggered Democratic landslide The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump concedes Iran war angered voters, triggered Democratic landslide Trump concedes Iran war"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump concedes Iran war angered voters, triggered Democratic landslide Trump concedes Iran war"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"JD Vance\"",
+      "\"Donald Trump\" Trump",
+      "\"Democratic Party\" Trump",
+      "\"Republican Party\" Trump"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ta4vki",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Paul George, Derrick White help Celtics survive drama against Bucks",
+    "chineseTitle": "Paul George，Derrick White help Celtics survive drama agai…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/04/sports/celtics-bucks-nba-basketball/",
+    "publishedAt": "2026-11-05T03:05:41.640Z",
+    "fetchedAt": "2026-11-05T03:19:09.086Z",
+    "rawDescription": "公开 sitemap 条目：Paul George, Derrick White help Celtics survive drama against Bucks",
+    "contentSnippet": "公开 sitemap 条目：Paul George, Derrick White help Celtics survive drama against Bucks",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Paul George，Derrick White help Celtics survive drama against Bucks",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gyp8z5",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
+    "chineseTitle": "Inside Team Trump’s Historic Collapse in the 2026 Midterm…",
+    "originalUrl": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+    "publishedAt": "2026-11-05T02:02:47.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.867Z",
+    "rawDescription": "How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms.",
+    "contentSnippet": "How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms.",
+    "summaryZh": "基于标题/摘要生成：How an unpopular president and an unpopular war provided an opening for 民主党人 to make sweeping gains in the midterms",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections Shane Goldmacher, Jonathan Swan and Mag"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Inside Team Trump's Historic Collapse in the 2026 Midterm Elections Shane Goldmacher, Jonathan Swan and Mag"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "d Maggie Haberman How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms. How an unpopular president and an unpopular war p"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7vw3u8",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Moderate Democrats Increase Their Numbers, and Their Clout",
+    "chineseTitle": "Moderate 民主党人 Increase Their Numbers，and Their Clout",
+    "originalUrl": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
+    "publishedAt": "2026-11-05T01:32:45.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.866Z",
+    "rawDescription": "Victories by moderates in competitive or Republican-leaning states and districts paved the way for large new Democratic majorities likely to be shaped by their priorities.",
+    "contentSnippet": "Victories by moderates in competitive or Republican-leaning states and districts paved the way for large new Democratic majorities likely to be shaped by their priorities.",
+    "summaryZh": "基于标题/摘要生成：Victories by moderates in competitive or Republican-leaning states and districts paved the way for large new Democratic majorities likely to be shape…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Moderate Democrats Increase Their Numbers, and Their Clout Robert Jimison and Olivia Diaz Victories by moder"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kzrbxd",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Bruin Matt Poitras turns the other cheek when discussing the broken nose he sustained Monday: ‘Stuff like that happens’",
+    "chineseTitle": "Bruin Matt Poitras turns the other cheek when discussing…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/04/sports/matt-poitras-broken-nose-bruins/",
+    "publishedAt": "2026-11-05T01:23:33.419Z",
+    "fetchedAt": "2026-11-05T03:19:09.091Z",
+    "rawDescription": "公开 sitemap 条目：Bruin Matt Poitras turns the other cheek when discussing the broken nose he sustained Monday: ‘Stuff like that happens’",
+    "contentSnippet": "公开 sitemap 条目：Bruin Matt Poitras turns the other cheek when discussing the broken nose he sustained Monday: ‘Stuff like that happens’",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Bruin Matt Poitras turns the other cheek when discussing the broken nose he sustained Monday：‘Stuff like that happens’",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_b7ayzi",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "After midterm defeat, Trump faces mostly bad options in Iran",
+    "chineseTitle": "After midterm defeat，Trump faces mostly bad options in Ir…",
+    "originalUrl": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options",
+    "publishedAt": "2026-11-05T00:57:18.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.658Z",
+    "rawDescription": "President Trump has conceded that the Iran war cost Republicans dearly in the midterms . Now he must decide whether to cut his losses and reach a deal — or double down and go back to bombing. Why it matters: All of Trump's options are problematic: The first is to strike. But going back to war would be highly unpopular — keeping gas prices high and probably not yielding a better military result. Another is to negotiate. But if Iranian officals refuse to make concessions — or, sensing weakness after the president's political loss, up their demands — Trump will have a hard time reaching a deal. The third is to \"strangle,\" as aides put it. This would mean sticking with the status quo — the naval blockade coupled with crippling economic sanctions that leave the Iranian regime to \"rot\" — while…",
+    "contentSnippet": "President Trump has conceded that the Iran war cost Republicans dearly in the midterms . Now he must decide whether to cut his losses and reach a deal — or double down and go back to bombing. Why it matters: All of Trump's options are problematic: The first is to strike. But going back to war would be highly unpopular — keeping gas prices high and probably not yielding a better military result. Another is to negotiate. But if Iranian officals refuse to make concessions — or, sensing weakness after the president's political loss, up their demands — Trump will have a hard time reaching a deal. The third is to \"strangle,\" as aides put it. This would mean sticking with the status quo — the naval blockade coupled with crippling economic sanctions that leave the Iranian regime to \"rot\" — while…",
+    "summaryZh": "基于标题/摘要生成：President Trump has conceded that the Iran war cost 共和党人 dearly in the midterms . Now he must decide whether to cut his losses and reach a deal — or…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "After midterm defeat, Trump faces mostly bad options in Iran Barak Ravid President Trump has conceded that the Iran w"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "After midterm defeat, Trump faces mostly bad options in Iran Barak Ravid President Trump has conceded that the Iran w"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "ostly bad options in Iran Barak Ravid President Trump has conceded that the Iran war cost Republicans dearly in the midterms . Now he must decide whether to cut his losses and reach a deal —"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_59hihs",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House Democrats face epic power struggle over their massive majority",
+    "chineseTitle": "众议院 民主党人 face epic power struggle over their massive majo…",
+    "originalUrl": "https://www.axios.com/2026/11/05/house-democrats-jeffries-centrists-majority-left",
+    "publishedAt": "2026-11-05T00:47:05.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.661Z",
+    "rawDescription": "House Democrats channeled anti-Trump fury into a landslide victory over Republicans. Now comes the hard part: Figuring out what to do with their huge majority . Why it matters: That question is already igniting a power struggle between Democrats' ideological factions as they lay out contradictory visions for what the next two years of governing looks like. This story is based on interviews with more than a dozen sitting and incoming House Democrats from across the political spectrum. \"Last night was a rebuke of the status quo,\" progressive Rep. Delia Ramirez (D-Ill.) told Axios, adding that \"for the left it was an affirmation and a validation that we are on the right track.\" There is \"absolutely no excuse,\" Ramirez said, for House Democrats not to do \"the most over the next two years, and…",
+    "contentSnippet": "House Democrats channeled anti-Trump fury into a landslide victory over Republicans. Now comes the hard part: Figuring out what to do with their huge majority . Why it matters: That question is already igniting a power struggle between Democrats' ideological factions as they lay out contradictory visions for what the next two years of governing looks like. This story is based on interviews with more than a dozen sitting and incoming House Democrats from across the political spectrum. \"Last night was a rebuke of the status quo,\" progressive Rep. Delia Ramirez (D-Ill.) told Axios, adding that \"for the left it was an affirmation and a validation that we are on the right track.\" There is \"absolutely no excuse,\" Ramirez said, for House Democrats not to do \"the most over the next two years, and…",
+    "summaryZh": "基于标题/摘要生成：众议院 民主党人 channeled anti-Trump fury into a landslide victory over 共和党人. Now comes the hard part：Figuring out what to do with their huge majority . Why…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "哈基姆·杰弗里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "power struggle over their massive majority Andrew Solender House Democrats channeled anti-Trump fury into a landslide victory over Republicans. Now comes the hard part: Figuring out wha"
+      },
+      {
+        "personId": "hakeem-jeffries",
+        "nameEn": "Hakeem Jeffries",
+        "nameZh": "哈基姆·杰弗里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Jeffries",
+        "confidence": "low",
+        "contextSnippet": "House Democrats Jeffries Centrists Majority Left 公开 sitemap 条目：House Democrats Jeffries Centrists Majority Left 公"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "power struggle over their massive majority Andrew Solender House Democrats channeled anti-Trump fury into a landslide victory over Republicans. Now comes the hard part: Figuring out wha"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "House Democrats face epic power struggle over their massive majority Andrew Solender House Democrats chan"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "y Andrew Solender House Democrats channeled anti-Trump fury into a landslide victory over Republicans. Now comes the hard part: Figuring out what to do with their huge majority . Why it matte"
+      },
+      {
+        "entityId": "hakeem-jeffries",
+        "name": "Hakeem Jeffries",
+        "type": "person",
+        "matchedAlias": "Jeffries",
+        "confidence": "medium",
+        "contextSnippet": "House Democrats Jeffries Centrists Majority Left 公开 sitemap 条目：House Democrats Jeffries Centrists Majority Left 公开"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Republican Party",
+      "Axios",
+      "Hakeem Jeffries"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a3em17",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Americans Care About Foreign Policy. Now Democrats Must Listen to Them.",
+    "chineseTitle": "Americans Care About Foreign 政策. Now 民主党人 Must Listen to…",
+    "originalUrl": "https://foreignpolicy.com/2026/11/04/us-midterm-elections-democrats-trump-israel-iran/",
+    "publishedAt": "2026-11-04T23:23:56.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.895Z",
+    "rawDescription": "Here’s what Congress can actually do in the next two years.",
+    "contentSnippet": "Here’s what Congress can actually do in the next two years.",
+    "summaryZh": "基于标题/摘要生成：Here’s what 美国国会 can actually do in the next two years",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Americans Care About Foreign Policy. Now Democrats Must Listen to Them. Howard W. French Here's what Congress can actually do in the next tw"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "are About Foreign Policy. Now Democrats Must Listen to Them. Howard W. French Here's what Congress can actually do in the next two years. Here's what Congress can actually do in the next t"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_q9v0vn",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Revenge of the White Working Class",
+    "chineseTitle": "Revenge of the White Working Class",
+    "originalUrl": "https://www.theatlantic.com/politics/2026/11/sand-turek-iowa-midterms-democrats/689290/",
+    "publishedAt": "2026-11-04T23:13:04.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.908Z",
+    "rawDescription": "But what happens next?",
+    "contentSnippet": "But what happens next?",
+    "summaryZh": "基于标题/摘要生成：But what happens next",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_h8os8j",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Google Won’t Give Schools the One Thing They Want",
+    "chineseTitle": "Google Won’t Give Schools the One Thing They Want",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/11/google-schools-ai-search/689298/",
+    "publishedAt": "2026-11-04T23:10:00.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.909Z",
+    "rawDescription": "The tech giant is making districts choose between AI and search.",
+    "contentSnippet": "The tech giant is making districts choose between AI and search.",
+    "summaryZh": "基于标题/摘要生成：The tech giant is making districts choose between AI and search",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bsl7sc",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Erika Kirk channels Charlie with blunt message to conservatives after GOP midterm losses",
+    "chineseTitle": "Erika Kirk channels Charlie with blunt message to conserv…",
+    "originalUrl": "https://www.foxnews.com/politics/erika-kirk-channels-charlie-blunt-message-conservatives-after-gop-midterm-losses",
+    "publishedAt": "2026-11-04T23:00:14.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.834Z",
+    "rawDescription": "Erika Kirk invoked her late husband Charlie Kirk's words, urging conservatives to stay positive and avoid infighting after election setbacks.",
+    "contentSnippet": "Erika Kirk invoked her late husband Charlie Kirk's words, urging conservatives to stay positive and avoid infighting after election setbacks.",
+    "summaryZh": "基于标题/摘要生成：Erika Kirk invoked her late husband Charlie Kirk's words，urging conservatives to stay positive and avoid infighting after 选举 setbacks",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Erika Kirk channels Charlie with blunt message to conservatives after GOP midterm losses Erika Kirk invoked her late husband Charlie Kirk's words, urging conservat"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_c6exwx",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Has Shifted the U.S.-Pakistan Relationship",
+    "chineseTitle": "Trump Has Shifted the U.S.-Pakistan Relationship",
+    "originalUrl": "https://foreignpolicy.com/2026/11/04/pakistan-us-trump-business-ties-lng-project/",
+    "publishedAt": "2026-11-04T22:13:59.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.896Z",
+    "rawDescription": "But close bilateral ties might not survive his lame-duck period and a Democratic Congress.",
+    "contentSnippet": "But close bilateral ties might not survive his lame-duck period and a Democratic Congress.",
+    "summaryZh": "基于标题/摘要生成：But close bilateral ties might not survive his lame-duck period and a Democratic 美国国会",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Has Shifted the U.S.-Pakistan Relationship Michael Kugelman But close bilateral ties migh"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Has Shifted the U.S.-Pakistan Relationship Michael Kugelman But close bilateral ties migh"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Kugelman But close bilateral ties might not survive his lame-duck period and a Democratic Congress. But close bilateral ties might not survive his lame-duck period and a Democratic Congres"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_10u54b",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Zelensky doubts Musk &#039;acted alone&#039; in Ukraine Starlink slowdown",
+    "chineseTitle": "Zelensky doubts Musk &#039;acted alone&#039; in Ukraine S…",
+    "originalUrl": "https://thehill.com/policy/international/6199329-zelensky-musk-starlink-slowdown/",
+    "publishedAt": "2026-11-04T21:38:57.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.724Z",
+    "rawDescription": "Ukrainian President Volodymyr Zelensky expressed doubt that SpaceX CEO Elon Musk could have acted alone in the Starlink slowdown last month, which impacted Ukraine's military capabilities. “I’m not sure that he [Musk] can do it with Starshield because it's military. It's government version,” Zelensky said during an interview with PBS News. “I'm not sure that...",
+    "contentSnippet": "Ukrainian President Volodymyr Zelensky expressed doubt that SpaceX CEO Elon Musk could have acted alone in the Starlink slowdown last month, which impacted Ukraine's military capabilities. “I’m not sure that he [Musk] can do it with Starshield because it's military. It's government version,” Zelensky said during an interview with PBS News. “I'm not sure that...",
+    "summaryZh": "基于标题/摘要生成：Ukrainian President Volodymyr Zelensky expressed doubt that SpaceX CEO Elon Musk could have acted alone in the Starlink slowdown last month，which imp…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jv6efp",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Florida congressman diagnoses GOP's blue tsunami losses: 'We failed to make them think we cared about them'",
+    "chineseTitle": "Florida congressman diagnoses GOP's blue tsunami losses：'…",
+    "originalUrl": "https://www.foxnews.com/politics/florida-congressman-diagnoses-gops-blue-tsunami-losses-we-failed-make-them-think-we-cared-about-them",
+    "publishedAt": "2026-11-04T21:06:57.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.835Z",
+    "rawDescription": "Firebrand GOP Florida rep says party must prepare for difficult two years, says Republicans bear responsibility for loss as a team",
+    "contentSnippet": "Firebrand GOP Florida rep says party must prepare for difficult two years, says Republicans bear responsibility for loss as a team",
+    "summaryZh": "基于标题/摘要生成：Firebrand GOP Florida rep says party must prepare for difficult two years，says 共和党人 bear responsibility for loss as a team",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "out them' Firebrand GOP Florida rep says party must prepare for difficult two years, says Republicans bear responsibility for loss as a team Firebrand GOP Florida rep says party must prepare"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kzh2qj",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘This is an earthquake’: Latino voters rush back to Democrats",
+    "chineseTitle": "‘This is an earthquake’：Latino voters rush back to 民主党人",
+    "originalUrl": "https://www.politico.com/news/2026/11/04/this-is-an-earthquake-latino-voters-rush-back-to-democrats-01149510",
+    "publishedAt": "2026-11-04T19:30:40.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.778Z",
+    "rawDescription": "The Latino inroads Trump made over the last decade have been completely reversed",
+    "contentSnippet": "The Latino inroads Trump made over the last decade have been completely reversed",
+    "summaryZh": "基于标题/摘要生成：The Latino inroads Trump made over the last decade have been completely reversed",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "rush back to Democrats By Ali Bianco, Samuel Benson and Jessica Piper The Latino inroads Trump made over the last decade have been completely reversed The Latino inroads Trump made ove"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "rush back to Democrats By Ali Bianco, Samuel Benson and Jessica Piper The Latino inroads Trump made over the last decade have been completely reversed The Latino inroads Trump made ove"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "'This is an earthquake': Latino voters rush back to Democrats By Ali Bianco, Samuel Benson and Jessica Piper The Latino inroads Trump made over the las"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vbua7r",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Schumer says Republicans favor ending Iran war immediately, cites ‘power of the purse’",
+    "chineseTitle": "Schumer says 共和党人 favor ending Iran war immediately，cites…",
+    "originalUrl": "https://thehill.com/homenews/senate/6198699-schumer-republicans-iran-war-end/",
+    "publishedAt": "2026-11-04T18:32:50.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.726Z",
+    "rawDescription": "Senate Democratic Leader Chuck Schumer (N.Y.) said there will be Senate Republican support for ending the war with Iran as soon as possible and threatened that Democrats will use the “power of the purse” to starve the Defense Department of funding if necessary to bring a swift end to the conflict. “We are going to...",
+    "contentSnippet": "Senate Democratic Leader Chuck Schumer (N.Y.) said there will be Senate Republican support for ending the war with Iran as soon as possible and threatened that Democrats will use the “power of the purse” to starve the Defense Department of funding if necessary to bring a swift end to the conflict. “We are going to...",
+    "summaryZh": "基于标题/摘要生成：参议院 Democratic Leader Chuck Schumer (N.Y.) said there will be 参议院 Republican support for ending the war with Iran as soon as possible and threatened…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [
+      "查克·舒默"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "ran war immediately, cites ‘power of the purse’ Alexander Bolton Senate Democratic Leader Chuck Schumer (N.Y.) said there will be Senate Republican support for ending the war with Iran as soon"
+      },
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "Schumer says Republicans favor ending Iran war immediately, cites ‘power of the purse’ Alexander"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "ran war immediately, cites 'power of the purse' Alexander Bolton Senate Democratic Leader Chuck Schumer (N.Y.) said there will be Senate Republican support for ending the war with Iran as soon"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "e Republican support for ending the war with Iran as soon as possible and threatened that Democrats will use the \"power of the purse\" to starve the Defense Department of funding if necessar"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Schumer says Republicans favor ending Iran war immediately, cites 'power of the purse' Alexander Bolton Senate Dem"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "epublicans favor ending Iran war immediately, cites 'power of the purse' Alexander Bolton Senate Democratic Leader Chuck Schumer (N.Y.) said there will be Senate Republican support for e"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Chuck Schumer",
+      "Democratic Party",
+      "Republican Party",
+      "Congress",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-senate https://thehill.com/homenews/senate/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ye2q2w",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Trump blames Fox News for election losses as Democrats win big",
+    "chineseTitle": "Trump blames Fox News for 选举 losses as 民主党人 win big",
+    "originalUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1hKUUZVTVI5OWt3VTNhbWFZbjIwNjZraVRkRVpFTXJINm52ZHd2aGgwb0tMc2NlcENzaXRLWmFHR3FvaGtPcTMwZVBrdm1YYXpmblV1eDZOYzI2WURPVF9TQjdhYmktZzltM0xrWHRfZV81MllIaVpUYmIzZ3hXc1VEc1pKdzIySWtkOUEyTHFORWtaR0dITzZJNA?oc=5",
+    "publishedAt": "2026-11-04T13:49:31.000Z",
+    "fetchedAt": "2026-11-05T03:19:24.952Z",
+    "rawDescription": "Trump blames Fox News for election losses as Democrats win big The Washington Post",
+    "contentSnippet": "Trump blames Fox News for election losses as Democrats win big The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Trump blames Fox News for 选举 losses as 民主党人 win big The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump blames Fox News for election losses as Democrats win big Trump blames Fox News for elect"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump blames Fox News for election losses as Democrats win big Trump blames Fox News for electi"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Trump blames Fox News for election losses as Democrats win big Trump blames Fox News for election losses as Democrats win big The Washington Pos"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\""
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6b4qtp",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Missing Critical Minerals Investment",
+    "chineseTitle": "The Missing Critical Minerals Investment",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/missing-critical-minerals-investment",
+    "publishedAt": "2026-11-04T09:00:00.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.708Z",
+    "rawDescription": "To catch up to China, America and its allies must dig.",
+    "contentSnippet": "To catch up to China, America and its allies must dig.",
+    "summaryZh": "基于标题/摘要生成：To catch up to 中国，America and its allies must dig",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/topic/Trade/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_id0lfq",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Dangers of a Lame-Duck Trump",
+    "chineseTitle": "The Dangers of a Lame-Duck Trump",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/dangers-lame-duck-trump",
+    "publishedAt": "2026-11-04T09:00:00.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.710Z",
+    "rawDescription": "How far will he go to make peace—and war?",
+    "contentSnippet": "How far will he go to make peace—and war?",
+    "summaryZh": "基于标题/摘要生成：How far will he go to make peace—and war",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Dangers of a Lame-Duck Trump Daniel W. Drezner, Elizabeth N. Saunders How far will he go to make peace—and war? How fa"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Dangers of a Lame-Duck Trump Daniel W. Drezner, Elizabeth N. Saunders How far will he go to make peace—and war? How fa"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cpula6",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats sweep Texas",
+    "chineseTitle": "民主党人 sweep Texas",
+    "originalUrl": "https://www.politico.com/news/2026/11/03/democrats-sweep-texas-01147637",
+    "publishedAt": "2026-11-04T04:45:13.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.779Z",
+    "rawDescription": "Republicans ran the country's second most-populous state for 30 years. Tonight Democrats took it back.",
+    "contentSnippet": "Republicans ran the country's second most-populous state for 30 years. Tonight Democrats took it back.",
+    "summaryZh": "基于标题/摘要生成：共和党人 ran the country's second most-populous state for 30 years. Tonight 民主党人 took it back",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats sweep Texas By Samuel Benson and Shelby Webb Republicans ran the country's second most-po"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Democrats sweep Texas By Samuel Benson and Shelby Webb Republicans ran the country's second most-populous state for 30 years. Tonight Democrats took it back"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d2bbvw",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the",
+    "chineseTitle": "As everyone knows，the Country of Canada has treated the U…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01UFozd3BBVG9yVjFYU0dteEdwSzFUanhQVlNQYy16aDJ1Nm9YTTdfYU1GRHBwRlA2V2ZRYmY3bHdaYlJUSHV4aE9UYVVQdklKUC1nMDV5REJqQWVxeFJlQ0lnMTdpMDdITVl5Q1hOSWFKdFk?oc=5",
+    "publishedAt": "2026-02-09T23:16:30.000Z",
+    "fetchedAt": "2026-11-05T03:19:25.442Z",
+    "rawDescription": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social",
+    "contentSnippet": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social",
+    "summaryZh": "基于标题/摘要生成：As everyone knows，the Country of Canada has treated the United States very unfairly for decades. Now，things are turning around for the U.S.A.，and FAS…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "gine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social As everyone knows, the Country of Canada has treated the United States very unfairly for"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qmdea4",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First AI Agenda – AFPI",
+    "chineseTitle": "America First AI Agenda – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PeGRPbWxtODFGUmdjeGdvbW1sbF9TWFdtZFIwX01qM05DaUlHUHpra0pKLUdBeFhPNGRJOTF3MElWZG9CWGVuMnFLTVlxY0dzWVRFS1hYSnZBLUtLYTljMXc0RGxWVXp6aUYwVTNicw?oc=5",
+    "publishedAt": "2025-11-24T08:00:00.000Z",
+    "fetchedAt": "2026-11-05T03:19:24.953Z",
+    "rawDescription": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "America First AI Agenda – AFPI America First AI Agenda – AFPI americafirstpolicy.com America First AI Agenda – AFPI amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-05T03:19:09.043Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.984Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.984Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-05T03:19:09.042Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.856Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-05T03:19:05.854Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cd2lm8",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI",
+    "chineseTitle": "America First 中国 政策 Principles in Practice – Center Overv…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVE1XcU85dTdibkp6RGdjRjhaMUh0Z0lKOEJRWDdGZm9oaDdvY0FEU2dLcjNUV09vWk1yT2lDV1piZnd2QllBM1l3c3pnbXhlLUVSVi1WWU5fY3FmRlBTcVBsaFM0QVJ1YTMwM2FRNjVNNkM1Tl9WMGk3cHVJa3BpbGxUNmJHaUVCZnZVZy15eHdZeDZPM2hlR29XUUtMY194RTlXWW55Zmp2aFpHWHdiS2NYM1Y3VjZoSUdWczlCQS1XZVBKWGc?oc=5",
+    "publishedAt": "2022-12-07T08:00:00.000Z",
+    "fetchedAt": "2026-11-05T03:19:24.954Z",
+    "rawDescription": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First 中国 政策 Principles in Practice – Center Overview – 中国 政策 Initiative – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "a First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First China Policy Principles in Practice – Center Overview – China Policy Initia"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First C"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ls8g67",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUjVkbVoySHdjYXZtUE9abTdHNVdxSTdnUnA4TEpBcE9FS3c0bkw1ZnBPRkRWbl9qcUxsUnlVcGNxeVRHT1FHaDZHS1FIWFJRaEE?oc=5",
+    "publishedAt": "2022-09-09T19:59:23.000Z",
+    "fetchedAt": "2026-11-05T03:19:25.441Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
