@@ -1,0 +1,1955 @@
+[
+  {
+    "id": "art_n8to1v",
+    "sourceName": "Truth Social",
+    "sourceDomain": "independent.co.uk",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Trump blames stock market nose - dive on Dem midterm victories and this gripe is actually accurate",
+    "chineseTitle": "Trump blames stock market nose - dive on Dem midterm vict…",
+    "originalUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-stock-market-midterms-ai-b3080198.html",
+    "publishedAt": "2026-11-07T02:41:49.971Z",
+    "fetchedAt": "2026-11-07T02:41:49.975Z",
+    "rawDescription": "",
+    "contentSnippet": "Trump blames stock market nose - dive on Dem midterm victories and this gripe is actually accurate",
+    "summaryZh": "基于标题/摘要生成：Trump blames stock market nose - dive on Dem midterm victories and this gripe is actually accurate",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump blames stock market nose - dive on Dem midterm victories and this gripe is actually accur"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump blames stock market nose - dive on Dem midterm victories and this gripe is actually accur"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g5uwq1",
+    "sourceName": "Truth Social",
+    "sourceDomain": "gulfnews.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Asian Markets Tumble as AI Stocks Trigger Global Sell - Off",
+    "chineseTitle": "Asian Markets Tumble as AI Stocks Trigger Global Sell - O…",
+    "originalUrl": "https://gulfnews.com/business/markets/asian-markets-follow-us-plunge-as-ai-stocks-face-fresh-sell-off-1.500737887",
+    "publishedAt": "2026-11-07T02:41:49.971Z",
+    "fetchedAt": "2026-11-07T02:41:49.977Z",
+    "rawDescription": "",
+    "contentSnippet": "Asian Markets Tumble as AI Stocks Trigger Global Sell - Off",
+    "summaryZh": "基于标题/摘要生成：Asian Markets Tumble as AI Stocks Trigger Global Sell - Off",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_sqtjw0",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "PublicPageProvider",
+    "originalTitle": "Tewksbury man, 18, charged with threatening to kill Trump ‘allegedly had the means to do it,’ FBI says",
+    "chineseTitle": "Tewksbury man，18，charged with threatening to kill Trump ‘…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/05/metro/tewksbury-teen-threat-to-kill-president-fascist-white-supremacist/",
+    "publishedAt": "2026-11-07T02:37:43.496Z",
+    "fetchedAt": "2026-11-07T02:37:44.588Z",
+    "rawDescription": "Tewksbury man, 18, charged with threatening to kill Trump ‘allegedly had the means to do it,’ FBI says. Trenton Touch expressed extremist beliefs and association with a fascist extremist organization, federal prosecutors said. 7:55 p.m. KEVIN CULLEN <a href=\"/2026/11/05/metro/paul-lepage-all-peopl",
+    "contentSnippet": "Tewksbury man, 18, charged with threatening to kill Trump ‘allegedly had the means to do it,’ FBI says. Trenton Touch expressed extremist beliefs and association with a fascist extremist organization, federal prosecutors said. 7:55 p.m. KEVIN CULLEN <a href=\"/2026/11/05/metro/paul-lepage-all-peopl",
+    "summaryZh": "基于标题/摘要生成：Tewksbury man，18，charged with threatening to kill Trump ‘allegedly had the means to do it，’ FBI says. Trenton Touch expressed extremist beliefs and a…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Tewksbury man, 18, charged with threatening to kill Trump ‘allegedly had the means to do it,’ FBI says Tewksbury man, 18, charged with threatening"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Tewksbury man, 18, charged with threatening to kill Trump 'allegedly had the means to do it,' FBI says Tewksbury man, 18, charged with threatening"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_q8bkkj",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "PublicPageProvider",
+    "originalTitle": "Money, Power, Inequality",
+    "chineseTitle": "Money，Power，Inequality",
+    "originalUrl": "https://www.bostonglobe.com/metro/money-power-inequality/?p1=BGHeader_MainNav",
+    "publishedAt": "2026-11-07T02:37:43.167Z",
+    "fetchedAt": "2026-11-07T02:37:44.563Z",
+    "rawDescription": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "contentSnippet": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "summaryZh": "基于标题/摘要生成：Money，Power，Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"，",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/nation/",
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uzmyaf",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "US offers $20 million reward for information on Iran's nuclear program",
+    "chineseTitle": "US offers $20 million reward for information on Iran's nu…",
+    "originalUrl": "https://www.foxnews.com/politics/us-offers-20-million-reward-information-irans-nuclear-program",
+    "publishedAt": "2026-11-07T02:03:34.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.487Z",
+    "rawDescription": "The State Department's Rewards for Justice program is offering up to $20 million for tips on Iran's nuclear program via Signal or Tor tip lines.",
+    "contentSnippet": "The State Department's Rewards for Justice program is offering up to $20 million for tips on Iran's nuclear program via Signal or Tor tip lines.",
+    "summaryZh": "基于标题/摘要生成：The 美国国务院's Rewards for Justice program is offering up to $20 million for tips on Iran's nuclear program via Signal or Tor tip lines",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "state-department",
+        "name": "State Department",
+        "type": "organization",
+        "matchedAlias": "State Department",
+        "confidence": "high",
+        "contextSnippet": "US offers $20 million reward for information on Iran's nuclear program The State Department's Rewards for Justice program is offering up to $20 million for tips on Iran's nuclear pr"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "State Department"
+    ],
+    "relatedEntityTags": [
+      "State Department",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hssxig",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028",
+    "chineseTitle": "Trump highlights NASA nuclear-powered Mars spacecraft mis…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-highlights-nasa-nuclear-powered-mars-spacecraft-mission-planned-2028",
+    "publishedAt": "2026-11-07T01:54:19.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.487Z",
+    "rawDescription": "President Donald Trump announced NASA will launch its first nuclear-powered spacecraft to Mars within two years, aiming to send astronauts to the red planet.",
+    "contentSnippet": "President Donald Trump announced NASA will launch its first nuclear-powered spacecraft to Mars within two years, aiming to send astronauts to the red planet.",
+    "summaryZh": "基于标题/摘要生成：President 特朗普 announced NASA will launch its first nuclear-powered spacecraft to Mars within two years，aiming to send astronauts to the red planet",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028 President Donald Trump announced NASA will launch its first nuclear-powered spacecraft to Mars within two years"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028 President Donal"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028 President Donald Trump announced NASA will launch its first nuclear-powered spacecraft to Mars within two years,"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028 公开 sitemap 条目：Tr"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9jkb7o",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Vance leads behind-the-scenes push for new Iran deal",
+    "chineseTitle": "Vance leads behind-the-scenes push for new Iran deal",
+    "originalUrl": "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal",
+    "publishedAt": "2026-11-07T01:10:14.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.313Z",
+    "rawDescription": "Vice President Vance has spent the past two weeks personally involved in indirect talks with Iran aimed at reaching a new ceasefire and resuming nuclear negotiations, according to two sources with knowledge of the matter. Why it matters: Vance's heavy involvement shows he's taking it upon himself to extract the U.S. from a conflict he blamed for the GOP's staggering losses in this week's election. It also elevates the latest round of indirect talks to the highest levels of the administration. The big picture: U.S. officials and regional sources say that for now Trump is willing to let diplomatic efforts play out and wants to see if any kind of deal is possible. \"We're talking to them,\" Trump told reporters on Friday, when asked what his message to Iran was. But if he changes his mind and…",
+    "contentSnippet": "Vice President Vance has spent the past two weeks personally involved in indirect talks with Iran aimed at reaching a new ceasefire and resuming nuclear negotiations, according to two sources with knowledge of the matter. Why it matters: Vance's heavy involvement shows he's taking it upon himself to extract the U.S. from a conflict he blamed for the GOP's staggering losses in this week's election. It also elevates the latest round of indirect talks to the highest levels of the administration. The big picture: U.S. officials and regional sources say that for now Trump is willing to let diplomatic efforts play out and wants to see if any kind of deal is possible. \"We're talking to them,\" Trump told reporters on Friday, when asked what his message to Iran was. But if he changes his mind and…",
+    "summaryZh": "基于标题/摘要生成：Vice President Vance has spent the past two weeks personally involved in indirect talks with Iran aimed at reaching a new ceasefire and resuming nucl…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "the administration. The big picture: U.S. officials and regional sources say that for now Trump is willing to let diplomatic efforts play out and wants to see if any kind of deal is pos"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Vance leads behind-the-scenes push for new Iran deal Barak Ravid Vice President Vance has spent"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "the administration. The big picture: U.S. officials and regional sources say that for now Trump is willing to let diplomatic efforts play out and wants to see if any kind of deal is pos"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "Vance",
+        "confidence": "medium",
+        "contextSnippet": "Vance leads behind-the-scenes push for new Iran deal Barak Ravid Vice President Vance has spent"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "t shows he's taking it upon himself to extract the U.S. from a conflict he blamed for the GOP's staggering losses in this week's election. It also elevates the latest round of indirec"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "Republican Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_k48v68",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
+    "chineseTitle": "Susie Wiles Is the Latest Powerful Woman to Exit the Trum…",
+    "originalUrl": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
+    "publishedAt": "2026-11-06T23:53:13.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.517Z",
+    "rawDescription": "A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men.",
+    "contentSnippet": "A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men.",
+    "summaryZh": "基于标题/摘要生成：A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "苏茜·怀尔斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration Chris Cameron A wave of high-ranking women have left the Trump administrat"
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration Chris Cameron A wave of hig"
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Wiles",
+        "confidence": "low",
+        "contextSnippet": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration Chris Cameron A wave of hig"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration Chris Cameron A wave of high-ranking women have left the Trump administrat"
+      },
+      {
+        "entityId": "susie-wiles",
+        "name": "Susie Wiles",
+        "type": "person",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration Chris Cameron A wave of hig"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration Chris Cameron A wave of high-ranking women have left the Trump administration in the past"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Susie Wiles",
+      "Trump team",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_h1alg5",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Hegseth draws fire after using government resources for partisan video",
+    "chineseTitle": "Hegseth draws fire after using government resources for p…",
+    "originalUrl": "https://www.washingtonpost.com/national-security/2026/11/06/hegseth-draws-fire-after-government-resources-used-partisan-video/",
+    "publishedAt": "2026-11-06T23:50:13.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.663Z",
+    "rawDescription": "Watchdog groups said the defense secretary’s self-promotional messaging as he fights to keep his job probably violated federal law.",
+    "contentSnippet": "Watchdog groups said the defense secretary’s self-promotional messaging as he fights to keep his job probably violated federal law.",
+    "summaryZh": "基于标题/摘要生成：Watchdog groups said the defense secretary’s self-promotional messaging as he fights to keep his job probably violated federal law",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Hegseth draws fire after using government resources for partisan video Tara Copp Watchdog groups"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Hegseth draws fire after using government resources for partisan video Tara Copp Watchdog groups"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4jfuzw",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Florida Gov. Ron DeSantis planning another White House run",
+    "chineseTitle": "Florida Gov. Ron DeSantis planning another White 众议院 run",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/11/06/ron-desantis-plans-another-white-house-bid-after-failing-2024/",
+    "publishedAt": "2026-11-06T23:35:46.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.664Z",
+    "rawDescription": "Florida’s status as one of the few red states to mostly withstand the Democratic sweep will be a core part of his argument, an adviser says.",
+    "contentSnippet": "Florida’s status as one of the few red states to mostly withstand the Democratic sweep will be a core part of his argument, an adviser says.",
+    "summaryZh": "基于标题/摘要生成：Florida’s status as one of the few red states to mostly withstand the Democratic sweep will be a core part of his argument，an adviser says",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Florida Gov. Ron DeSantis planning another White House run Nancy Cook Florida's status as one of the few red states to mostly withstand the Demo"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yaz70q",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats Took Over Texas. What Now?",
+    "chineseTitle": "民主党人 Took Over Texas. What Now",
+    "originalUrl": "https://www.nytimes.com/2026/11/06/us/politics/texas-democrats-takeover-what-now.html",
+    "publishedAt": "2026-11-06T23:27:20.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.518Z",
+    "rawDescription": "Democrats’ wins in the Lone Star state exceeded their wildest dreams.",
+    "contentSnippet": "Democrats’ wins in the Lone Star state exceeded their wildest dreams.",
+    "summaryZh": "基于标题/摘要生成：民主党人’ wins in the Lone Star state exceeded their wildest dreams",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Took Over Texas. What Now? Jess Bidgood Democrats' wins in the Lone Star state exceeded t"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_buo4xq",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Preposterous, Overpriced, Beautiful Disaster of a Car",
+    "chineseTitle": "A Preposterous，Overpriced，Beautiful Disaster of a Car",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/11/rip-cybertruck/689340/",
+    "publishedAt": "2026-11-06T23:16:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.562Z",
+    "rawDescription": "There will never be another vehicle like the Cybertruck.",
+    "contentSnippet": "There will never be another vehicle like the Cybertruck.",
+    "summaryZh": "基于标题/摘要生成：There will never be another vehicle like the Cybertruck",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xw4uhb",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Inside the early GOP reckoning after historic defeat",
+    "chineseTitle": "Inside the early GOP reckoning after historic defeat",
+    "originalUrl": "https://www.politico.com/news/2026/11/06/gop-reckoning-trump-midterms-stephen-miller-01154760",
+    "publishedAt": "2026-11-06T23:00:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.433Z",
+    "rawDescription": "Stephen Miller's rise to chief of staff exacerbated GOP fears that there will be no party-wide reckoning after their midterm wipeout.",
+    "contentSnippet": "Stephen Miller's rise to chief of staff exacerbated GOP fears that there will be no party-wide reckoning after their midterm wipeout.",
+    "summaryZh": "基于标题/摘要生成：Stephen Miller's rise to chief of staff exacerbated GOP fears that there will be no party-wide reckoning after their midterm wipeout",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "斯蒂芬·米勒"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "Inside the early GOP reckoning after historic defeat By Meredith Lee Hill Stephen Miller's rise to chief of staff exacerbated GOP fears that there will be no party-wide reckoning"
+      },
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Miller",
+        "confidence": "low",
+        "contextSnippet": "Inside the early GOP reckoning after historic defeat By Meredith Lee Hill Stephen Miller's rise to chief of staff exacerbated GOP fears that there will be no party-wide reckoning"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "stephen-miller",
+        "name": "Stephen Miller",
+        "type": "person",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "Inside the early GOP reckoning after historic defeat By Meredith Lee Hill Stephen Miller's rise to chief of staff exacerbated GOP fears that there will be no party-wide reckoning"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Inside the early GOP reckoning after historic defeat By Meredith Lee Hill Stephen Miller's rise to chief of st"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Stephen Miller",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "site:politico.com White House China OR Taiwan OR Trump",
+      "\"Republican Party\" Trump"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_dx76qt",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump replaces chief of staff Susie Wiles with Stephen Miller",
+    "chineseTitle": "Trump replaces chief of staff Susie Wiles with Stephen Mi…",
+    "originalUrl": "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff",
+    "publishedAt": "2026-11-06T22:16:01.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.316Z",
+    "rawDescription": "Angered over his midterm losses, President Trump announced Friday he was replacing Susie Wiles as White House chief of staff with longtime adviser Stephen Miller. Why it matters: Trump is trading one of his few moderating forces with one of the most maximalist champions of his agenda, a striking signal that the president may double down on the hardline policies that helped Republicans lose control of Congress on Tuesday. Driving the news: Wiles submitted her resignation on Thursday night. Sources told Axios her departure was a mutual decision, but driven by Tuesday's election results, for which Trump blamed her. Sources said Trump began expressing discomfort with the scale of the midterm losses and the money his political team spent on Wednesday. Wiles offered to quit for two days before…",
+    "contentSnippet": "Angered over his midterm losses, President Trump announced Friday he was replacing Susie Wiles as White House chief of staff with longtime adviser Stephen Miller. Why it matters: Trump is trading one of his few moderating forces with one of the most maximalist champions of his agenda, a striking signal that the president may double down on the hardline policies that helped Republicans lose control of Congress on Tuesday. Driving the news: Wiles submitted her resignation on Thursday night. Sources told Axios her departure was a mutual decision, but driven by Tuesday's election results, for which Trump blamed her. Sources said Trump began expressing discomfort with the scale of the midterm losses and the money his political team spent on Wednesday. Wiles offered to quit for two days before…",
+    "summaryZh": "基于标题/摘要生成：Angered over his midterm losses，President Trump announced Friday he was replacing Susie Wiles as White 众议院 chief of staff with longtime adviser Steph…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "斯蒂芬·米勒",
+      "苏茜·怀尔斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump replaces chief of staff Susie Wiles with Stephen Miller Angered over his midterm losses,"
+      },
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "Trump replaces chief of staff Susie Wiles with Stephen Miller Angered over his midterm losses, President Trump announced Friday he was replacing Susie"
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "Trump replaces chief of staff Susie Wiles with Stephen Miller Angered over his midterm losses, President Trump announced Friday he"
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Wiles",
+        "confidence": "low",
+        "contextSnippet": "Trump replaces chief of staff Susie Wiles with Stephen Miller Angered over his midterm losses, President Trump announced Friday he"
+      },
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Miller",
+        "confidence": "low",
+        "contextSnippet": "Trump replaces chief of staff Susie Wiles with Stephen Miller Angered over his midterm losses, President Trump announced Friday he was replacing Susie"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump replaces chief of staff Susie Wiles with Stephen Miller Angered over his midterm losses,"
+      },
+      {
+        "entityId": "stephen-miller",
+        "name": "Stephen Miller",
+        "type": "person",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "Trump replaces chief of staff Susie Wiles with Stephen Miller Angered over his midterm losses, President Trump announced Friday he was replacing Susie"
+      },
+      {
+        "entityId": "susie-wiles",
+        "name": "Susie Wiles",
+        "type": "person",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "Trump replaces chief of staff Susie Wiles with Stephen Miller Angered over his midterm losses, President Trump announced Friday he"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "a striking signal that the president may double down on the hardline policies that helped Republicans lose control of Congress on Tuesday. Driving the news: Wiles submitted her resignation on"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "over his midterm losses, President Trump announced Friday he was replacing Susie Wiles as White House chief of staff with longtime adviser Stephen Miller. Why it matters: Trump is trading one"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "resident may double down on the hardline policies that helped Republicans lose control of Congress on Tuesday. Driving the news: Wiles submitted her resignation on Thursday night. Sources"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Stephen Miller",
+      "Susie Wiles",
+      "Republican Party",
+      "White House",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Stephen Miller\""
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qe7rxk",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Global AI Stocks React to U.S. Midterm Results",
+    "chineseTitle": "Global AI Stocks React to U.S. Midterm Results",
+    "originalUrl": "https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/",
+    "publishedAt": "2026-11-06T21:59:39.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.548Z",
+    "rawDescription": "Incoming Democrats have pledged to rein in AI and data centers.",
+    "contentSnippet": "Incoming Democrats have pledged to rein in AI and data centers.",
+    "summaryZh": "基于标题/摘要生成：Incoming 民主党人 have pledged to rein in AI and data centers",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Global AI Stocks React to U.S. Midterm Results Alexandra Sharp Incoming Democrats have pledged to rein in AI and data centers. Incoming Democrats have pledged to rein in A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_r406i4",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Harmeet Dhillon’s Tenure of Destruction",
+    "chineseTitle": "Harmeet Dhillon’s Tenure of Destruction",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/11/harmeet-dhillons-doj-resigned/689339/",
+    "publishedAt": "2026-11-06T21:23:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.563Z",
+    "rawDescription": "The head of the department’s Civil Rights Division has resigned, leaving a trail of damage behind her—just as she intended.",
+    "contentSnippet": "The head of the department’s Civil Rights Division has resigned, leaving a trail of damage behind her—just as she intended.",
+    "summaryZh": "基于标题/摘要生成：The head of the department’s Civil Rights Division has resigned，leaving a trail of damage behind her—just as she intended",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s8mwfq",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The U.S. Senate Just Got a Lot Younger",
+    "chineseTitle": "The U.S. 参议院 Just Got a Lot Younger",
+    "originalUrl": "https://foreignpolicy.com/2026/11/06/us-midterm-elections-senate-ages-average-decline-oecd/",
+    "publishedAt": "2026-11-06T20:46:41.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.548Z",
+    "rawDescription": "The midterms put a huge dent in America’s gerontocracy.",
+    "contentSnippet": "The midterms put a huge dent in America’s gerontocracy.",
+    "summaryZh": "基于标题/摘要生成：The midterms put a huge dent in America’s gerontocracy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "The U.S. Senate Just Got a Lot Younger Alexandra Sharp The midterms put a huge dent in America's gerontoc"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_y4kssh",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Zelensky: Ukraine may receive increased US assistance following &#039;new political infrastructure&#039;",
+    "chineseTitle": "Zelensky：Ukraine may receive increased US assistance foll…",
+    "originalUrl": "https://thehill.com/policy/international/6203855-zelensky-ukraine-us-aid-midterms/",
+    "publishedAt": "2026-11-06T15:16:30.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.379Z",
+    "rawDescription": "The chances have increased for Ukraine to receive additional U.S. assistance, Ukrainian President Volodymyr Zelensky said Thursday, reacting to Democrats' overwhelming victories in the midterm elections. Ukraine needs to consolidate bipartisan support in the U.S. and “move toward” the new political infrastructure, he added in an interview with a Ukrainian news channel posted on the...",
+    "contentSnippet": "The chances have increased for Ukraine to receive additional U.S. assistance, Ukrainian President Volodymyr Zelensky said Thursday, reacting to Democrats' overwhelming victories in the midterm elections. Ukraine needs to consolidate bipartisan support in the U.S. and “move toward” the new political infrastructure, he added in an interview with a Ukrainian news channel posted on the...",
+    "summaryZh": "基于标题/摘要生成：The chances have increased for Ukraine to receive additional U.S. assistance，Ukrainian President Volodymyr Zelensky said Thursday，reacting to 民主党人' o…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "tional U.S. assistance, Ukrainian President Volodymyr Zelensky said Thursday, reacting to Democrats' overwhelming victories in the midterm elections. Ukraine needs to consolidate bipartisan"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tylet",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The size of Democrats’ wave surprised even their top House super PAC",
+    "chineseTitle": "The size of 民主党人’ wave surprised even their top 众议院 super…",
+    "originalUrl": "https://www.politico.com/news/2026/11/06/democratic-blue-wave-surprised-house-leader-01153548",
+    "publishedAt": "2026-11-06T15:00:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.434Z",
+    "rawDescription": "House Majority PAC President Mike Smith said Democrats’ gains are “on the very high end” of the group’s expectations.",
+    "contentSnippet": "House Majority PAC President Mike Smith said Democrats’ gains are “on the very high end” of the group’s expectations.",
+    "summaryZh": "基于标题/摘要生成：众议院 Majority PAC President Mike Smith said 民主党人’ gains are “on the very high end” of the group’s expectations",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "The size of Democrats' wave surprised even their top House super PAC By Aaron Pellish House Majority PAC Presid"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ftpbi4",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats Shouldn’t Squander Their Chance to Launch a Foreign Policy Revolution",
+    "chineseTitle": "民主党人 Shouldn’t Squander Their Chance to Launch a Foreign…",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/matthew-duss-democrats-squander-chance-foreign-policy-congress-midterms",
+    "publishedAt": "2026-11-06T12:36:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.361Z",
+    "rawDescription": "The imperative of ambition in a new Congress.",
+    "contentSnippet": "The imperative of ambition in a new Congress.",
+    "summaryZh": "基于标题/摘要生成：The imperative of ambition in a new 美国国会",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Shouldn't Squander Their Chance to Launch a Foreign Policy Revolution Matthew Duss The im"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "ce to Launch a Foreign Policy Revolution Matthew Duss The imperative of ambition in a new Congress. The imperative of ambition in a new Congress."
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xbkj9s",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The True Meaning of Power",
+    "chineseTitle": "The True Meaning of Power",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/true-meaning-power-david-sacks",
+    "publishedAt": "2026-11-06T09:00:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.363Z",
+    "rawDescription": "What the godfather of realism can teach Trump.",
+    "contentSnippet": "What the godfather of realism can teach Trump.",
+    "summaryZh": "基于标题/摘要生成：What the godfather of realism can teach Trump",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The True Meaning of Power David Sacks What the godfather of realism can teach Trump. What the godfather of realism can teach Trump."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The True Meaning of Power David Sacks What the godfather of realism can teach Trump. What the godfather of realism can teach Trump."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_159i2o",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Rubio places additional sanctions on Cuba, targeting &#039;illicit&#039; shipping network",
+    "chineseTitle": "Rubio places additional sanctions on Cuba，targeting &#039…",
+    "originalUrl": "https://thehill.com/policy/defense/6202991-rubio-broadens-cuba-sanctions-crude-oil/",
+    "publishedAt": "2026-11-06T01:53:06.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.380Z",
+    "rawDescription": "The Trump administration announced another wave of sanctions against Cuba Thursday, targeting 10 individuals and entities tied to the country's government, military and oil industry. The State Department accused Cuba’s “ruling elite” in its announcement of “hoarding the island’s energy, shipping, and technology resources for its own enrichment, leaving the Cuban people to contend with...",
+    "contentSnippet": "The Trump administration announced another wave of sanctions against Cuba Thursday, targeting 10 individuals and entities tied to the country's government, military and oil industry. The State Department accused Cuba’s “ruling elite” in its announcement of “hoarding the island’s energy, shipping, and technology resources for its own enrichment, leaving the Cuban people to contend with...",
+    "summaryZh": "基于标题/摘要生成：The Trump administration announced another wave of sanctions against Cuba Thursday，targeting 10 individuals and entities tied to the country's govern…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "us_domestic",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ditional sanctions on Cuba, targeting &#039;illicit&#039; shipping network Finya Swai The Trump administration announced another wave of sanctions against Cuba Thursday, targeting 10 in"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "Rubio places additional sanctions on Cuba, targeting &#039;illicit&#039; shipping network Finya"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "ditional sanctions on Cuba, targeting &#039;illicit&#039; shipping network Finya Swai The Trump administration announced another wave of sanctions against Cuba Thursday, targeting 10 in"
+      },
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Rubio",
+        "confidence": "medium",
+        "contextSnippet": "Rubio places additional sanctions on Cuba, targeting &#039;illicit&#039; shipping network Finya"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "ditional sanctions on Cuba, targeting &#039;illicit&#039; shipping network Finya Swai The Trump administration announced another wave of sanctions against Cuba Thursday, targeting 10 individuals and e"
+      },
+      {
+        "entityId": "state-department",
+        "name": "State Department",
+        "type": "organization",
+        "matchedAlias": "State Department",
+        "confidence": "high",
+        "contextSnippet": "individuals and entities tied to the country's government, military and oil industry. The State Department accused Cuba's \"ruling elite\" in its announcement of \"hoarding the island's energy, shipp"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team",
+      "State Department"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Marco Rubio",
+      "Trump team",
+      "State Department",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-11-07T02:37:58.517Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade",
+      "\"Robert Lighthizer\" Trump",
+      "AFPI"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d2bbvw",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the",
+    "chineseTitle": "As everyone knows，the Country of Canada has treated the U…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01UFozd3BBVG9yVjFYU0dteEdwSzFUanhQVlNQYy16aDJ1Nm9YTTdfYU1GRHBwRlA2V2ZRYmY3bHdaYlJUSHV4aE9UYVVQdklKUC1nMDV5REJqQWVxeFJlQ0lnMTdpMDdITVl5Q1hOSWFKdFk?oc=5",
+    "publishedAt": "2026-02-09T23:16:30.000Z",
+    "fetchedAt": "2026-11-07T02:37:59.015Z",
+    "rawDescription": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social",
+    "contentSnippet": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social",
+    "summaryZh": "基于标题/摘要生成：As everyone knows，the Country of Canada has treated the United States very unfairly for decades. Now，things are turning around for the U.S.A.，and FAS…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "gine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social As everyone knows, the Country of Canada has treated the United States very unfairly for"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:42.520Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.637Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.638Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:42.519Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.507Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-07T02:37:39.505Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cd2lm8",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI",
+    "chineseTitle": "America First 中国 政策 Principles in Practice – Center Overv…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVE1XcU85dTdibkp6RGdjRjhaMUh0Z0lKOEJRWDdGZm9oaDdvY0FEU2dLcjNUV09vWk1yT2lDV1piZnd2QllBM1l3c3pnbXhlLUVSVi1WWU5fY3FmRlBTcVBsaFM0QVJ1YTMwM2FRNjVNNkM1Tl9WMGk3cHVJa3BpbGxUNmJHaUVCZnZVZy15eHdZeDZPM2hlR29XUUtMY194RTlXWW55Zmp2aFpHWHdiS2NYM1Y3VjZoSUdWczlCQS1XZVBKWGc?oc=5",
+    "publishedAt": "2022-12-07T08:00:00.000Z",
+    "fetchedAt": "2026-11-07T02:37:58.517Z",
+    "rawDescription": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First 中国 政策 Principles in Practice – Center Overview – 中国 政策 Initiative – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "a First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First China Policy Principles in Practice – Center Overview – China Policy Initia"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First C"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ls8g67",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUjVkbVoySHdjYXZtUE9abTdHNVdxSTdnUnA4TEpBcE9FS3c0bkw1ZnBPRkRWbl9qcUxsUnlVcGNxeVRHT1FHaDZHS1FIWFJRaEE?oc=5",
+    "publishedAt": "2022-09-09T19:59:23.000Z",
+    "fetchedAt": "2026-11-07T02:37:59.014Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
