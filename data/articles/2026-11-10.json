@@ -1,0 +1,1828 @@
+[
+  {
+    "id": "art_mkvbgk",
+    "sourceName": "Fox News",
+    "sourceDomain": "radio.foxnews.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Imagine Saying That After We Were Attacked On 9 / 11 Michael McFaul Reacts to President Trumps 60 Minutes Interview",
+    "chineseTitle": "Imagine Saying That After We Were Attacked On 9，11 Michae…",
+    "originalUrl": "https://radio.foxnews.com/2026/11/09/imagine-saying-that-after-we-were-attacked-on-9-11-michael-mcfaul-reacts-to-president-trumps-60-minutes-interview/",
+    "publishedAt": "2026-11-10T04:32:28.967Z",
+    "fetchedAt": "2026-11-10T04:35:08.240Z",
+    "rawDescription": "",
+    "contentSnippet": "Imagine Saying That After We Were Attacked On 9 / 11 Michael McFaul Reacts to President Trumps 60 Minutes Interview",
+    "summaryZh": "基于标题/摘要生成：Imagine Saying That After We Were Attacked On 9，11 Michael McFaul Reacts to President Trumps 60 Minutes Interview",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "domain:foxnews.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xqarxb",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Scientists sue in Boston to block Trump administration changes at National Science Foundation",
+    "chineseTitle": "Scientists sue in Boston to block Trump administration ch…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/09/nation/scientists-sue-trump-national-science-foundation/",
+    "publishedAt": "2026-11-10T04:28:43.537Z",
+    "fetchedAt": "2026-11-10T04:31:24.522Z",
+    "rawDescription": "公开 sitemap 条目：Scientists sue in Boston to block Trump administration changes at National Science Foundation",
+    "contentSnippet": "公开 sitemap 条目：Scientists sue in Boston to block Trump administration changes at National Science Foundation",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Scientists sue in Boston to block Trump administration changes at National Science Foundation",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Scientists sue in Boston to block Trump administration changes at National Science Foundation 公开 sitemap 条目：Scientists sue in Bo"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Scientists sue in Boston to block Trump administration changes at National Science Foundation 公开 sitemap 条目：Scientists sue in Bos"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Scientists sue in Boston to block Trump administration changes at National Science Foundation 公开 sitemap 条目：Scientists sue in Boston to block Tr"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_upmx0x",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Scientists sue in Boston to block Trump administration’s dismantling of so-called ‘woke’ social sciences",
+    "chineseTitle": "Scientists sue in Boston to block Trump administration’s…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/09/metro/social-science-trump-woke-national-science-foundation/",
+    "publishedAt": "2026-11-10T04:25:27.869Z",
+    "fetchedAt": "2026-11-10T04:31:24.523Z",
+    "rawDescription": "公开 sitemap 条目：Scientists sue in Boston to block Trump administration’s dismantling of so-called ‘woke’ social sciences",
+    "contentSnippet": "公开 sitemap 条目：Scientists sue in Boston to block Trump administration’s dismantling of so-called ‘woke’ social sciences",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Scientists sue in Boston to block Trump administration’s dismantling of so-called ‘woke’ social sciences",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Scientists sue in Boston to block Trump administration’s dismantling of so-called ‘woke’ social sciences 公开 sitemap 条目：Scientist"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Scientists sue in Boston to block Trump administration's dismantling of so-called 'woke' social sciences 公开 sitemap 条目：Scientists"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Scientists sue in Boston to block Trump administration's dismantling of so-called 'woke' social sciences 公开 sitemap 条目：Scientists sue in Boston"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hnfagu",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side",
+    "chineseTitle": "In Trump’s Washington，Prosecutors Can’t Count on Grand Ju…",
+    "originalUrl": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
+    "publishedAt": "2026-11-10T03:00:13.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.128Z",
+    "rawDescription": "In the past two weeks, prosecutors in the capital have failed to secure indictments in at least three cases, an acceleration of the problems the Justice Department has had with grand juries.",
+    "contentSnippet": "In the past two weeks, prosecutors in the capital have failed to secure indictments in at least three cases, an acceleration of the problems the Justice Department has had with grand juries.",
+    "summaryZh": "基于标题/摘要生成：In the past two weeks，prosecutors in the capital have failed to secure indictments in at least three cases，an acceleration of the problems the Justic…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side Alan Feuer and M"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "In Trump's Washington, Prosecutors Can't Count on Grand Juries to Take Their Side Alan Feuer and M"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_w34va0",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Qatari prime minister says Iran discussions with US were &#039;positive&#039;",
+    "chineseTitle": "Qatari prime minister says Iran discussions with US were…",
+    "originalUrl": "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/",
+    "publishedAt": "2026-11-10T02:59:34.000Z",
+    "fetchedAt": "2026-11-10T04:31:20.985Z",
+    "rawDescription": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on Monday described talks about Iran with the U.S. as “positive.” “It was great meeting with President @realDonaldTrump and Vice President @VP in Washington,” the prime minister said in a post to the social platform X Monday evening. “We discussed the situation in the region and...",
+    "contentSnippet": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on Monday described talks about Iran with the U.S. as “positive.” “It was great meeting with President @realDonaldTrump and Vice President @VP in Washington,” the prime minister said in a post to the social platform X Monday evening. “We discussed the situation in the region and...",
+    "summaryZh": "基于标题/摘要生成：Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on Monday described talks about Iran with the U.S. as “positive.” “It was great meetin…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vdf619",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House Dems size up 2028 Senate map after midterm landslide",
+    "chineseTitle": "众议院 Dems size up 2028 参议院 map after midterm landslide",
+    "originalUrl": "https://www.axios.com/2026/11/10/democrats-2028-senate-map",
+    "publishedAt": "2026-11-10T01:43:40.000Z",
+    "fetchedAt": "2026-11-10T04:31:20.921Z",
+    "rawDescription": "Current and former House Democrats, flush with victory following their landslide midterm wins , are already looking at potential opportunities to run for Senate in 2028, Axios has learned. Why it matters: Democrats' 2026 romp — with wins in Texas, South Carolina, Kansas and possibly even Mississippi — has some party members reevaluating what were once considered impossible targets. A source close to Rep. Sharice Davids (D-Kan.) — who was reelected by 21 percentage points in a district former Vice President Harris carried by four points in 2024 — did not rule out her running against Sen. Jerry Moran (R-Kan.). \"All options are on the table,\" the source said, adding that Davids' \"focus right now is on delivering actual results and overcoming the chaos from these extreme policies we're seeing…",
+    "contentSnippet": "Current and former House Democrats, flush with victory following their landslide midterm wins , are already looking at potential opportunities to run for Senate in 2028, Axios has learned. Why it matters: Democrats' 2026 romp — with wins in Texas, South Carolina, Kansas and possibly even Mississippi — has some party members reevaluating what were once considered impossible targets. A source close to Rep. Sharice Davids (D-Kan.) — who was reelected by 21 percentage points in a district former Vice President Harris carried by four points in 2024 — did not rule out her running against Sen. Jerry Moran (R-Kan.). \"All options are on the table,\" the source said, adding that Davids' \"focus right now is on delivering actual results and overcoming the chaos from these extreme policies we're seeing…",
+    "summaryZh": "基于标题/摘要生成：Current and former 众议院 民主党人，flush with victory following their landslide midterm wins，are already looking at potential opportunities to run for 参议院 i…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "卡玛拉·哈里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Vice President Harris",
+        "confidence": "high",
+        "contextSnippet": "Sharice Davids (D-Kan.) — who was reelected by 21 percentage points in a district former Vice President Harris carried by four points in 2024 — did not rule out her running against Sen. Jerry Moran (R"
+      },
+      {
+        "personId": "kamala-harris",
+        "nameEn": "Kamala Harris",
+        "nameZh": "卡玛拉·哈里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Harris",
+        "confidence": "low",
+        "contextSnippet": "(D-Kan.) — who was reelected by 21 percentage points in a district former Vice President Harris carried by four points in 2024 — did not rule out her running against Sen. Jerry Moran (R"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "kamala-harris",
+        "name": "Kamala Harris",
+        "type": "person",
+        "matchedAlias": "Vice President Harris",
+        "confidence": "high",
+        "contextSnippet": "Sharice Davids (D-Kan.) — who was reelected by 21 percentage points in a district former Vice President Harris carried by four points in 2024 — did not rule out her running against Sen. Jerry Moran (R"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "size up 2028 Senate map after midterm landslide Andrew Solender Current and former House Democrats, flush with victory following their landslide midterm wins , are already looking at poten"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "House Dems size up 2028 Senate map after midterm landslide Andrew Solender Current and former House Democrats, flush wit"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Kamala Harris",
+      "Democratic Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bvaeh4",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "France says Iranian hackers sabotaged supermarket refrigerators",
+    "chineseTitle": "France says Iranian hackers sabotaged supermarket refrige…",
+    "originalUrl": "https://www.axios.com/2026/11/10/france-iran-supermarket-refridgerator-hacks",
+    "publishedAt": "2026-11-10T01:36:17.000Z",
+    "fetchedAt": "2026-11-10T04:31:20.924Z",
+    "rawDescription": "The French government has blamed an Iranian military hacking unit for cyberattacks that disrupted refrigeration systems at roughly 700 grocery stores and other retail locations last month, causing food losses and at least 15 fires. Why it matters: The attacks underscore how Iranian government hackers are moving beyond stealing data and disrupting websites to manipulating the physical equipment that keeps essential services running. Driving the news: France's Ministry for Europe and Foreign Affairs attributed the Oct. 11–12 attacks to Iran on Monday, calling them the country's first cyberattack campaign conducted purely for sabotage on French territory. The government's Cyber Crisis Coordination Center specifically attributed the attacks to Shahid Kaveh, a hacking unit within Iran's Islami…",
+    "contentSnippet": "The French government has blamed an Iranian military hacking unit for cyberattacks that disrupted refrigeration systems at roughly 700 grocery stores and other retail locations last month, causing food losses and at least 15 fires. Why it matters: The attacks underscore how Iranian government hackers are moving beyond stealing data and disrupting websites to manipulating the physical equipment that keeps essential services running. Driving the news: France's Ministry for Europe and Foreign Affairs attributed the Oct. 11–12 attacks to Iran on Monday, calling them the country's first cyberattack campaign conducted purely for sabotage on French territory. The government's Cyber Crisis Coordination Center specifically attributed the attacks to Shahid Kaveh, a hacking unit within Iran's Islami…",
+    "summaryZh": "基于标题/摘要生成：The French government has blamed an Iranian military hacking unit for cyberattacks that disrupted refrigeration systems at roughly 700 grocery stores…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_adfwps",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests",
+    "chineseTitle": "Court filing alleges Trump adviser received cash，luxury g…",
+    "originalUrl": "https://www.politico.com/news/2026/11/09/lawsuit-alex-bruesewitz-foreign-entities-derek-utley-01157561",
+    "publishedAt": "2026-11-10T01:18:38.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.045Z",
+    "rawDescription": "The filing from Alex Bruesewitz’s ex-business partner Derek Utley is a response to an earlier lawsuit claiming Utley embezzled millions from their firm, X Strategies.",
+    "contentSnippet": "The filing from Alex Bruesewitz’s ex-business partner Derek Utley is a response to an earlier lawsuit claiming Utley embezzled millions from their firm, X Strategies.",
+    "summaryZh": "基于标题/摘要生成：The filing from Alex Bruesewitz’s ex-business partner Derek Utley is a response to an earlier lawsuit claiming Utley embezzled millions from their fi…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests By Jason Beeferman The filing"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests By Jason Beeferman The filing"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_tijzzw",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+    "chineseTitle": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+    "originalUrl": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+    "publishedAt": "2026-11-10T00:51:53.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.129Z",
+    "rawDescription": "The agreement brings the biggest U.S. oil company a step closer to pumping oil again in Venezuela, nearly two decades after it left the country.",
+    "contentSnippet": "The agreement brings the biggest U.S. oil company a step closer to pumping oil again in Venezuela, nearly two decades after it left the country.",
+    "summaryZh": "基于标题/摘要生成：The agreement brings the biggest U.S. oil company a step closer to pumping oil again in Venezuela，nearly two decades after it left the country",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_km55ee",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Scandal at the Center of the Economy",
+    "chineseTitle": "A Scandal at the Center of the Economy",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/",
+    "publishedAt": "2026-11-10T00:28:50.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.172Z",
+    "rawDescription": "Silicon Valley and Trump seem determined to protect the Nvidia-state at any cost.",
+    "contentSnippet": "Silicon Valley and Trump seem determined to protect the Nvidia-state at any cost.",
+    "summaryZh": "基于标题/摘要生成：Silicon Valley and Trump seem determined to protect the Nvidia-state at any cost",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "A Scandal at the Center of the Economy Charlie Warzel Silicon Valley and Trump seem determined to protect the Nvidia-state at any cost. Silicon Valley and Trump seem de"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "A Scandal at the Center of the Economy Charlie Warzel Silicon Valley and Trump seem determined to protect the Nvidia-state at any cost. Silicon Valley and Trump seem de"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_krc6y3",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "5 takeaways from Trump&#039;s surprise White House briefing",
+    "chineseTitle": "5 takeaways from Trump&#039;s surprise White 众议院 briefing",
+    "originalUrl": "https://thehill.com/homenews/administration/6209377-trump-briefing-dana-white-pete-hegseth/",
+    "publishedAt": "2026-11-10T00:09:56.000Z",
+    "fetchedAt": "2026-11-10T04:31:20.987Z",
+    "rawDescription": "President Trump carried out a surprise press briefing at the White House on Monday, teasing reporters with an appearance by UFC head Dana White — to whom he offered the job as press secretary — and providing a combative response to the GOP’s stunning defeat in the midterm elections. The president took a wide range...",
+    "contentSnippet": "President Trump carried out a surprise press briefing at the White House on Monday, teasing reporters with an appearance by UFC head Dana White — to whom he offered the job as press secretary — and providing a combative response to the GOP’s stunning defeat in the midterm elections. The president took a wide range...",
+    "summaryZh": "基于标题/摘要生成：President Trump carried out a surprise press briefing at 白宫 on Monday，teasing reporters with an appearance — to whom he offered the job as press secr…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "5 takeaways from Trump&#039;s surprise White House briefing President Trump carried out a surprise press briefi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "5 takeaways from Trump&#039;s surprise White House briefing President Trump carried out a surprise press briefin"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "to whom he offered the job as press secretary — and providing a combative response to the GOP's stunning defeat in the midterm elections. The president took a wide range... President"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "5 takeaways from Trump&#039;s surprise White House briefing President Trump carried out a surprise press briefing at the White House on Mond"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "White House",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-technology https://thehill.com/policy/technology/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_lla2as",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The End of Stephen Miller’s Recusals",
+    "chineseTitle": "The End of Stephen Miller’s Recusals",
+    "originalUrl": "https://www.theatlantic.com/politics/2026/11/stephen-miller-katie-ai-stock/689356/",
+    "publishedAt": "2026-11-09T23:52:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.173Z",
+    "rawDescription": "The White House says Trump’s chief of staff is free to engage on AI and space matters after his wife ended several potential conflicts of interest.",
+    "contentSnippet": "The White House says Trump’s chief of staff is free to engage on AI and space matters after his wife ended several potential conflicts of interest.",
+    "summaryZh": "基于标题/摘要生成：白宫 says Trump’s chief of staff is free to engage on AI and space matters after his wife ended several potential conflicts of interest",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "斯蒂芬·米勒"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The End of Stephen Miller’s Recusals Michael Scherer The White House says Trump’s chief of staff is free to engage on AI and space matters after his wife ended several p"
+      },
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "The End of Stephen Miller’s Recusals Michael Scherer The White House says Trump’s chief of staff is free to engage"
+      },
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Miller",
+        "confidence": "low",
+        "contextSnippet": "The End of Stephen Miller’s Recusals Michael Scherer The White House says Trump’s chief of staff is free to engage"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The End of Stephen Miller's Recusals Michael Scherer The White House says Trump's chief of staff is free to engage on AI and space matters after his wife ended several p"
+      },
+      {
+        "entityId": "stephen-miller",
+        "name": "Stephen Miller",
+        "type": "person",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "The End of Stephen Miller's Recusals Michael Scherer The White House says Trump's chief of staff is free to engage"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "The End of Stephen Miller's Recusals Michael Scherer The White House says Trump's chief of staff is free to engage on AI and space matters after his wife ende"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Stephen Miller",
+      "White House",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"Stephen Miller\"",
+      "\"Stephen Miller\" Trump",
+      "\"White House\" Trump",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wuroyd",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Walls Close In on Hegseth",
+    "chineseTitle": "The Walls Close In on Hegseth",
+    "originalUrl": "https://foreignpolicy.com/2026/11/09/pete-hegseth-midterms-trump-iran-war-impeachment-congress/",
+    "publishedAt": "2026-11-09T22:26:03.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.158Z",
+    "rawDescription": "The Pentagon chief could get pushed out soon, one way or another.",
+    "contentSnippet": "The Pentagon chief could get pushed out soon, one way or another.",
+    "summaryZh": "基于标题/摘要生成：The 五角大楼 chief could get pushed out soon，one way or another",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "The Walls Close In on Hegseth John Haltiwanger The Pentagon chief could get pushed out soon, one way or another. The Pe"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "The Walls Close In on Hegseth John Haltiwanger The Pentagon chief could get pushed out soon, one way or another. The Pe"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3q76r9",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Dana White takes questions at podium during White House briefing with Trump",
+    "chineseTitle": "Dana White takes questions at podium during White 众议院 bri…",
+    "originalUrl": "https://www.foxnews.com/politics/dana-white-takes-questions-podium-during-white-house-briefing-trump",
+    "publishedAt": "2026-11-09T22:24:33.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.097Z",
+    "rawDescription": "Dana White took the White House podium to shut down press secretary rumors, saying he has zero political aspirations after President Trump's surprise joke.",
+    "contentSnippet": "Dana White took the White House podium to shut down press secretary rumors, saying he has zero political aspirations after President Trump's surprise joke.",
+    "summaryZh": "基于标题/摘要生成：Dana White took 白宫 podium to shut down press secretary rumors，saying he has zero political aspirations after President Trump's surprise joke",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Dana White takes questions at podium during White House briefing with Trump Dana White took the White House podium to shut down press secretary rumors, saying he ha"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Dana White takes questions at podium during White House briefing with Trump Dana White took the White House podium to shut down press secretary rumors, saying he has"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Dana White takes questions at podium during White House briefing with Trump Dana White took the White House podium to shut down press secretary r"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_70cr5o",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Jeffries vows Democrats won’t ‘give a dime’ to Trump’s deportation efforts",
+    "chineseTitle": "Jeffries vows 民主党人 won’t ‘give a dime’ to Trump’s deporta…",
+    "originalUrl": "https://www.foxnews.com/politics/jeffries-vows-democrats-wont-give-dime-trumps-deportation-efforts",
+    "publishedAt": "2026-11-09T22:09:59.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.098Z",
+    "rawDescription": "Hakeem Jeffries outlined House Democrats’ priorities after their midterm wins, vowing to oppose deportation funding and backing Pete Hegseth’s impeachment.",
+    "contentSnippet": "Hakeem Jeffries outlined House Democrats’ priorities after their midterm wins, vowing to oppose deportation funding and backing Pete Hegseth’s impeachment.",
+    "summaryZh": "基于标题/摘要生成：Hakeem Jeffries outlined 众议院 民主党人’ priorities after their midterm wins，vowing to oppose deportation funding and backing Pete Hegseth’s impeachment",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "皮特·赫格塞思",
+      "哈基姆·杰弗里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Jeffries vows Democrats won’t ‘give a dime’ to Trump’s deportation efforts Hakeem Jeffries outlined House Democrats’ priorities after their m"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "ats’ priorities after their midterm wins, vowing to oppose deportation funding and backing Pete Hegseth’s impeachment. Hakeem Jeffries outlined House Democrats’ priorities after their midterm"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "priorities after their midterm wins, vowing to oppose deportation funding and backing Pete Hegseth’s impeachment. Hakeem Jeffries outlined House Democrats’ priorities after their midterm"
+      },
+      {
+        "personId": "hakeem-jeffries",
+        "nameEn": "Hakeem Jeffries",
+        "nameZh": "哈基姆·杰弗里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Hakeem Jeffries",
+        "confidence": "high",
+        "contextSnippet": "Jeffries vows Democrats won’t ‘give a dime’ to Trump’s deportation efforts Hakeem Jeffries outlined House Democrats’ priorities after their midterm wins, vowing to oppose deportat"
+      },
+      {
+        "personId": "hakeem-jeffries",
+        "nameEn": "Hakeem Jeffries",
+        "nameZh": "哈基姆·杰弗里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Jeffries",
+        "confidence": "low",
+        "contextSnippet": "Jeffries vows Democrats won’t ‘give a dime’ to Trump’s deportation efforts Hakeem Jeffries outlin"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Jeffries vows Democrats won't 'give a dime' to Trump's deportation efforts Hakeem Jeffries outlined House Democrats' priorities after their mi"
+      },
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Pete Hegseth",
+        "confidence": "high",
+        "contextSnippet": "ts' priorities after their midterm wins, vowing to oppose deportation funding and backing Pete Hegseth's impeachment. Hakeem Jeffries outlined House Democrats' priorities after their midterm w"
+      },
+      {
+        "entityId": "hakeem-jeffries",
+        "name": "Hakeem Jeffries",
+        "type": "person",
+        "matchedAlias": "Hakeem Jeffries",
+        "confidence": "high",
+        "contextSnippet": "Jeffries vows Democrats won't 'give a dime' to Trump's deportation efforts Hakeem Jeffries outlined House Democrats' priorities after their midterm wins, vowing to oppose deportati"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Jeffries vows Democrats won't 'give a dime' to Trump's deportation efforts Hakeem Jeffries outlined House Democra"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Pete Hegseth",
+      "Hakeem Jeffries",
+      "Democratic Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jtqjpd",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What to Know About Nvidia CEO Jensen Huang’s Chinese Spy Scandal",
+    "chineseTitle": "What to Know About Nvidia CEO Jensen Huang’s 中国 Spy Scand…",
+    "originalUrl": "https://foreignpolicy.com/2026/11/09/jensen-huang-spy-scandal-alice-nvidia-trump-china/",
+    "publishedAt": "2026-11-09T21:57:16.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.159Z",
+    "rawDescription": "Huang’s affair with an alleged Chinese intelligence asset has big implications for U.S. national security.",
+    "contentSnippet": "Huang’s affair with an alleged Chinese intelligence asset has big implications for U.S. national security.",
+    "summaryZh": "基于标题/摘要生成：Huang’s affair with an alleged 中国 intelligence asset has big implications for U.S. 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_qtf68q",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Josh Shapiro says Texas won’t replace Pennsylvania as the ‘ultimate swing state’",
+    "chineseTitle": "Josh Shapiro says Texas won’t replace Pennsylvania as the…",
+    "originalUrl": "https://www.politico.com/news/2026/11/09/josh-shapiro-pennsylvania-2028-texas-01156246",
+    "publishedAt": "2026-11-09T15:00:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.046Z",
+    "rawDescription": "The governor romped to a 22-point reelection victory last week.",
+    "contentSnippet": "The governor romped to a 22-point reelection victory last week.",
+    "summaryZh": "基于标题/摘要生成：The governor romped to a 22-point reelection victory last week",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6fg2ab",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "A Recipe for Disaster in Taiwan",
+    "chineseTitle": "A Recipe for Disaster in 台湾",
+    "originalUrl": "https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper",
+    "publishedAt": "2026-11-09T09:00:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:20.972Z",
+    "rawDescription": "Why the risk of a crisis is growing.",
+    "contentSnippet": "Why the risk of a crisis is growing.",
+    "summaryZh": "基于标题/摘要生成：Why the risk of a crisis is growing",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "issue"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml",
+      "China Taiwan"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ftpbi4",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats Shouldn’t Squander Their Chance to Launch a Foreign Policy Revolution",
+    "chineseTitle": "民主党人 Shouldn’t Squander Their Chance to Launch a Foreign…",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/matthew-duss-democrats-squander-chance-foreign-policy-congress-midterms",
+    "publishedAt": "2026-11-06T12:36:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:20.974Z",
+    "rawDescription": "The imperative of ambition in a new Congress.",
+    "contentSnippet": "The imperative of ambition in a new Congress.",
+    "summaryZh": "基于标题/摘要生成：The imperative of ambition in a new 美国国会",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Shouldn't Squander Their Chance to Launch a Foreign Policy Revolution Matthew Duss The im"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "ce to Launch a Foreign Policy Revolution Matthew Duss The imperative of ambition in a new Congress. The imperative of ambition in a new Congress."
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8hl0oh",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Thune will run for minority leader after Republicans lose Senate",
+    "chineseTitle": "Thune will run for minority leader after 共和党人 lose 参议院",
+    "originalUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazR5c3JudVRiNDdpMUp4WG9LRVExY1prTGN4bWZ3NEE5Q0Z4MVIzUnlud1oyUGN5TElLM3dFZ0hxMWZNMk51aEJzSDFEZmZKTHdVNkdUTzU3Q1ZXMDItckRkV3pvamhwRUVVV1o4UlRxQlNFa1hRdEcwS2lGMUpxYnhNS1lUNGJ6LUJNTWJrak9nTjJCd0Y1cTBleHJ3STV6V3Z1dTVQVkg4cmJsNGNtdzlB?oc=5",
+    "publishedAt": "2026-11-05T03:30:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:40.545Z",
+    "rawDescription": "Thune will run for minority leader after Republicans lose Senate The Washington Post",
+    "contentSnippet": "Thune will run for minority leader after Republicans lose Senate The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Thune will run for minority leader after 共和党人 lose 参议院 The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "约翰·图恩"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "john-thune",
+        "nameEn": "John Thune",
+        "nameZh": "约翰·图恩",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Thune",
+        "confidence": "low",
+        "contextSnippet": "Thune will run for minority leader after Republicans lose Senate Thune will run for minority l"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "john-thune",
+        "name": "John Thune",
+        "type": "person",
+        "matchedAlias": "Thune",
+        "confidence": "medium",
+        "contextSnippet": "Thune will run for minority leader after Republicans lose Senate Thune will run for minority le"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Thune will run for minority leader after Republicans lose Senate Thune will run for minority leader after Republicans lose Senate The Washingt"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Thune will run for minority leader after Republicans lose Senate Thune will run for minority leader after Republicans lose Senate The Washington Post Thun"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "John Thune",
+      "Republican Party",
+      "Congress"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"John Thune\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3nmnri",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "New York 21st Congressional District election results 2026",
+    "chineseTitle": "New York 21st Congressional District 选举 results 2026",
+    "originalUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0otb1VZNmJicFFqRDF1ZmRIaWdlRkJtTmlKYmdZWTk2dlI1OGZrUkpCWU1HRE14VWRoLXVkN2FFU1o2YS1yX0dVOUswWU1yT0FUQzZoV0tvZHg3Sk1Eb1lDYmU0RGEtRl90ZURHRjZxZkVQLURMbGc3RUFvVlp3cDBYRHJiVkFmNW9FMDBTRTVoek9HX3JWbnJETk1hR2JmX1NORg?oc=5",
+    "publishedAt": "2026-11-04T03:00:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:40.546Z",
+    "rawDescription": "New York 21st Congressional District election results 2026 The Washington Post",
+    "contentSnippet": "New York 21st Congressional District election results 2026 The Washington Post",
+    "summaryZh": "基于标题/摘要生成：New York 21st Congressional District 选举 results 2026 The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Elise Stefanik"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Elise Stefanik\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_d2bbvw",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the",
+    "chineseTitle": "As everyone knows，the Country of Canada has treated the U…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01UFozd3BBVG9yVjFYU0dteEdwSzFUanhQVlNQYy16aDJ1Nm9YTTdfYU1GRHBwRlA2V2ZRYmY3bHdaYlJUSHV4aE9UYVVQdklKUC1nMDV5REJqQWVxeFJlQ0lnMTdpMDdITVl5Q1hOSWFKdFk?oc=5",
+    "publishedAt": "2026-02-09T23:16:30.000Z",
+    "fetchedAt": "2026-11-10T04:31:40.961Z",
+    "rawDescription": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social",
+    "contentSnippet": "As everyone knows, the Country of Canada has treated the United States very unfairly for decades. Now, things are turning around for the U.S.A., and FAST! But imagine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social",
+    "summaryZh": "基于标题/摘要生成：As everyone knows，the Country of Canada has treated the United States very unfairly for decades. Now，things are turning around for the U.S.A.，and FAS…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "gine, Canada is building a massive bridge between Ontario and Michigan. They own both the Truth Social As everyone knows, the Country of Canada has treated the United States very unfairly for"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qmdea4",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First AI Agenda – AFPI",
+    "chineseTitle": "America First AI Agenda – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PeGRPbWxtODFGUmdjeGdvbW1sbF9TWFdtZFIwX01qM05DaUlHUHpra0pKLUdBeFhPNGRJOTF3MElWZG9CWGVuMnFLTVlxY0dzWVRFS1hYSnZBLUtLYTljMXc0RGxWVXp6aUYwVTNicw?oc=5",
+    "publishedAt": "2025-11-24T08:00:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:40.506Z",
+    "rawDescription": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "America First AI Agenda – AFPI America First AI Agenda – AFPI americafirstpolicy.com America First AI Agenda – AFPI amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:24.474Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.247Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.248Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:24.473Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.118Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-10T04:31:21.116Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cd2lm8",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI",
+    "chineseTitle": "America First 中国 政策 Principles in Practice – Center Overv…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVE1XcU85dTdibkp6RGdjRjhaMUh0Z0lKOEJRWDdGZm9oaDdvY0FEU2dLcjNUV09vWk1yT2lDV1piZnd2QllBM1l3c3pnbXhlLUVSVi1WWU5fY3FmRlBTcVBsaFM0QVJ1YTMwM2FRNjVNNkM1Tl9WMGk3cHVJa3BpbGxUNmJHaUVCZnZVZy15eHdZeDZPM2hlR29XUUtMY194RTlXWW55Zmp2aFpHWHdiS2NYM1Y3VjZoSUdWczlCQS1XZVBKWGc?oc=5",
+    "publishedAt": "2022-12-07T08:00:00.000Z",
+    "fetchedAt": "2026-11-10T04:31:40.507Z",
+    "rawDescription": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First 中国 政策 Principles in Practice – Center Overview – 中国 政策 Initiative – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "a First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First China Policy Principles in Practice – Center Overview – China Policy Initia"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First C"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_8ky0cb",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUUtyTnV2Nm5EQUd1VnJ3RTN6czVoMzBYQ1NxUEhISmNiQ3RnUHZnYjFTMWp1bTlHVElOVl9wdmJsM3lfQ2VfWHU2VFVJODdVaFE?oc=5",
+    "publishedAt": "2022-05-17T16:17:39.000Z",
+    "fetchedAt": "2026-11-10T04:31:40.959Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
