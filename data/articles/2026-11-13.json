@@ -1,0 +1,1868 @@
+[
+  {
+    "id": "art_l9at7v",
+    "sourceName": "Fox News",
+    "sourceDomain": "radio.foxnews.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Gov . Sarah Sanders Says Nothing Democrats Do Makes Life More Affordable",
+    "chineseTitle": "Gov . Sarah Sanders Says Nothing 民主党人 Do Makes Life More…",
+    "originalUrl": "https://radio.foxnews.com/2026/11/11/gov-sarah-sanders-says-nothing-democrats-do-makes-life-more-affordable/",
+    "publishedAt": "2026-11-13T03:18:30.501Z",
+    "fetchedAt": "2026-11-13T03:21:06.696Z",
+    "rawDescription": "",
+    "contentSnippet": "Gov . Sarah Sanders Says Nothing Democrats Do Makes Life More Affordable",
+    "summaryZh": "基于标题/摘要生成：Gov . Sarah Sanders Says Nothing 民主党人 Do Makes Life More Affordable",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Gov . Sarah Sanders Says Nothing Democrats Do Makes Life More Affordable Gov . Sarah Sanders Says Nothing Democrats Do Makes Life Mo"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Fox News"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "domain:foxnews.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mkvbgk",
+    "sourceName": "Fox News",
+    "sourceDomain": "radio.foxnews.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Imagine Saying That After We Were Attacked On 9 / 11 Michael McFaul Reacts to President Trumps 60 Minutes Interview",
+    "chineseTitle": "Imagine Saying That After We Were Attacked On 9，11 Michae…",
+    "originalUrl": "https://radio.foxnews.com/2026/11/09/imagine-saying-that-after-we-were-attacked-on-9-11-michael-mcfaul-reacts-to-president-trumps-60-minutes-interview/",
+    "publishedAt": "2026-11-13T03:18:30.501Z",
+    "fetchedAt": "2026-11-13T03:21:06.698Z",
+    "rawDescription": "",
+    "contentSnippet": "Imagine Saying That After We Were Attacked On 9 / 11 Michael McFaul Reacts to President Trumps 60 Minutes Interview",
+    "summaryZh": "基于标题/摘要生成：Imagine Saying That After We Were Attacked On 9，11 Michael McFaul Reacts to President Trumps 60 Minutes Interview",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "domain:foxnews.com (China OR Taiwan OR tariffs OR trade OR technology OR semiconductor)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fkhom0",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+    "chineseTitle": "Chris Van Hollen Set to Challenge Chuck Schumer for 参议院 M…",
+    "originalUrl": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+    "publishedAt": "2026-11-13T03:11:13.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.161Z",
+    "rawDescription": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.",
+    "contentSnippet": "Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.",
+    "summaryZh": "基于标题/摘要生成：Senator Chris Van Hollen of Maryland has emerged as a favorite of 民主党人 seeking an alternative to Senator Chuck Schumer，who says he has the votes to w…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "查克·舒默"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader Carl Hulse Senator Chris Van Hollen of Maryland has emerged as"
+      },
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader Carl Hulse Senator Chris Van Hollen of Maryland has emerged as"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader Carl Hulse Senator Chris Van Hollen of Maryland has emerged as"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "ority Leader Carl Hulse Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win. Senato"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader Carl Hulse Senator Chris Van Hollen of Maryland has emerged as a favorite"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Chuck Schumer",
+      "Democratic Party",
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt",
+      "new-york-times-politics https://www.nytimes.com/section/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_bviv1",
+    "sourceName": "CNN",
+    "sourceDomain": "edition.cnn.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Van Hollen challenges Schumer for Democratic Senate Leader",
+    "chineseTitle": "Van Hollen challenges Schumer for Democratic 参议院 Leader",
+    "originalUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT2lMeE1YN2MtcDdndHU0emNSTUxnbWtMd2h0VGkwakFudGVzZVAxZGxQMzFEMEtwQ2hWcDh3RUR2RFdvTHZhSVRBQmowUjJkQ1QyVm53UUtNc1hMcFE5QTd3SXcxTEYxNDBpTldnYmo2dWh0eEpibVJGNkw3d0xLN3F6c2ZyZGZCN0p3bkEyZzd0NHBiV1daeHM5ZmlJd2FSWFktdVdnZzNrZUFRM2RDamZDMThvYXJiS0ppRGd1WnVGalFEbWtmbVhBbGZETEVrM2p0MA?oc=5",
+    "publishedAt": "2026-11-13T03:08:04.000Z",
+    "fetchedAt": "2026-11-13T03:17:35.023Z",
+    "rawDescription": "Van Hollen challenges Schumer for Democratic Senate Leader CNN",
+    "contentSnippet": "Van Hollen challenges Schumer for Democratic Senate Leader CNN",
+    "summaryZh": "基于标题/摘要生成：Van Hollen challenges Schumer for Democratic 参议院 Leader CNN",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "查克·舒默"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "Van Hollen challenges Schumer for Democratic Senate Leader Van Hollen challenges Schumer for Democratic Senate Leader"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Schumer",
+        "confidence": "medium",
+        "contextSnippet": "Van Hollen challenges Schumer for Democratic Senate Leader Van Hollen challenges Schumer for Democratic Senate Leader C"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Van Hollen challenges Schumer for Democratic Senate Leader Van Hollen challenges Schumer for Democratic Senate Leader CNN Van Hollen challeng"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress",
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Chuck Schumer",
+      "Congress",
+      "Democratic Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Democratic Party\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_g7fhua",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Chris Van Hollen to challenge Schumer for Senate majority leader",
+    "chineseTitle": "Chris Van Hollen to challenge Schumer for 参议院 majority le…",
+    "originalUrl": "https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader",
+    "publishedAt": "2026-11-13T03:02:55.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.016Z",
+    "rawDescription": "Sen. Chris Van Hollen announced Thursday that he'll challenge Chuck Schumer for majority leader. Why it matters: Van Hollen's bid gives grassroots activists nearly three weeks to pressure Senate Democrats before they cast secret ballots in the Dec. 1 leadership election. The attempt to oust Schumer (D-N.Y.) underscores that deep divisions are plaguing the Democratic Party despite its overwhelming midterm success . Van Hollen (D-Md.) has served in the Senate since 2017 and has been in Congress since 2003. Schumer has been the Senate Democratic leader since 2017 and has served in the Senate since 1999. Driving the news: \"In this election, the American people called for change,\" Van Hollen said in a statement on Thursday. \"They called for a change from Donald Trump's disastrous policies — bu…",
+    "contentSnippet": "Sen. Chris Van Hollen announced Thursday that he'll challenge Chuck Schumer for majority leader. Why it matters: Van Hollen's bid gives grassroots activists nearly three weeks to pressure Senate Democrats before they cast secret ballots in the Dec. 1 leadership election. The attempt to oust Schumer (D-N.Y.) underscores that deep divisions are plaguing the Democratic Party despite its overwhelming midterm success . Van Hollen (D-Md.) has served in the Senate since 2017 and has been in Congress since 2003. Schumer has been the Senate Democratic leader since 2017 and has served in the Senate since 1999. Driving the news: \"In this election, the American people called for change,\" Van Hollen said in a statement on Thursday. \"They called for a change from Donald Trump's disastrous policies — bu…",
+    "summaryZh": "基于标题/摘要生成：Sen. Chris Van Hollen announced Thursday that he'll challenge Chuck Schumer for majority leader. Why it matters：Van Hollen's bid gives grassroots act…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "查克·舒默"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ed for change,\" Van Hollen said in a statement on Thursday. \"They called for a change from Donald Trump's disastrous policies — bu… Sen. Chris Van Hollen announced Thursday that he'll challeng"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "change,\" Van Hollen said in a statement on Thursday. \"They called for a change from Donald Trump's disastrous policies — bu… Sen. Chris Van Hollen announced Thursday that he'll challeng"
+      },
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "for Senate majority leader Sen. Chris Van Hollen announced Thursday that he'll challenge Chuck Schumer for majority leader. Why it matters: Van Hollen's bid gives grassroots activists nearly"
+      },
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "Chris Van Hollen to challenge Schumer for Senate majority leader Sen. Chris Van Hollen announced Thursday that he'll challenge"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "d for change,\" Van Hollen said in a statement on Thursday. \"They called for a change from Donald Trump's disastrous policies — bu… Sen. Chris Van Hollen announced Thursday that he'll challenge"
+      },
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "for Senate majority leader Sen. Chris Van Hollen announced Thursday that he'll challenge Chuck Schumer for majority leader. Why it matters: Van Hollen's bid gives grassroots activists nearly t"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democratic Party",
+        "confidence": "high",
+        "contextSnippet": "on. The attempt to oust Schumer (D-N.Y.) underscores that deep divisions are plaguing the Democratic Party despite its overwhelming midterm success . Van Hollen (D-Md.) has served in the Senate si"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "midterm success . Van Hollen (D-Md.) has served in the Senate since 2017 and has been in Congress since 2003. Schumer has been the Senate Democratic leader since 2017 and has served in th"
+      },
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Schumer",
+        "confidence": "medium",
+        "contextSnippet": "Schumer Van Hollen Senate Majority Leader 公开 sitemap 条目：Schumer Van Hollen Senate Majority Leader"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Schumer Van Hollen Senate Majority Leader 公开 sitemap 条目：Schumer Van Hollen Senate Majority Leader 公开 sitemap 条目：Sch"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Chuck Schumer",
+      "Democratic Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_q5gobq",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "The Fed has to raise rates. How fast to go has officials divided.",
+    "chineseTitle": "The Fed has to raise rates. How fast to go has officials…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/11/business/federal-reserve-interest-rates-outlook/",
+    "publishedAt": "2026-11-13T03:02:01.709Z",
+    "fetchedAt": "2026-11-13T03:17:17.813Z",
+    "rawDescription": "公开 sitemap 条目：The Fed has to raise rates. How fast to go has officials divided.",
+    "contentSnippet": "公开 sitemap 条目：The Fed has to raise rates. How fast to go has officials divided.",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：The Fed has to raise rates. How fast to go has officials divided",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_v1ujb7",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Boston, Quincy scrutinize police use of surveillance technology",
+    "chineseTitle": "Boston，Quincy scrutinize police use of surveillance techn…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/11/business/boston-quincy-surveillance-technology-flock/",
+    "publishedAt": "2026-11-13T02:57:30.998Z",
+    "fetchedAt": "2026-11-13T03:17:17.814Z",
+    "rawDescription": "公开 sitemap 条目：Boston, Quincy scrutinize police use of surveillance technology",
+    "contentSnippet": "公开 sitemap 条目：Boston, Quincy scrutinize police use of surveillance technology",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Boston，Quincy scrutinize police use of surveillance technology",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ny7umz",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Dan Patrick concedes Texas ‘turned purple’ after Democrats’ historic blue wave",
+    "chineseTitle": "Dan Patrick concedes Texas ‘turned purple’ after 民主党人’ hi…",
+    "originalUrl": "https://www.foxnews.com/politics/dan-patrick-concedes-texas-turned-purple-democrats-historic-blue-wave",
+    "publishedAt": "2026-11-13T02:49:23.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.139Z",
+    "rawDescription": "Outgoing Texas Lt. Gov. Dan Patrick says the state has \"turned purple\" after Democrats swept statewide races but warns the GOP must fight back.",
+    "contentSnippet": "Outgoing Texas Lt. Gov. Dan Patrick says the state has \"turned purple\" after Democrats swept statewide races but warns the GOP must fight back.",
+    "summaryZh": "基于标题/摘要生成：Outgoing Texas Lt. Gov. Dan Patrick says the state has \"turned purple\" after 民主党人 swept statewide races but warns the GOP must fight back",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Dan Patrick concedes Texas 'turned purple' after Democrats' historic blue wave Outgoing Texas Lt. Gov. Dan Patrick says the state has \"turned purple"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "ck says the state has \"turned purple\" after Democrats swept statewide races but warns the GOP must fight back. Outgoing Texas Lt. Gov. Dan Patrick says the state has \"turned purple\" a"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_763w4c",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Van Hollen challenges Schumer for Senate leadership after Democratic election sweep",
+    "chineseTitle": "Van Hollen challenges Schumer for 参议院 leadership after De…",
+    "originalUrl": "https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep",
+    "publishedAt": "2026-11-13T02:45:42.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.139Z",
+    "rawDescription": "Chuck Schumer faces a formal challenge from Chris Van Hollen for Senate Democratic leader after Van Hollen accused him of siding with AIPAC.",
+    "contentSnippet": "Chuck Schumer faces a formal challenge from Chris Van Hollen for Senate Democratic leader after Van Hollen accused him of siding with AIPAC.",
+    "summaryZh": "基于标题/摘要生成：Chuck Schumer faces a formal challenge from Chris Van Hollen for 参议院 Democratic leader after Van Hollen accused him of siding with AIPAC",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "查克·舒默"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "Van Hollen challenges Schumer for Senate leadership after Democratic election sweep Chuck Schumer faces a formal challenge from Chris Van Hollen for Senate Democratic leader after Van Ho"
+      },
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "Van Hollen challenges Schumer for Senate leadership after Democratic election sweep Chuck Schumer faces a formal chall"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Chuck Schumer",
+        "confidence": "high",
+        "contextSnippet": "Van Hollen challenges Schumer for Senate leadership after Democratic election sweep Chuck Schumer faces a formal challenge from Chris Van Hollen for Senate Democratic leader after Van Hol"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Van Hollen challenges Schumer for Senate leadership after Democratic election sweep Chuck Schumer faces a formal challenge from Ch"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Chuck Schumer",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_47hj33",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
+    "chineseTitle": "US envoys meet with Putin in Moscow on Ukraine talks，then…",
+    "originalUrl": "https://thehill.com/policy/international/donald-trump-steve-witkoff-jared-kushner-vladimir-putin-moscow/",
+    "publishedAt": "2026-11-13T02:09:02.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.064Z",
+    "rawDescription": "DUBLIN (AP) — U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian President Volodymyr Zelenskyy as Washington sought new momentum for its peace efforts. Envoys Steve Witkoff and Jared Kushner, who is also President Donald Trump's son-in-law, brokered talks this week between delegations from...",
+    "contentSnippet": "DUBLIN (AP) — U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian President Volodymyr Zelenskyy as Washington sought new momentum for its peace efforts. Envoys Steve Witkoff and Jared Kushner, who is also President Donald Trump's son-in-law, brokered talks this week between delegations from...",
+    "summaryZh": "基于标题/摘要生成：DUBLIN (AP) — U.S. envoys met Thursday with Russian President Vladimir Putin in the Kremlin before heading to Ireland for talks with Ukrainian Presid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ntum for its peace efforts. Envoys Steve Witkoff and Jared Kushner, who is also President Donald Trump's son-in-law, brokered talks this week between delegations from... DUBLIN (AP) — U.S. env"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "r its peace efforts. Envoys Steve Witkoff and Jared Kushner, who is also President Donald Trump's son-in-law, brokered talks this week between delegations from... DUBLIN (AP) — U.S. env"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ntum for its peace efforts. Envoys Steve Witkoff and Jared Kushner, who is also President Donald Trump's son-in-law, brokered talks this week between delegations from... DUBLIN (AP) — U.S. env"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5um43w",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Van Hollen announces challenge to Schumer to lead the Senate",
+    "chineseTitle": "Van Hollen announces challenge to Schumer to lead the 参议院",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/11/12/van-hollen-announces-challenge-schumer-lead-senate/",
+    "publishedAt": "2026-11-13T02:03:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.267Z",
+    "rawDescription": "The Maryland Democrat said the country’s election called for change but acknowledged he is an underdog for the role.",
+    "contentSnippet": "The Maryland Democrat said the country’s election called for change but acknowledged he is an underdog for the role.",
+    "summaryZh": "基于标题/摘要生成：The Maryland Democrat said the country’s 选举 called for change but acknowledged he is an underdog for the role",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "查克·舒默"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "Van Hollen announces challenge to Schumer to lead the Senate Erin Cox, Theodoric Meyer The Maryland Democrat said the country’s ele"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Schumer",
+        "confidence": "medium",
+        "contextSnippet": "Van Hollen announces challenge to Schumer to lead the Senate Erin Cox, Theodoric Meyer The Maryland Democrat said the country's ele"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Van Hollen announces challenge to Schumer to lead the Senate Erin Cox, Theodoric Meyer The Maryland Democrat said the country's election called for ch"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Chuck Schumer",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_y4a8if",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+    "chineseTitle": "Howard Lutnick Took Softer Line on Nvidia as Calls for To…",
+    "originalUrl": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+    "publishedAt": "2026-11-13T01:28:40.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.162Z",
+    "rawDescription": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+    "contentSnippet": "Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed.",
+    "summaryZh": "基于标题/摘要生成：Critics say Howard Lutnick，the commerce secretary，and his department have shielded Nvidia as concerns have grown over A.I. 芯片 sales to firms like Meg…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "霍华德·卢特尼克"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "howard-lutnick",
+        "nameEn": "Howard Lutnick",
+        "nameZh": "霍华德·卢特尼克",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Howard Lutnick",
+        "confidence": "high",
+        "contextSnippet": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew Ana Swanson, Tripp Mickle,"
+      },
+      {
+        "personId": "howard-lutnick",
+        "nameEn": "Howard Lutnick",
+        "nameZh": "霍华德·卢特尼克",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lutnick",
+        "confidence": "low",
+        "contextSnippet": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew Ana Swanson, Tripp Mickle,"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "howard-lutnick",
+        "name": "Howard Lutnick",
+        "type": "person",
+        "matchedAlias": "Howard Lutnick",
+        "confidence": "high",
+        "contextSnippet": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew Ana Swanson, Tripp Mickle,"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Howard Lutnick",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-world https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "new-york-times-politics https://www.nytimes.com/section/politics",
+      "new-york-times-world https://www.nytimes.com/section/world/asia",
+      "new-york-times-world https://www.nytimes.com/section/business"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_a2agnk",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "US Army officer involved in alleged Russian spying scheme identified: Reports",
+    "chineseTitle": "US Army officer involved in alleged Russian spying scheme…",
+    "originalUrl": "https://thehill.com/policy/defense/6217738-brandon-tyner-army-russia-espionage-arrest/",
+    "publishedAt": "2026-11-13T00:39:26.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.065Z",
+    "rawDescription": "The U.S. Army officer arrested in the United Kingdom this week for his alleged involvement in a Russian espionage scheme has been identified as Lt. Col. Brandon Tyner, according to multiple reports. The 41-year-old soldier was detained Tuesday following a sting operation and is expected to be charged in the U.K. early next week, The...",
+    "contentSnippet": "The U.S. Army officer arrested in the United Kingdom this week for his alleged involvement in a Russian espionage scheme has been identified as Lt. Col. Brandon Tyner, according to multiple reports. The 41-year-old soldier was detained Tuesday following a sting operation and is expected to be charged in the U.K. early next week, The...",
+    "summaryZh": "基于标题/摘要生成：The U.S. Army officer arrested in the United Kingdom this week for his alleged involvement in a Russian espionage scheme has been identified as Lt. C…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hogtbt",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
+    "chineseTitle": "众议院 Democratic leaders face fallout over poorly timed flo…",
+    "originalUrl": "https://www.axios.com/2026/11/13/house-democrats-hegseth-impeachment-vote-jeffries",
+    "publishedAt": "2026-11-13T00:34:48.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.018Z",
+    "rawDescription": "A week that was supposed to see House Democrats transition seamlessly from a landslide midterm victory to a leadership coronation has instead been pocked by surprise Republican victories on the House floor. Why it matters: Skeptics of Democratic leadership have seized on these strategic fumbles to cast doubt on their much-heralded managerial abilities in the lead-up to the party's leadership elections next week. \"It's really unfortunate that this happened this week when, obviously, that is a narrative we hear leadership portray,\" Rep. Delia Ramirez (D-Ill.) told Axios. Rep.-elect Melat Kiros (D-Colo.) said this week has \"certainly not given me confidence,\" and that the election was an \"indictment on how our party has been operating thus far, and this is a big part of why.\" \"We do know tha…",
+    "contentSnippet": "A week that was supposed to see House Democrats transition seamlessly from a landslide midterm victory to a leadership coronation has instead been pocked by surprise Republican victories on the House floor. Why it matters: Skeptics of Democratic leadership have seized on these strategic fumbles to cast doubt on their much-heralded managerial abilities in the lead-up to the party's leadership elections next week. \"It's really unfortunate that this happened this week when, obviously, that is a narrative we hear leadership portray,\" Rep. Delia Ramirez (D-Ill.) told Axios. Rep.-elect Melat Kiros (D-Colo.) said this week has \"certainly not given me confidence,\" and that the election was an \"indictment on how our party has been operating thus far, and this is a big part of why.\" \"We do know tha…",
+    "summaryZh": "基于标题/摘要生成：A week that was supposed to see 众议院 民主党人 transition seamlessly from a landslide midterm victory to a leadership coronation has instead been pocked by…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思",
+      "哈基姆·杰弗里斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "House Democrats Hegseth Impeachment Vote Jeffries 公开 sitemap 条目：House Democrats Hegseth Impeachment Vote Jeffrie"
+      },
+      {
+        "personId": "hakeem-jeffries",
+        "nameEn": "Hakeem Jeffries",
+        "nameZh": "哈基姆·杰弗里斯",
+        "team": "民主党重点人物",
+        "matchedAlias": "Jeffries",
+        "confidence": "low",
+        "contextSnippet": "House Democrats Hegseth Impeachment Vote Jeffries 公开 sitemap 条目：House Democrats Hegseth Impeachment Vote Jeffries 公开 sitemap 条目：House Demo"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "ver poorly timed floor vote fumbles Andrew Solender A week that was supposed to see House Democrats transition seamlessly from a landslide midterm victory to a leadership coronation has ins"
+      },
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "House Democrats Hegseth Impeachment Vote Jeffries 公开 sitemap 条目：House Democrats Hegseth Impeachment Vote Jeffries"
+      },
+      {
+        "entityId": "hakeem-jeffries",
+        "name": "Hakeem Jeffries",
+        "type": "person",
+        "matchedAlias": "Jeffries",
+        "confidence": "medium",
+        "contextSnippet": "House Democrats Hegseth Impeachment Vote Jeffries 公开 sitemap 条目：House Democrats Hegseth Impeachment Vote Jeffries 公开 sitemap 条目：House Democ"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Axios",
+      "Pete Hegseth",
+      "Hakeem Jeffries"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8zwhyb",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Hegseth’s Troubles Are Far From Over",
+    "chineseTitle": "Hegseth’s Troubles Are Far From Over",
+    "originalUrl": "https://foreignpolicy.com/2026/11/12/hegseth-impeachment-congress-democrats-trump/",
+    "publishedAt": "2026-11-12T22:46:38.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.183Z",
+    "rawDescription": "The Pentagon chief dodged impeachment, but his future remains uncertain.",
+    "contentSnippet": "The Pentagon chief dodged impeachment, but his future remains uncertain.",
+    "summaryZh": "基于标题/摘要生成：The 五角大楼 chief dodged impeachment，but his future remains uncertain",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "Hegseth’s Troubles Are Far From Over Rishi Iyengar and John Haltiwanger The Pentagon chief dodged"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "Hegseth's Troubles Are Far From Over Rishi Iyengar and John Haltiwanger The Pentagon chief dodged"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Pete Hegseth",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_h0y27y",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the 27-year old behind the protein ad that helped flip Mississippi",
+    "chineseTitle": "Meet the 27-year old behind the protein ad that helped fl…",
+    "originalUrl": "https://www.politico.com/news/2026/11/12/ryan-sayles-scott-colom-viral-protein-ad-01163508",
+    "publishedAt": "2026-11-12T22:34:55.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.104Z",
+    "rawDescription": "One of this cycle’s biggest viral hits offers Democrats a potential blueprint as they think about competing in the South — and their digital strategy ahead of 2028.",
+    "contentSnippet": "One of this cycle’s biggest viral hits offers Democrats a potential blueprint as they think about competing in the South — and their digital strategy ahead of 2028.",
+    "summaryZh": "基于标题/摘要生成：One of this cycle’s biggest viral hits offers 民主党人 a potential blueprint as they think about competing in the South — and their digital strategy ahea…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "hat helped flip Mississippi By Erin Doherty One of this cycle's biggest viral hits offers Democrats a potential blueprint as they think about competing in the South — and their digital stra"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1v1ygt",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats probe whether Trump donors promised ‘quid pro quo’",
+    "chineseTitle": "民主党人 probe whether Trump donors promised ‘quid pro quo’",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/11/12/democrats-probe-whether-trump-donors-promised-quid-pro-quo/",
+    "publishedAt": "2026-11-12T22:00:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.268Z",
+    "rawDescription": "Lawmakers are asking his fundraiser Meredith O’Rourke to explain the terms of donors’ gifts to Trump’s ballroom and other pet projects.",
+    "contentSnippet": "Lawmakers are asking his fundraiser Meredith O’Rourke to explain the terms of donors’ gifts to Trump’s ballroom and other pet projects.",
+    "summaryZh": "基于标题/摘要生成：Lawmakers are asking his fundraiser Meredith O’Rourke to explain the terms of donors’ gifts to Trump’s ballroom and other pet projects",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Democrats probe whether Trump donors promised ‘quid pro quo’ Dan Diamond Lawmakers are asking his fundraiser Meredith O"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Democrats probe whether Trump donors promised 'quid pro quo' Dan Diamond Lawmakers are asking his fundraiser Meredith O"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats probe whether Trump donors promised 'quid pro quo' Dan Diamond Lawmakers are asking his f"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yad5lc",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Jensen Huang Scandal Should Change Everything",
+    "chineseTitle": "The Jensen Huang Scandal Should Change Everything",
+    "originalUrl": "https://www.theatlantic.com/international/2026/11/nvidia-affair-chips-china/689417/",
+    "publishedAt": "2026-11-12T21:35:14.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.195Z",
+    "rawDescription": "America needs a new approach to AI.",
+    "contentSnippet": "America needs a new approach to AI.",
+    "summaryZh": "基于标题/摘要生成：America needs a new approach to AI",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_996b8a",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "An Offbeat Director Worth Your Time",
+    "chineseTitle": "An Offbeat Director Worth Your Time",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/11/paper-tiger-james-gray-video-village/689416/",
+    "publishedAt": "2026-11-12T21:23:34.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.195Z",
+    "rawDescription": "James Gray makes good movies with big-name actors and big budgets, but hasn’t gotten mainstream acclaim.",
+    "contentSnippet": "James Gray makes good movies with big-name actors and big budgets, but hasn’t gotten mainstream acclaim.",
+    "summaryZh": "基于标题/摘要生成：James Gray makes good movies with big-name actors and big budgets，but hasn’t gotten mainstream acclaim",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u0wz7x",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Huang Out at Nvidia",
+    "chineseTitle": "Huang Out at Nvidia",
+    "originalUrl": "https://foreignpolicy.com/2026/11/12/nvidia-jensen-huang-resigns-ai-china-spy-megaspeed-extramarital-affairs/",
+    "publishedAt": "2026-11-12T20:50:22.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.183Z",
+    "rawDescription": "The U.S. chipmaker’s CEO has resigned over an affair with an alleged Chinese spy.",
+    "contentSnippet": "The U.S. chipmaker’s CEO has resigned over an affair with an alleged Chinese spy.",
+    "summaryZh": "基于标题/摘要生成：The U.S. chipmaker’s CEO has resigned over an affair with an alleged 中国 spy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3vn6zz",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "2028 Dems: Don’t label me",
+    "chineseTitle": "2028 Dems：Don’t label me",
+    "originalUrl": "https://www.politico.com/news/2026/11/12/2028-dems-dont-label-me-01161787",
+    "publishedAt": "2026-11-12T15:00:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.105Z",
+    "rawDescription": "Democrats with eyes on the White House are hoping to push the party past its long-running ideological war.",
+    "contentSnippet": "Democrats with eyes on the White House are hoping to push the party past its long-running ideological war.",
+    "summaryZh": "基于标题/摘要生成：民主党人 with eyes on 白宫 are hoping to push the party past its long-running ideological war",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "2028 Dems: Don't label me By Lisa Kashinsky Democrats with eyes on the White House are hoping to push the party past its long-running ideologic"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "2028 Dems: Don't label me By Lisa Kashinsky Democrats with eyes on the White House are hoping to push the party past its long-running ideological war. Democrats with eyes o"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "White House",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mixi99",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "America Can Do Good—and Do Well",
+    "chineseTitle": "America Can Do Good—and Do Well",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/america-can-do-good-and-do-well",
+    "publishedAt": "2026-11-12T09:00:01.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.054Z",
+    "rawDescription": "The strategic logic of foreign aid.",
+    "contentSnippet": "The strategic logic of foreign aid.",
+    "summaryZh": "基于标题/摘要生成：The strategic logic of foreign aid",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ameeom",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Paradox of Dollar Dominance",
+    "chineseTitle": "The Paradox of Dollar Dominance",
+    "originalUrl": "https://www.foreignaffairs.com/economics/paradox-dollar-dominance",
+    "publishedAt": "2026-11-12T09:00:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.054Z",
+    "rawDescription": "How Technology Is—and Isn’t—Changing the Global Economy",
+    "contentSnippet": "How Technology Is—and Isn’t—Changing the Global Economy",
+    "summaryZh": "基于标题/摘要生成：How Technology Is—and Isn’t—Changing the Global Economy",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/topic/Trade/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_btzsk5",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE.This Landmark Permitting Reform Legislation will codify our America First Energy Agenda, and e",
+    "chineseTitle": "I am urging all Senators to vote for The American Afforda…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJM3pKOFkyWE9DOVZTeExTcTlNNElVcWRYMVRjbmt2c0xGZzBReEFQb1VpYVJBRWxncG9oM0JfN2lDOXBocnc2b3dWeEdmT1ppNHdqUEJRd21qUnZKUmxXS0pBTTQzd0lpZVhBUTNOMFh1VkE?oc=5",
+    "publishedAt": "2026-11-09T06:15:56.000Z",
+    "fetchedAt": "2026-11-13T03:17:35.308Z",
+    "rawDescription": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE.This Landmark Permitting Reform Legislation will codify our America First Energy Agenda, and e Truth Social",
+    "contentSnippet": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE.This Landmark Permitting Reform Legislation will codify our America First Energy Agenda, and e Truth Social",
+    "summaryZh": "基于标题/摘要生成：I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This 法案 is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINAN…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Landmark Permitting Reform Legislation will codify our America First Energy Agenda, and e Truth Social I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! T"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nxeudy",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "CNBC incorrectly reported that the Great Jensen Huang, of Nvidia, was not invited to the incredible gathering of the World’s Greatest Businessmen/women proudly going to China. In actuality, Jensen is currently on Air Force One and, unless I ask him to leave,",
+    "chineseTitle": "CNBC incorrectly reported that the Great Jensen Huang，of…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mYVNJTVRPdTN6LW5hWTVBN2N3WTVxTUE5QWlnSWNkZGtoMko3eWFPeFVvdDVNdnVKeEtUb1ppNzd1NUR2VlNvZHdZdmJTaUZqV09GdmVOa0xpZXRob0pCYnNRVFJub1Z2ZDFYOHd0YzJqTk0?oc=5",
+    "publishedAt": "2026-05-13T03:43:53.000Z",
+    "fetchedAt": "2026-11-13T03:17:35.309Z",
+    "rawDescription": "CNBC incorrectly reported that the Great Jensen Huang, of Nvidia, was not invited to the incredible gathering of the World’s Greatest Businessmen/women proudly going to China. In actuality, Jensen is currently on Air Force One and, unless I ask him to leave, Truth Social",
+    "contentSnippet": "CNBC incorrectly reported that the Great Jensen Huang, of Nvidia, was not invited to the incredible gathering of the World’s Greatest Businessmen/women proudly going to China. In actuality, Jensen is currently on Air Force One and, unless I ask him to leave, Truth Social",
+    "summaryZh": "基于标题/摘要生成：CNBC incorrectly reported that the Great Jensen Huang，of Nvidia，was not invited to the incredible gathering of the World’s Greatest Businessmen，women…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "China. In actuality, Jensen is currently on Air Force One and, unless I ask him to leave, Truth Social CNBC incorrectly reported that the Great Jensen Huang, of Nvidia, was not invited to the"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_qmdea4",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First AI Agenda – AFPI",
+    "chineseTitle": "America First AI Agenda – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PeGRPbWxtODFGUmdjeGdvbW1sbF9TWFdtZFIwX01qM05DaUlHUHpra0pKLUdBeFhPNGRJOTF3MElWZG9CWGVuMnFLTVlxY0dzWVRFS1hYSnZBLUtLYTljMXc0RGxWVXp6aUYwVTNicw?oc=5",
+    "publishedAt": "2025-11-24T08:00:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:34.961Z",
+    "rawDescription": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "America First AI Agenda – AFPI America First AI Agenda – AFPI americafirstpolicy.com America First AI Agenda – AFPI amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:17.782Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.249Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.250Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:17.781Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.154Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-13T03:17:16.153Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cd2lm8",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI",
+    "chineseTitle": "America First 中国 政策 Principles in Practice – Center Overv…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVE1XcU85dTdibkp6RGdjRjhaMUh0Z0lKOEJRWDdGZm9oaDdvY0FEU2dLcjNUV09vWk1yT2lDV1piZnd2QllBM1l3c3pnbXhlLUVSVi1WWU5fY3FmRlBTcVBsaFM0QVJ1YTMwM2FRNjVNNkM1Tl9WMGk3cHVJa3BpbGxUNmJHaUVCZnZVZy15eHdZeDZPM2hlR29XUUtMY194RTlXWW55Zmp2aFpHWHdiS2NYM1Y3VjZoSUdWczlCQS1XZVBKWGc?oc=5",
+    "publishedAt": "2022-12-07T08:00:00.000Z",
+    "fetchedAt": "2026-11-13T03:17:34.960Z",
+    "rawDescription": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First 中国 政策 Principles in Practice – Center Overview – 中国 政策 Initiative – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "a First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First China Policy Principles in Practice – Center Overview – China Policy Initia"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First C"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  }
+]
