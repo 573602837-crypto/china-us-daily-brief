@@ -1,0 +1,1849 @@
+[
+  {
+    "id": "art_fszf8h",
+    "sourceName": "Truth Social",
+    "sourceDomain": "wjla.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Tucker Carlson says he spoke to Trump and is convinced he wants to de - escalate in Iran",
+    "chineseTitle": "Tucker Carlson says he spoke to Trump and is convinced he…",
+    "originalUrl": "https://wjla.com/news/nation-world/tucker-carlson-says-he-spoke-to-trump-and-is-convinced-he-wants-to-de-escalate-in-iran-nukes-truth-social-house-senate-rrt",
+    "publishedAt": "2026-11-18T04:07:54.818Z",
+    "fetchedAt": "2026-11-18T04:07:54.821Z",
+    "rawDescription": "",
+    "contentSnippet": "Tucker Carlson says he spoke to Trump and is convinced he wants to de - escalate in Iran",
+    "summaryZh": "基于标题/摘要生成：Tucker Carlson says he spoke to Trump and is convinced he wants to de - escalate in Iran",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Tucker Carlson says he spoke to Trump and is convinced he wants to de - escalate in Iran Tucker Carlson says he spoke to Trum"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Tucker Carlson says he spoke to Trump and is convinced he wants to de - escalate in Iran Tucker Carlson says he spoke to Trump"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_t9j8k7",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+    "chineseTitle": "民主党人 Claim 56 参议院 Seats After Mary Peltola Wins in Alaska",
+    "originalUrl": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+    "publishedAt": "2026-11-18T04:02:15.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.642Z",
+    "rawDescription": "Ms. Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
+    "contentSnippet": "Ms. Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
+    "summaryZh": "基于标题/摘要生成：Ms. Peltola defeated Senator Dan S. Sullivan，a two-term incumbent，to become the first Democrat to represent the conservative state in the 参议院 since 2…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "ats After Mary Peltola Wins in Alaska Kellen Browning Ms. Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state i"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "ats After Mary Peltola Wins in Alaska Kellen Browning Ms. Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state i"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska Kellen Browning Ms. Peltola defea"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska Kellen Browning Ms. Peltola defeated Senator Dan"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Jake Sullivan",
+      "Democratic Party",
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5le13i",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Bruins, slumping royally, lose to Kings by shutout for third straight setback, all at home",
+    "chineseTitle": "Bruins，slumping royally，lose to Kings by shutout for thir…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/17/sports/bruins-kings-game-score/",
+    "publishedAt": "2026-11-18T03:50:11.112Z",
+    "fetchedAt": "2026-11-18T04:04:05.967Z",
+    "rawDescription": "公开 sitemap 条目：Bruins, slumping royally, lose to Kings by shutout for third straight setback, all at home",
+    "contentSnippet": "公开 sitemap 条目：Bruins, slumping royally, lose to Kings by shutout for third straight setback, all at home",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Bruins，slumping royally，lose to Kings by shutout for third straight setback，all at home",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8vgwiz",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Christian Pulisic bicycle kick helps US men’s soccer team beat Haiti in Mauricio Pochettino’s final game as coach",
+    "chineseTitle": "Christian Pulisic bicycle kick helps US men’s soccer team…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/17/sports/usa-haiti-game-score-pulisic-pochettino/",
+    "publishedAt": "2026-11-18T03:45:44.023Z",
+    "fetchedAt": "2026-11-18T04:04:05.968Z",
+    "rawDescription": "公开 sitemap 条目：Christian Pulisic bicycle kick helps US men’s soccer team beat Haiti in Mauricio Pochettino’s final game as coach",
+    "contentSnippet": "公开 sitemap 条目：Christian Pulisic bicycle kick helps US men’s soccer team beat Haiti in Mauricio Pochettino’s final game as coach",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Christian Pulisic bicycle kick helps US men’s soccer team beat Haiti in Mauricio Pochettino’s final game as coach",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7v7kw",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave",
+    "chineseTitle": "Mary Peltola unseats Republican Dan Sullivan in Alaska，ex…",
+    "originalUrl": "https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola",
+    "publishedAt": "2026-11-18T03:29:32.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.476Z",
+    "rawDescription": "Former Democratic Rep. Mary Peltola has defeated two-term Republican Sen. Dan S. Sullivan , flipping another GOP-held seat in a state President Trump carried comfortably in 2024, the AP projects. Why it matters: Peltola becomes the first Democrat elected to the Senate from Alaska since 2008, extending a historic blue wave in a race marred by controversy. Her victory comes in a state Trump carried by 13 points in 2024, underscoring the extraordinary reach of the Democratic backlash against his second term. It also delivers another blow to Republicans after sweeping Democratic victories in states including Texas, Ohio, Iowa and South Carolina. State of play: The race drew scrutiny after The New York Times reported allegations that Democratic operatives recruited another candidate named Dan…",
+    "contentSnippet": "Former Democratic Rep. Mary Peltola has defeated two-term Republican Sen. Dan S. Sullivan , flipping another GOP-held seat in a state President Trump carried comfortably in 2024, the AP projects. Why it matters: Peltola becomes the first Democrat elected to the Senate from Alaska since 2008, extending a historic blue wave in a race marred by controversy. Her victory comes in a state Trump carried by 13 points in 2024, underscoring the extraordinary reach of the Democratic backlash against his second term. It also delivers another blow to Republicans after sweeping Democratic victories in states including Texas, Ohio, Iowa and South Carolina. State of play: The race drew scrutiny after The New York Times reported allegations that Democratic operatives recruited another candidate named Dan…",
+    "summaryZh": "基于标题/摘要生成：Former Democratic Rep. Mary Peltola has defeated two-term Republican Sen. Dan S. Sullivan，flipping another GOP-held seat in a state President Trump c…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "erm Republican Sen. Dan S. Sullivan , flipping another GOP-held seat in a state President Trump carried comfortably in 2024, the AP projects. Why it matters: Peltola becomes the first D"
+      },
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave Josephine Walker Former Democratic Rep. Mary Peltola"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "erm Republican Sen. Dan S. Sullivan , flipping another GOP-held seat in a state President Trump carried comfortably in 2024, the AP projects. Why it matters: Peltola becomes the first D"
+      },
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave Josephine Walker Former Democratic Rep. Mary Peltola"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "each of the Democratic backlash against his second term. It also delivers another blow to Republicans after sweeping Democratic victories in states including Texas, Ohio, Iowa and South Carol"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "2024, the AP projects. Why it matters: Peltola becomes the first Democrat elected to the Senate from Alaska since 2008, extending a historic blue wave in a race marred by controversy. H"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Jake Sullivan",
+      "Republican Party",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_86v26f",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar",
+    "chineseTitle": "Alaska Dem Peltola defeats Sullivan，flipping 9th GOP 参议院…",
+    "originalUrl": "https://www.foxnews.com/politics/alaska-dem-peltola-defeats-sullivan-flipping-gop-senate-seat-decoy-dan-uproar",
+    "publishedAt": "2026-11-18T03:27:24.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.616Z",
+    "rawDescription": "Democrats seized a 56-44 majority in the U.S. Senate after Mary Peltola defeated Alaska Republican Sen. Dan S. Sullivan in a race that featured a same-name ballot challenger.",
+    "contentSnippet": "Democrats seized a 56-44 majority in the U.S. Senate after Mary Peltola defeated Alaska Republican Sen. Dan S. Sullivan in a race that featured a same-name ballot challenger.",
+    "summaryZh": "基于标题/摘要生成：民主党人 seized a 56-44 majority in the U.S. 参议院 after Mary Peltola defeated Alaska Republican Sen. Dan S. Sullivan in a race that featured a same-name b…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar Democrats seized a 56-44 majority"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar Democrats seized a 56-44 majority"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "laska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar Democrats seized a 56-44 majority in the U.S. Senate after Mary Peltola defeated Alaska Republican"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "GOP",
+        "confidence": "high",
+        "contextSnippet": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar Democrats seized a 56-44 majority in the U.S. Senate"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar Democrats seized a 56-44 majority in the U.S. Senate after"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Jake Sullivan",
+      "Democratic Party",
+      "Republican Party",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_j81rat",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+    "chineseTitle": "White 众议院 Withdraws Nomination of Heidi Overton to Be F.D…",
+    "originalUrl": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+    "publishedAt": "2026-11-18T03:26:28.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.643Z",
+    "rawDescription": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
+    "contentSnippet": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
+    "summaryZh": "基于标题/摘要生成：The 参议院 health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vac…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner Christina Jewett The Sena"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "ouse Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner Christina Jewett The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestlin"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_uxq1xo",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Mary Peltola unseats Sen. Dan Sullivan, giving Dems a 56-seat Senate majority",
+    "chineseTitle": "Mary Peltola unseats Sen. Dan Sullivan，giving Dems a 56-s…",
+    "originalUrl": "https://www.politico.com/news/2026/11/17/mary-peltola-wins-alaska-senate-01172129",
+    "publishedAt": "2026-11-18T03:24:10.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.574Z",
+    "rawDescription": "It's the first time in 18 years a Democrat has won a Senate race in the state.",
+    "contentSnippet": "It's the first time in 18 years a Democrat has won a Senate race in the state.",
+    "summaryZh": "基于标题/摘要生成：It's the first time in 18 years a Democrat has won a 参议院 race in the state",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "Mary Peltola unseats Sen. Dan Sullivan, giving Dems a 56-seat Senate majority By Lisa Kashinsky It's the first time in 18 years"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "Mary Peltola unseats Sen. Dan Sullivan, giving Dems a 56-seat Senate majority By Lisa Kashinsky It's the first time in 18 years"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Mary Peltola unseats Sen. Dan Sullivan, giving Dems a 56-seat Senate majority By Lisa Kashinsky It's the first time in 18 years a Democrat has won a Senate ra"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Jake Sullivan",
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_alet5z",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why the internet suddenly broke all at once",
+    "chineseTitle": "Why the internet suddenly broke all at once",
+    "originalUrl": "https://www.axios.com/2026/11/17/tech-outages-ai-fears-internet-breaking",
+    "publishedAt": "2026-11-18T01:40:32.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.478Z",
+    "rawDescription": "Americans were locked out of bank accounts, blocked from boarding flights and unable to check emails in rapid succession over the past week. Why it matters: The internet immediately pointed fingers toward an AI agent doomsday, sending people into a frenzy that the Big One™was about to happen. Reality check: Experts tell Axios these disruptions don't appear linked to hacking. To the extent they involve AI, the incidents may have just as much to do with widespread efforts to fix outdated code as they do with slop software. Downdetector data also show that while the seven days through Monday represent the highest number of weekly outages in the last 12 months, the pattern over longer periods such as 30 days is far from unprecedented. Driving the news: Some Americans struggled to access JPMor…",
+    "contentSnippet": "Americans were locked out of bank accounts, blocked from boarding flights and unable to check emails in rapid succession over the past week. Why it matters: The internet immediately pointed fingers toward an AI agent doomsday, sending people into a frenzy that the Big One™was about to happen. Reality check: Experts tell Axios these disruptions don't appear linked to hacking. To the extent they involve AI, the incidents may have just as much to do with widespread efforts to fix outdated code as they do with slop software. Downdetector data also show that while the seven days through Monday represent the highest number of weekly outages in the last 12 months, the pattern over longer periods such as 30 days is far from unprecedented. Driving the news: Some Americans struggled to access JPMor…",
+    "summaryZh": "基于标题/摘要生成：Americans were locked out of bank accounts，blocked from boarding flights and unable to check emails in rapid succession over the past week. Why it ma…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3gtt5x",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote",
+    "chineseTitle": "White 众议院 pulls Trump’s FDA pick Heidi Overton on eve of…",
+    "originalUrl": "https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote",
+    "publishedAt": "2026-11-18T01:04:59.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.617Z",
+    "rawDescription": "President Donald Trump's FDA pick, Heidi Overton, saw her nomination pulled one day before a Senate committee vote, a White House official confirmed.",
+    "contentSnippet": "President Donald Trump's FDA pick, Heidi Overton, saw her nomination pulled one day before a Senate committee vote, a White House official confirmed.",
+    "summaryZh": "基于标题/摘要生成：President 特朗普's FDA pick，Heidi Overton，saw her nomination pulled one day before a 参议院 committee vote，a White 众议院 official confirmed",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote President Donald Trump's FDA pick, Heidi Overton, saw her nomination pulled one day before a Senate committee v"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote President Donald Trump's FDA pick,"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "White House pulls Trump's FDA pick Heidi Overton on eve of Senate panel vote President Donald Trump's FDA pick, Heidi Overton, saw her nomination pulled one day before a Senate committee vo"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "White House pulls Trump's FDA pick Heidi Overton on eve of Senate panel vote President Donald Trump's"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "White House pulls Trump's FDA pick Heidi Overton on eve of Senate panel vote President Donald Trump's FDA pick, Heidi Overton, saw her nomination pulled on"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "White House pulls Trump's FDA pick Heidi Overton on eve of Senate panel vote 公开 sitemap 条目：White House pulls Trum"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qrd1gg",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump steps onto global stage weakened at home",
+    "chineseTitle": "Trump steps onto global stage weakened at home",
+    "originalUrl": "https://thehill.com/homenews/administration/6226663-trump-midterm-losses-foreign-policy-asia-trip/",
+    "publishedAt": "2026-11-17T23:15:19.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.527Z",
+    "rawDescription": "President Trump is stepping onto the global stage politically weakened by the sweeping Republican losses in the midterm elections, largely seen as a referendum on Trump himself. Trump is meeting with Indo-Pacific allies at the Association of Southeast Asian Nations (ASEAN) this week, before heading to China for an unprecedented trilateral summit with the country’s...",
+    "contentSnippet": "President Trump is stepping onto the global stage politically weakened by the sweeping Republican losses in the midterm elections, largely seen as a referendum on Trump himself. Trump is meeting with Indo-Pacific allies at the Association of Southeast Asian Nations (ASEAN) this week, before heading to China for an unprecedented trilateral summit with the country’s...",
+    "summaryZh": "基于标题/摘要生成：President Trump is stepping onto the global stage politically weakened by the sweeping Republican losses in the midterm elections，largely seen as a r…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump steps onto global stage weakened at home Julia Manchester President Trump is stepping ont"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump steps onto global stage weakened at home Julia Manchester President Trump is stepping ont"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "site:thehill.com China OR Taiwan OR Trump OR Congress"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_sqyi6d",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Diplomacy, but Make It Obnoxious",
+    "chineseTitle": "Diplomacy，but Make It Obnoxious",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/11/marco-rubio-federalist-society-speech/689473/",
+    "publishedAt": "2026-11-17T22:38:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.675Z",
+    "rawDescription": "Why does Rubio sound so nasty lately?",
+    "contentSnippet": "Why does Rubio sound so nasty lately?",
+    "summaryZh": "基于标题/摘要生成：Why does Rubio sound so nasty lately",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "马尔科·鲁比奥"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "Diplomacy, but Make It Obnoxious David Frum Why does Rubio sound so nasty lately? Why does Rubio sound so nasty lately?"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Rubio",
+        "confidence": "medium",
+        "contextSnippet": "Diplomacy, but Make It Obnoxious David Frum Why does Rubio sound so nasty lately? Why does Rubio sound so nasty lately?"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Marco Rubio",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ku5y7m",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Ukraine talks yielding progress: Kushner",
+    "chineseTitle": "Ukraine talks yielding progress：Kushner",
+    "originalUrl": "https://thehill.com/policy/international/6226498-ukraine-talks-yielding-progress-kushner/",
+    "publishedAt": "2026-11-17T22:20:21.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.528Z",
+    "rawDescription": "Jared Kushner, President Trump's son-in-law, said he and fellow U.S. special envoy Steve Witkoff are \"making progress\" toward bringing an end to war in Ukraine — though \"important challenges\" remain. “A final agreement will require difficult decisions. But we are making progress, in close coordination with Russia, Ukraine, and Europe, toward an outcome that can...",
+    "contentSnippet": "Jared Kushner, President Trump's son-in-law, said he and fellow U.S. special envoy Steve Witkoff are \"making progress\" toward bringing an end to war in Ukraine — though \"important challenges\" remain. “A final agreement will require difficult decisions. But we are making progress, in close coordination with Russia, Ukraine, and Europe, toward an outcome that can...",
+    "summaryZh": "基于标题/摘要生成：Jared Kushner，President Trump's son-in-law，said he and fellow U.S. special envoy Steve Witkoff are \"making progress\" toward bringing an end to war in…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Ukraine talks yielding progress: Kushner Suryatapa Chakraborty Jared Kushner, President Trump's son-in-law, said he and fellow U.S. special envoy Steve Witkoff are \"making progress\" t"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Ukraine talks yielding progress: Kushner Suryatapa Chakraborty Jared Kushner, President Trump's son-in-law, said he and fellow U.S. special envoy Steve Witkoff are \"making progress\" t"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9o5lus",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Commerce and Justice departments release details of Megaspeed investigation",
+    "chineseTitle": "Commerce and Justice departments release details of Megas…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWVk0Tl83dFE5UkJTRmFBdjN6cVhfdVdvdHA0TTlMSXhxLWdWUVpudjBNc2FYLU96SV9xTVdlNlplT3dhaTNlX2tNaEJ3TVJOd2VoRFJjWEJXbGU5X3NXcm1aal9uc0lHT2MySDRzX3RvaVBPWHJtdkw2VDQwQ2pCR3ZRVmE0TVpOU1BwSUhuakRzUGpheVNnZ3h2WG9ZMi1RbUVzNE83MWtfWjZzOWVlZjc1QW4yX1ZtVVd0Rks0UQ?oc=5",
+    "publishedAt": "2026-11-17T22:12:57.000Z",
+    "fetchedAt": "2026-11-18T04:04:23.729Z",
+    "rawDescription": "Commerce and Justice departments release details of Megaspeed investigation The Washington Post",
+    "contentSnippet": "Commerce and Justice departments release details of Megaspeed investigation The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Commerce and Justice departments release details of Megaspeed investigation The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "Commerce Department"
+    ],
+    "relatedEntityTags": [
+      "Howard Lutnick",
+      "Commerce Department"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"Howard Lutnick\"",
+      "\"Commerce Department\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_b86nnn",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Xi Makes the Most of Trump’s Asia-Pacific Trip",
+    "chineseTitle": "Xi Makes the Most of Trump’s Asia-Pacific Trip",
+    "originalUrl": "https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec/",
+    "publishedAt": "2026-11-17T21:52:41.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.666Z",
+    "rawDescription": "The Chinese president is currying favor with some of the region’s most powerful leaders.",
+    "contentSnippet": "The Chinese president is currying favor with some of the region’s most powerful leaders.",
+    "summaryZh": "基于标题/摘要生成：The 中国 president is currying favor with some of the region’s most powerful leaders",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Xi Makes the Most of Trump’s Asia-Pacific Trip Alexandra Sharp The Chinese president is currying favor with some of"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Xi Makes the Most of Trump's Asia-Pacific Trip Alexandra Sharp The Chinese president is currying favor with some of"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_7o5d2b",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "5 Freshmen Democratic Lawmakers to Watch",
+    "chineseTitle": "5 Freshmen Democratic Lawmakers to Watch",
+    "originalUrl": "https://foreignpolicy.com/2026/11/17/freshmen-house-democratic-lawmakers-congress-israel-defense-military/",
+    "publishedAt": "2026-11-17T20:31:45.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.666Z",
+    "rawDescription": "Meet the potential foreign-policy and national security big hitters of the next Congress.",
+    "contentSnippet": "Meet the potential foreign-policy and national security big hitters of the next Congress.",
+    "summaryZh": "基于标题/摘要生成：Meet the potential foreign-政策 and 国家安全 big hitters of the next 美国国会",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "el Oswald Meet the potential foreign-policy and national security big hitters of the next Congress. Meet the potential foreign-policy and national security big hitters of the next Congress"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_sbmmyl",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s Arch Must Be Stopped",
+    "chineseTitle": "Trump’s Arch Must Be Stopped",
+    "originalUrl": "https://www.theatlantic.com/culture/2026/11/kennedy-trump-arch-arlington/689478/",
+    "publishedAt": "2026-11-17T19:41:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.677Z",
+    "rawDescription": "The 250-foot structure would dishonor the veterans buried at Arlington National Cemetery. That’s why my family is suing.",
+    "contentSnippet": "The 250-foot structure would dishonor the veterans buried at Arlington National Cemetery. That’s why my family is suing.",
+    "summaryZh": "基于标题/摘要生成：The 250-foot structure would dishonor the veterans buried at Arlington National Cemetery. That’s why my family is suing",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s Arch Must Be Stopped Maxwell Taylor Kennedy The 250-foot structure would dishonor the v"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Arch Must Be Stopped Maxwell Taylor Kennedy The 250-foot structure would dishonor the v"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_54tf2b",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Cornyn links Nvidia scandal to perception of Trump admin corruption",
+    "chineseTitle": "Cornyn links Nvidia scandal to perception of Trump admin…",
+    "originalUrl": "https://www.politico.com/news/2026/11/17/cornyn-trump-nvidia-corruption-perceptions-01170190",
+    "publishedAt": "2026-11-17T19:13:36.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.576Z",
+    "rawDescription": "The outgoing Texas Republican senator said “the buck stops with [Trump]” when pressed on whether the White House plays a role in the appearance of corruption and self-dealing.",
+    "contentSnippet": "The outgoing Texas Republican senator said “the buck stops with [Trump]” when pressed on whether the White House plays a role in the appearance of corruption and self-dealing.",
+    "summaryZh": "基于标题/摘要生成：The outgoing Texas Republican senator said “the buck stops with [Trump]” when pressed on whether 白宫 plays a role in the appearance of corruption and…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Cornyn links Nvidia scandal to perception of Trump admin corruption By Casey He The outgoing Texas Republican senator said “the buck stops w"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Cornyn links Nvidia scandal to perception of Trump admin corruption By Casey He The outgoing Texas Republican senator said \"the buck stops w"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "g Texas Republican senator said \"the buck stops with [Trump]\" when pressed on whether the White House plays a role in the appearance of corruption and self-dealing. The outgoing Texas Republi"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "site:politico.com White House China OR Taiwan OR Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3q6zkw",
+    "sourceName": "The Washington Post",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Brazilian federal police are investigating JD Vance donor network",
+    "chineseTitle": "Brazilian federal police are investigating JD Vance donor…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLXdxZXFIczZEX19PMWhJRUtsZWsxV0RkQlA3R1BEcllmbGVLZlFXc1pLM3ZfbXRST0w3cS1scW52RjhmdkJEemxhV0FJRmxjOWhRdW8yR3kzOFU0WWxQMlUyd3VxVjY4VTQtNk5DTnMycmd2VS11eXNJVzNLZVNiY2xXYXR0VDlzdTJmMGkyMDdqWmZoZWVYTmtmQ3NnNHgxYmc3bkFJRDdaLTc0RzJMcHRfbXM?oc=5",
+    "publishedAt": "2026-11-17T18:00:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:23.719Z",
+    "rawDescription": "Brazilian federal police are investigating JD Vance donor network The Washington Post",
+    "contentSnippet": "Brazilian federal police are investigating JD Vance donor network The Washington Post",
+    "summaryZh": "基于标题/摘要生成：Brazilian federal police are investigating JD Vance donor network The Washington Post",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "JD·万斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "Brazilian federal police are investigating JD Vance donor network Brazilian federal police are investigating JD Vance donor network The Wash"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Brazilian federal police are investigating JD Vance donor network Brazilian federal police are investigating JD Vance donor network The Wash"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "Brazilian federal police are investigating JD Vance donor network Brazilian federal police are investigating JD Vance donor network The Washi"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "JD Vance"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"JD Vance\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_oaffkv",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Is China Misreading the Moment?",
+    "chineseTitle": "Is 中国 Misreading the Moment",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/china-misreading-moment",
+    "publishedAt": "2026-11-17T09:00:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.514Z",
+    "rawDescription": "When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he will sit down with Chinese leader Xi Jinping for the fourth time amid an unexpected détente between Washington and Beijing. The trade war of 2025 is in abeyance, the two governments have announced a relationship of “constructive strategic stability,” and, to the alarm of American allies, Trump and Xi are planning to meet with Russian President Vladimir Putin. Beneath the surface, however, the détente is beginning to crack.",
+    "contentSnippet": "When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he will sit down with Chinese leader Xi Jinping for the fourth time amid an unexpected détente between Washington and Beijing. The trade war of 2025 is in abeyance, the two governments have announced a relationship of “constructive strategic stability,” and, to the alarm of American allies, Trump and Xi are planning to meet with Russian President Vladimir Putin. Beneath the surface, however, the détente is beginning to crack.",
+    "summaryZh": "基于标题/摘要生成：When U.S. President 特朗普 lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit，he will sit down with 中国 leader Xi Jinping…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Is China Misreading the Moment? Rush Doshi When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he wi"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Is China Misreading the Moment? Rush Doshi When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he wi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Is China Misreading the Moment? Rush Doshi When U.S. President Donald Trump lands in Shenzhen later this week for the Asia-Pacific Economic Cooperation summit, he wi"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_d31dj7",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China Doesn’t Want a Nuclear Arms Race",
+    "chineseTitle": "中国 Doesn’t Want a Nuclear Arms Race",
+    "originalUrl": "https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race",
+    "publishedAt": "2026-11-16T09:00:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.516Z",
+    "rawDescription": "America can avert an unnecessary rivalry.",
+    "contentSnippet": "America can avert an unnecessary rivalry.",
+    "summaryZh": "基于标题/摘要生成：America can avert an unnecessary rivalry",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:05.930Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.734Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.734Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3vscac",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "I have had many talks with China about the massive amounts of drugs, in particular Fentanyl, being sent into the United States – But to no avail. Representatives of China told me that they would institute their maximum penalty, that of death, for any drug dealer",
+    "chineseTitle": "I have had many talks with 中国 about the massive amounts o…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qTXJnQ0Exd1J0cUtmc3hocWUwSzFmcEFfWXlpWGJ0aWVTTE01clN5YVpDUVcydkJFZ09ZVlRNS2htY25HU0lJajhVQWdBQmlSaVllRzhBcUMwcXhhU3FGQlNOZVFZRlJTazNpZk9yNURZbjg?oc=5",
+    "publishedAt": "2024-11-26T00:13:43.000Z",
+    "fetchedAt": "2026-11-18T04:04:24.104Z",
+    "rawDescription": "I have had many talks with China about the massive amounts of drugs, in particular Fentanyl, being sent into the United States – But to no avail. Representatives of China told me that they would institute their maximum penalty, that of death, for any drug dealer Truth Social",
+    "contentSnippet": "I have had many talks with China about the massive amounts of drugs, in particular Fentanyl, being sent into the United States – But to no avail. Representatives of China told me that they would institute their maximum penalty, that of death, for any drug dealer Truth Social",
+    "summaryZh": "基于标题/摘要生成：I have had many talks with 中国 about the massive amounts of drugs，in particular Fentanyl，being sent into the United States – But to no avail. Represen…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "ld me that they would institute their maximum penalty, that of death, for any drug dealer Truth Social I have had many talks with China about the massive amounts of drugs, in particular Fentan"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:05.929Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_qjuliu",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "AFPI Trip to Taiwan & Japan – AFPI",
+    "chineseTitle": "AFPI Trip to 台湾 & Japan – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBub0hXa09EYmxrT3ZJeFJuaE9oMXlYejh0MjBOZEI5TmhkaWlBVG9obFBubjNCd1ZDdktEX2hKQ0cyMGI5dHZTd1BTOXdtc1NPN1FWb3JfYnpDLS1BZzZ2cW9OMlFaaHZFMDNrUGJyS3RQdWtwYklz?oc=5",
+    "publishedAt": "2024-06-25T07:00:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:23.709Z",
+    "rawDescription": "AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com",
+    "contentSnippet": "AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：AFPI Trip to 台湾 & Japan – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "AFPI Trip to Taiwan & Japan – AFPI AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.633Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-18T04:04:02.632Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cd2lm8",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI",
+    "chineseTitle": "America First 中国 政策 Principles in Practice – Center Overv…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVE1XcU85dTdibkp6RGdjRjhaMUh0Z0lKOEJRWDdGZm9oaDdvY0FEU2dLcjNUV09vWk1yT2lDV1piZnd2QllBM1l3c3pnbXhlLUVSVi1WWU5fY3FmRlBTcVBsaFM0QVJ1YTMwM2FRNjVNNkM1Tl9WMGk3cHVJa3BpbGxUNmJHaUVCZnZVZy15eHdZeDZPM2hlR29XUUtMY194RTlXWW55Zmp2aFpHWHdiS2NYM1Y3VjZoSUdWczlCQS1XZVBKWGc?oc=5",
+    "publishedAt": "2022-12-07T08:00:00.000Z",
+    "fetchedAt": "2026-11-18T04:04:23.710Z",
+    "rawDescription": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First 中国 政策 Principles in Practice – Center Overview – 中国 政策 Initiative – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "a First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First China Policy Principles in Practice – Center Overview – China Policy Initia"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First C"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_8ky0cb",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Donald J. Trump (@realDonaldTrump)",
+    "chineseTitle": "Donald J. Trump (@realDonaldTrump)",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IUUtyTnV2Nm5EQUd1VnJ3RTN6czVoMzBYQ1NxUEhISmNiQ3RnUHZnYjFTMWp1bTlHVElOVl9wdmJsM3lfQ2VfWHU2VFVJODdVaFE?oc=5",
+    "publishedAt": "2022-05-17T16:17:39.000Z",
+    "fetchedAt": "2026-11-18T04:04:24.103Z",
+    "rawDescription": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "contentSnippet": "Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryZh": "基于标题/摘要生成：Donald J. Trump (@realDonaldTrump) Truth Social",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@rea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@real"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "Donald J. Trump (@realDonaldTrump) Donald J. Trump (@realDonaldTrump) Truth Social Donald J. Trump (@realDonaldTrump) Truth Social"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  }
+]
