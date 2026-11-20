@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "art_q8bkkj",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "PublicPageProvider",
+    "originalTitle": "Money, Power, Inequality",
+    "chineseTitle": "Money，Power，Inequality",
+    "originalUrl": "https://www.bostonglobe.com/metro/money-power-inequality/?p1=BGHeader_MainNav",
+    "publishedAt": "2026-11-20T03:54:25.421Z",
+    "fetchedAt": "2026-11-20T03:54:26.293Z",
+    "rawDescription": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "contentSnippet": "Money, Power, Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"/",
+    "summaryZh": "基于标题/摘要生成：Money，Power，Inequality. Spotlight Technology Climate Cars <a target=\"_self\" href=\"，",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/nation/",
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ecelk5",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "PublicPageProvider",
+    "originalTitle": "Mother and son die in house fire in Sanbornton, N.H., officials say",
+    "chineseTitle": "Mother and son die in 众议院 fire in Sanbornton，N.H.，officia…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/19/metro/sanbornton-fatal-fire-investigation-two-dead/",
+    "publishedAt": "2026-11-20T03:54:25.192Z",
+    "fetchedAt": "2026-11-20T03:54:26.314Z",
+    "rawDescription": "Mother and son die in house fire in Sanbornton, N.H., officials say. The victims were identified as Sanbornton residents Gloria Beck, 86, and Edwin Beck, 66. 2:23 p.m. <div class=\"section_feed_image_container | col float_right padding_left_16 width_100px--mobile",
+    "contentSnippet": "Mother and son die in house fire in Sanbornton, N.H., officials say. The victims were identified as Sanbornton residents Gloria Beck, 86, and Edwin Beck, 66. 2:23 p.m. <div class=\"section_feed_image_container | col float_right padding_left_16 width_100px--mobile",
+    "summaryZh": "基于标题/摘要生成：Mother and son die in 众议院 fire in Sanbornton，N.H.，officials say. The victims were identified as Sanbornton residents Gloria Beck，86，and Edwin Beck，66…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "PublicPageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/metro/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9gjd4w",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Justice Department Gives Up on Alaska Senate Lawsuit",
+    "chineseTitle": "Justice Department Gives Up on Alaska 参议院 Lawsuit",
+    "originalUrl": "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html",
+    "publishedAt": "2026-11-20T03:47:05.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.512Z",
+    "rawDescription": "The Trump administration had sought to block certification of election results if Senator Dan Sullivan, a Republican, lost narrowly in his bid for re-election. Critics had called the suit meritless.",
+    "contentSnippet": "The Trump administration had sought to block certification of election results if Senator Dan Sullivan, a Republican, lost narrowly in his bid for re-election. Critics had called the suit meritless.",
+    "summaryZh": "基于标题/摘要生成：The Trump administration had sought to block certification of 选举 results if Senator Dan Sullivan，a Republican，lost narrowly in his bid for re-选举. Cri…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "杰克·沙利文"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Justice Department Gives Up on Alaska Senate Lawsuit Bayliss Wagner The Trump administration had sought to block certification of election results if Senator Dan Sulli"
+      },
+      {
+        "personId": "jake-sullivan",
+        "nameEn": "Jake Sullivan",
+        "nameZh": "杰克·沙利文",
+        "team": "民主党重点人物",
+        "matchedAlias": "Sullivan",
+        "confidence": "low",
+        "contextSnippet": "Trump administration had sought to block certification of election results if Senator Dan Sullivan, a Republican, lost narrowly in his bid for re-election. Critics had called the suit meri"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Justice Department Gives Up on Alaska Senate Lawsuit Bayliss Wagner The Trump administration had sought to block certification of election results if Senator Dan Sulli"
+      },
+      {
+        "entityId": "jake-sullivan",
+        "name": "Jake Sullivan",
+        "type": "person",
+        "matchedAlias": "Sullivan",
+        "confidence": "medium",
+        "contextSnippet": "Trump administration had sought to block certification of election results if Senator Dan Sullivan, a Republican, lost narrowly in his bid for re-election. Critics had called the suit meri"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "Justice Department Gives Up on Alaska Senate Lawsuit Bayliss Wagner The Trump administration had sought to block certification of election results if Senator Dan Sullivan, a Republic"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Justice Department Gives Up on Alaska Senate Lawsuit Bayliss Wagner The Trump administration had sought to block certification of elec"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Jake Sullivan",
+      "Trump team",
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_iw4g11",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Top White House Cybersecurity Official Is Replaced",
+    "chineseTitle": "Top White 众议院 Cybersecurity Official Is Replaced",
+    "originalUrl": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
+    "publishedAt": "2026-11-20T03:31:41.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.513Z",
+    "rawDescription": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.",
+    "contentSnippet": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.",
+    "summaryZh": "基于标题/摘要生成：The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "Top White House Cybersecurity Official Is Replaced Chris Cameron and Dustin Volz The departure of Sean Ca"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "White House",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_1gsb97",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Senate Republicans break through Washington gridlock with massive American energy, data center overhaul",
+    "chineseTitle": "参议院 共和党人 break through Washington gridlock with massive A…",
+    "originalUrl": "https://www.foxnews.com/politics/senate-republicans-break-through-washington-gridlock-massive-american-energy-data-center-overhaul",
+    "publishedAt": "2026-11-20T03:19:33.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.481Z",
+    "rawDescription": "Senate Republicans advanced a sweeping permitting bill to speed environmental review, expand the electric grid and limit legal challenges on projects.",
+    "contentSnippet": "Senate Republicans advanced a sweeping permitting bill to speed environmental review, expand the electric grid and limit legal challenges on projects.",
+    "summaryZh": "基于标题/摘要生成：参议院 共和党人 advanced a sweeping permitting 法案 to speed environmental review，expand the electric grid and limit legal challenges on projects",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Senate Republicans break through Washington gridlock with massive American energy, data center overhaul Sena"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senate Republicans break through Washington gridlock with massive American energy, data center o"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Republican Party",
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_13vu8w",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Senate passes Trump-backed permitting bill",
+    "chineseTitle": "参议院 passes Trump-backed permitting 法案",
+    "originalUrl": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill",
+    "publishedAt": "2026-11-20T03:08:28.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.312Z",
+    "rawDescription": "The Senate passed a sweeping, bipartisan bill Thursday night that's designed to cut permitting timelines for energy and infrastructure projects. Why it matters: The eyes of the entire energy industry are on this bill. If it becomes law, it could transform how America builds energy infrastructure, with major implications for everything from electricity costs to data centers. Getting rid of bureaucratic hurdles and creating a more predictable process for energy projects is a top priority for the fossil fuels and renewables sectors. But critics argue the plan, which has White House support, would unacceptably weaken environmental protections and the rights of Native American tribes. Driving the news: The vote was 62-33. The bill would still have to pass the House before the end of the year,…",
+    "contentSnippet": "The Senate passed a sweeping, bipartisan bill Thursday night that's designed to cut permitting timelines for energy and infrastructure projects. Why it matters: The eyes of the entire energy industry are on this bill. If it becomes law, it could transform how America builds energy infrastructure, with major implications for everything from electricity costs to data centers. Getting rid of bureaucratic hurdles and creating a more predictable process for energy projects is a top priority for the fossil fuels and renewables sectors. But critics argue the plan, which has White House support, would unacceptably weaken environmental protections and the rights of Native American tribes. Driving the news: The vote was 62-33. The bill would still have to pass the House before the end of the year,…",
+    "summaryZh": "基于标题/摘要生成：The 参议院 passed a sweeping，bipartisan 法案 Thursday night that's designed to cut permitting timelines for energy and infrastructure projects. Why it mat…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Senate passes Trump-backed permitting bill Ben Geman The Senate passed a sweeping, bipartisan bill Thursday n"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Senate passes Trump-backed permitting bill Ben Geman The Senate passed a sweeping, bipartisan bill Thursday n"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "iority for the fossil fuels and renewables sectors. But critics argue the plan, which has White House support, would unacceptably weaken environmental protections and the rights of Native Ame"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Senate passes Trump-backed permitting bill Ben Geman The Senate passed a sweeping, bipartisan bi"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5re2uw",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "White House replaces top cybersecurity official after string of outages",
+    "chineseTitle": "White 众议院 replaces top cybersecurity official after strin…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/11/19/white-house-replaces-top-cybersecurity-official/",
+    "publishedAt": "2026-11-20T02:42:03.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.661Z",
+    "rawDescription": "The departure of Sean Cairncross continues the ouster of aides associated with former chief of staff Susie Wiles.",
+    "contentSnippet": "The departure of Sean Cairncross continues the ouster of aides associated with former chief of staff Susie Wiles.",
+    "summaryZh": "基于标题/摘要生成：The departure of Sean Cairncross continues the ouster of aides associated with former chief of staff Susie Wiles",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "苏茜·怀尔斯"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "re of Sean Cairncross continues the ouster of aides associated with former chief of staff Susie Wiles. The departure of Sean Cairncross continues the ouster of aides associated with former ch"
+      },
+      {
+        "personId": "susie-wiles",
+        "nameEn": "Susie Wiles",
+        "nameZh": "苏茜·怀尔斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Wiles",
+        "confidence": "low",
+        "contextSnippet": "Sean Cairncross continues the ouster of aides associated with former chief of staff Susie Wiles. The departure of Sean Cairncross continues the ouster of aides associated with former ch"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "susie-wiles",
+        "name": "Susie Wiles",
+        "type": "person",
+        "matchedAlias": "Susie Wiles",
+        "confidence": "high",
+        "contextSnippet": "re of Sean Cairncross continues the ouster of aides associated with former chief of staff Susie Wiles. The departure of Sean Cairncross continues the ouster of aides associated with former ch"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "White House replaces top cybersecurity official after string of outages Isaac Arnsdorf, Nancy Cook Th"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Susie Wiles",
+      "White House",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_50dtao",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump’s National Cyber Director Sean Cairncross fired amid widespread tech outages",
+    "chineseTitle": "Trump’s National Cyber Director Sean Cairncross fired ami…",
+    "originalUrl": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired",
+    "publishedAt": "2026-11-20T02:00:36.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.482Z",
+    "rawDescription": "President Donald Trump backed the firing of National Cyber Director Sean Cairncross over cybersecurity credentials, with Kirsten A. Davies stepping in.",
+    "contentSnippet": "President Donald Trump backed the firing of National Cyber Director Sean Cairncross over cybersecurity credentials, with Kirsten A. Davies stepping in.",
+    "summaryZh": "基于标题/摘要生成：President 特朗普 backed the firing of National Cyber Director Sean Cairncross over cybersecurity credentials，with Kirsten A. Davies stepping in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "mp’s National Cyber Director Sean Cairncross fired amid widespread tech outages President Donald Trump backed the firing of National Cyber Director Sean Cairncross over cybersecurity credenti"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump’s National Cyber Director Sean Cairncross fired amid widespread tech outages President D"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "mp's National Cyber Director Sean Cairncross fired amid widespread tech outages President Donald Trump backed the firing of National Cyber Director Sean Cairncross over cybersecurity credentia"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's National Cyber Director Sean Cairncross fired amid widespread tech outages 公开 sitemap 条"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ucnzsb",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
+    "chineseTitle": "Trump tells skeptical Europeans：\"Putin wants to end the w…",
+    "originalUrl": "https://www.axios.com/2026/11/20/trump-pushes-putin-ukraine-war-deal",
+    "publishedAt": "2026-11-20T01:30:59.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.315Z",
+    "rawDescription": "On his way back from China Thursday aboard Air Force One, President Trump called in to a meeting his envoys Steve Witkoff and Jared Kushner were holding in Berlin with a group of European leaders and Ukrainian President Volodymyr Zelensky. \"Putin wants to end the war, he wants the deal done, he is getting tired of this,\" Trump said, according to people in the room. Why it matters: Instead of turning his historic trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin into a modern-day Yalta Conference, as some European and Ukrainian officials feared , Trump tried to use it to propel his push for peace in Europe. Driving the news: Trump met Putin Thursday on the sidelines of the summit in Shenzhen. Their meeting wasn't originally on the schedule, but Trump…",
+    "contentSnippet": "On his way back from China Thursday aboard Air Force One, President Trump called in to a meeting his envoys Steve Witkoff and Jared Kushner were holding in Berlin with a group of European leaders and Ukrainian President Volodymyr Zelensky. \"Putin wants to end the war, he wants the deal done, he is getting tired of this,\" Trump said, according to people in the room. Why it matters: Instead of turning his historic trilateral summit with Chinese President Xi Jinping and Russian President Vladimir Putin into a modern-day Yalta Conference, as some European and Ukrainian officials feared , Trump tried to use it to propel his push for peace in Europe. Driving the news: Trump met Putin Thursday on the sidelines of the summit in Shenzhen. Their meeting wasn't originally on the schedule, but Trump…",
+    "summaryZh": "基于标题/摘要生成：On his way back from 中国 Thursday aboard Air Force One，President Trump called in to a meeting his envoys Steve Witkoff and Jared Kushner were holding…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump tells skeptical Europeans: \"Putin wants to end the war\" Barak Ravid On his way back from"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump tells skeptical Europeans: \"Putin wants to end the war\" Barak Ravid On his way back from"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_s02usd",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Justice Dept. drops appeal in bid to delay certification of Alaska Senate win",
+    "chineseTitle": "Justice Dept. drops appeal in bid to delay certification…",
+    "originalUrl": "https://www.washingtonpost.com/national-security/2026/11/19/justice-dept-drops-appeal-bid-delay-certification-alaska-senate-win/",
+    "publishedAt": "2026-11-20T01:30:54.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.662Z",
+    "rawDescription": "The DOJ said that since ballots had been counted, it was impossible to carry out the type of investigation it had sought.",
+    "contentSnippet": "The DOJ said that since ballots had been counted, it was impossible to carry out the type of investigation it had sought.",
+    "summaryZh": "基于标题/摘要生成：The DOJ said that since ballots had been counted，it was impossible to carry out the type of investigation it had sought",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Justice Dept. drops appeal in bid to delay certification of Alaska Senate win Jeremy Roebuck The DOJ said that since ballots had been counted, it was impossible to"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xjdram",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Rob Sand shuts down any talk of 2028",
+    "chineseTitle": "Rob Sand shuts down any talk of 2028",
+    "originalUrl": "https://www.politico.com/news/2026/11/19/rob-sand-iowa-2028-01177322",
+    "publishedAt": "2026-11-19T23:54:25.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.431Z",
+    "rawDescription": "The incoming Iowa governor said he's unlikely to ever consider running for president.",
+    "contentSnippet": "The incoming Iowa governor said he's unlikely to ever consider running for president.",
+    "summaryZh": "基于标题/摘要生成：The incoming Iowa governor said he's unlikely to ever consider running for president",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_m4vvhz",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Limits of Positive Thinking",
+    "chineseTitle": "The Limits of Positive Thinking",
+    "originalUrl": "https://www.theatlantic.com/politics/2026/11/trump-ai-tech-outages/689512/",
+    "publishedAt": "2026-11-19T23:34:34.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.560Z",
+    "rawDescription": "Trump is acting like there’s no problem. Persistent outages tell a different story.",
+    "contentSnippet": "Trump is acting like there’s no problem. Persistent outages tell a different story.",
+    "summaryZh": "基于标题/摘要生成：Trump is acting like there’s no problem. Persistent outages tell a different story",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The Limits of Positive Thinking Trump is acting like there’s no problem. Persistent outages tell a different story. Trump is a"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The Limits of Positive Thinking Trump is acting like there's no problem. Persistent outages tell a different story. Trump is ac"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_kxxks2",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Keisha Lance Bottoms says Democrats better spend big on the South",
+    "chineseTitle": "Keisha Lance Bottoms says 民主党人 better spend big on the So…",
+    "originalUrl": "https://www.politico.com/news/2026/11/19/keisha-lance-bottoms-democrats-campaigns-south-01177147",
+    "publishedAt": "2026-11-19T23:11:12.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.433Z",
+    "rawDescription": "Georgia's new governor says Democrats shouldn't have to ‘beg and borrow’ to get resources for campaigns in the South.",
+    "contentSnippet": "Georgia's new governor says Democrats shouldn't have to ‘beg and borrow’ to get resources for campaigns in the South.",
+    "summaryZh": "基于标题/摘要生成：Georgia's new governor says 民主党人 shouldn't have to ‘beg and borrow’ to get resources for campaigns in the South",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Keisha Lance Bottoms says Democrats better spend big on the South By Erin Doherty Georgia's new governor says Democrats shoul"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2h7vtf",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump, Xi, Putin Hold Historic Trilateral Talks",
+    "chineseTitle": "Trump，Xi，Putin Hold Historic Trilateral Talks",
+    "originalUrl": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
+    "publishedAt": "2026-11-19T21:28:32.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.542Z",
+    "rawDescription": "Initially framed as a peacemaking opportunity, the summit resulted in few tangible wins.",
+    "contentSnippet": "Initially framed as a peacemaking opportunity, the summit resulted in few tangible wins.",
+    "summaryZh": "基于标题/摘要生成：Initially framed as a peacemaking opportunity，the summit resulted in few tangible wins",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump, Xi, Putin Hold Historic Trilateral Talks Alexandra Sharp Initially framed as a peacemaki"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump, Xi, Putin Hold Historic Trilateral Talks Alexandra Sharp Initially framed as a peacemaki"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fp0d6w",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Hunter Biden slams Trump for &#039;great betrayal&#039; after calling Putin &#039;friend&#039;",
+    "chineseTitle": "Hunter Biden slams Trump for &#039;great betrayal&#039; a…",
+    "originalUrl": "https://thehill.com/policy/international/6231503-hunter-biden-criticizes-trump-putin/",
+    "publishedAt": "2026-11-19T20:59:45.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.379Z",
+    "rawDescription": "Hunter Biden, the son of former President Biden, went after President Trump over referring to Russian President Vladimir Putin as a “friend.” “The Great Betrayal. Of the allies who trusted us. Of the soldiers who served. Of every American who believed the office was larger than the man,” Hunter Biden said in a post Thursday...",
+    "contentSnippet": "Hunter Biden, the son of former President Biden, went after President Trump over referring to Russian President Vladimir Putin as a “friend.” “The Great Betrayal. Of the allies who trusted us. Of the soldiers who served. Of every American who believed the office was larger than the man,” Hunter Biden said in a post Thursday...",
+    "summaryZh": "基于标题/摘要生成：Hunter Biden，the son of former President Biden，went after President Trump over referring to Russian President Vladimir Putin as a “friend.” “The Grea…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Hunter Biden slams Trump for &#039;great betrayal&#039; after calling Putin &#039;friend&#039; Tara Suter Hunter B"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "President Biden",
+        "confidence": "high",
+        "contextSnippet": "l&#039; after calling Putin &#039;friend&#039; Tara Suter Hunter Biden, the son of former President Biden, went after President Trump over referring to Russian President Vladimir Putin as a “frie"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Hunter Biden slams Trump for &#039;great betrayal&#039; after calling Putin &#039;friend&#039; Tara Su"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Hunter Biden slams Trump for &#039;great betrayal&#039; after calling Putin &#039;friend&#039; Tara Suter Hunter B"
+      },
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "President Biden",
+        "confidence": "high",
+        "contextSnippet": "l&#039; after calling Putin &#039;friend&#039; Tara Suter Hunter Biden, the son of former President Biden, went after President Trump over referring to Russian President Vladimir Putin as a \"frie"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Joe Biden",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_pbroec",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Hillary Clinton: Xi, Putin play Trump &#039;like a child&#039;s guitar&#039;",
+    "chineseTitle": "Hillary Clinton：Xi，Putin play Trump &#039;like a child&#0…",
+    "originalUrl": "https://thehill.com/policy/international/6231312-clinton-trump-xi-putin/",
+    "publishedAt": "2026-11-19T19:57:32.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.380Z",
+    "rawDescription": "Former Secretary of State Hillary Clinton said Chinese President Xi Jinping and Russian President Vladimir Putin play President Trump “like a child’s guitar.” “All [Trump] cares about, the best I can tell, is looking like he belongs in the company of Xi Jinping and Vladimir Putin, both of whom he’s going to meet with, together,”...",
+    "contentSnippet": "Former Secretary of State Hillary Clinton said Chinese President Xi Jinping and Russian President Vladimir Putin play President Trump “like a child’s guitar.” “All [Trump] cares about, the best I can tell, is looking like he belongs in the company of Xi Jinping and Vladimir Putin, both of whom he’s going to meet with, together,”...",
+    "summaryZh": "基于标题/摘要生成：Former Secretary of State Hillary Clinton said 中国 President Xi Jinping and Russian President Vladimir Putin play President Trump “like a child’s guit…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Hillary Clinton: Xi, Putin play Trump &#039;like a child&#039;s guitar&#039; Tara Suter Former Secretary of State Hillary Clint"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Hillary Clinton: Xi, Putin play Trump &#039;like a child&#039;s guitar&#039; Tara Suter Former Secretary of State Hillary Clint"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_fdzpn",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Shenzhen Was No Yalta Conference",
+    "chineseTitle": "Shenzhen Was No Yalta Conference",
+    "originalUrl": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/",
+    "publishedAt": "2026-11-19T19:41:00.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.543Z",
+    "rawDescription": "For all the talk of a new world order, the Trump-Xi-Putin meeting produced little of substance.",
+    "contentSnippet": "For all the talk of a new world order, the Trump-Xi-Putin meeting produced little of substance.",
+    "summaryZh": "基于标题/摘要生成：For all the talk of a new world order，the Trump-Xi-Putin meeting produced little of substance",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Shenzhen Was No Yalta Conference James Palmer For all the talk of a new world order, the Trump-Xi-Putin meeting produced little of substance. For all the talk of a new world order, the"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Shenzhen Was No Yalta Conference James Palmer For all the talk of a new world order, the Trump-Xi-Putin meeting produced little of substance. For all the talk of a new world order, the"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xqkcsf",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Xi Jinping’s Grandiose Timidity",
+    "chineseTitle": "Xi Jinping’s Grandiose Timidity",
+    "originalUrl": "https://www.theatlantic.com/national-security/2026/11/us-china-russia-apec-summit/689502/",
+    "publishedAt": "2026-11-19T18:04:22.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.563Z",
+    "rawDescription": "When the world’s biggest nuclear powers gathered this week in China, the host kept the wars in Europe and the Middle East off the agenda.",
+    "contentSnippet": "When the world’s biggest nuclear powers gathered this week in China, the host kept the wars in Europe and the Middle East off the agenda.",
+    "summaryZh": "基于标题/摘要生成：When the world’s biggest nuclear powers gathered this week in 中国，the host kept the wars in Europe and the Middle East off the agenda",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_nmek2g",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside",
+    "chineseTitle": "Heading back to Washington，D.C.，from 中国. It was a Great a…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBId0w3bVpFaW15UWRHN0xHQ0R3YmRqVkRUNHB6RkVncHRzQXBxb1RQX0hrbTFYQmZoTzFzdE5nUnlySmxaWTU3QW9XUm8tU2FPNVFycnd1bE9Eb2VBU2NFd29sV0lwaG1NSENPdWJuYkY5eVU?oc=5",
+    "publishedAt": "2026-11-19T17:16:44.000Z",
+    "fetchedAt": "2026-11-20T03:54:41.810Z",
+    "rawDescription": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside Truth Social",
+    "contentSnippet": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside Truth Social",
+    "summaryZh": "基于标题/摘要生成：Heading back to Washington，D.C.，from 中国. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M.，白宫. Als…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "china_tech_policy",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "o, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside Truth Social Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Tri"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "nd Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Pre"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Truth Social",
+      "White House"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_lr84ua",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Avoiding Colombia’s Escalation Trap",
+    "chineseTitle": "Avoiding Colombia’s Escalation Trap",
+    "originalUrl": "https://www.foreignaffairs.com/colombia/avoiding-colombias-escalation-trap",
+    "publishedAt": "2026-11-19T09:00:00.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.363Z",
+    "rawDescription": "Why a U.S.-backed offensive against armed groups could backfire.",
+    "contentSnippet": "Why a U.S.-backed offensive against armed groups could backfire.",
+    "summaryZh": "基于标题/摘要生成：Why a U.S.-backed offensive against armed groups could backfire",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6qwof0",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a tru",
+    "chineseTitle": "I am now heading to 中国，from the Philippines，where we had…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9saTQyS1J2NFJVb1duU0psWlVOaUE5bENoZW8wQ3pPRk5oMUt2UE5fdktUb2FDTXZ4UHFrelh2bTR5RThmS0lFaEJBZXJVNnZOT2piakh3b2tIUHJvbDdGb2x1Sm11b255WFRHR1ZBMGRITE0?oc=5",
+    "publishedAt": "2026-11-18T09:23:09.000Z",
+    "fetchedAt": "2026-11-20T03:54:41.808Z",
+    "rawDescription": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a tru Truth Social",
+    "contentSnippet": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a tru Truth Social",
+    "summaryZh": "基于标题/摘要生成：I am now heading to 中国，from the Philippines，where we had a wonderful meeting on 贸易，国家安全，and other subjects. I am pleased to announce that we made a n…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "trade_tariffs",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "de a new and completely different Trade Deal with the Philippines, one that will be a tru Truth Social I am now heading to China, from the Philippines, where we had a wonderful meeting on Trad"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_fvc04c",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "America’s Hidden AI Advantage",
+    "chineseTitle": "America’s Hidden AI Advantage",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/americas-hidden-ai-advantage",
+    "publishedAt": "2026-11-18T09:00:00.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.366Z",
+    "rawDescription": "The United States—not China—dominates diffusion.",
+    "contentSnippet": "The United States—not China—dominates diffusion.",
+    "summaryZh": "基于标题/摘要生成：The United States—not 中国—dominates diffusion",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T03:54:24.390Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.635Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.636Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T03:54:24.389Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_qjuliu",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "AFPI Trip to Taiwan & Japan – AFPI",
+    "chineseTitle": "AFPI Trip to 台湾 & Japan – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBub0hXa09EYmxrT3ZJeFJuaE9oMXlYejh0MjBOZEI5TmhkaWlBVG9obFBubjNCd1ZDdktEX2hKQ0cyMGI5dHZTd1BTOXdtc1NPN1FWb3JfYnpDLS1BZzZ2cW9OMlFaaHZFMDNrUGJyS3RQdWtwYklz?oc=5",
+    "publishedAt": "2024-06-25T07:00:00.000Z",
+    "fetchedAt": "2026-11-20T03:54:41.301Z",
+    "rawDescription": "AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com",
+    "contentSnippet": "AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：AFPI Trip to 台湾 & Japan – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "AFPI Trip to Taiwan & Japan – AFPI AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.502Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-20T03:54:20.500Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cd2lm8",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI",
+    "chineseTitle": "America First 中国 政策 Principles in Practice – Center Overv…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVE1XcU85dTdibkp6RGdjRjhaMUh0Z0lKOEJRWDdGZm9oaDdvY0FEU2dLcjNUV09vWk1yT2lDV1piZnd2QllBM1l3c3pnbXhlLUVSVi1WWU5fY3FmRlBTcVBsaFM0QVJ1YTMwM2FRNjVNNkM1Tl9WMGk3cHVJa3BpbGxUNmJHaUVCZnZVZy15eHdZeDZPM2hlR29XUUtMY194RTlXWW55Zmp2aFpHWHdiS2NYM1Y3VjZoSUdWczlCQS1XZVBKWGc?oc=5",
+    "publishedAt": "2022-12-07T08:00:00.000Z",
+    "fetchedAt": "2026-11-20T03:54:41.302Z",
+    "rawDescription": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First 中国 政策 Principles in Practice – Center Overview – 中国 政策 Initiative – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "a First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First China Policy Principles in Practice – Center Overview – China Policy Initia"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First C"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  }
+]
