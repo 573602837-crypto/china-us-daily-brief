@@ -1,0 +1,1789 @@
+[
+  {
+    "id": "art_whwka9",
+    "sourceName": "Truth Social",
+    "sourceDomain": "klvi.iheart.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Trump Heads Back To D . C . After Summit With Putin , Xi",
+    "chineseTitle": "Trump Heads Back To D . C . After Summit With Putin，Xi",
+    "originalUrl": "https://klvi.iheart.com/content/2026-11-19-trump-heads-back-to-dc-after-summit-with-putin-xi/",
+    "publishedAt": "2026-11-21T03:54:33.202Z",
+    "fetchedAt": "2026-11-21T03:54:33.206Z",
+    "rawDescription": "",
+    "contentSnippet": "Trump Heads Back To D . C . After Summit With Putin , Xi",
+    "summaryZh": "基于标题/摘要生成：Trump Heads Back To D . C . After Summit With Putin，Xi",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Heads Back To D . C . After Summit With Putin , Xi Trump Heads Back To D . C . After Su"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Heads Back To D . C . After Summit With Putin , Xi Trump Heads Back To D . C . After Summ"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_exlc1h",
+    "sourceName": "Truth Social",
+    "sourceDomain": "wspd.iheart.com",
+    "providerName": "SourceCoverageProvider",
+    "originalTitle": "Trump Heads Back To D . C . After Summit With Putin , Xi | NewsRadio 1370 AM & 92 . 9 FM WSPD",
+    "chineseTitle": "Trump Heads Back To D . C . After Summit With Putin，Xi |…",
+    "originalUrl": "https://wspd.iheart.com/content/2026-11-19-trump-heads-back-to-dc-after-summit-with-putin-xi/",
+    "publishedAt": "2026-11-21T03:54:33.202Z",
+    "fetchedAt": "2026-11-21T03:54:33.207Z",
+    "rawDescription": "",
+    "contentSnippet": "Trump Heads Back To D . C . After Summit With Putin , Xi | NewsRadio 1370 AM & 92 . 9 FM WSPD",
+    "summaryZh": "基于标题/摘要生成：Trump Heads Back To D . C . After Summit With Putin，Xi | NewsRadio 1370 AM & 92 . 9 FM WSPD",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Heads Back To D . C . After Summit With Putin , Xi | NewsRadio 1370 AM & 92 . 9 FM WSPD"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Heads Back To D . C . After Summit With Putin , Xi | NewsRadio 1370 AM & 92 . 9 FM WSPD T"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "SourceCoverageProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "\"Truth Social\" (Trump OR China OR Taiwan OR tariffs OR trade OR national security)"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jxfm3q",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
+    "chineseTitle": "It’s a 法案 on Energy Permits，but Trump’s Pet Projects Are…",
+    "originalUrl": "https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html",
+    "publishedAt": "2026-11-21T03:41:06.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.284Z",
+    "rawDescription": "The pervasive presence of the president hovers over the bipartisan legislation to speed up construction of energy projects that are advancing through Congress.",
+    "contentSnippet": "The pervasive presence of the president hovers over the bipartisan legislation to speed up construction of energy projects that are advancing through Congress.",
+    "summaryZh": "基于标题/摘要生成：The pervasive presence of the president hovers over the bipartisan legislation to speed up construction of energy projects that are advancing through…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "congress_china",
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate Luke Broadwater The pervasive presence of the presi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "It's a Bill on Energy Permits, but Trump's Pet Projects Are Part of the Debate Luke Broadwater The pervasive presence of the presi"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "rtisan legislation to speed up construction of energy projects that are advancing through Congress. The pervasive presence of the president hovers over the bipartisan legislation to speed"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Congress",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6pdkip",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Tewksbury rolls past Danvers and into second straight Super Bowl, with eyes on bringing home the D4 title",
+    "chineseTitle": "Tewksbury rolls past Danvers and into second straight Sup…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/20/sports/danvers-tewksbury-miaa-football-semifinals/",
+    "publishedAt": "2026-11-21T03:40:40.887Z",
+    "fetchedAt": "2026-11-21T03:50:37.107Z",
+    "rawDescription": "公开 sitemap 条目：Tewksbury rolls past Danvers and into second straight Super Bowl, with eyes on bringing home the D4 title",
+    "contentSnippet": "公开 sitemap 条目：Tewksbury rolls past Danvers and into second straight Super Bowl, with eyes on bringing home the D4 title",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Tewksbury rolls past Danvers and into second straight Super Bowl，with eyes on bringing home the D4 title",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_laphi",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "With 2024 Super Bowl failure on its mind, Mansfield dethrones King Philip to reach D3 championship",
+    "chineseTitle": "With 2024 Super Bowl failure on its mind，Mansfield dethro…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/20/sports/mansfield-king-philip-miaa-football-semifinal/",
+    "publishedAt": "2026-11-21T03:26:34.358Z",
+    "fetchedAt": "2026-11-21T03:50:37.109Z",
+    "rawDescription": "公开 sitemap 条目：With 2024 Super Bowl failure on its mind, Mansfield dethrones King Philip to reach D3 championship",
+    "contentSnippet": "公开 sitemap 条目：With 2024 Super Bowl failure on its mind, Mansfield dethrones King Philip to reach D3 championship",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：With 2024 Super Bowl failure on its mind，Mansfield dethrones King Philip to reach D3 championship",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wi78cg",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Takeaways From Trump’s Post-Trip News Conference",
+    "chineseTitle": "Takeaways From Trump’s Post-Trip News Conference",
+    "originalUrl": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
+    "publishedAt": "2026-11-21T02:15:29.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.283Z",
+    "rawDescription": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues.",
+    "contentSnippet": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues.",
+    "summaryZh": "基于标题/摘要生成：President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in 中国 an “amazing event.” He also said he would work with 民主党人 in 美国…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Takeaways From Trump’s Post-Trip News Conference Erica L. Green President Trump called the trilateral meeting"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Takeaways From Trump's Post-Trip News Conference Erica L. Green President Trump called the trilateral meeting"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "i Jinping and Vladimir Putin in China an \"amazing event.\" He also said he would work with Democrats in Congress on key issues. President Trump called the trilateral meeting with Xi Jinping"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Vladimir Putin in China an \"amazing event.\" He also said he would work with Democrats in Congress on key issues. President Trump called the trilateral meeting with Xi Jinping and Vladimir"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Democratic Party",
+      "Congress",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_oje27r",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Pentagon watchdog to audit deals with defense tech start-ups",
+    "chineseTitle": "五角大楼 watchdog to audit deals with defense tech start-ups",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/11/20/pentagon-watchdog-audit-deals-with-defense-tech-start-ups/",
+    "publishedAt": "2026-11-21T00:37:39.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.397Z",
+    "rawDescription": "It comes after The Washington Post found defense companies tied to President Donald Trump’s sons earned large contracts.",
+    "contentSnippet": "It comes after The Washington Post found defense companies tied to President Donald Trump’s sons earned large contracts.",
+    "summaryZh": "基于标题/摘要生成：It comes after The Washington Post found defense companies tied to President 特朗普’s sons earned large contracts",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures",
+      "other_related"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "beth Dwoskin It comes after The Washington Post found defense companies tied to President Donald Trump’s sons earned large contracts. It comes after The Washington Post found defense companies"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "oskin It comes after The Washington Post found defense companies tied to President Donald Trump’s sons earned large contracts. It comes after The Washington Post found defense companies"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "beth Dwoskin It comes after The Washington Post found defense companies tied to President Donald Trump's sons earned large contracts. It comes after The Washington Post found defense companies"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ijn6ms",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Fiona the hippo honored by US Senate in unanimous resolution praising Cincinnati Zoo staff",
+    "chineseTitle": "Fiona the hippo honored",
+    "originalUrl": "https://www.foxnews.com/politics/fiona-hippo-honored-us-senate-unanimous-resolution-praising-cincinnati-zoo-staff",
+    "publishedAt": "2026-11-20T23:16:06.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.258Z",
+    "rawDescription": "Fiona the hippo received a formal Senate tribute from Sen. Bernie Moreno one day after the Cincinnati Zoo Nile hippopotamus died after a medical emergency.",
+    "contentSnippet": "Fiona the hippo received a formal Senate tribute from Sen. Bernie Moreno one day after the Cincinnati Zoo Nile hippopotamus died after a medical emergency.",
+    "summaryZh": "基于标题/摘要生成：Fiona the hippo received a formal 参议院 tribute from Sen. Bernie Moreno one day after the Cincinnati Zoo Nile hippopotamus died after a medical emergen…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Fiona the hippo honored by US Senate in unanimous resolution praising Cincinnati Zoo staff Fiona the hippo received a formal S"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_77z0xi",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "In secret memo, Hegseth restricts U.S.-Canada defense relationship",
+    "chineseTitle": "In secret memo，Hegseth restricts U.S.-Canada defense rela…",
+    "originalUrl": "https://www.washingtonpost.com/national-security/2026/11/20/secret-hegseth-memo-restricts-us-canada-defense-relationship/",
+    "publishedAt": "2026-11-20T22:57:39.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.398Z",
+    "rawDescription": "The classified directive is another provocation in the Trump administration’s feud with Ottawa. One U.S. official said it’s sure to be seen as a “slap in the face.”",
+    "contentSnippet": "The classified directive is another provocation in the Trump administration’s feud with Ottawa. One U.S. official said it’s sure to be seen as a “slap in the face.”",
+    "summaryZh": "基于标题/摘要生成：The classified directive is another provocation in the Trump administration’s feud with Ottawa. One U.S. official said it’s sure to be seen as a “sla…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "皮特·赫格塞思"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "a defense relationship Dan Lamothe The classified directive is another provocation in the Trump administration’s feud with Ottawa. One U.S. official said it’s sure to be seen as a “slap"
+      },
+      {
+        "personId": "pete-hegseth",
+        "nameEn": "Pete Hegseth",
+        "nameZh": "皮特·赫格塞思",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Hegseth",
+        "confidence": "low",
+        "contextSnippet": "In secret memo, Hegseth restricts U.S.-Canada defense relationship Dan Lamothe The classified directive is anothe"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "a defense relationship Dan Lamothe The classified directive is another provocation in the Trump administration's feud with Ottawa. One U.S. official said it's sure to be seen as a \"slap"
+      },
+      {
+        "entityId": "pete-hegseth",
+        "name": "Pete Hegseth",
+        "type": "person",
+        "matchedAlias": "Hegseth",
+        "confidence": "medium",
+        "contextSnippet": "In secret memo, Hegseth restricts U.S.-Canada defense relationship Dan Lamothe The classified directive is anothe"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "a defense relationship Dan Lamothe The classified directive is another provocation in the Trump administration's feud with Ottawa. One U.S. official said it's sure to be seen as a \"slap in the face.\""
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Pete Hegseth",
+      "Trump team",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_y1n94w",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Exclusive: Shaheen, Coons call for ‘swift’ response to Russian incursions into allied airspace",
+    "chineseTitle": "Exclusive：Shaheen，Coons call for ‘swift’ response to Russ…",
+    "originalUrl": "https://thehill.com/homenews/senate/6234605-shaheen-coons-condemn-russia-airspace-incursions/",
+    "publishedAt": "2026-11-20T22:37:39.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.171Z",
+    "rawDescription": "Democratic Sens. Jeanne Shaheen (N.H.) and Chris Coons (Del.) condemned Russia for its recent reported incursions into the airspace of American allies, saying in a statement shared with The Hill on Friday the U.S. should respond immediately. “This dangerous pattern of hybrid attacks that [Russian President Vladimir] Putin has unleashed on our partners, particularly NATO...",
+    "contentSnippet": "Democratic Sens. Jeanne Shaheen (N.H.) and Chris Coons (Del.) condemned Russia for its recent reported incursions into the airspace of American allies, saying in a statement shared with The Hill on Friday the U.S. should respond immediately. “This dangerous pattern of hybrid attacks that [Russian President Vladimir] Putin has unleashed on our partners, particularly NATO...",
+    "summaryZh": "基于标题/摘要生成：Democratic Sens. Jeanne Shaheen (N.H.) and Chris Coons (Del.) condemned Russia for its recent reported incursions into the airspace of American allie…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-senate https://thehill.com/homenews/senate/feed/",
+      "the-hill https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6wkakk",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump vs. America",
+    "chineseTitle": "Trump vs. America",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/11/trump-putin-ukraine-collins/689537/",
+    "publishedAt": "2026-11-20T21:36:56.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.317Z",
+    "rawDescription": "The president finally admitted that his interests do not always align with the nation’s.",
+    "contentSnippet": "The president finally admitted that his interests do not always align with the nation’s.",
+    "summaryZh": "基于标题/摘要生成：The president finally admitted that his interests do not always align with the nation’s",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump vs. America Jonathan Chait The president finally admitted that his interests do not alway"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump vs. America Jonathan Chait The president finally admitted that his interests do not alway"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yvj6da",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Second judge to block Trump's contested D.C. arch",
+    "chineseTitle": "Second judge to block Trump's contested D.C. arch",
+    "originalUrl": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+    "publishedAt": "2026-11-20T21:32:29.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.116Z",
+    "rawDescription": "A second federal judge will block construction on President Trump 's embattled arch set to be erected near Arlington National Cemetery , multiple outlets reported Friday. Why it matters: It represents yet another barrier to the multi-year project to build a 250-foot arch that challengers said would obstruct the line of sight between the Lincoln Memorial and Arlington National Cemetery. Driving the news: U.S. District Judge Leonie Brinkema said she will issue preliminary injunction that will indefinitely block the project, which she reportedly called a \"rushed job\" from the bench Friday. Zoom out: Brinkema's rebuke comes after D.C.-based District Judge Tanya Chutkan on Wednesday extended her separate order blocking construction on the arch for two weeks. Chutkan, who is overseeing consolid…",
+    "contentSnippet": "A second federal judge will block construction on President Trump 's embattled arch set to be erected near Arlington National Cemetery , multiple outlets reported Friday. Why it matters: It represents yet another barrier to the multi-year project to build a 250-foot arch that challengers said would obstruct the line of sight between the Lincoln Memorial and Arlington National Cemetery. Driving the news: U.S. District Judge Leonie Brinkema said she will issue preliminary injunction that will indefinitely block the project, which she reportedly called a \"rushed job\" from the bench Friday. Zoom out: Brinkema's rebuke comes after D.C.-based District Judge Tanya Chutkan on Wednesday extended her separate order blocking construction on the arch for two weeks. Chutkan, who is overseeing consolid…",
+    "summaryZh": "基于标题/摘要生成：A second federal judge will block construction on President Trump 's embattled arch set to be erected near Arlington National Cemetery，multiple outle…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Second judge to block Trump's contested D.C. arch Avery Lotz A second federal judge will block construction on Presid"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Second judge to block Trump's contested D.C. arch Avery Lotz A second federal judge will block construction on Presid"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9g9b9t",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by",
+    "chineseTitle": "Trump floats an unexpected name to be his successor as po…",
+    "originalUrl": "https://www.foxnews.com/politics/trump-floats-unexpected-name-successor-powerhouses-rubio-vance-stand",
+    "publishedAt": "2026-11-20T21:28:09.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.259Z",
+    "rawDescription": "Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on.",
+    "contentSnippet": "Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on.",
+    "summaryZh": "基于标题/摘要生成：特朗普 stunned 白宫 press briefing room by asking Stephen Miller if he wants to run for president，as JD Vance and Marco Rubio looked on",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures",
+      "us_domestic"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普",
+      "JD·万斯",
+      "马尔科·鲁比奥",
+      "斯蒂芬·米勒"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by Do"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "te House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on. Donald Trump stunned the White House press briefing room by a"
+      },
+      {
+        "personId": "jd-vance",
+        "nameEn": "JD Vance",
+        "nameZh": "JD·万斯",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Vance",
+        "confidence": "low",
+        "contextSnippet": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by Donald Trump stunned the White House press briefing room by asking Stephen Mill"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "s briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on. Donald Trump stunned the White House press briefing room by asking Stephen Mi"
+      },
+      {
+        "personId": "marco-rubio",
+        "nameEn": "Marco Rubio",
+        "nameZh": "马尔科·鲁比奥",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Rubio",
+        "confidence": "low",
+        "contextSnippet": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by Donald Trump stunned the White House press briefing room by asking St"
+      },
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "bio and Vance stand by Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on. Donald Trump st"
+      },
+      {
+        "personId": "stephen-miller",
+        "nameEn": "Stephen Miller",
+        "nameZh": "斯蒂芬·米勒",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Miller",
+        "confidence": "low",
+        "contextSnippet": "Vance stand by Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on. Donald Trump st"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "ump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run f"
+      },
+      {
+        "entityId": "jd-vance",
+        "name": "JD Vance",
+        "type": "person",
+        "matchedAlias": "JD Vance",
+        "confidence": "high",
+        "contextSnippet": "e House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on. Donald Trump stunned the White House press briefing room by as"
+      },
+      {
+        "entityId": "marco-rubio",
+        "name": "Marco Rubio",
+        "type": "person",
+        "matchedAlias": "Marco Rubio",
+        "confidence": "high",
+        "contextSnippet": "briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on. Donald Trump stunned the White House press briefing room by asking Stephen Mil"
+      },
+      {
+        "entityId": "stephen-miller",
+        "name": "Stephen Miller",
+        "type": "person",
+        "matchedAlias": "Stephen Miller",
+        "confidence": "high",
+        "contextSnippet": "bio and Vance stand by Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on. Donald Trump stu"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "name to be his successor as powerhouses Rubio and Vance stand by Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vanc"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "JD Vance",
+      "Marco Rubio",
+      "Stephen Miller",
+      "White House",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7c41yn",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Congress gets a historic overhaul from every direction",
+    "chineseTitle": "美国国会 gets a historic overhaul from every direction",
+    "originalUrl": "https://www.axios.com/2026/11/20/house-senate-freshmen-class-largest-decades",
+    "publishedAt": "2026-11-20T21:20:21.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.119Z",
+    "rawDescription": "Senate data includes members who served nonconsecutive terms; House data does not. Data: House historian, U.S. Senate ; Chart: Erin Davis/Axios Americans want change , and they're about to get it: A perfect storm of congressional retirements, primary upsets, gerrymandering, flipped seats and lawmakers who died in office has created the biggest freshman class in decades. Why it matters : Congress had a 14% approval rating (not a typo) when Gallup polled registered voters in October. That's its lowest pre-midterm number since 1974. The big picture: The Senate is on track for its biggest freshman class since 1946. In the House, it's shaping up to be the biggest since 1992. Zoom in: The turnover featured data points that would be stunning on their own, let alone together. 28 House lawmakers c…",
+    "contentSnippet": "Senate data includes members who served nonconsecutive terms; House data does not. Data: House historian, U.S. Senate ; Chart: Erin Davis/Axios Americans want change , and they're about to get it: A perfect storm of congressional retirements, primary upsets, gerrymandering, flipped seats and lawmakers who died in office has created the biggest freshman class in decades. Why it matters : Congress had a 14% approval rating (not a typo) when Gallup polled registered voters in October. That's its lowest pre-midterm number since 1974. The big picture: The Senate is on track for its biggest freshman class since 1946. In the House, it's shaping up to be the biggest since 1992. Zoom in: The turnover featured data points that would be stunning on their own, let alone together. 28 House lawmakers c…",
+    "summaryZh": "基于标题/摘要生成：参议院 data includes members who served nonconsecutive terms; 众议院 data does not. Data：众议院 historian，U.S. 参议院 ; Chart：Erin Davis，Axios Americans want cha…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Congress gets a historic overhaul from every direction Senate data includes members who served non"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "House Senate Freshmen Class Largest Decades 公开 sitemap 条目：House Senate Freshmen Class Largest Decades"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "Congress"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u1wrll",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Silicon Valley Is Scrambling Now",
+    "chineseTitle": "Silicon Valley Is Scrambling Now",
+    "originalUrl": "https://www.theatlantic.com/newsletters/2026/11/karp-musk-trump-midterms/689534/",
+    "publishedAt": "2026-11-20T21:00:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.318Z",
+    "rawDescription": "Companies’ attempts to prepare for a post-Trump moment are making them look foolish.",
+    "contentSnippet": "Companies’ attempts to prepare for a post-Trump moment are making them look foolish.",
+    "summaryZh": "基于标题/摘要生成：Companies’ attempts to prepare for a post-Trump moment are making them look foolish",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ilicon Valley Is Scrambling Now David A. Graham Companies’ attempts to prepare for a post-Trump moment are making them look foolish. Companies’ attempts to prepare for a post-Trump mome"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "ilicon Valley Is Scrambling Now David A. Graham Companies' attempts to prepare for a post-Trump moment are making them look foolish. Companies' attempts to prepare for a post-Trump mome"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5xp9hd",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Watchdog says AI smart glasses may violate your privacy",
+    "chineseTitle": "Watchdog says AI smart glasses may violate your privacy",
+    "originalUrl": "https://thehill.com/policy/technology/6231902-ai-smart-glasses-privacy-concerns-dutch-study/",
+    "publishedAt": "2026-11-20T20:45:43.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.172Z",
+    "rawDescription": "A Dutch privacy watchdog is warning consumers against buying AI-powered smart glasses.",
+    "contentSnippet": "A Dutch privacy watchdog is warning consumers against buying AI-powered smart glasses.",
+    "summaryZh": "基于标题/摘要生成：A Dutch privacy watchdog is warning consumers against buying AI-powered smart glasses",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-technology https://thehill.com/policy/technology/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_j2z5tm",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What in the World?",
+    "chineseTitle": "What in the World",
+    "originalUrl": "https://foreignpolicy.com/2026/11/20/foreign-policy-news-quiz-summits-pope-leo-ukraine-icj-trilateral-somalia/",
+    "publishedAt": "2026-11-20T19:05:46.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.310Z",
+    "rawDescription": "Test yourself on the week of Nov. 14: World leaders flock to Asia, Ukraine strikes a major Russian landmark, and Somalia expels an ambassador.",
+    "contentSnippet": "Test yourself on the week of Nov. 14: World leaders flock to Asia, Ukraine strikes a major Russian landmark, and Somalia expels an ambassador.",
+    "summaryZh": "基于标题/摘要生成：Test yourself on the week of Nov. 14：World leaders flock to Asia，Ukraine strikes a major Russian landmark，and Somalia expels an ambassador",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xqopd",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Other Summitry in Shenzhen",
+    "chineseTitle": "The Other Summitry in Shenzhen",
+    "originalUrl": "https://foreignpolicy.com/2026/11/20/apec-summit-chile-mexico-peru-china-xi/",
+    "publishedAt": "2026-11-20T13:00:10.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.313Z",
+    "rawDescription": "The leaders of Chile, Mexico, and Peru also made high-stakes visits to China this week.",
+    "contentSnippet": "The leaders of Chile, Mexico, and Peru also made high-stakes visits to China this week.",
+    "summaryZh": "基于标题/摘要生成：The leaders of Chile，Mexico，and Peru also made high-stakes visits to 中国 this week",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_634doc",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The nation’s cartoonists on the week in politics",
+    "chineseTitle": "The nation’s cartoonists on the week in politics",
+    "originalUrl": "https://www.politico.com/gallery/2026/11/20/the-nations-cartoonists-on-the-week-in-politics-01177665",
+    "publishedAt": "2026-11-20T10:00:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.215Z",
+    "rawDescription": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "contentSnippet": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "summaryZh": "基于标题/摘要生成：Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles，memes…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s82585",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Congress and the Coming Crises",
+    "chineseTitle": "美国国会 and the Coming Crises",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/congress-and-coming-crises",
+    "publishedAt": "2026-11-20T09:00:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.159Z",
+    "rawDescription": "How to defuse looming threats to U.S. national security.",
+    "contentSnippet": "How to defuse looming threats to U.S. national security.",
+    "summaryZh": "基于标题/摘要生成：How to defuse looming threats to U.S. 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Congress and the Coming Crises Ivo H. Daalder, James M. Lindsay How to defuse looming threats to U"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_61idd0",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "America’s Bad Bargain in Venezuela",
+    "chineseTitle": "America’s Bad Bargain in Venezuela",
+    "originalUrl": "https://www.foreignaffairs.com/venezuela/americas-bad-bargain-venezuela",
+    "publishedAt": "2026-11-20T09:00:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.159Z",
+    "rawDescription": "Washington’s dealmaking is strengthening the Chavista regime.",
+    "contentSnippet": "Washington’s dealmaking is strengthening the Chavista regime.",
+    "summaryZh": "基于标题/摘要生成：Washington’s dealmaking is strengthening the Chavista regime",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xjdram",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Rob Sand shuts down any talk of 2028",
+    "chineseTitle": "Rob Sand shuts down any talk of 2028",
+    "originalUrl": "https://www.politico.com/news/2026/11/19/rob-sand-iowa-2028-01177322",
+    "publishedAt": "2026-11-19T23:54:25.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.217Z",
+    "rawDescription": "The incoming Iowa governor said he's unlikely to ever consider running for president.",
+    "contentSnippet": "The incoming Iowa governor said he's unlikely to ever consider running for president.",
+    "summaryZh": "基于标题/摘要生成：The incoming Iowa governor said he's unlikely to ever consider running for president",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_6qwof0",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a tru",
+    "chineseTitle": "I am now heading to 中国，from the Philippines，where we had…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9saTQyS1J2NFJVb1duU0psWlVOaUE5bENoZW8wQ3pPRk5oMUt2UE5fdktUb2FDTXZ4UHFrelh2bTR5RThmS0lFaEJBZXJVNnZOT2piakh3b2tIUHJvbDdGb2x1Sm11b255WFRHR1ZBMGRITE0?oc=5",
+    "publishedAt": "2026-11-18T09:23:09.000Z",
+    "fetchedAt": "2026-11-21T03:50:52.472Z",
+    "rawDescription": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a tru Truth Social",
+    "contentSnippet": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a tru Truth Social",
+    "summaryZh": "基于标题/摘要生成：I am now heading to 中国，from the Philippines，where we had a wonderful meeting on 贸易，国家安全，and other subjects. I am pleased to announce that we made a n…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "trade_tariffs",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "de a new and completely different Trade Deal with the Philippines, one that will be a tru Truth Social I am now heading to China, from the Philippines, where we had a wonderful meeting on Trad"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_62d7oz",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Democrats are going around threatening a lot of people, including the Attorney General of the United States, and others, with Impeachment and many other forms of punishment, even though they admit they have no reason to do so, and there have been n",
+    "chineseTitle": "The 民主党人 are going around threatening a lot of people，inc…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWl8xaDdyTEJUZHFSTDJuLUpWMXJMNGFYQ3BMV0VPQXQ4TVpjOVVzSHRVOWtMV2stSEpjUnRVcVRqWTZ1T0VDay1QN1UzVTh4bmFFVFU3ZmNGZ2kxNnVMZ19JZFRmNzNma2Z2TlBKaUN4Vnc?oc=5",
+    "publishedAt": "2026-11-07T18:09:58.000Z",
+    "fetchedAt": "2026-11-21T03:50:52.473Z",
+    "rawDescription": "The Democrats are going around threatening a lot of people, including the Attorney General of the United States, and others, with Impeachment and many other forms of punishment, even though they admit they have no reason to do so, and there have been n Truth Social",
+    "contentSnippet": "The Democrats are going around threatening a lot of people, including the Attorney General of the United States, and others, with Impeachment and many other forms of punishment, even though they admit they have no reason to do so, and there have been n Truth Social",
+    "summaryZh": "基于标题/摘要生成：The 民主党人 are going around threatening a lot of people，including the Attorney General of the United States，and others，with Impeachment and many other…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "of punishment, even though they admit they have no reason to do so, and there have been n Truth Social The Democrats are going around threatening a lot of people, including the Attorney Genera"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "The Democrats are going around threatening a lot of people, including the Attorney General of the Unite"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social",
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Truth Social",
+      "Democratic Party"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:37.074Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.376Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.377Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:37.073Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_qjuliu",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "AFPI Trip to Taiwan & Japan – AFPI",
+    "chineseTitle": "AFPI Trip to 台湾 & Japan – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBub0hXa09EYmxrT3ZJeFJuaE9oMXlYejh0MjBOZEI5TmhkaWlBVG9obFBubjNCd1ZDdktEX2hKQ0cyMGI5dHZTd1BTOXdtc1NPN1FWb3JfYnpDLS1BZzZ2cW9OMlFaaHZFMDNrUGJyS3RQdWtwYklz?oc=5",
+    "publishedAt": "2024-06-25T07:00:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:52.071Z",
+    "rawDescription": "AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com",
+    "contentSnippet": "AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：AFPI Trip to 台湾 & Japan – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "taiwan"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "AFPI Trip to Taiwan & Japan – AFPI AFPI Trip to Taiwan & Japan – AFPI americafirstpolicy.com A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.274Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-21T03:50:34.273Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cd2lm8",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI",
+    "chineseTitle": "America First 中国 政策 Principles in Practice – Center Overv…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVE1XcU85dTdibkp6RGdjRjhaMUh0Z0lKOEJRWDdGZm9oaDdvY0FEU2dLcjNUV09vWk1yT2lDV1piZnd2QllBM1l3c3pnbXhlLUVSVi1WWU5fY3FmRlBTcVBsaFM0QVJ1YTMwM2FRNjVNNkM1Tl9WMGk3cHVJa3BpbGxUNmJHaUVCZnZVZy15eHdZeDZPM2hlR29XUUtMY194RTlXWW55Zmp2aFpHWHdiS2NYM1Y3VjZoSUdWczlCQS1XZVBKWGc?oc=5",
+    "publishedAt": "2022-12-07T08:00:00.000Z",
+    "fetchedAt": "2026-11-21T03:50:52.071Z",
+    "rawDescription": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First 中国 政策 Principles in Practice – Center Overview – 中国 政策 Initiative – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "a First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First China Policy Principles in Practice – Center Overview – China Policy Initia"
+      },
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "America First China Policy Principles in Practice – Center Overview – China Policy Initiative – AFPI America First C"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute",
+      "China policy"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  }
+]
