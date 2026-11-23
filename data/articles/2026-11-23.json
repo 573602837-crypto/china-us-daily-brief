@@ -1,0 +1,1615 @@
+[
+  {
+    "id": "art_s8socp",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Former president Biden arrives on Nantucket for family’s annual Thanksgiving gathering",
+    "chineseTitle": "Former president Biden arrives on Nantucket for family’s…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/22/metro/biden-family-arrives-on-nantucket-for-thanksgiving-airport-says/",
+    "publishedAt": "2026-11-23T03:29:10.163Z",
+    "fetchedAt": "2026-11-23T03:35:52.091Z",
+    "rawDescription": "公开 sitemap 条目：Former president Biden arrives on Nantucket for family’s annual Thanksgiving gathering",
+    "contentSnippet": "公开 sitemap 条目：Former president Biden arrives on Nantucket for family’s annual Thanksgiving gathering",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Former president Biden arrives on Nantucket for family’s annual Thanksgiving gathering",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "President Biden",
+        "confidence": "high",
+        "contextSnippet": "Former president Biden arrives on Nantucket for family’s annual Thanksgiving gathering 公开 sitemap 条目：Former pre"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Former president Biden arrives on Nantucket for family’s annual Thanksgiving gathering 公开 sitemap 条目：Former pre"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "President Biden",
+        "confidence": "high",
+        "contextSnippet": "Former president Biden arrives on Nantucket for family's annual Thanksgiving gathering 公开 sitemap 条目：Former pres"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_wd97z8",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Red Wings trade ex-captain Dylan Larkin to Canadiens in multiplayer and draft-pick deal",
+    "chineseTitle": "Red Wings 贸易 ex-captain Dylan Larkin to Canadiens in mult…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/22/sports/nhl-dylan-larkin-trade/",
+    "publishedAt": "2026-11-23T03:16:44.229Z",
+    "fetchedAt": "2026-11-23T03:35:52.092Z",
+    "rawDescription": "公开 sitemap 条目：Red Wings trade ex-captain Dylan Larkin to Canadiens in multiplayer and draft-pick deal",
+    "contentSnippet": "公开 sitemap 条目：Red Wings trade ex-captain Dylan Larkin to Canadiens in multiplayer and draft-pick deal",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Red Wings 贸易 ex-captain Dylan Larkin to Canadiens in multiplayer and draft-pick deal",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yx8toa",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump hosts crypto traders as demand for his meme coin fades",
+    "chineseTitle": "Trump hosts crypto traders as demand for his meme coin fa…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/11/22/trump-hosts-crypto-traders-demand-his-meme-coin-fades/",
+    "publishedAt": "2026-11-23T03:04:18.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.692Z",
+    "rawDescription": "The president presided over an upscale dinner for investors in his collapsing meme coin, celebrating the venture even as the price of admission has plummeted.",
+    "contentSnippet": "The president presided over an upscale dinner for investors in his collapsing meme coin, celebrating the venture even as the price of admission has plummeted.",
+    "summaryZh": "基于标题/摘要生成：The president presided over an upscale dinner for investors in his collapsing meme coin，celebrating the venture even as the price of admission has pl…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump hosts crypto traders as demand for his meme coin fades Isaac Arnsdorf The president presi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump hosts crypto traders as demand for his meme coin fades Isaac Arnsdorf The president presi"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ft1zk5",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Kennedy calls Trump, Putin and Xi meeting a &#039;good thing&#039;",
+    "chineseTitle": "Kennedy calls Trump，Putin and Xi meeting a &#039;good thi…",
+    "originalUrl": "https://thehill.com/policy/international/6236521-kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/",
+    "publishedAt": "2026-11-23T02:55:10.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.406Z",
+    "rawDescription": "Sen. John Kennedy (R-La.) on Sunday praised President Trump’s recent meeting with Russian President Vladimir Putin and Chinese President Xi Jinping. “Well, I think it's a good thing that the presidents of the three most powerful countries in the world are meeting, so long as America uses the opportunity to show its resolve,” Kennedy told...",
+    "contentSnippet": "Sen. John Kennedy (R-La.) on Sunday praised President Trump’s recent meeting with Russian President Vladimir Putin and Chinese President Xi Jinping. “Well, I think it's a good thing that the presidents of the three most powerful countries in the world are meeting, so long as America uses the opportunity to show its resolve,” Kennedy told...",
+    "summaryZh": "基于标题/摘要生成：Sen. John Kennedy (R-La.) on Sunday praised President Trump’s recent meeting with Russian President Vladimir Putin and 中国 President Xi Jinping. “Well…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Kennedy calls Trump, Putin and Xi meeting a &#039;good thing&#039; Tara Suter Sen. John Kennedy (R-La.) on Su"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Kennedy calls Trump, Putin and Xi meeting a &#039;good thing&#039; Tara Suter Sen. John Kennedy (R-La.) on Su"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill-senate https://thehill.com/homenews/senate/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_miufd0",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names",
+    "chineseTitle": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as…",
+    "originalUrl": "https://www.foxnews.com/politics/trumps-thanksgiving-turkeys-arrive-luxury-dc-hotel-americans-vote-names",
+    "publishedAt": "2026-11-23T02:48:57.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.511Z",
+    "rawDescription": "Two turkeys raised on a West Virginia farm strutted a red carpet at the Willard InterContinental Washington, D.C., ahead of Tuesday's pardon.",
+    "contentSnippet": "Two turkeys raised on a West Virginia farm strutted a red carpet at the Willard InterContinental Washington, D.C., ahead of Tuesday's pardon.",
+    "summaryZh": "基于标题/摘要生成：Two turkeys raised on a West Virginia farm strutted a red carpet at the Willard InterContinental Washington，D.C.，ahead of Tuesday's pardon",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names Two tu"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names Two tur"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_l20299",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+    "chineseTitle": "U.S. Tracked Alice Huang’s Contacts With 中国 Spy Agency Du…",
+    "originalUrl": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+    "publishedAt": "2026-11-23T02:17:16.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.546Z",
+    "rawDescription": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.",
+    "contentSnippet": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.",
+    "summaryZh": "基于标题/摘要生成：U.S. intelligence is said to show that the woman at the heart of the A.I. 芯片 scandal was in touch with 中国’s Ministry of State Security during the per…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_sqhmal",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "New York Dem addresses bizarre 'lizard people' claims after viral clip behind Mamdani",
+    "chineseTitle": "New York Dem addresses bizarre 'lizard people' claims aft…",
+    "originalUrl": "https://www.foxnews.com/politics/new-york-dem-addresses-bizarre-lizard-people-claims-after-viral-clip-behind-mamdani",
+    "publishedAt": "2026-11-23T02:16:02.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.512Z",
+    "rawDescription": "New York Assemblyman Jordan J.G. Wright breaks silence on viral reptilian claims after a clip showed him rolling his eyes behind Mayor Zohran Mamdani.",
+    "contentSnippet": "New York Assemblyman Jordan J.G. Wright breaks silence on viral reptilian claims after a clip showed him rolling his eyes behind Mayor Zohran Mamdani.",
+    "summaryZh": "基于标题/摘要生成：New York Assemblyman Jordan J.G. Wright breaks silence on viral reptilian claims after a clip showed him rolling his eyes behind Mayor Zohran Mamdani",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3im1r8",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump's top intelligence official is also taking charge of cyber policy",
+    "chineseTitle": "Trump's top intelligence official is also taking charge o…",
+    "originalUrl": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director",
+    "publishedAt": "2026-11-23T00:31:32.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.339Z",
+    "rawDescription": "Director of National Intelligence Jay Clayton will also serve as acting national cyber director while Kirsten Davies awaits Senate confirmation to lead the office, Axios has learned. A White House official said the strong support Davies received convinced Trump to nominate her to lead the office permanently rather than keep her in an acting capacity. Why it matters: Clayton, the nation's top intelligence official, will now coordinate cybersecurity policy as outages and reported cyberattacks expose vulnerabilities in America's digital infrastructure. Catch up quick: President Trump announced Thursday he was tapping Davies, the Pentagon's chief information officer, to replace Sean Cairncross as national cyber director. Davies will assist Clayton as a senior adviser in the Office of the Nati…",
+    "contentSnippet": "Director of National Intelligence Jay Clayton will also serve as acting national cyber director while Kirsten Davies awaits Senate confirmation to lead the office, Axios has learned. A White House official said the strong support Davies received convinced Trump to nominate her to lead the office permanently rather than keep her in an acting capacity. Why it matters: Clayton, the nation's top intelligence official, will now coordinate cybersecurity policy as outages and reported cyberattacks expose vulnerabilities in America's digital infrastructure. Catch up quick: President Trump announced Thursday he was tapping Davies, the Pentagon's chief information officer, to replace Sean Cairncross as national cyber director. Davies will assist Clayton as a senior adviser in the Office of the Nati…",
+    "summaryZh": "基于标题/摘要生成：Director of National Intelligence Jay Clayton will also serve as acting national cyber director while Kirsten Davies awaits 参议院 confirmation to lead…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump's top intelligence official is also taking charge of cyber policy Director of National I"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump's top intelligence official is also taking charge of cyber policy Director of National In"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "while Kirsten Davies awaits Senate confirmation to lead the office, Axios has learned. A White House official said the strong support Davies received convinced Trump to nominate her to lead"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Jay Clayton will also serve as acting national cyber director while Kirsten Davies awaits Senate confirmation to lead the office, Axios has learned. A White House official said the stron"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "White House",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "White House",
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_5x3hv4",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+    "chineseTitle": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+    "originalUrl": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+    "publishedAt": "2026-11-23T00:27:25.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.545Z",
+    "rawDescription": "Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president.",
+    "contentSnippet": "Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president.",
+    "summaryZh": "基于标题/摘要生成：Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected 民主党人 are approaching the…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "ch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president. Senator-elect Abdul El-Sayed's pitch for working together"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_49d484",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How bitter rivals Buttigieg and Klobuchar went from enemies to friends",
+    "chineseTitle": "How bitter rivals Buttigieg and Klobuchar went from enemi…",
+    "originalUrl": "https://www.axios.com/2026/11/22/klobuchar-buttigieg-enemies-friends",
+    "publishedAt": "2026-11-22T22:50:05.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.342Z",
+    "rawDescription": "To the surprise of many Democrats and even some of their former aides, Pete Buttigieg and Amy Klobuchar now consider themselves friends after their bitter clashes during their campaigns for president in 2020. Their journey from snarky tension to \"real respect and friendship,\" as Klobuchar describes it, is a story of how two ambitious Democrats came to appreciate each other once the heat of a presidential primary had subsided. Why it matters: It's also a reflection of how Buttigieg — who's weighing another run for president — has become a well-regarded Democratic stalwart after many in the party viewed him as a presumptuous lightweight when he ran six years ago as a little-known 37-year-old former mayor of South Bend, Ind. \"I'm sincerely grateful for Amy's friendship,\" Buttigieg, who was P…",
+    "contentSnippet": "To the surprise of many Democrats and even some of their former aides, Pete Buttigieg and Amy Klobuchar now consider themselves friends after their bitter clashes during their campaigns for president in 2020. Their journey from snarky tension to \"real respect and friendship,\" as Klobuchar describes it, is a story of how two ambitious Democrats came to appreciate each other once the heat of a presidential primary had subsided. Why it matters: It's also a reflection of how Buttigieg — who's weighing another run for president — has become a well-regarded Democratic stalwart after many in the party viewed him as a presumptuous lightweight when he ran six years ago as a little-known 37-year-old former mayor of South Bend, Ind. \"I'm sincerely grateful for Amy's friendship,\" Buttigieg, who was P…",
+    "summaryZh": "基于标题/摘要生成：To the surprise of many 民主党人 and even some of their former aides，Pete Buttigieg and Amy Klobuchar now consider themselves friends after their bitter…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "uttigieg and Klobuchar went from enemies to friends Alex Thompson To the surprise of many Democrats and even some of their former aides, Pete Buttigieg and Amy Klobuchar now consider themse"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_isx53p",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Russian ship docked in Libya hit in suspected drone attack",
+    "chineseTitle": "Russian ship docked in Libya hit in suspected drone attack",
+    "originalUrl": "https://thehill.com/policy/international/6236346-russian-ship-docked-in-libya-hit-in-suspected-drone-attack/",
+    "publishedAt": "2026-11-22T22:03:52.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.407Z",
+    "rawDescription": "A Russian ship docked at a naval base in Benghazi was severely damaged in a suspected Ukrainian drone attack Sunday, according to Libyan officials. The Merkury, a Russian navy corvette, was struck by two sea drones while docked in the eastern Libyan port city, triggering an explosion and a fire. An initial investigation found that...",
+    "contentSnippet": "A Russian ship docked at a naval base in Benghazi was severely damaged in a suspected Ukrainian drone attack Sunday, according to Libyan officials. The Merkury, a Russian navy corvette, was struck by two sea drones while docked in the eastern Libyan port city, triggering an explosion and a fire. An initial investigation found that...",
+    "summaryZh": "基于标题/摘要生成：A Russian ship docked at a naval base in Benghazi was severely damaged in a suspected Ukrainian drone attack Sunday，according to Libyan officials. Th…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_xpytti",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Sen. Kennedy urges scrutiny of Lutnick over China’s access to Nvidia chips",
+    "chineseTitle": "Sen. Kennedy urges scrutiny of Lutnick over 中国’s access t…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/11/22/sen-kennedy-urges-scrutiny-lutnick-over-chinas-access-nvidia-chips/",
+    "publishedAt": "2026-11-22T21:39:42.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.693Z",
+    "rawDescription": "Sen. John Kennedy (R-Louisiana) said he wants Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent to testify under oath and “answer some hard questions.”",
+    "contentSnippet": "Sen. John Kennedy (R-Louisiana) said he wants Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent to testify under oath and “answer some hard questions.”",
+    "summaryZh": "基于标题/摘要生成：Sen. John Kennedy (R-Louisiana) said he wants Commerce Secretary Howard Lutnick and 美国财政部 Secretary Scott Bessent to testify under oath and “answer s…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "us_china_relations",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "斯科特·贝森特",
+      "霍华德·卢特尼克"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "scott-bessent",
+        "nameEn": "Scott Bessent",
+        "nameZh": "斯科特·贝森特",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Scott Bessent",
+        "confidence": "high",
+        "contextSnippet": "nedy (R-Louisiana) said he wants Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent to testify under oath and “answer some hard questions.” Sen. John Kennedy (R-Louisiana) s"
+      },
+      {
+        "personId": "scott-bessent",
+        "nameEn": "Scott Bessent",
+        "nameZh": "斯科特·贝森特",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Bessent",
+        "confidence": "low",
+        "contextSnippet": "R-Louisiana) said he wants Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent to testify under oath and “answer some hard questions.” Sen. John Kennedy (R-Louisiana) s"
+      },
+      {
+        "personId": "howard-lutnick",
+        "nameEn": "Howard Lutnick",
+        "nameZh": "霍华德·卢特尼克",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Howard Lutnick",
+        "confidence": "high",
+        "contextSnippet": "dia chips Sammy Westfall Sen. John Kennedy (R-Louisiana) said he wants Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent to testify under oath and “answer some hard question"
+      },
+      {
+        "personId": "howard-lutnick",
+        "nameEn": "Howard Lutnick",
+        "nameZh": "霍华德·卢特尼克",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lutnick",
+        "confidence": "low",
+        "contextSnippet": "Sen. Kennedy urges scrutiny of Lutnick over China’s access to Nvidia chips Sammy Westfall Sen. John Kennedy (R-Louisiana) said h"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "scott-bessent",
+        "name": "Scott Bessent",
+        "type": "person",
+        "matchedAlias": "Scott Bessent",
+        "confidence": "high",
+        "contextSnippet": "nedy (R-Louisiana) said he wants Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent to testify under oath and \"answer some hard questions.\" Sen. John Kennedy (R-Louisiana) s"
+      },
+      {
+        "entityId": "howard-lutnick",
+        "name": "Howard Lutnick",
+        "type": "person",
+        "matchedAlias": "Howard Lutnick",
+        "confidence": "high",
+        "contextSnippet": "dia chips Sammy Westfall Sen. John Kennedy (R-Louisiana) said he wants Commerce Secretary Howard Lutnick and Treasury Secretary Scott Bessent to testify under oath and \"answer some hard question"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Scott Bessent",
+      "Howard Lutnick",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_7toxvz",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The World’s Biggest Climate Conference Just Fell Apart",
+    "chineseTitle": "The World’s Biggest Climate Conference Just Fell Apart",
+    "originalUrl": "https://www.theatlantic.com/science/2026/11/cop31/689530/",
+    "publishedAt": "2026-11-22T15:47:38.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.589Z",
+    "rawDescription": "Delegates at the annual UN climate summit failed to reach an agreement for the first time in almost 20 years.",
+    "contentSnippet": "Delegates at the annual UN climate summit failed to reach an agreement for the first time in almost 20 years.",
+    "summaryZh": "基于标题/摘要生成：Delegates at the annual UN climate summit failed to reach an agreement for the first time in almost 20 years",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ty5eh6",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Is the Populist Moment Over?",
+    "chineseTitle": "Is the Populist Moment Over",
+    "originalUrl": "https://www.theatlantic.com/podcasts/2026/11/populist-moment-over/689507/",
+    "publishedAt": "2026-11-22T14:00:00.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.590Z",
+    "rawDescription": "The decline of Donald Trump may spell the beginning of the end for the global movement he represents.",
+    "contentSnippet": "The decline of Donald Trump may spell the beginning of the end for the global movement he represents.",
+    "summaryZh": "基于标题/摘要生成：The decline of 特朗普 may spell the beginning of the end for the global movement he represents",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Is the Populist Moment Over? David Brooks The decline of Donald Trump may spell the beginning of the end for the global movement he represents. The decline of"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Is the Populist Moment Over? David Brooks The decline of Donald Trump may spell the beginning of the end for the global movement he represents. The decline of"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "Is the Populist Moment Over? David Brooks The decline of Donald Trump may spell the beginning of the end for the global movement he represents. The decline of"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9j89rj",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too",
+    "chineseTitle": "Ronald Reagan Changed His Chief of Staff After a Midterm…",
+    "originalUrl": "https://foreignpolicy.com/2026/11/22/reagan-chief-of-staff-change-midterms/",
+    "publishedAt": "2026-11-22T05:01:28.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.576Z",
+    "rawDescription": "The founding father of the conservative movement’s pick was very different from Trump’s.",
+    "contentSnippet": "The founding father of the conservative movement’s pick was very different from Trump’s.",
+    "summaryZh": "基于标题/摘要生成：The founding father of the conservative movement’s pick was very different from Trump’s",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": ". Zelizer The founding father of the conservative movement’s pick was very different from Trump’s. The founding father of the conservative movement’s pick was very different from Trump’"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": ". Zelizer The founding father of the conservative movement's pick was very different from Trump's. The founding father of the conservative movement's pick was very different from Trump'"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_yp94ax",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "‘Grandfather’ or ‘godfather’? Republicans know they’re stuck with Trump",
+    "chineseTitle": "‘Grandfather’ or ‘godfather’? 共和党人 know they’re stuck wit…",
+    "originalUrl": "https://www.politico.com/news/2026/11/21/republican-chairs-know-stuck-with-trump-2028-01179393",
+    "publishedAt": "2026-11-21T12:00:00.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.458Z",
+    "rawDescription": "Some grassroots GOP leaders want Trump to stay out of 2028 — even though they know he won’t.",
+    "contentSnippet": "Some grassroots GOP leaders want Trump to stay out of 2028 — even though they know he won’t.",
+    "summaryZh": "基于标题/摘要生成：Some grassroots GOP leaders want Trump to stay out of 2028 — even though they know he won’t",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "‘Grandfather’ or ‘godfather’? Republicans know they’re stuck with Trump By Andrew Howard and Aaron Pellish Some grassroots GOP leaders want Trump to stay out of"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "'Grandfather' or 'godfather'? Republicans know they're stuck with Trump By Andrew Howard and Aaron Pellish Some grassroots GOP leaders want Trump to stay out of"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "'Grandfather' or 'godfather'? Republicans know they're stuck with Trump By Andrew Howard and Aaron Pellish Some grassroots GOP lead"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "site:politico.com Congress China OR Taiwan OR Trump",
+      "site:politico.com White House China OR Taiwan OR Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_j2z5tm",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What in the World?",
+    "chineseTitle": "What in the World",
+    "originalUrl": "https://foreignpolicy.com/2026/11/20/foreign-policy-news-quiz-summits-pope-leo-ukraine-icj-trilateral-somalia/",
+    "publishedAt": "2026-11-20T19:05:46.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.579Z",
+    "rawDescription": "Test yourself on the week of Nov. 14: World leaders flock to Asia, Ukraine strikes a major Russian landmark, and Somalia expels an ambassador.",
+    "contentSnippet": "Test yourself on the week of Nov. 14: World leaders flock to Asia, Ukraine strikes a major Russian landmark, and Somalia expels an ambassador.",
+    "summaryZh": "基于标题/摘要生成：Test yourself on the week of Nov. 14：World leaders flock to Asia，Ukraine strikes a major Russian landmark，and Somalia expels an ambassador",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_634doc",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The nation’s cartoonists on the week in politics",
+    "chineseTitle": "The nation’s cartoonists on the week in politics",
+    "originalUrl": "https://www.politico.com/gallery/2026/11/20/the-nations-cartoonists-on-the-week-in-politics-01177665",
+    "publishedAt": "2026-11-20T10:00:00.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.463Z",
+    "rawDescription": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "contentSnippet": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "summaryZh": "基于标题/摘要生成：Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles，memes…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s82585",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Congress and the Coming Crises",
+    "chineseTitle": "美国国会 and the Coming Crises",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/congress-and-coming-crises",
+    "publishedAt": "2026-11-20T09:00:00.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.391Z",
+    "rawDescription": "How to defuse looming threats to U.S. national security.",
+    "contentSnippet": "How to defuse looming threats to U.S. national security.",
+    "summaryZh": "基于标题/摘要生成：How to defuse looming threats to U.S. 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Congress and the Coming Crises Ivo H. Daalder, James M. Lindsay How to defuse looming threats to U"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_61idd0",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "America’s Bad Bargain in Venezuela",
+    "chineseTitle": "America’s Bad Bargain in Venezuela",
+    "originalUrl": "https://www.foreignaffairs.com/venezuela/americas-bad-bargain-venezuela",
+    "publishedAt": "2026-11-20T09:00:00.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.391Z",
+    "rawDescription": "Washington’s dealmaking is strengthening the Chavista regime.",
+    "contentSnippet": "Washington’s dealmaking is strengthening the Chavista regime.",
+    "summaryZh": "基于标题/摘要生成：Washington’s dealmaking is strengthening the Chavista regime",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7tbptf",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside",
+    "chineseTitle": "Heading back to Washington，D.C.，from 中国. It was a Great a…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MYUJEQVVwaDdmOXNiR0toMDVrcU5oQjgxNVdKUDlab05BVl9TRnBJcERaY1hMN1AxYnp0YjMzd0pGM0JPWU9mdzh6Z1JuVW5OeFNFOEpsU2lIWkk4Sk1Cc0d1V1h0ZkJOZVNv?oc=5",
+    "publishedAt": "2026-11-19T17:18:35.000Z",
+    "fetchedAt": "2026-11-23T03:36:07.819Z",
+    "rawDescription": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside Truth Social",
+    "contentSnippet": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside Truth Social",
+    "summaryZh": "基于标题/摘要生成：Heading back to Washington，D.C.，from 中国. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M.，白宫. Als…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "china_tech_policy",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "o, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside Truth Social Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Tri"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "nd Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Pre"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Truth Social",
+      "White House"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_6qwof0",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a tru",
+    "chineseTitle": "I am now heading to 中国，from the Philippines，where we had…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9saTQyS1J2NFJVb1duU0psWlVOaUE5bENoZW8wQ3pPRk5oMUt2UE5fdktUb2FDTXZ4UHFrelh2bTR5RThmS0lFaEJBZXJVNnZOT2piakh3b2tIUHJvbDdGb2x1Sm11b255WFRHR1ZBMGRITE0?oc=5",
+    "publishedAt": "2026-11-18T09:23:09.000Z",
+    "fetchedAt": "2026-11-23T03:36:07.818Z",
+    "rawDescription": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a tru Truth Social",
+    "contentSnippet": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one that will be a tru Truth Social",
+    "summaryZh": "基于标题/摘要生成：I am now heading to 中国，from the Philippines，where we had a wonderful meeting on 贸易，国家安全，and other subjects. I am pleased to announce that we made a n…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "trade_tariffs",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "de a new and completely different Trade Deal with the Philippines, one that will be a tru Truth Social I am now heading to China, from the Philippines, where we had a wonderful meeting on Trad"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-11-23T03:36:07.266Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade",
+      "\"Robert Lighthizer\" Trump"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qmdea4",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "America First AI Agenda – AFPI",
+    "chineseTitle": "America First AI Agenda – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PeGRPbWxtODFGUmdjeGdvbW1sbF9TWFdtZFIwX01qM05DaUlHUHpra0pKLUdBeFhPNGRJOTF3MElWZG9CWGVuMnFLTVlxY0dzWVRFS1hYSnZBLUtLYTljMXc0RGxWVXp6aUYwVTNicw?oc=5",
+    "publishedAt": "2025-11-24T08:00:00.000Z",
+    "fetchedAt": "2026-11-23T03:36:07.265Z",
+    "rawDescription": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "contentSnippet": "America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：America First AI Agenda – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "America First AI Agenda – AFPI America First AI Agenda – AFPI americafirstpolicy.com America First AI Agenda – AFPI amer"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-23T03:35:52.041Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.666Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.667Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-23T03:35:52.040Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.534Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-23T03:35:49.532Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
