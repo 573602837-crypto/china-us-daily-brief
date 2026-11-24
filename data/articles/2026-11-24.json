@@ -1,0 +1,1587 @@
+[
+  {
+    "id": "art_e2w17m",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Batmobile stalls at auction by failing to meet the seller’s minimum price",
+    "chineseTitle": "Batmobile stalls at auction by failing to meet the seller…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/23/arts/batmobile-stalls-auction-by-failing-meet-sellers-minimum-price/",
+    "publishedAt": "2026-11-24T06:45:53.520Z",
+    "fetchedAt": "2026-11-24T06:50:39.124Z",
+    "rawDescription": "公开 sitemap 条目：Batmobile stalls at auction by failing to meet the seller’s minimum price",
+    "contentSnippet": "公开 sitemap 条目：Batmobile stalls at auction by failing to meet the seller’s minimum price",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Batmobile stalls at auction by failing to meet the seller’s minimum price",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_cjesim",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Massachusetts sues Trump admin to stop ICE's courthouse arrests: 'Unnecessary fear'",
+    "chineseTitle": "Massachusetts sues Trump admin to stop ICE's courthouse a…",
+    "originalUrl": "https://www.foxnews.com/politics/massachusetts-sues-trump-admin-stop-ice-courthouse-arrests-unnecessary-fear",
+    "publishedAt": "2026-11-24T06:16:28.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.910Z",
+    "rawDescription": "Massachusetts officials sued the Trump administration over ICE's courthouse arrests without judicial warrants, saying they violate a new state law.",
+    "contentSnippet": "Massachusetts officials sued the Trump administration over ICE's courthouse arrests without judicial warrants, saying they violate a new state law.",
+    "summaryZh": "基于标题/摘要生成：Massachusetts officials sued the Trump administration over ICE's courthouse arrests without judicial warrants，saying they violate a new state law",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Massachusetts sues Trump admin to stop ICE's courthouse arrests: 'Unnecessary fear' Massachusetts officials sued"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Massachusetts sues Trump admin to stop ICE's courthouse arrests: 'Unnecessary fear' Massachusetts officials sued t"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "min to stop ICE's courthouse arrests: 'Unnecessary fear' Massachusetts officials sued the Trump administration over ICE's courthouse arrests without judicial warrants, saying they violate a new state"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_vvltsb",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Rockland’s Megan Khang steady once again to retain LPGA Tour card",
+    "chineseTitle": "Rockland’s Megan Khang steady once again to retain LPGA T…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/23/sports/lpga-megan-khang-q-school/",
+    "publishedAt": "2026-11-24T05:40:38.930Z",
+    "fetchedAt": "2026-11-24T06:50:39.125Z",
+    "rawDescription": "公开 sitemap 条目：Rockland’s Megan Khang steady once again to retain LPGA Tour card",
+    "contentSnippet": "公开 sitemap 条目：Rockland’s Megan Khang steady once again to retain LPGA Tour card",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Rockland’s Megan Khang steady once again to retain LPGA Tour card",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_sispab",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year",
+    "chineseTitle": "No. 2 Official at F.B.I. Is Said to Be Retiring Before En…",
+    "originalUrl": "https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html",
+    "publishedAt": "2026-11-24T04:38:48.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.938Z",
+    "rawDescription": "The departure of Christopher G. Raia, a veteran agent, comes a few months after another deputy left the F.B.I.",
+    "contentSnippet": "The departure of Christopher G. Raia, a veteran agent, comes a few months after another deputy left the F.B.I.",
+    "summaryZh": "基于标题/摘要生成：The departure of Christopher G. Raia，a veteran agent，comes a few months after another deputy left the F.B.I",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_8ugcm8",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Judge demanded safeguards before search of Rep. Omar’s home, records show",
+    "chineseTitle": "Judge demanded safeguards before search of Rep. Omar’s ho…",
+    "originalUrl": "https://www.washingtonpost.com/national-security/2026/11/23/judge-had-concerns-ahead-search-rep-ilhan-omars-home-unsealed-records-show/",
+    "publishedAt": "2026-11-24T03:04:33.000Z",
+    "fetchedAt": "2026-11-24T06:50:36.056Z",
+    "rawDescription": "The judge who signed the warrant expressed reservations that the Justice Department had not adequately considered protections afforded to members of Congress.",
+    "contentSnippet": "The judge who signed the warrant expressed reservations that the Justice Department had not adequately considered protections afforded to members of Congress.",
+    "summaryZh": "基于标题/摘要生成：The judge who signed the warrant expressed reservations that the Justice Department had not adequately considered protections afforded to members of…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "t the Justice Department had not adequately considered protections afforded to members of Congress. The judge who signed the warrant expressed reservations that the Justice Department had"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_q0r3q2",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Court clears way for Army plan to detonate hazardous chemicals in Iowa",
+    "chineseTitle": "Court clears way for Army plan to detonate hazardous chem…",
+    "originalUrl": "https://www.washingtonpost.com/climate-environment/2026/11/23/trump-orders-military-halt-iowa-detonation-plan/",
+    "publishedAt": "2026-11-24T02:15:54.000Z",
+    "fetchedAt": "2026-11-24T06:50:36.057Z",
+    "rawDescription": "President Donald Trump said he has ordered the military not to proceed without the approval of an appeals court and Iowa’s governor-elect, Rob Sand (D).",
+    "contentSnippet": "President Donald Trump said he has ordered the military not to proceed without the approval of an appeals court and Iowa’s governor-elect, Rob Sand (D).",
+    "summaryZh": "基于标题/摘要生成：President 特朗普 said he has ordered the military not to proceed without the approval of an appeals court and Iowa’s governor-elect，Rob Sand (D)",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "to detonate hazardous chemicals in Iowa Sarah Kaplan, Dan Simmons, Violet Jira President Donald Trump said he has ordered the military not to proceed without the approval of an appeals court"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "onate hazardous chemicals in Iowa Sarah Kaplan, Dan Simmons, Violet Jira President Donald Trump said he has ordered the military not to proceed without the approval of an appeals court"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "to detonate hazardous chemicals in Iowa Sarah Kaplan, Dan Simmons, Violet Jira President Donald Trump said he has ordered the military not to proceed without the approval of an appeals court"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_swy9d0",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How a Scientist Behind the Mediterranean Diet Got Caught in Trump’s War on Harvard",
+    "chineseTitle": "How a Scientist Behind the Mediterranean Diet Got Caught…",
+    "originalUrl": "https://www.nytimes.com/2026/11/23/us/politics/walter-willett-trump-harvard.html",
+    "publishedAt": "2026-11-24T01:31:14.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.939Z",
+    "rawDescription": "Walter Willett studies the link between diet and health, a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway.",
+    "contentSnippet": "Walter Willett studies the link between diet and health, a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway.",
+    "summaryZh": "基于标题/摘要生成：Walter Willett studies the link between diet and health，a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "How a Scientist Behind the Mediterranean Diet Got Caught in Trump’s War on Harvard Sheryl Gay Stolberg Walter Willett studies the link between diet and hea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "How a Scientist Behind the Mediterranean Diet Got Caught in Trump's War on Harvard Sheryl Gay Stolberg Walter Willett studies the link between diet and hea"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_i3ngd7",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Scoop: Thanksgiving air travel expected to hit 16-year high",
+    "chineseTitle": "Scoop：Thanksgiving air travel expected to hit 16-year high",
+    "originalUrl": "https://www.axios.com/2026/11/24/thanksgiving-air-travel-record-expected",
+    "publishedAt": "2026-11-24T01:01:38.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.758Z",
+    "rawDescription": "Data: FAA; Note: The numbers cover the Monday before Thanksgiving through the Tuesday after. The data includes flights tracked by air traffic control under instrument flight rules.; Chart: Noah Bressner/Axios Thanksgiving week air travel is expected to reach a 16-year high, with 417,775 flights forecast over the nine-day holiday period from Nov. 23 through Dec. 1, according to FAA figures obtained by Axios. Why it matters: The surge comes on the heels of a historic ground stop that disrupted flights nationwide this month and put a spotlight on potential outages in the nation's aging air traffic control system, which the the FAA is working to modernize. The Thanksgiving rush will be a major test of the Trump administration's push to improve the system's reliability and minimize flight dela…",
+    "contentSnippet": "Data: FAA; Note: The numbers cover the Monday before Thanksgiving through the Tuesday after. The data includes flights tracked by air traffic control under instrument flight rules.; Chart: Noah Bressner/Axios Thanksgiving week air travel is expected to reach a 16-year high, with 417,775 flights forecast over the nine-day holiday period from Nov. 23 through Dec. 1, according to FAA figures obtained by Axios. Why it matters: The surge comes on the heels of a historic ground stop that disrupted flights nationwide this month and put a spotlight on potential outages in the nation's aging air traffic control system, which the the FAA is working to modernize. The Thanksgiving rush will be a major test of the Trump administration's push to improve the system's reliability and minimize flight dela…",
+    "summaryZh": "基于标题/摘要生成：Data：FAA; Note：The numbers cover the Monday before Thanksgiving through the Tuesday after. The data includes flights tracked by air traffic control u…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "ch the the FAA is working to modernize. The Thanksgiving rush will be a major test of the Trump administration's push to improve the system's reliability and minimize flight dela… Data:"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "ch the the FAA is working to modernize. The Thanksgiving rush will be a major test of the Trump administration's push to improve the system's reliability and minimize flight dela… Data:"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "ch the the FAA is working to modernize. The Thanksgiving rush will be a major test of the Trump administration's push to improve the system's reliability and minimize flight dela… Data: FAA; Note: The"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_26u3co",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Unsealed warrant documents for Ilhan Omar's DC home raid reveal decades-long scope of investigation",
+    "chineseTitle": "Unsealed warrant documents for Ilhan Omar's DC home raid…",
+    "originalUrl": "https://www.foxnews.com/politics/unsealed-warrant-documents-for-ilhan-omars-dc-home-raid-reveal-decades-long-scope-of-investigation",
+    "publishedAt": "2026-11-24T00:56:59.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.911Z",
+    "rawDescription": "The redacted search warrant for Homeland Security Investigations' raid on Ilhan Omar's Washington D.C. home was released, with phone and passport seized.",
+    "contentSnippet": "The redacted search warrant for Homeland Security Investigations' raid on Ilhan Omar's Washington D.C. home was released, with phone and passport seized.",
+    "summaryZh": "基于标题/摘要生成：The redacted search warrant for Homeland Security Investigations' raid on Ilhan Omar's Washington D.C. home was released，with phone and passport seiz…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_gf6670",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "2028 Democrats say Nvidia news is another example of corruption in government",
+    "chineseTitle": "2028 民主党人 say Nvidia news is another example of corruptio…",
+    "originalUrl": "https://www.politico.com/news/2026/11/23/democrats-2028-nvidia-trump-corruption-message-01181056",
+    "publishedAt": "2026-11-23T23:45:51.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.866Z",
+    "rawDescription": "Potential Democratic presidential candidates are slamming the reinstatement of Nvidia’s CEO by leaning into a theme that carried them through the midterms.",
+    "contentSnippet": "Potential Democratic presidential candidates are slamming the reinstatement of Nvidia’s CEO by leaning into a theme that carried them through the midterms.",
+    "summaryZh": "基于标题/摘要生成：Potential Democratic presidential candidates are slamming the reinstatement of Nvidia’s CEO by leaning into a theme that carried them through the mid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "2028 Democrats say Nvidia news is another example of corruption in government By Jason Beeferman and Sam"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mnqzh8",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Nvidia Is Now Too Big to Hold to Account",
+    "chineseTitle": "Nvidia Is Now Too Big to Hold to Account",
+    "originalUrl": "https://foreignpolicy.com/2026/11/23/nvidia-jensen-huang-return-us-china-ai-risk/",
+    "publishedAt": "2026-11-23T22:33:40.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.963Z",
+    "rawDescription": "Jensen Huang and the broader AI sector represent an enormous risk for the entire public.",
+    "contentSnippet": "Jensen Huang and the broader AI sector represent an enormous risk for the entire public.",
+    "summaryZh": "基于标题/摘要生成：Jensen Huang and the broader AI sector represent an enormous risk for the entire public",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_57fje8",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "More than 700,000 Russian soldiers have been killed in Ukraine: Analysis",
+    "chineseTitle": "More than 700，000 Russian soldiers have been killed in Uk…",
+    "originalUrl": "https://thehill.com/policy/defense/6238400-russian-casualties-ukraine-war-putin-zelensky/",
+    "publishedAt": "2026-11-23T21:16:55.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.821Z",
+    "rawDescription": "More than 700,000 Russian soldiers have been killed in Moscow’s war in Ukraine, according to an analysis released Monday. The staggering figure — more people than the U.S. has lost in every war it has fought over the past 150 years combined — was found using new data from the Russian state statistics service gained...",
+    "contentSnippet": "More than 700,000 Russian soldiers have been killed in Moscow’s war in Ukraine, according to an analysis released Monday. The staggering figure — more people than the U.S. has lost in every war it has fought over the past 150 years combined — was found using new data from the Russian state statistics service gained...",
+    "summaryZh": "基于标题/摘要生成：More than 700，000 Russian soldiers have been killed in Moscow’s war in Ukraine，according to an analysis released Monday. The staggering figure — more…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_q3s7ug",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Jensen Huang Is Back",
+    "chineseTitle": "Jensen Huang Is Back",
+    "originalUrl": "https://foreignpolicy.com/2026/11/23/nvidia-reinstates-jensen-huang-ceo-trump-board/",
+    "publishedAt": "2026-11-23T20:43:20.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.964Z",
+    "rawDescription": "The latest turn in a saga that has roiled markets and raised national security concerns.",
+    "contentSnippet": "The latest turn in a saga that has roiled markets and raised national security concerns.",
+    "summaryZh": "基于标题/摘要生成：The latest turn in a saga that has roiled markets and raised 国家安全 concerns",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_p6aocs",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Mississippi's election fights didn't end with Scott Colom's historic Senate win",
+    "chineseTitle": "Mississippi's 选举 fights didn't end with Scott Colom's his…",
+    "originalUrl": "https://www.axios.com/2026/11/23/scott-colom-mississippi-election-voting-rights-fallout",
+    "publishedAt": "2026-11-23T20:42:06.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.761Z",
+    "rawDescription": "Mississippi is facing two fights over its election rules after Democrat Scott Colom 's historic Senate victory: one over voters marked inactive and another over deadlines for receiving mail-in ballots . Why it matters: The disputes could affect how easily eligible voters cast ballots and which mail ballots count when Mississippi elects a new governor and other statewide leaders next year. Driving the news: The Mississippi Legislative Black Caucus demanded an investigation Thursday into whether the state's use of credit-reporting data to verify voters' addresses led election officials to incorrectly mark voters as inactive. Lawmakers want to examine the credit-reporting data contracts, instructions sent to county officials and how many eligible voters were incorrectly marked inactive. In o…",
+    "contentSnippet": "Mississippi is facing two fights over its election rules after Democrat Scott Colom 's historic Senate victory: one over voters marked inactive and another over deadlines for receiving mail-in ballots . Why it matters: The disputes could affect how easily eligible voters cast ballots and which mail ballots count when Mississippi elects a new governor and other statewide leaders next year. Driving the news: The Mississippi Legislative Black Caucus demanded an investigation Thursday into whether the state's use of credit-reporting data to verify voters' addresses led election officials to incorrectly mark voters as inactive. Lawmakers want to examine the credit-reporting data contracts, instructions sent to county officials and how many eligible voters were incorrectly marked inactive. In o…",
+    "summaryZh": "基于标题/摘要生成：Mississippi is facing two fights over its 选举 rules after Democrat Scott Colom 's historic 参议院 victory：one over voters marked inactive and another ove…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "Mississippi's election fights didn't end with Scott Colom's historic Senate win Josephine Walker Mississippi is facing two fights over its election rules after Democ"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_19dfrj",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The President Is Acting Like He Works for China",
+    "chineseTitle": "The President Is Acting Like He Works for 中国",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/",
+    "publishedAt": "2026-11-23T18:02:45.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.977Z",
+    "rawDescription": "Trump’s support of Jensen Huang should set off alarms.",
+    "contentSnippet": "Trump’s support of Jensen Huang should set off alarms.",
+    "summaryZh": "基于标题/摘要生成：Trump’s support of Jensen Huang should set off alarms",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "The President Is Acting Like He Works for China Tom Nichols Trump’s support of Jensen Huang should set off alarms. Trump’s support of Jensen Huang should s"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "The President Is Acting Like He Works for China Tom Nichols Trump's support of Jensen Huang should set off alarms. Trump's support of Jensen Huang should s"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "\"Donald Trump\" China",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_lnorqe",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Ukraine was behind attack on Russian warship off Libya: Zelensky",
+    "chineseTitle": "Ukraine was behind attack on Russian warship off Libya：Ze…",
+    "originalUrl": "https://thehill.com/policy/defense/6237786-ukraine-drones-sink-russian-ship-zelensky/",
+    "publishedAt": "2026-11-23T18:01:34.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.822Z",
+    "rawDescription": "Ukrainian drones sank a Russian naval ship in a Libyan port ​on Sunday, according to President Volodymyr ‌Zelensky. In videos released by the Ukrainian leader on Monday, the corvette known as the Merkury — one of Russia’s newest vessels — is shown being attacked at the Benghazi naval base. Ukraine's SBU security service captured the...",
+    "contentSnippet": "Ukrainian drones sank a Russian naval ship in a Libyan port ​on Sunday, according to President Volodymyr ‌Zelensky. In videos released by the Ukrainian leader on Monday, the corvette known as the Merkury — one of Russia’s newest vessels — is shown being attacked at the Benghazi naval base. Ukraine's SBU security service captured the...",
+    "summaryZh": "基于标题/摘要生成：Ukrainian drones sank a Russian naval ship in a Libyan port ​on Sunday，according to President Volodymyr ‌Zelensky. In videos released by the Ukrainia…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_aofnef",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Why Trump Rescued Jensen Huang",
+    "chineseTitle": "Why Trump Rescued Jensen Huang",
+    "originalUrl": "https://www.theatlantic.com/ideas/2026/11/trump-jensen-huang-backing/689545/",
+    "publishedAt": "2026-11-23T17:13:16.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.978Z",
+    "rawDescription": "By pushing for the reinstatement of Nvidia’s CEO, the president put the stock market ahead of national security.",
+    "contentSnippet": "By pushing for the reinstatement of Nvidia’s CEO, the president put the stock market ahead of national security.",
+    "summaryZh": "基于标题/摘要生成：By pushing for the reinstatement of Nvidia’s CEO，the president put the stock market ahead of 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Why Trump Rescued Jensen Huang Jonathan Chait By pushing for the reinstatement of Nvidia’s CEO, the"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Why Trump Rescued Jensen Huang Jonathan Chait By pushing for the reinstatement of Nvidia's CEO, the"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_jmqncs",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Gavin Newsom’s 2028 audition",
+    "chineseTitle": "Gavin Newsom’s 2028 audition",
+    "originalUrl": "https://www.politico.com/video/2026/11/23/gavin-newsoms-2028-audition-2236370",
+    "publishedAt": "2026-11-23T10:45:00.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.867Z",
+    "rawDescription": "Gavin Newsom’s 2028 audition lead image",
+    "contentSnippet": "Gavin Newsom’s 2028 audition lead image",
+    "summaryZh": "基于标题/摘要生成：Gavin Newsom’s 2028 audition lead image",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "加文·纽森"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "gavin-newsom",
+        "nameEn": "Gavin Newsom",
+        "nameZh": "加文·纽森",
+        "team": "民主党重点人物",
+        "matchedAlias": "Gavin Newsom",
+        "confidence": "high",
+        "contextSnippet": "Gavin Newsom’s 2028 audition Gavin Newsom’s 2028 audition lead image Gavin Newsom’s 2028 audition lea"
+      },
+      {
+        "personId": "gavin-newsom",
+        "nameEn": "Gavin Newsom",
+        "nameZh": "加文·纽森",
+        "team": "民主党重点人物",
+        "matchedAlias": "Newsom",
+        "confidence": "low",
+        "contextSnippet": "Gavin Newsom’s 2028 audition Gavin Newsom’s 2028 audition lead image Gavin Newsom’s 2028 audition lea"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "gavin-newsom",
+        "name": "Gavin Newsom",
+        "type": "person",
+        "matchedAlias": "Gavin Newsom",
+        "confidence": "high",
+        "contextSnippet": "Gavin Newsom's 2028 audition Gavin Newsom's 2028 audition lead image Gavin Newsom's 2028 audition lead"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Gavin Newsom",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qoy4uu",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "It’s Time to Settle With Russia",
+    "chineseTitle": "It’s Time to Settle With Russia",
+    "originalUrl": "https://www.foreignaffairs.com/ukraine/its-time-settle-russia",
+    "publishedAt": "2026-11-23T09:00:00.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.808Z",
+    "rawDescription": "In October, U.S. President Donald Trump sold his eleventh-hour deal to secure diesel from Russian President Vladimir Putin—pausing sanctions that his own administration had imposed—as a boon for the negotiations to end the war in Ukraine. The arrangement, he wrote on Truth Social, was intended to keep Russia at “the bargaining table.” Of course, it was always obvious to observers that the gambit had as much or more to do with bolstering the U.S. economy and stemming a massive victory for the Democrats in this month’s midterm elections, and in that, it failed.Cynics have grounds for questioning all of Trump’s moves when it comes to Russia and Ukraine. He clearly dislikes Ukrainian President Volodymyr Zelensky and shows a marked preference for illiberal leaders, especially those willing to…",
+    "contentSnippet": "In October, U.S. President Donald Trump sold his eleventh-hour deal to secure diesel from Russian President Vladimir Putin—pausing sanctions that his own administration had imposed—as a boon for the negotiations to end the war in Ukraine. The arrangement, he wrote on Truth Social, was intended to keep Russia at “the bargaining table.” Of course, it was always obvious to observers that the gambit had as much or more to do with bolstering the U.S. economy and stemming a massive victory for the Democrats in this month’s midterm elections, and in that, it failed.Cynics have grounds for questioning all of Trump’s moves when it comes to Russia and Ukraine. He clearly dislikes Ukrainian President Volodymyr Zelensky and shows a marked preference for illiberal leaders, especially those willing to…",
+    "summaryZh": "基于标题/摘要生成：In October，U.S. President 特朗普 sold his eleventh-hour deal to secure diesel from Russian President Vladimir Putin—pausing sanctions that his own admin…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "It’s Time to Settle With Russia Michael C. Desch In October, U.S. President Donald Trump sold his eleventh-hour deal to secure diesel from Russian President Vladimir Putin—pausin"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "It’s Time to Settle With Russia Michael C. Desch In October, U.S. President Donald Trump sold his eleventh-hour deal to secure diesel from Russian President Vladimir Putin—pausin"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "It's Time to Settle With Russia Michael C. Desch In October, U.S. President Donald Trump sold his eleventh-hour deal to secure diesel from Russian President Vladimir Putin—pausin"
+      },
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "ed—as a boon for the negotiations to end the war in Ukraine. The arrangement, he wrote on Truth Social, was intended to keep Russia at \"the bargaining table.\" Of course, it was always obvious"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "uch or more to do with bolstering the U.S. economy and stemming a massive victory for the Democrats in this month's midterm elections, and in that, it failed.Cynics have grounds for questio"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social",
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Truth Social",
+      "Democratic Party",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_s82585",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Congress and the Coming Crises",
+    "chineseTitle": "美国国会 and the Coming Crises",
+    "originalUrl": "https://www.foreignaffairs.com/united-states/congress-and-coming-crises",
+    "publishedAt": "2026-11-20T09:00:00.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.810Z",
+    "rawDescription": "How to defuse looming threats to U.S. national security.",
+    "contentSnippet": "How to defuse looming threats to U.S. national security.",
+    "summaryZh": "基于标题/摘要生成：How to defuse looming threats to U.S. 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Congress and the Coming Crises Ivo H. Daalder, James M. Lindsay How to defuse looming threats to U"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_7tbptf",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside",
+    "chineseTitle": "Heading back to Washington，D.C.，from 中国. It was a Great a…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MYUJEQVVwaDdmOXNiR0toMDVrcU5oQjgxNVdKUDlab05BVl9TRnBJcERaY1hMN1AxYnp0YjMzd0pGM0JPWU9mdzh6Z1JuVW5OeFNFOEpsU2lIWkk4Sk1Cc0d1V1h0ZkJOZVNv?oc=5",
+    "publishedAt": "2026-11-19T17:18:35.000Z",
+    "fetchedAt": "2026-11-24T06:50:55.064Z",
+    "rawDescription": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside Truth Social",
+    "contentSnippet": "Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside Truth Social",
+    "summaryZh": "基于标题/摘要生成：Heading back to Washington，D.C.，from 中国. It was a Great and Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M.，白宫. Als…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "china_tech_policy",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "o, will be discussing the Trade Deals with Thailand, the Philippines, and others. Preside Truth Social Heading back to Washington, D.C., from China. It was a Great and Highly Consequential Tri"
+      },
+      {
+        "entityId": "white-house",
+        "name": "White House",
+        "type": "organization",
+        "matchedAlias": "White House",
+        "confidence": "high",
+        "contextSnippet": "nd Highly Consequential Trip. I will be giving a News Conference tomorrow at 12 P.M., the White House. Also, will be discussing the Trade Deals with Thailand, the Philippines, and others. Pre"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social",
+      "White House"
+    ],
+    "relatedEntityTags": [
+      "Truth Social",
+      "White House"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-11-24T06:50:54.684Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade",
+      "AFPI"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qjysbz",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Wilkie – AFPI",
+    "chineseTitle": "The Honorable Robert Wilkie – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JTEdpWVl0SlJlaDQwUHZCLUktSV90TmhMODlqNjFYdzFqOE5YcWM5bTdmM283R25nd180U0ZVUk8zZUY3emEyd2hYcDRJbkFTcVVXcHdmSXR0dkh6bUJsMWRyWlUzX3NTOTd2NEYxNVZYdw?oc=5",
+    "publishedAt": "2026-09-18T01:04:47.000Z",
+    "fetchedAt": "2026-11-24T06:50:54.683Z",
+    "rawDescription": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Wilkie – AFPI The Honorable Robert Wilkie – AFPI americafirstpolicy.com The Honorable Robert Wilkie – A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "AFPI"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-24T06:50:39.090Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_z9c4cg",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "Based on the lack of respect that China has shown to the World’s Markets, I am hereby raising the Tariff charged to China by the United States of America to 125%, effective immediately. At some point, hopefully in the near future, China will realize that the days",
+    "chineseTitle": "Based on the lack of respect that 中国 has shown to the Wor…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5N3RsS052ZUpEQTAxMHBpQUhwNkhRbk5uYVNhLTFrWVZPMC10TjFDV2RCRWdyU19EZElONkJPbFd1ZHA5WGJpVDRpWlEtaEdJYUxXME9hdXJFRnRyX2xiQld4QVY3RlltVWF5QkVVdmRfSEU?oc=5",
+    "publishedAt": "2025-04-09T17:23:05.000Z",
+    "fetchedAt": "2026-11-24T06:50:55.065Z",
+    "rawDescription": "Based on the lack of respect that China has shown to the World’s Markets, I am hereby raising the Tariff charged to China by the United States of America to 125%, effective immediately. At some point, hopefully in the near future, China will realize that the days Truth Social",
+    "contentSnippet": "Based on the lack of respect that China has shown to the World’s Markets, I am hereby raising the Tariff charged to China by the United States of America to 125%, effective immediately. At some point, hopefully in the near future, China will realize that the days Truth Social",
+    "summaryZh": "基于标题/摘要生成：Based on the lack of respect that 中国 has shown to the World’s Markets，I am hereby raising the 关税 charged to 中国 by the United States of America to 125…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "trade_tariffs"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "mmediately. At some point, hopefully in the near future, China will realize that the days Truth Social Based on the lack of respect that China has shown to the World's Markets, I am hereby rai"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-24T06:50:36.035Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-24T06:50:36.035Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-24T06:50:39.090Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.929Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-24T06:50:35.927Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
