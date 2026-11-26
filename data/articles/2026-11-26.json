@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "art_saa0xh",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Thanksgiving storm forecast: Rain moves in during the afternoon as winds ramp up across New England",
+    "chineseTitle": "Thanksgiving storm forecast：Rain moves in during the afte…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/23/metro/thanksgiving-storm-forecast-new-england/",
+    "publishedAt": "2026-11-26T04:33:51.997Z",
+    "fetchedAt": "2026-11-26T04:46:20.227Z",
+    "rawDescription": "公开 sitemap 条目：Thanksgiving storm forecast: Rain moves in during the afternoon as winds ramp up across New England",
+    "contentSnippet": "公开 sitemap 条目：Thanksgiving storm forecast: Rain moves in during the afternoon as winds ramp up across New England",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Thanksgiving storm forecast：Rain moves in during the afternoon as winds ramp up across New England",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ikt9vm",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
+    "chineseTitle": "Border Barrier Cannot be Removed for Decades，Texas 共和党人 a…",
+    "originalUrl": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+    "publishedAt": "2026-11-26T03:42:51.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.366Z",
+    "rawDescription": "Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring removal of wire for 30 years.",
+    "contentSnippet": "Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring removal of wire for 30 years.",
+    "summaryZh": "基于标题/摘要生成：Just before 民主党人 take over the state government，Trump administration and outgoing Republican officials in Texas ink legal settlement barring removal…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "cans and D.O.J. Agree Zach Montague Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring re"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "cans and D.O.J. Agree Zach Montague Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring re"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "cans and D.O.J. Agree Zach Montague Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring removal of wire f"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "nnot be Removed for Decades, Texas Republicans and D.O.J. Agree Zach Montague Just before Democrats take over the state government, Trump administration and outgoing Republican officials in"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree Zach Montague Just before Democrats take over the state government, Trum"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team",
+      "Democratic Party",
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "Democratic Party",
+      "Republican Party",
+      "New York Times Politics",
+      "New York Times World"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+      "new-york-times-politics https://www.nytimes.com/robots.txt",
+      "new-york-times-world https://www.nytimes.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qu95iu",
+    "sourceName": "Boston Globe",
+    "sourceDomain": "bostonglobe.com",
+    "providerName": "SitemapProvider",
+    "originalTitle": "Two refugees who settled in Providence join nationwide legal challenge to Medicaid cuts for immigrants",
+    "chineseTitle": "Two refugees who settled in Providence join nationwide le…",
+    "originalUrl": "https://www.bostonglobe.com/2026/11/25/metro/ri-providence-immigrants-medicaid-cuts-trump/",
+    "publishedAt": "2026-11-26T03:35:05.968Z",
+    "fetchedAt": "2026-11-26T04:46:20.229Z",
+    "rawDescription": "公开 sitemap 条目：Two refugees who settled in Providence join nationwide legal challenge to Medicaid cuts for immigrants",
+    "contentSnippet": "公开 sitemap 条目：Two refugees who settled in Providence join nationwide legal challenge to Medicaid cuts for immigrants",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：Two refugees who settled in Providence join nationwide legal challenge to Medicaid cuts for immigrants",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Boston Globe"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "boston-globe https://www.bostonglobe.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_x4ky4n",
+    "sourceName": "New York Times Politics",
+    "sourceDomain": "nytimes.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+    "chineseTitle": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t La…",
+    "originalUrl": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
+    "publishedAt": "2026-11-26T01:53:20.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.366Z",
+    "rawDescription": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.",
+    "contentSnippet": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.",
+    "summaryZh": "基于标题/摘要生成：The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the real…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long. David E. Sanger The retreat o"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "Trump Rejoiced in the Market's Nvidia Surge. It Didn't Last Long. David E. Sanger The retreat o"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "New York Times Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "new-york-times-politics https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ncmjv6",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Against an Axis of Anything",
+    "chineseTitle": "Against an Axis of Anything",
+    "originalUrl": "https://foreignpolicy.com/2026/11/25/against-axis-of-anything/",
+    "publishedAt": "2026-11-26T00:36:17.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.390Z",
+    "rawDescription": "China and Russia are getting closer, but their alignment is hardly inevitable.",
+    "contentSnippet": "China and Russia are getting closer, but their alignment is hardly inevitable.",
+    "summaryZh": "基于标题/摘要生成：中国 and Russia are getting closer，but their alignment is hardly inevitable",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_snuzwr",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "EU &#039;strongly rejects&#039; rationale behind Trump&#039;s tariffs",
+    "chineseTitle": "EU &#039;strongly rejects&#039; rationale behind Trump&#0…",
+    "originalUrl": "https://thehill.com/policy/international/6244220-eu-rejects-us-tariff-proposal/",
+    "publishedAt": "2026-11-26T00:24:34.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.246Z",
+    "rawDescription": "The European Union on Wednesday pushed back against the Trump administration’s allegations that the bloc’s industrial policies are contributing to a global oversupply of manufactured goods, after the U.S. proposed imposing 15 percent tariffs on imports from its 27 member countries. The European Commission rejected the findings of a months-long investigation by the Office of...",
+    "contentSnippet": "The European Union on Wednesday pushed back against the Trump administration’s allegations that the bloc’s industrial policies are contributing to a global oversupply of manufactured goods, after the U.S. proposed imposing 15 percent tariffs on imports from its 27 member countries. The European Commission rejected the findings of a months-long investigation by the Office of...",
+    "summaryZh": "基于标题/摘要生成：The European Union on Wednesday pushed back against the Trump administration’s allegations that the bloc’s industrial policies are contributing to a…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "trade_tariffs",
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "EU &#039;strongly rejects&#039; rationale behind Trump&#039;s tariffs Finya Swai The European Union on Wednesday pushed back against the Trump a"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "EU &#039;strongly rejects&#039; rationale behind Trump&#039;s tariffs Finya Swai The European Union on Wednesday pushed back against the Trump a"
+      },
+      {
+        "entityId": "trump-team",
+        "name": "Trump team",
+        "type": "team",
+        "matchedAlias": "Trump administration",
+        "confidence": "high",
+        "contextSnippet": "d Trump&#039;s tariffs Finya Swai The European Union on Wednesday pushed back against the Trump administration's allegations that the bloc's industrial policies are contributing to a global oversupply"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Trump team"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Trump team",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/",
+      "the-hill https://thehill.com/robots.txt",
+      "the-hill-technology https://thehill.com/robots.txt",
+      "the-hill-house https://thehill.com/robots.txt",
+      "the-hill-senate https://thehill.com/robots.txt"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_l5pp2",
+    "sourceName": "Foreign Policy",
+    "sourceDomain": "foreignpolicy.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Ukraine’s Shadow War in Africa",
+    "chineseTitle": "Ukraine’s Shadow War in Africa",
+    "originalUrl": "https://foreignpolicy.com/2026/11/25/ukraine-russia-proxy-war-africa-libya-ship-attack/",
+    "publishedAt": "2026-11-26T00:00:59.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.391Z",
+    "rawDescription": "The continent is increasingly becoming a proxy theater in the Russia-Ukraine conflict.",
+    "contentSnippet": "The continent is increasingly becoming a proxy theater in the Russia-Ukraine conflict.",
+    "summaryZh": "基于标题/摘要生成：The continent is increasingly becoming a proxy theater in the Russia-Ukraine conflict",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Foreign Policy"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-policy https://foreignpolicy.com/feed/",
+      "foreign-policy https://foreignpolicy.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_i6tr2q",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "2nd Circuit deals blow to Manhattan DA, breathes new life into Trump's hush money appeal",
+    "chineseTitle": "2nd Circuit deals blow to Manhattan DA，breathes new life…",
+    "originalUrl": "https://www.foxnews.com/politics/second-circuit-deals-blow-manhattan-da-breathes-new-life-trump-hush-money-appeal",
+    "publishedAt": "2026-11-26T00:00:15.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.338Z",
+    "rawDescription": "President Donald Trump's bid to move his New York hush money case to federal court is revived after the 2nd Circuit cited errors in a prior denial.",
+    "contentSnippet": "President Donald Trump's bid to move his New York hush money case to federal court is revived after the 2nd Circuit cited errors in a prior denial.",
+    "summaryZh": "基于标题/摘要生成：President 特朗普's bid to move his New York hush money case to federal court is revived after the 2nd Circuit cited errors in a prior denial",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "it deals blow to Manhattan DA, breathes new life into Trump's hush money appeal President Donald Trump's bid to move his New York hush money case to federal court is revived after the 2nd Cir"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "2nd Circuit deals blow to Manhattan DA, breathes new life into Trump's hush money appeal President Donald Trump's bid to move his New York hush money case to"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "it deals blow to Manhattan DA, breathes new life into Trump's hush money appeal President Donald Trump's bid to move his New York hush money case to federal court is revived after the 2nd Circ"
+      },
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "2nd Circuit deals blow to Manhattan DA, breathes new life into Trump's hush money appeal 公开 sitemap 条目：2nd Circuit deals blow to Manhattan DA, breathes new li"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml",
+      "fox-news-politics https://www.foxnews.com/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_pnu01j",
+    "sourceName": "The Hill",
+    "sourceDomain": "thehill.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Kushner calls Putin &#039;grandmaster of politics&#039;",
+    "chineseTitle": "Kushner calls Putin &#039;grandmaster of politics&#039;",
+    "originalUrl": "https://thehill.com/policy/international/6244109-kushner-calls-putin-grandmaster/",
+    "publishedAt": "2026-11-25T23:20:45.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.247Z",
+    "rawDescription": "U.S. special envoy Jared Kushner, President Trump’s son-in-law, called Russian President Vladimir Putin a “grandmaster of politics” following U.S.-backed trilateral peace talks that have yielded little progress. “President Putin is very organized. You know, people can like what he's done. They cannot like what he's done. But he's definitely a grandmaster of politics,” Kushner said...",
+    "contentSnippet": "U.S. special envoy Jared Kushner, President Trump’s son-in-law, called Russian President Vladimir Putin a “grandmaster of politics” following U.S.-backed trilateral peace talks that have yielded little progress. “President Putin is very organized. You know, people can like what he's done. They cannot like what he's done. But he's definitely a grandmaster of politics,” Kushner said...",
+    "summaryZh": "基于标题/摘要生成：U.S. special envoy Jared Kushner，President Trump’s son-in-law，called Russian President Vladimir Putin a “grandmaster of politics” following U.S.-back…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "039;grandmaster of politics&#039; Mira Bhakta U.S. special envoy Jared Kushner, President Trump’s son-in-law, called Russian President Vladimir Putin a “grandmaster of politics” followi"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "039;grandmaster of politics&#039; Mira Bhakta U.S. special envoy Jared Kushner, President Trump's son-in-law, called Russian President Vladimir Putin a \"grandmaster of politics\" followi"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Hill"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-hill https://thehill.com/policy/international/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_diqi7b",
+    "sourceName": "Fox News Politics",
+    "sourceDomain": "foxnews.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Socialists on blast for pledging to weed money out of politics but accepting business execs' checks anyway",
+    "chineseTitle": "Socialists on blast for pledging to weed money out of pol…",
+    "originalUrl": "https://www.foxnews.com/politics/socialists-blast-pledging-weed-money-out-politics-accepting-business-execs-checks-anyway",
+    "publishedAt": "2026-11-25T23:00:23.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.339Z",
+    "rawDescription": "An investigation of FEC records found 24 corporate executives gave $675,300 to DSA-endorsed candidates like Rashida Tlaib and progressive PACs.",
+    "contentSnippet": "An investigation of FEC records found 24 corporate executives gave $675,300 to DSA-endorsed candidates like Rashida Tlaib and progressive PACs.",
+    "summaryZh": "基于标题/摘要生成：An investigation of FEC records found 24 corporate executives gave $675，300 to DSA-endorsed candidates like Rashida Tlaib and progressive PACs",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Fox News Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "fox-news-politics https://moxie.foxnews.com/google-publisher/politics.xml"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_zfun8x",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Schumer, Van Hollen add to tallies of supporters for majority leader",
+    "chineseTitle": "Schumer，Van Hollen add to tallies of supporters for major…",
+    "originalUrl": "https://www.washingtonpost.com/politics/2026/11/25/maine-sen-elect-troy-jackson-endorses-chris-van-hollen-senate-leader/",
+    "publishedAt": "2026-11-25T22:22:15.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.477Z",
+    "rawDescription": "Senate Democrats plan to decide who will guide them on a secret ballot next week.",
+    "contentSnippet": "Senate Democrats plan to decide who will guide them on a secret ballot next week.",
+    "summaryZh": "基于标题/摘要生成：参议院 民主党人 plan to decide who will guide them on a secret ballot next week",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "查克·舒默"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "Schumer, Van Hollen add to tallies of supporters for majority leader Praveena Somasundaram Senate"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Schumer",
+        "confidence": "medium",
+        "contextSnippet": "Schumer, Van Hollen add to tallies of supporters for majority leader Praveena Somasundaram Senate"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "Van Hollen add to tallies of supporters for majority leader Praveena Somasundaram Senate Democrats plan to decide who will guide them on a secret ballot next week. Senate Democrats plan to"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "chumer, Van Hollen add to tallies of supporters for majority leader Praveena Somasundaram Senate Democrats plan to decide who will guide them on a secret ballot next week. Senate Democra"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Chuck Schumer",
+      "Democratic Party",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_hwxbkt",
+    "sourceName": "Washington Post Politics",
+    "sourceDomain": "washingtonpost.com",
+    "providerName": "RssProvider",
+    "originalTitle": "These are the Senate Democrats backing Schumer and Van Hollen for majority leader",
+    "chineseTitle": "These are the 参议院 民主党人 backing Schumer and Van Hollen for…",
+    "originalUrl": "https://www.washingtonpost.com/politics/interactive/2026/11/18/these-are-senate-democrats-backing-schumer-van-hollen-majority-leader/",
+    "publishedAt": "2026-11-25T21:59:57.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.478Z",
+    "rawDescription": "The Post is tracking senators’ public comments on the fight for Senate majority leader in the next Congress.",
+    "contentSnippet": "The Post is tracking senators’ public comments on the fight for Senate majority leader in the next Congress.",
+    "summaryZh": "基于标题/摘要生成：The Post is tracking senators’ public comments on the fight for 参议院 majority leader in the next 美国国会",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "查克·舒默"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "chuck-schumer",
+        "nameEn": "Chuck Schumer",
+        "nameZh": "查克·舒默",
+        "team": "民主党重点人物",
+        "matchedAlias": "Schumer",
+        "confidence": "low",
+        "contextSnippet": "These are the Senate Democrats backing Schumer and Van Hollen for majority leader Theodoric Meyer, Eric Lau The Post is tracking senator"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "chuck-schumer",
+        "name": "Chuck Schumer",
+        "type": "person",
+        "matchedAlias": "Schumer",
+        "confidence": "medium",
+        "contextSnippet": "These are the Senate Democrats backing Schumer and Van Hollen for majority leader Theodoric Meyer, Eric Lau The Post is tracking senator"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "These are the Senate Democrats backing Schumer and Van Hollen for majority leader Theodoric Meyer, Eric Lau The Post is"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "is tracking senators' public comments on the fight for Senate majority leader in the next Congress. The Post is tracking senators' public comments on the fight for Senate majority leader i"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Chuck Schumer",
+      "Democratic Party",
+      "Congress",
+      "Washington Post Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "washington-post-politics https://feeds.washingtonpost.com/rss/politics"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_fonof2",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Macy's Thanksgiving parade postponed for the first time in the event's history",
+    "chineseTitle": "Macy's Thanksgiving parade postponed for the first time i…",
+    "originalUrl": "https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather",
+    "publishedAt": "2026-11-25T21:28:25.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.195Z",
+    "rawDescription": "The Macy's Thanksgiving Day Parade has been postponed for the first time in the event's history, the retailer confirmed Wednesday. Why it matters: Macy's was expected to celebrate its 100th Thanksgiving Day Parade with a record 100 inflatables — but an impending nor'easter will keep its iconic giant balloons from flying on the holiday. What they're saying: \"The safety of our participants and spectators is our top priority, and after close consultation with our City and agency partners, we have made the decision to move this year's celebration,\" Macy's told NBC on Wednesday. \"Thank you to the thousands of volunteers, performers and partners who create the magic millions enjoy each year,\" Macy's said. The parade has been pushed back to Saturday. NBC will air last year's parade during the al…",
+    "contentSnippet": "The Macy's Thanksgiving Day Parade has been postponed for the first time in the event's history, the retailer confirmed Wednesday. Why it matters: Macy's was expected to celebrate its 100th Thanksgiving Day Parade with a record 100 inflatables — but an impending nor'easter will keep its iconic giant balloons from flying on the holiday. What they're saying: \"The safety of our participants and spectators is our top priority, and after close consultation with our City and agency partners, we have made the decision to move this year's celebration,\" Macy's told NBC on Wednesday. \"Thank you to the thousands of volunteers, performers and partners who create the magic millions enjoy each year,\" Macy's said. The parade has been pushed back to Saturday. NBC will air last year's parade during the al…",
+    "summaryZh": "基于标题/摘要生成：The Macy's Thanksgiving Day Parade has been postponed for the first time in the event's history，the retailer confirmed Wednesday. Why it matters：Macy…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_u3wael",
+    "sourceName": "Axios",
+    "sourceDomain": "axios.com",
+    "providerName": "RssProvider",
+    "originalTitle": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI",
+    "chineseTitle": "\"The flashing red lights couldn't be brighter\"：民主党人 deman…",
+    "originalUrl": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+    "publishedAt": "2026-11-25T20:19:21.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.197Z",
+    "rawDescription": "Prominent Democrats are calling for new restrictions on AI development following Axios reporting that employees at OpenAI and Anthropic increasingly fear their most powerful models cannot be safely released. Why it matters: The political debate over AI is expanding beyond the economic consequences of the technology to a more existential question: whether companies should be allowed to build systems they may not be able to control. The issue is gaining traction among Democratic leaders ahead of the 2028 presidential election. Maryland Gov. Wes Moore (D-Md.), a potential 2028 contender, outlined a playbook for AI regulations in an interview with \"The Axios Show,\" noting that voters hate the technology because they fear losing control . Driving the news: Sens. Mark Kelly (D-Ariz.), Brian Sch…",
+    "contentSnippet": "Prominent Democrats are calling for new restrictions on AI development following Axios reporting that employees at OpenAI and Anthropic increasingly fear their most powerful models cannot be safely released. Why it matters: The political debate over AI is expanding beyond the economic consequences of the technology to a more existential question: whether companies should be allowed to build systems they may not be able to control. The issue is gaining traction among Democratic leaders ahead of the 2028 presidential election. Maryland Gov. Wes Moore (D-Md.), a potential 2028 contender, outlined a playbook for AI regulations in an interview with \"The Axios Show,\" noting that voters hate the technology because they fear losing control . Driving the news: Sens. Mark Kelly (D-Ariz.), Brian Sch…",
+    "summaryZh": "基于标题/摘要生成：Prominent 民主党人 are calling for new restrictions on AI development following Axios reporting that employees at OpenAI and Anthropic increasingly fear…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI Madison Mills Prominent Democrats are calling for new restr"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Axios"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "SitemapProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "axios https://www.axios.com/feeds/feed.rss",
+      "axios https://api.axios.com/feed/",
+      "axios https://www.axios.com/sitemaps/last200.xml",
+      "axios https://www.axios.com/sitemap.xml",
+      "\"Democratic Party\""
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_i2xno7",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Here Comes Santa Claude",
+    "chineseTitle": "Here Comes Santa Claude",
+    "originalUrl": "https://www.theatlantic.com/technology/2026/11/ai-agents-holiday-shopping-muse/689587/",
+    "publishedAt": "2026-11-25T18:17:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.401Z",
+    "rawDescription": "Some Americans are about to open holiday gifts that were chosen and purchased entirely by AI agents.",
+    "contentSnippet": "Some Americans are about to open holiday gifts that were chosen and purchased entirely by AI agents.",
+    "summaryZh": "基于标题/摘要生成：Some Americans are about to open holiday gifts that were chosen and purchased entirely",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_ylgxam",
+    "sourceName": "The Atlantic",
+    "sourceDomain": "theatlantic.com",
+    "providerName": "RssProvider",
+    "originalTitle": "What Could Replace the Trump Style of Politics?",
+    "chineseTitle": "What Could Replace the Trump Style of Politics",
+    "originalUrl": "https://www.theatlantic.com/books/2026/11/hannah-arendt-friendship-model-politics/689579/",
+    "publishedAt": "2026-11-25T13:30:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.402Z",
+    "rawDescription": "After a decade in which political debate has mostly meant pitting one truth against another, it might be time to try a different way.",
+    "contentSnippet": "After a decade in which political debate has mostly meant pitting one truth against another, it might be time to try a different way.",
+    "summaryZh": "基于标题/摘要生成：After a decade in which political debate has mostly meant pitting one truth against another，it might be time to try a different way",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "What Could Replace the Trump Style of Politics? Gal Beckerman After a decade in which political debate has mostly mean"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "What Could Replace the Trump Style of Politics? Gal Beckerman After a decade in which political debate has mostly mean"
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "The Atlantic"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "the-atlantic https://www.theatlantic.com/feed/all/",
+      "site:theatlantic.com China OR Taiwan OR Trump OR politics"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_mik1zb",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Republicans’ midterm reckoning comes for the RNC",
+    "chineseTitle": "共和党人’ midterm reckoning comes for the RNC",
+    "originalUrl": "https://www.politico.com/news/2026/11/25/rnc-gruters-crosbie-republican-party-future-01182563",
+    "publishedAt": "2026-11-25T10:45:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.296Z",
+    "rawDescription": "President Donald Trump’s handpicked chair is fending off a challenge from his own colleague as Republicans grapple with who should pay the price for midterm losses.",
+    "contentSnippet": "President Donald Trump’s handpicked chair is fending off a challenge from his own colleague as Republicans grapple with who should pay the price for midterm losses.",
+    "summaryZh": "基于标题/摘要生成：President 特朗普’s handpicked chair is fending off a challenge from his own colleague as 共和党人 grapple with who should pay the price for midterm losses",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "rm reckoning comes for the RNC By Aaron Pellish, Erin Doherty and Andrew Howard President Donald Trump’s handpicked chair is fending off a challenge from his own colleague as Republicans grapp"
+      },
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "oning comes for the RNC By Aaron Pellish, Erin Doherty and Andrew Howard President Donald Trump’s handpicked chair is fending off a challenge from his own colleague as Republicans grapp"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Donald Trump",
+        "confidence": "high",
+        "contextSnippet": "rm reckoning comes for the RNC By Aaron Pellish, Erin Doherty and Andrew Howard President Donald Trump's handpicked chair is fending off a challenge from his own colleague as Republicans grapp"
+      },
+      {
+        "entityId": "republican-party",
+        "name": "Republican Party",
+        "type": "team",
+        "matchedAlias": "Republicans",
+        "confidence": "medium",
+        "contextSnippet": "Republicans' midterm reckoning comes for the RNC By Aaron Pellish, Erin Doherty and Andrew Howard Pre"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Republican Party"
+    ],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Republican Party",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider",
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source",
+      "entity"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml",
+      "\"Republican Party\"",
+      "site:politico.com China OR Taiwan OR Trump OR Congress",
+      "\"Republican Party\" Trump"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_4zovc8",
+    "sourceName": "Politico",
+    "sourceDomain": "politico.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Alex Bores on whether Congress can regulate AI before it’s too late",
+    "chineseTitle": "Alex Bores on whether 美国国会 can regulate AI before it’s to…",
+    "originalUrl": "https://www.politico.com/video/2026/11/25/alex-bores-on-whether-congress-can-regulate-ai-before-its-too-late-2235705",
+    "publishedAt": "2026-11-25T10:00:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.297Z",
+    "rawDescription": "Alex Bores on whether Congress can regulate AI before it’s too late lead image",
+    "contentSnippet": "Alex Bores on whether Congress can regulate AI before it’s too late lead image",
+    "summaryZh": "基于标题/摘要生成：Alex Bores on whether 美国国会 can regulate AI before it’s too late lead image",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "china_tech_policy",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Alex Bores on whether Congress can regulate AI before it's too late Alex Bores on whether Congress can regulate AI befor"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Politico"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "politico https://rss.politico.com/politics-news.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_2ntez",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "China Is Preparing for the End of Détente",
+    "chineseTitle": "中国 Is Preparing for the End of Détente",
+    "originalUrl": "https://www.foreignaffairs.com/china/china-preparing-end-detente-trump-yun-sun",
+    "publishedAt": "2026-11-25T09:00:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.234Z",
+    "rawDescription": "After Trump, a hawkish backlash awaits.",
+    "contentSnippet": "After Trump, a hawkish backlash awaits.",
+    "summaryZh": "基于标题/摘要生成：After Trump，a hawkish backlash awaits",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "唐纳德·特朗普"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "donald-trump",
+        "nameEn": "Donald Trump",
+        "nameZh": "唐纳德·特朗普",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Trump",
+        "confidence": "low",
+        "contextSnippet": "China Is Preparing for the End of Détente Yun Sun After Trump, a hawkish backlash awaits. After Trump, a hawkish backlash awaits."
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "donald-trump",
+        "name": "Donald Trump",
+        "type": "person",
+        "matchedAlias": "Trump",
+        "confidence": "medium",
+        "contextSnippet": "China Is Preparing for the End of Détente Yun Sun After Trump, a hawkish backlash awaits. After Trump, a hawkish backlash awaits."
+      }
+    ],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Donald Trump",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_yht8ly",
+    "sourceName": "Foreign Affairs",
+    "sourceDomain": "foreignaffairs.com",
+    "providerName": "RssProvider",
+    "originalTitle": "The Real Nvidia Scandal",
+    "chineseTitle": "The Real Nvidia Scandal",
+    "originalUrl": "https://www.foreignaffairs.com/china/real-nvidia-scandal-kilcrease-chilukuri",
+    "publishedAt": "2026-11-24T09:00:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.235Z",
+    "rawDescription": "How China exploited a massive loophole in U.S. national security—and how Congress can close it.",
+    "contentSnippet": "How China exploited a massive loophole in U.S. national security—and how Congress can close it.",
+    "summaryZh": "基于标题/摘要生成：How 中国 exploited a massive loophole in U.S. 国家安全—and how 美国国会 can close it",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "us_domestic",
+      "congress_china",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Congress",
+        "confidence": "medium",
+        "contextSnippet": "Vivek Chilukuri How China exploited a massive loophole in U.S. national security—and how Congress can close it. How China exploited a massive loophole in U.S. national security—and how Co"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Congress",
+      "Foreign Affairs"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "foreign-affairs https://www.foreignaffairs.com/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/China/rss.xml",
+      "foreign-affairs https://www.foreignaffairs.com/feeds/region/United%20States/rss.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_ifk8xt",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Lighthizer – AFPI",
+    "chineseTitle": "The Honorable Robert Lighthizer – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2STBHMXNzZTE3d3A4RGVHQWtwemFOcVJVVUwxWDhHQjRZWU1mVkhtalFBNk1hclhTWGpENEd6ZkJDWC1Gc0xKNHNsUHRQWGE1ZHlDUVRPRm51NzlNcUJFWUxiUEI?oc=5",
+    "publishedAt": "2026-09-18T03:00:14.000Z",
+    "fetchedAt": "2026-11-26T04:46:35.814Z",
+    "rawDescription": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Lighthizer – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "key_figures"
+    ],
+    "peopleTags": [
+      "罗伯特·莱特希泽"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      },
+      {
+        "personId": "robert-lighthizer",
+        "nameEn": "Robert Lighthizer",
+        "nameZh": "罗伯特·莱特希泽",
+        "team": "特朗普团队 / 共和党政策网络",
+        "matchedAlias": "Lighthizer",
+        "confidence": "low",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Rober"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "robert-lighthizer",
+        "name": "Robert Lighthizer",
+        "type": "person",
+        "matchedAlias": "Robert Lighthizer",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert"
+      },
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Lighthizer – AFPI The Honorable Robert Lighthizer – AFPI americafirstpolicy.com The Honorable Robert Lighth"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "Robert Lighthizer",
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "\"Robert Lighthizer\"",
+      "\"Robert Lighthizer\" China",
+      "\"America First Policy Institute\" trade",
+      "\"Robert Lighthizer\" Trump",
+      "AFPI"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_qjysbz",
+    "sourceName": "americafirstpolicy.com",
+    "sourceDomain": "americafirstpolicy.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "The Honorable Robert Wilkie – AFPI",
+    "chineseTitle": "The Honorable Robert Wilkie – AFPI",
+    "originalUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JTEdpWVl0SlJlaDQwUHZCLUktSV90TmhMODlqNjFYdzFqOE5YcWM5bTdmM283R25nd180U0ZVUk8zZUY3emEyd2hYcDRJbkFTcVVXcHdmSXR0dkh6bUJsMWRyWlUzX3NTOTd2NEYxNVZYdw?oc=5",
+    "publishedAt": "2026-09-18T01:04:47.000Z",
+    "fetchedAt": "2026-11-26T04:46:35.813Z",
+    "rawDescription": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "contentSnippet": "The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryZh": "基于标题/摘要生成：The Honorable Robert Wilkie – AFPI americafirstpolicy.com",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "america-first-policy-institute",
+        "name": "America First Policy Institute",
+        "type": "organization",
+        "matchedAlias": "AFPI",
+        "confidence": "high",
+        "contextSnippet": "The Honorable Robert Wilkie – AFPI The Honorable Robert Wilkie – AFPI americafirstpolicy.com The Honorable Robert Wilkie – A"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "America First Policy Institute"
+    ],
+    "relatedEntityTags": [
+      "America First Policy Institute"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "entity"
+    ],
+    "matchedQueries": [
+      "\"America First Policy Institute\" Taiwan",
+      "AFPI"
+    ],
+    "importanceLevel": 2,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_nguuk8",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "I have informed President Xi, of China, that the United States will allow NVIDIA to ship its H200 products to approved customers in China, and other Countries, under conditions that allow for continued strong National Security. President Xi responded positively!",
+    "chineseTitle": "I have informed President Xi，of 中国，that the United States…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObDE0NTFtQkJrbUhnOFZsUDRnS0ZiZGdEMTZ1M0dDQkJXSUtmUjZ0WlAtUmZEazlfQldfRnZwNHpkZnRwemh1dFJ6cjJFRVA5MkgxZ1MzaGlKa3FTSC12VVdkZ3lIazFud0xjM2ZFTFItWWxSVm10R3JfWjFmbDFKOWFSOV83NXN0c0lPdWNreFpxWEdzOTE3c3RxTUtCUF80SVZkeHQ1V211RDg?oc=5",
+    "publishedAt": "2026-08-31T20:29:52.000Z",
+    "fetchedAt": "2026-11-26T04:46:36.195Z",
+    "rawDescription": "I have informed President Xi, of China, that the United States will allow NVIDIA to ship its H200 products to approved customers in China, and other Countries, under conditions that allow for continued strong National Security. President Xi responded positively! Truth Social",
+    "contentSnippet": "I have informed President Xi, of China, that the United States will allow NVIDIA to ship its H200 products to approved customers in China, and other Countries, under conditions that allow for continued strong National Security. President Xi responded positively! Truth Social",
+    "summaryZh": "基于标题/摘要生成：I have informed President Xi，of 中国，that the United States will allow NVIDIA to ship its H200 products to approved customers in 中国，and other Countries…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "ons that allow for continued strong National Security. President Xi responded positively! Truth Social I have informed President Xi, of China, that the United States will allow NVIDIA to ship"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_4kwty9",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "How Foreign Aid Benefits The American People And Bolsters National Security",
+    "chineseTitle": "How Foreign Aid Benefits The American People And Bolsters…",
+    "originalUrl": "https://nationalsecurityaction.org/how-foreign-aid-benefits-the-american-people-and-bolsters-national-security",
+    "publishedAt": "2025-06-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:20.196Z",
+    "rawDescription": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "contentSnippet": "公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters National Security",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：How Foreign Aid Benefits The American People And Bolsters 国家安全",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy",
+      "other_related"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_axbi8n",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+    "chineseTitle": "Leading 中国 Property Developer Reports Huge loss，in Sign o…",
+    "originalUrl": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+    "publishedAt": "2025-01-27T17:32:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.457Z",
+    "rawDescription": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "contentSnippet": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+    "summaryZh": "基于标题/摘要生成：Troubles at Vanke raise questions about the continued spread of the property crisis and whether the 中国 state will step in",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 5,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_3zp5n7",
+    "sourceName": "Wall Street Journal",
+    "sourceDomain": "wsj.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+    "chineseTitle": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies…",
+    "originalUrl": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+    "publishedAt": "2025-01-27T17:12:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.458Z",
+    "rawDescription": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "contentSnippet": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+    "summaryZh": "基于标题/摘要生成：Some of the women were held alone for extended periods and spent eight months in tunnels，an Israeli medical official said",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [],
+    "relatedOrganizationTags": [],
+    "relatedEntityTags": [
+      "Wall Street Journal"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "wall-street-journal https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_3vscac",
+    "sourceName": "Truth Social",
+    "sourceDomain": "truthsocial.com",
+    "providerName": "GoogleNewsRssProvider",
+    "originalTitle": "I have had many talks with China about the massive amounts of drugs, in particular Fentanyl, being sent into the United States – But to no avail. Representatives of China told me that they would institute their maximum penalty, that of death, for any drug dealer",
+    "chineseTitle": "I have had many talks with 中国 about the massive amounts o…",
+    "originalUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qTXJnQ0Exd1J0cUtmc3hocWUwSzFmcEFfWXlpWGJ0aWVTTE01clN5YVpDUVcydkJFZ09ZVlRNS2htY25HU0lJajhVQWdBQmlSaVllRzhBcUMwcXhhU3FGQlNOZVFZRlJTazNpZk9yNURZbjg?oc=5",
+    "publishedAt": "2024-11-26T00:13:43.000Z",
+    "fetchedAt": "2026-11-26T04:46:36.194Z",
+    "rawDescription": "I have had many talks with China about the massive amounts of drugs, in particular Fentanyl, being sent into the United States – But to no avail. Representatives of China told me that they would institute their maximum penalty, that of death, for any drug dealer Truth Social",
+    "contentSnippet": "I have had many talks with China about the massive amounts of drugs, in particular Fentanyl, being sent into the United States – But to no avail. Representatives of China told me that they would institute their maximum penalty, that of death, for any drug dealer Truth Social",
+    "summaryZh": "基于标题/摘要生成：I have had many talks with 中国 about the massive amounts of drugs，in particular Fentanyl，being sent into the United States – But to no avail. Represen…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations",
+      "china_tech_policy"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "truth-social",
+        "name": "Truth Social",
+        "type": "organization",
+        "matchedAlias": "Truth Social",
+        "confidence": "high",
+        "contextSnippet": "ld me that they would institute their maximum penalty, that of death, for any drug dealer Truth Social I have had many talks with China about the massive amounts of drugs, in particular Fentan"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Truth Social"
+    ],
+    "relatedEntityTags": [
+      "Truth Social"
+    ],
+    "providersSeen": [
+      "GoogleNewsRssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "site:truthsocial.com/@realDonaldTrump China"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_9b0wvn",
+    "sourceName": "National Security Action",
+    "sourceDomain": "nationalsecurityaction.org",
+    "providerName": "SitemapProvider",
+    "originalTitle": "American Public Opinion On Us China Policy",
+    "chineseTitle": "American Public Opinion On Us 中国 政策",
+    "originalUrl": "https://nationalsecurityaction.org/american-public-opinion-on-us-china-policy",
+    "publishedAt": "2024-07-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-26T04:46:20.195Z",
+    "rawDescription": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "contentSnippet": "公开 sitemap 条目：American Public Opinion On Us China Policy",
+    "summaryZh": "基于标题/摘要生成：公开 sitemap 条目：American Public Opinion On Us 中国 政策",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_china_relations"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "china-policy",
+        "name": "China policy",
+        "type": "issue",
+        "matchedAlias": "China policy",
+        "confidence": "high",
+        "contextSnippet": "American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Opinion On Us China Policy 公开 sitemap 条目：American Public Op"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "National Security Action"
+    ],
+    "relatedEntityTags": [
+      "China policy",
+      "National Security Action"
+    ],
+    "providersSeen": [
+      "SitemapProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "national-security-action https://nationalsecurityaction.org/sitemap.xml",
+      "national-security-action https://nationalsecurityaction.org/robots.txt"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": true
+  },
+  {
+    "id": "art_1nutzs",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill",
+    "chineseTitle": "Meet the woman steering Biden's bipartisan winning streak…",
+    "originalUrl": "https://www.cnn.com/2022/12/11/politics/louisa-terrell-legislative-director/index.html",
+    "publishedAt": "2022-12-11T16:16:48.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.357Z",
+    "rawDescription": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "contentSnippet": "The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divided Congresses in history. From bipartisan action on infrastructure, gun safety and same-sex marriage to party-line bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms.",
+    "summaryZh": "基于标题/摘要生成：The Biden administration managed to rack up a long list of major legislative wins in its first two years despite facing one of the most closely-divid…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china",
+      "china_tech_policy",
+      "key_figures"
+    ],
+    "peopleTags": [
+      "乔·拜登"
+    ],
+    "peopleMatches": [
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midt"
+      },
+      {
+        "personId": "joe-biden",
+        "nameEn": "Joe Biden",
+        "nameZh": "乔·拜登",
+        "team": "民主党重点人物",
+        "matchedAlias": "Biden",
+        "confidence": "low",
+        "contextSnippet": "Meet the woman steering Biden's bipartisan winning streak on Capitol Hill The Biden administration managed to rack up"
+      }
+    ],
+    "entityMatches": [
+      {
+        "entityId": "joe-biden",
+        "name": "Joe Biden",
+        "type": "person",
+        "matchedAlias": "Joe Biden",
+        "confidence": "high",
+        "contextSnippet": "bills tackling climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midte"
+      },
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "climate change and expanding health care coverage, it's a record President Joe Biden and Democrats on the ballot were all eager to tout on the campaign trail during the midterms. The Biden"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party"
+    ],
+    "relatedEntityTags": [
+      "Joe Biden",
+      "Democratic Party",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 4,
+    "chinaRelated": false
+  },
+  {
+    "id": "art_at8qj6",
+    "sourceName": "CNN Politics",
+    "sourceDomain": "cnn.com",
+    "providerName": "RssProvider",
+    "originalTitle": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter",
+    "chineseTitle": "How Kyrsten Sinema's decision makes 民主党人' 2024 参议院 map ti…",
+    "originalUrl": "https://www.cnn.com/2022/12/10/politics/kyrsten-sinema-independent-democrats/index.html",
+    "publishedAt": "2022-12-10T17:24:17.000Z",
+    "fetchedAt": "2026-11-26T04:46:17.356Z",
+    "rawDescription": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "contentSnippet": "Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with the party in the Senate, so the Democratic caucus still has 51 members. Now, instead of 49 Democrats and two independents within their ranks, the caucus has 48 Democrats and three independents.",
+    "summaryZh": "基于标题/摘要生成：Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday by becoming an independent. The former Democrat is still caucusing with…",
+    "summaryBasis": "基于标题/摘要生成",
+    "topicTags": [
+      "us_domestic",
+      "congress_china"
+    ],
+    "peopleTags": [],
+    "peopleMatches": [],
+    "entityMatches": [
+      {
+        "entityId": "democratic-party",
+        "name": "Democratic Party",
+        "type": "team",
+        "matchedAlias": "Democrats",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political wo"
+      },
+      {
+        "entityId": "congress",
+        "name": "Congress",
+        "type": "organization",
+        "matchedAlias": "Senate",
+        "confidence": "medium",
+        "contextSnippet": "How Kyrsten Sinema's decision makes Democrats' 2024 Senate map tighter Arizona Sen. Kyrsten Sinema decided to shake up the political world on Friday"
+      }
+    ],
+    "relatedOrganizationTags": [
+      "Democratic Party",
+      "Congress"
+    ],
+    "relatedEntityTags": [
+      "Democratic Party",
+      "Congress",
+      "CNN Politics"
+    ],
+    "providersSeen": [
+      "RssProvider"
+    ],
+    "discoveryLayers": [
+      "source"
+    ],
+    "matchedQueries": [
+      "cnn-politics http://rss.cnn.com/rss/cnn_allpolitics.rss"
+    ],
+    "importanceLevel": 3,
+    "chinaRelated": false
+  }
+]
